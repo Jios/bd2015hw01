@@ -1,0 +1,60 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 17428 invoked from network); 29 Jan 2014 15:54:24 -0000
+Received: (qmail 27488 invoked from network); 29 Jan 2014 15:54:23 -0000
+Received: from ojk-cas.domain (mail2.ojk.go.id [202.124.203.221])
+  by mx13.futurequest.net ([10.2.1.186])
+  with SMTP via TCP; 29 Jan 2014 15:54:23 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+  s=s1024;d=30w830ou.commandocenter.ru;
+  h=message-id:from:to:subject:date:mime-version:content-type;
+  bh=fizmrsE6HCQ7pwq02mDORyOPJ1Q=;
+  b=CZoNCJgl2jgbhK2fmmdRP1JEt61CGfxLEWJcKU+a6/MUT5jXVo/yQyt1Ov1QxhxHyt1ADAhFWhGnfLf7PQYZ9WHjvBc9jTm2jl0KBuOETVP9uLONc/ZHeq8znWH+c2e6lpX95x3f9KooZfGsPvcRBvTooVyofgBmMmd4yG+jX8E=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024;d=30w830ou.commandocenter.ru;
+  h=message-id:from:to:subject:date:mime-version:content-type;
+  b=ZuSVqCXPZOkmIlEw9/NVz8BuV3MID7eCQ0N1OuRLsNkuYscxo2Mhei05CEQ/pPP0leQKgw3voSiO73thhkhVYzwFYBvm6YiR5r98i3/oL59RJZL0Xspg8tVixJSd0pkGnETXVnfUbf1qdQhPMiECKfw/VrDlI0T6uHk1TUqywfI=
+Message-ID: <b3fb52a7741e7c8784fd707a1294b29c@30w830ou.commandocenter.ru>
+From: <bruce@30w830ou.commandocenter.ru>
+To: <bruce@untroubled.org>
+Subject: =?windows-1251?B?3fLuIO735e38IO/u6+Xn7e4=?=
+Date: Wed, 29 Jan 2014 22:53:51 +0700
+X-Priority: 3
+X-Mailer: The Bat!  (v3.0.1) RC7
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="4a777e2242d6026ffc730d2c0001b6a0"
+Content-Length: 1382
+
+This is a multi-part message in MIME format.
+
+--4a777e2242d6026ffc730d2c0001b6a0
+Content-Type: text/plain;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+=C4=EE=E1=F0=EE=E3=EE =E4=ED=FF =C2=E0=EC! =DF =E7=E0=ED=E8=EC=E0=FE=F1=FC =
+=F4=E8=ED=E0=ED=F1=E0=EC=E8, =D5=EE=F7=F3 =E4=E0=F2=FC =C2=E0=EC =
+=E0=E2=F2=EE=ED=EE=EC=ED=FB=E9 =EC=E5=F5=E0=ED=E8=E7=EC, =
+=EA=EE=F2=EE=F0=FB=E9 =E4=E5=EB=E0=E5=F2 =EF=F0=EE=F4=E8=F2! =CC=EE=E9 =
+=F4=EE=F0=F3=EC, =EF=F0=EE=F7=E8=F2=E0=E9=F2=E5 =EF=EE=E4=F0=EE=E1=ED=EE. =
+http://APTITUDEHEALTH.NET/bait/FBI/?W1RE20LE  =D3=F1=EF=E5=F5=EE=E2 =
+=E2=E0=EC! 
+
+--4a777e2242d6026ffc730d2c0001b6a0
+Content-Type: text/html;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><BODY><p id=3D"eomNY52i497m8YRI" class=3D"afyp8yj5s18">=D1 =
+=ED=EE=E2=FB=EC =E4=ED=E5=EC! =DF =F4=E8=ED=E0=ED=F1=E8=F1=F2, =
+=D5=EE=F7=F3 =F3=EA=E0=E7=E0=F2=FC =C2=E0=EC =
+=E0=E2=F2=EE=EC=E0=F2=E8=E7=E8=F0=EE=E2=E0=ED=ED=FB=E9 =
+=E0=EB=E3=EE=F0=E8=F2=EC, =EA=EE=F2=EE=F0=FB=E9 =F0=E0=E1=EE=F2=E0=E5=F2 =
+=ED=E0 =C2=E0=F1!  =D2=F3=F2 =E4=E5=F2=E0=EB=FC=ED=EE=E5 =
+=EE=EF=E8=F1=E0=ED=E8=E5, =EF=F0=EE=F7=E8=F2=E0=E9=F2=E5 =
+=EF=EE=E4=F0=EE=E1=ED=EE. =
+http://amirashop.net/battleground/Father/?VBH6LBOR  =D1 =
+=ED=E0=E8=EB=F3=F7=F8=E8=EC=E8 =EF=EE=E6=E5=EB=E0=ED=E8=FF=EC=E8! </p> =
+</BODY></HTML>
+
+--4a777e2242d6026ffc730d2c0001b6a0--

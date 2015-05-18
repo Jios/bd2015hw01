@@ -1,0 +1,450 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 6961 invoked from network); 14 Jan 2014 17:26:16 -0000
+Received: (qmail 10501 invoked from network); 14 Jan 2014 17:26:15 -0000
+Received: from mta108.loyaltycampaign.com (mta108.loyaltycampaign.com [84.247.1.108])
+  by mx03.futurequest.net ([10.2.1.174])
+  with ESMTP via TCP; 14 Jan 2014 17:26:15 -0000
+Received: by mta100.loyaltycampaign.com (Postfix, from userid 500)
+	id F00DEC03B6; Tue, 14 Jan 2014 19:26:11 +0200 (EET)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=loyaltycampaign.ro;
+	s=selector; t=1389720371;
+	bh=JpNqd1HIIwbwhmykV+M4VL2o5/0vnuv+mSugQoqRcbg=;
+	h=Date:To:From:Reply-to:Subject:Message-ID:Sender:List-Unsubscribe:
+	 MIME-Version:Content-Type;
+	b=obwV4mVQ67amcUZjm6K1MsDXijV5TwZ+EqSMV0s4AiSQLiv4Kyatsqz6JH+49zMG0
+	 Pf81KSXk7gxf9tMKqpFLiZiEA+ysNLWH4PDUYFPExrBEy0/oDNQMxKQDp3sUtCcRlE
+	 sLUWtnxk/ypD1bhst1AVmdXNT4WEjkncxz/E7pdg=
+DomainKey-Signature: a=rsa-sha1; s=selector1; d=loyaltycampaign.ro; c=nofws; q=dns;
+	b=YbOCjWE6GN8/Y4cIIFlkAwsEH8FEMIBdkWOp+ripE+9cioOc4Zm56wp5olxgM84c5
+	2wgY5gplBOf7kmdSIs5Bg==
+Date: Tue, 14 Jan 2014 19:26:11 +0200
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+From: Train Your Brain <office@trainyourbrain.ro>
+Reply-to: Train Your Brain <office@trainyourbrain.ro>
+Subject: Training Tehnici de negociere si vanzari, 23 ianuarie, Bucuresti
+Message-ID: <592c2812ecab5e58c2a5a357de208104@localhost.localdomain>
+X-Priority: 3
+Sender: <user-sv@loyaltycampaign.ro>
+X-Mailer: CampaignSender
+X-Complaints-To: abuse@loyaltycampaign.com
+List-Unsubscribe: <http://client.campaignsender.ro/u.php?p=2qi/rs/8gst/y5/2ja/rs>
+X-MessageID: 2qi-8gst-YnJ1Y2VAdW50cm91YmxlZC5vcmc%3D-y5-sv-rs
+X-Report-Abuse: <http://client.campaignsender.ro/report_abuse.php?mid=2qi-8gst-YnJ1Y2VAdW50cm91YmxlZC5vcmc%3D-y5-sv-rs>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_592c2812ecab5e58c2a5a357de208104"
+Content-Length: 31018
+
+
+--b1_592c2812ecab5e58c2a5a357de208104
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Versiune web ( http://www.trainyourbrain.ro/20140123_Traning_negociere_vanz=
+ari.html )=0A=0A( https://www.facebook.com/TrainYourBrainn )=0A=0A( http://=
+www.trainyourbrain.ro )=0A=0AEVENIMENTE ANTERIOARE=0A=0A05.12.2013=0A"Trani=
+ng Team Leader-Echipa" ( http://www.trainyourbrain.ro/20131205_Team_leader.=
+html )=0A=0A28.11.2013=0A"Tehnici de negociere si vanzari" ( http://www.tra=
+inyourbrain.ro/20131128_Traning_negociere_vanzari.html )=0A=0A15.11.2013=0A=
+"Training de time management si stabilirea obiectivelor" ( http://www.train=
+yourbrain.ro/20131115_Time_management_stabilirea_obiectivelor.html )=0A=0A1=
+4.11.2013=0A"Comunicare, manipulare, influentare" ( http://www.trainyourbra=
+in.ro/20131114_Comunicare_manipulare_influentare.html )=0A=0A31.10.2013=0AS=
+eminar "Evaluarea, motivarea, fidelizarea si procedurile de=0Alucru ale ang=
+ajatilor" ( http://www.trainyourbrain.ro/20131031_Evaluarea_motivarea_fidel=
+izarea_procedurile_lucru_angajatilor.html )=0A=0A24.10.2013=0A"Traning de L=
+eadeship Situational" ( http://www.trainyourbrain.ro/20131024_Training_lead=
+ership_situational.html )=0A=0A10.10.2013=0A"Traning specializat de negocie=
+re si vanzari" ( http://www.trainyourbrain.ro/20131010_negociere_vanzari.ht=
+ml )=0A=0A03.10.2013=0A"Traning Team Leader - echipa" ( http://www.trainyou=
+rbrain.ro/20131003_Team_leader.html )=0A=0A19.09.2013=0A"Traning de negocie=
+re si vanzari" ( http://www.trainyourbrain.ro/20130919_Tehnici_negociere_va=
+nzari.html )=0A=0A05.09.2013=0A"Traning de time management si stabilirea ob=
+iectivelor" ( http://www.trainyourbrain.ro/20130905_Training_time_managemen=
+t_stabilirea_obiectivelor.html )=0A=0A18.07.2013=0A"Traning de time managem=
+ent si stabilirea obiectivelor" ( http://www.trainyourbrain.ro/20130718_Tra=
+ining_time_management_stabilirea_obiectivelor.html )=0A=0ATraining "Tehnici=
+ de negociere si vanzari"=0A=0AEvenimentul se desfasoara la Hotel Capital P=
+laza****, B-dul=0AIancu de Hunedoara nr. 54, Bucuresti, in data de 23 ianua=
+rie=0A2014, intre orele 10.00 - 17.00, conform agendei prezentate mai=0Ajos=
+.=0A=0AAGENDA :=0A=0A10.00 Inregistrarea participantilor & welcome coffee=
+=0A=0A10.30 - 13.00 Valentin Hanga, Sales Senior trainer=0A1. Definirea pro=
+cesului de negociere dupa proiectul Harvard (=0AFisher)=0A2. Negocierea poz=
+itiilor, intereselor si a variabilelor=0A3. Schimbul de variabile - BATNA=
+=0A4. Procesul de vanzare in domeniul B2B=0A=0A13.00 - 14.00 Dejun=0A=0A14.=
+00 - 17.00 Valentin Hanga, Sales Senior trainer=0A5. Pregatirea ofertei pen=
+tru clientul cu tipologie diferita=0A6. Abordarea clientului in functie de =
+tipologia acestuia=0A7. Trick&tips in incheierea vanzarii=0A8. Clasificarea=
+ si depasirea obiectiilor ce apar in procesul de=0Avanzare=0A9. Dezvoltarea=
+ tehnicii adecvate pentru descoperirea nevoilor=0Aclientului=0A10. Schimbul=
+ de variabile, ca ultim pas al negocierii, utilizat=0Ala semnarea contractu=
+lui=0A=0ATaxa de participare : 400 lei plus TVA=0AReduceri acordate :=0A- 1=
+0% pentru una - trei persoane, inscriere si plata pana in data=0Ade 20 ianu=
+arie 2014 - 15% pentru patru sau mai multe persoane din=0Aaceeasi companie,=
+ inscriere si plata pana in data de 20 ianuarie=0A2014=0A=0APentru inscrier=
+e completati formularul de aici ( http://www.trainyourbrain.ro/20140123_Tra=
+ning_negociere_vanzari.html )=0Asau scrieti la office@trainyourbrain.ro (=
+=0Amailto:office@trainyourbrain.ro ) / 0726 824 784=0A=0A( http://www.capit=
+alplaza.ro/ )=0A=0A( http://www.traduceri-apostilari.ro/ )=0A=0A( http://ww=
+w.eurocom.ro )=0A=0A( http://www.fabricadeambalaje.ro )=0A=0AOferta este tr=
+imisa cu cea mai buna intentie, in cazul in care nu=0Aapreciati comunicarea=
+ va rugam sa ne comunicati acest lucru.=0AIn conformitate cu Legea nr. 365/=
+2002 privind comertul=0Aelectronic si Legea nr. 506/2004 privind prelucrare=
+a datelor cu=0Acaracter personal si protectia vietii private in sectorul=0A=
+comunicarilor electronice, acest mesaj nu poate fi considerat=0ASPAM deoare=
+ce:=0A(1) - acceptarea de primire a ofertei nu va implica financiar;=0A(2) =
+- contine toate datele noastre de identificare;=0A(3) - are scopul de a va =
+informa cu privire la produse sau=0Aservicii ce va pot aduce beneficii;=0A(=
+4) adresa dvs. de e-mail fie a fost obtinuta in mod direct ca=0Aurmare a un=
+or corespondente anterioare sau deoarece sunteti un=0Aclient/furnizor al co=
+mpaniei noastre sau a fost selectata dintr-o=0Abaza de date la care ati sub=
+scris; fie a fost facuta publica de=0Acatre dvs. fie prin afisari cu caract=
+er publicitar intr-un ghid=0Ade afaceri sau in cadrul unei intalniri de afa=
+ceri. Ne cerem=0Ascuze daca acest mesaj a ajuns din greseala la dvs. sau a=
+=0Aprovocat neplaceri.Pentru DEZABONARE accesati link-ul de mai jos=0A=0ADe=
+zabonare ( http://client.campaignsender.ro/u.php?p=3D2qi/rs/8gst/y5/2ja/rs =
+)=0A=0ATrain Your Brain=0ABucuresti=0A0723824784=0Aoffice@trainyourbrain.ro=
+ ( mailto:office@trainyourbrain.ro )
+
+--b1_592c2812ecab5e58c2a5a357de208104
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html>=0A<head><title>Traini=
+ng Tehnici de negociere si vanzari</title><meta http-equiv=3D"Content-Type"=
+ content=3D"text/html; charset=3Dutf-8"><meta name=3D"viewport" content=3D"=
+width=3D320, target-densitydpi=3Ddevice-dpi">=0A=0A</head>=0A=0A<body>=0A<s=
+tyle type=3D"text/css"><!--=0A/* Mobile-specific Styles */=0A@media only sc=
+reen and (max-width: 660px) { =0Atable[class=3Dw0], td[class=3Dw0] { width:=
+ 0 !important; }=0Atable[class=3Dw10], td[class=3Dw10], img[class=3Dw10] { =
+width:10px !important; }=0Atable[class=3Dw15], td[class=3Dw15], img[class=
+=3Dw15] { width:5px !important; }=0Atable[class=3Dw30], td[class=3Dw30], im=
+g[class=3Dw30] { width:10px !important; }=0Atable[class=3Dw60], td[class=3D=
+w60], img[class=3Dw60] { width:10px !important; }=0Atable[class=3Dw125], td=
+[class=3Dw125], img[class=3Dw125] { width:80px !important; }=0Atable[class=
+=3Dw130], td[class=3Dw130], img[class=3Dw130] { width:55px !important; }=0A=
+table[class=3Dw140], td[class=3Dw140], img[class=3Dw140] { width:90px !impo=
+rtant; }=0Atable[class=3Dw160], td[class=3Dw160], img[class=3Dw160] { width=
+:180px !important; }=0Atable[class=3Dw170], td[class=3Dw170], img[class=3Dw=
+170] { width:100px !important; }=0Atable[class=3Dw180], td[class=3Dw180], i=
+mg[class=3Dw180] { width:80px !important; }=0Atable[class=3Dw195], td[class=
+=3Dw195], img[class=3Dw195] { width:80px !important; }=0Atable[class=3Dw220=
+], td[class=3Dw220], img[class=3Dw220] { width:80px !important; }=0Atable[c=
+lass=3Dw240], td[class=3Dw240], img[class=3Dw240] { width:180px !important;=
+ }=0Atable[class=3Dw255], td[class=3Dw255], img[class=3Dw255] { width:185px=
+ !important; }=0Atable[class=3Dw275], td[class=3Dw275], img[class=3Dw275] {=
+ width:135px !important; }=0Atable[class=3Dw280], td[class=3Dw280], img[cla=
+ss=3Dw280] { width:135px !important; }=0Atable[class=3Dw300], td[class=3Dw3=
+00], img[class=3Dw300] { width:140px !important; }=0Atable[class=3Dw325], t=
+d[class=3Dw325], img[class=3Dw325] { width:95px !important; }=0Atable[class=
+=3Dw360], td[class=3Dw360], img[class=3Dw360] { width:140px !important; }=
+=0Atable[class=3Dw410], td[class=3Dw410], img[class=3Dw410] { width:180px !=
+important; }=0Atable[class=3Dw470], td[class=3Dw470], img[class=3Dw470] { w=
+idth:200px !important; }=0Atable[class=3Dw580], td[class=3Dw580], img[class=
+=3Dw580] { width:280px !important; }=0Atable[class=3Dw640], td[class=3Dw640=
+], img[class=3Dw640] { width:300px !important; }=0Atable[class*=3Dhide], td=
+[class*=3Dhide], img[class*=3Dhide], p[class*=3Dhide], span[class*=3Dhide] =
+{ display:none !important; }=0Atable[class=3Dh0], td[class=3Dh0] { height: =
+0 !important; }=0Ap[class=3Dfooter-content-left] { text-align: center !impo=
+rtant; }=0A#headline p { font-size: 30px !important; }=0A.article-content, =
+#left-sidebar{ -webkit-text-size-adjust: 90% !important; -ms-text-size-adju=
+st: 90% !important; }=0A.header-content, .footer-content-left {-webkit-text=
+-size-adjust: 80% !important; -ms-text-size-adjust: 80% !important;}=0Aimg =
+{ height: auto; line-height: 100%;}=0A } =0A/* Client-specific Styles */=0A=
+#outlook a { padding: 0; }=09/* Force Outlook to provide a "view in browser=
+" button. */=0Abody { width:640px !important; }=0A.ReadMsgBody { width: 100=
+%; }=0A.ExternalClass { width: 100%; display:block !important; } /* Force H=
+otmail to display emails at full width */=0A/* Reset Styles */=0A/* Add 100=
+px so mobile switch bar doesn't cover street address. */=0Abody { backgroun=
+d-color: #ececec; margin: 0; padding: 0; }=0Aimg { outline: none; text-deco=
+ration: none; display: block;}=0Abr, strong br, b br, em br, i br { line-he=
+ight:100%; }=0Ah1, h2, h3, h4, h5, h6 { line-height: 100% !important; -webk=
+it-font-smoothing: antialiased; }=0Ah1 a, h2 a, h3 a, h4 a, h5 a, h6 a { co=
+lor: blue !important; }=0Ah1 a:active, h2 a:active,  h3 a:active, h4 a:acti=
+ve, h5 a:active, h6 a:active {=09color: red !important; }=0A/* Preferably n=
+ot the same color as the normal header link color.  There is limited suppor=
+t for psuedo classes in email clients, this was added just for good measure=
+. */=0Ah1 a:visited, h2 a:visited,  h3 a:visited, h4 a:visited, h5 a:visite=
+d, h6 a:visited { color: purple !important; }=0A/* Preferably not the same =
+color as the normal header link color. There is limited support for psuedo =
+classes in email clients, this was added just for good measure. */  =0Atabl=
+e td, table tr { border-collapse: collapse; }=0A.yshortcuts, .yshortcuts a,=
+ .yshortcuts a:link,.yshortcuts a:visited, .yshortcuts a:hover, .yshortcuts=
+ a span {=0Acolor: black; text-decoration: none !important; border-bottom: =
+none !important; background: none !important;=0A}=09/* Body text color for =
+the New Yahoo.  This example sets the font of Yahoo's Shortcuts to black. *=
+/=0A/* This most probably won't work in all email clients. Don't include co=
+de blocks in email. */=0Acode {=0A  white-space: normal;=0A  word-break: br=
+eak-all;=0A}=0A#background-table { background-color: #ececec; }=0A/* Webkit=
+ Elements */=0A#top-bar { border-radius:6px 6px 0px 0px; -moz-border-radius=
+: 6px 6px 0px 0px; -webkit-border-radius:6px 6px 0px 0px; -webkit-font-smoo=
+thing: antialiased; background-color: #043948; color: #e7cba3; }=0A#top-bar=
+ a { font-weight: bold; color: #e7cba3; text-decoration: none;}=0A#footer {=
+ border-radius:0px 0px 6px 6px; -moz-border-radius: 0px 0px 6px 6px; -webki=
+t-border-radius:0px 0px 6px 6px; -webkit-font-smoothing: antialiased; }=0A/=
+* Fonts and Content */=0Abody, td { font-family: 'Helvetica Neue', Arial, H=
+elvetica, Geneva, sans-serif; }=0A.header-content, .footer-content-left, .f=
+ooter-content-right { -webkit-text-size-adjust: none; -ms-text-size-adjust:=
+ none; }=0A/* Prevent Webkit and Windows Mobile platforms from changing def=
+ault font sizes on header and footer. */=0A.header-content { font-size: 12p=
+x; color: #e7cba3; }=0A.header-content a { font-weight: bold; color: #e7cba=
+3; text-decoration: none; }=0A#headline p { color: #e7cba3; font-family: 'H=
+elvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 36px; text=
+-align: center; margin-top:0px; margin-bottom:30px; }=0A#headline p a { col=
+or: #e7cba3; text-decoration: none; }=0A#left-sidebar .toc-item { font-fami=
+ly: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 12px=
+; line-height: 16px; color: #00707b; margin-top: 0px; margin-bottom: 6px; }=
+=0A#left-sidebar .toc-item a { color: #00707b; text-decoration: none; }=0A#=
+left-sidebar .toc-heading { font-family: 'Helvetica Neue', Arial, Helvetica=
+, Geneva, sans-serif; font-size: 11px; line-height: 15px; color:#9a9661; fo=
+nt-weight:bold; }=0A#left-sidebar .toc-heading a { color: #9a9661; text-dec=
+oration: none; }=0A#left-sidebar .left-column-heading { font-family: 'Helve=
+tica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 11px; line-hei=
+ght:15px; color: #9a9661; font-weight:bold; }=0A#left-sidebar .left-column-=
+heading a { color: #9a9661; text-decoration:none; }=0A#left-sidebar .left-c=
+olumn-subhead { font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sa=
+ns-serif; font-size: 13px; line-height: 16px; color: #999999; font-weight: =
+bold; margin-top: 0px; margin-bottom: 16px; }=0A#left-sidebar .left-column-=
+subhead a { color: #999999; text-decoration:none; }=0A#left-sidebar .left-c=
+olumn-content { font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sa=
+ns-serif; font-size: 11px; line-height: 10px; color: #9a9661; margin-top: 0=
+px; margin-bottom: 16px; }=0A#left-sidebar .left-column-content a { color: =
+#00707b; text-decoration: none; }=0A.article-title { font-size: 18px; line-=
+height:24px; color: #9a9661; font-weight:bold; margin-top:0px; margin-botto=
+m:18px; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif=
+; }=0A.article-title a { color: #9a9661; text-decoration: none; }=0A.articl=
+e-title.with-meta {margin-bottom: 0;}=0A.article-meta { font-size: 13px; li=
+ne-height: 20px; color: #ccc; font-weight: bold; margin-top: 0;}=0A.article=
+-content { font-size: 13px; line-height: 18px; color: #444444; margin-top: =
+0px; margin-bottom: 18px; font-family: 'Helvetica Neue', Arial, Helvetica, =
+Geneva, sans-serif; }=0A.article-content a { color: #00707b; font-weight:bo=
+ld; text-decoration:none; }=0A.article-content img { max-width: 100% }=0A.a=
+rticle-content ol, .article-content ul { margin-top:0px; margin-bottom:18px=
+; margin-left:19px; padding:0; }=0A.article-content li { font-size: 13px; l=
+ine-height: 18px; color: #444444; }=0A.article-content li a { color: #00707=
+b; text-decoration:underline; }=0A.article-content p {margin-bottom: 15px;}=
+=0A.footer-content-left { font-size: 12px; line-height: 15px; color: #e2e2e=
+2; margin-top: 0px; margin-bottom: 15px; }=0A.footer-content-left a { color=
+: #e7cba3; font-weight: bold; text-decoration: none; }=0A.footer-content-ri=
+ght { font-size: 11px; line-height: 16px; color: #e2e2e2; margin-top: 160px=
+; margin-bottom: 5px; }=0A.footer-content-right a { color: #e7cba3; font-we=
+ight: bold; text-decoration: none; }=0A#footer { background-color: #043948;=
+ color: #e2e2e2; }=0A#footer a { color: #e7cba3; text-decoration: none; fon=
+t-weight: bold; }=0A#permission-reminder { font-size: 9px; white-space: nor=
+mal; }=0A#street-address {font-size: 12px; color: #e7cba3; white-space: nor=
+mal; }=0A--></style>=0A<div align=3D"center">=0A<table style=3D"width: 640p=
+x;" id=3D"background-table" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+">=0A<tbody>=0A<tr>=0A<td align=3D"center" bgcolor=3D"#ececec">=0A<table cl=
+ass=3D"w640" style=3D"margin: 0px 10px; width: 640px;" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td class=3D"w640" width=
+=3D"640" height=3D"20"></td>=0A</tr>=0A<tr>=0A<td class=3D"w640" width=3D"6=
+40">=0A<table style=3D"width: 640px;" id=3D"top-bar" class=3D"w640" bgcolor=
+=3D"#00707b" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A=
+<tr>=0A<td class=3D"w15" width=3D"15"></td>=0A<td class=3D"w325" align=3D"l=
+eft" valign=3D"middle" width=3D"350">=0A<table style=3D"width: 350px;" clas=
+s=3D"w325" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<t=
+r>=0A<td class=3D"w325" width=3D"350" height=3D"8"></td>=0A</tr>=0A</tbody>=
+=0A</table>=0A<div class=3D"header-content"><a href=3D"http://client.campai=
+gnsender.ro/tl.php?p=3D2qi/2ja/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyourbra=
+in.ro%2F20140123_Traning_negociere_vanzari.html" target=3D"_new">Versiune w=
+eb</a></div>=0A<table style=3D"width: 350px;" class=3D"w325" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td class=3D"w325" w=
+idth=3D"350" height=3D"8"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A<td=
+ class=3D"w30" width=3D"30"></td>=0A<td class=3D"w255" align=3D"right" vali=
+gn=3D"middle" width=3D"255">=0A<table style=3D"width: 255px;" class=3D"w255=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td =
+class=3D"w255" width=3D"255" height=3D"8"></td>=0A</tr>=0A</tbody>=0A</tabl=
+e>=0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<=
+tr>=0A<td valign=3D"middle">=0A<div class=3D"header-content"><a href=3D"htt=
+p://client.campaignsender.ro/tl.php?p=3D2qi/2ja/rs/8gst/y5/rs//https%3A%2F%=
+2Fwww.facebook.com%2FTrainYourBrainn" target=3D"_new"><img src=3D"http://ww=
+w.trainyourbrain.ro/parteneri/facebook.jpg" div=3D"" width=3D"25" height=3D=
+"25" /></a></div>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"w=
+idth: 255px;" class=3D"w255" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">=0A<tbody>=0A<tr>=0A<td class=3D"w255" width=3D"255" height=3D"8"></td>=
+=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A<td class=3D"w15" width=3D"15"></t=
+d>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A<tr>=0A<td id=3D"header"=
+ class=3D"w640" align=3D"center" bgcolor=3D"#00707b" width=3D"640">=0A<div =
+style=3D"text-align: center;" align=3D"center"><a href=3D"http://client.cam=
+paignsender.ro/tl.php?p=3D2qi/2ja/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyour=
+brain.ro" target=3D"_new"> <img src=3D"http://www.trainyourbrain.ro/partene=
+ri/banner.jpg" width=3D"640" height=3D"65" /> </a></div>=0A</td>=0A</tr>=0A=
+<tr id=3D"twocolumn-content-row">=0A<td class=3D"w640" width=3D"640">=0A<ta=
+ble style=3D"width: 640px;" class=3D"w640" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td class=3D"w15" bgcolor=3D"#e2e2e2" =
+width=3D"15"></td>=0A<td id=3D"left-sidebar" class=3D"w140" align=3D"left" =
+bgcolor=3D"#e2e2e2" valign=3D"top" width=3D"140">=0A<table style=3D"width: =
+140px;" class=3D"w140" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A=
+<tbody>=0A<tr>=0A<td class=3D"w140" width=3D"140" height=3D"15"></td>=0A</t=
+r>=0A<tr>=0A<td class=3D"w140" width=3D"140">=0A<div class=3D"left-column-h=
+eading" align=3D"left"><span>EVENIMENTE ANTERIOARE</span> <br /><br /></div=
+>=0A<div class=3D"left-column-content" align=3D"left"><span><a href=3D"http=
+://client.campaignsender.ro/tl.php?p=3D2qi/2ja/rs/8gst/y5/rs//http%3A%2F%2F=
+www.trainyourbrain.ro%2F20131205_Team_leader.html" target=3D"_new">05.12.20=
+13<br />"Traning Team Leader-Echipa"</a><br /> <br /><span><a href=3D"http:=
+//client.campaignsender.ro/tl.php?p=3D2qi/2ja/rs/8gst/y5/rs//http%3A%2F%2Fw=
+ww.trainyourbrain.ro%2F20131128_Traning_negociere_vanzari.html" target=3D"_=
+new">28.11.2013<br />"Tehnici de negociere si vanzari"</a><br /> <br /><spa=
+n><a href=3D"http://client.campaignsender.ro/tl.php?p=3D2qi/2ja/rs/8gst/y5/=
+rs//http%3A%2F%2Fwww.trainyourbrain.ro%2F20131115_Time_management_stabilire=
+a_obiectivelor.html" target=3D"_new">15.11.2013<br />"Training de time mana=
+gement si stabilirea obiectivelor"</a><br /> <br /><span><a href=3D"http://=
+client.campaignsender.ro/tl.php?p=3D2qi/2ja/rs/8gst/y5/rs//http%3A%2F%2Fwww=
+.trainyourbrain.ro%2F20131114_Comunicare_manipulare_influentare.html" targe=
+t=3D"_new">14.11.2013<br />"Comunicare, manipulare, influentare"</a><br /> =
+<br /><span><a href=3D"http://client.campaignsender.ro/tl.php?p=3D2qi/2ja/r=
+s/8gst/y5/rs//http%3A%2F%2Fwww.trainyourbrain.ro%2F20131031_Evaluarea_motiv=
+area_fidelizarea_procedurile_lucru_angajatilor.html" target=3D"_new">31.10.=
+2013<br /> Seminar "Evaluarea, motivarea, fidelizarea si procedurile de luc=
+ru ale angajatilor"</a><br /> <br /><span><a href=3D"http://client.campaign=
+sender.ro/tl.php?p=3D2qi/2ja/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyourbrain=
+.ro%2F20131024_Training_leadership_situational.html" target=3D"_new">24.10.=
+2013<br /> "Traning de Leadeship Situational"</a><br /> <br /><span><a href=
+=3D"http://client.campaignsender.ro/tl.php?p=3D2qi/2ja/rs/8gst/y5/rs//http%=
+3A%2F%2Fwww.trainyourbrain.ro%2F20131010_negociere_vanzari.html" target=3D"=
+_new">10.10.2013<br /> "Traning specializat de negociere si vanzari"</a><br=
+ /> <br /><span><a href=3D"http://client.campaignsender.ro/tl.php?p=3D2qi/2=
+ja/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyourbrain.ro%2F20131003_Team_leader=
+.html" target=3D"_new">03.10.2013<br />"Traning Team Leader - echipa"</a><b=
+r /> <br /><span><a href=3D"http://client.campaignsender.ro/tl.php?p=3D2qi/=
+2ja/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyourbrain.ro%2F20130919_Tehnici_ne=
+gociere_vanzari.html" target=3D"_new">19.09.2013<br /> "Traning de negocier=
+e si vanzari"</a><br /> <br /><span><a href=3D"http://client.campaignsender=
+.ro/tl.php?p=3D2qi/2ja/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyourbrain.ro%2F=
+20130905_Training_time_management_stabilirea_obiectivelor.html" target=3D"_=
+new">05.09.2013<br /> "Traning de time management si stabilirea obiectivelo=
+r"</a><br /> <br /><span><a href=3D"http://client.campaignsender.ro/tl.php?=
+p=3D2qi/2ja/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyourbrain.ro%2F20130718_Tr=
+aining_time_management_stabilirea_obiectivelor.html" target=3D"_new">18.07.=
+2013<br /> "Traning de time management si stabilirea obiectivelor"</a><br /=
+> <br /></span> <br /></span></span></span></span></span></span></span></sp=
+an></span></span></div>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A<td=
+ class=3D"w15" bgcolor=3D"#e2e2e2" width=3D"15"></td>=0A<td class=3D"w470" =
+bgcolor=3D"#ffffff" valign=3D"top" width=3D"470">=0A<table style=3D"width: =
+470px;" class=3D"w470" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A=
+<tbody>=0A<tr>=0A<td class=3D"w470" width=3D"470" height=3D"30"></td>=0A</t=
+r>=0A</tbody>=0A</table>=0A<table style=3D"width: 470px;" class=3D"w470" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td clas=
+s=3D"w30" width=3D"30"></td>=0A<td class=3D"w410" width=3D"410">=0A<table s=
+tyle=3D"width: 410px;" class=3D"w410" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0">=0A<tbody>=0A<tr>=0A<td class=3D"w410" width=3D"410">=0A<p clas=
+s=3D"article-title" align=3D"center"><span>Training "Tehnici de negociere s=
+i vanzari"</span></p>=0A<div align=3D"center"><span style=3D"font-weight: b=
+old; color: #9a9661; font-size: 14px;"></span><br />=0A<div align=3D"center=
+"><span style=3D"font-weight: bold; color: #9a9661; font-size: 14px;"></spa=
+n>=0A<div class=3D"article-content" align=3D"left"><span> <span style=3D"fo=
+nt-weight: bold;">Evenimentul se desfasoara la Hotel Capital Plaza****, B-d=
+ul Iancu de Hunedoara nr. 54, Bucuresti, in data de 23 ianuarie 2014, intre=
+ orele 10.00 - 17.00, conform agendei prezentate mai jos.<br /></span><br /=
+> <span style=3D"font-weight: bold;">AGENDA :</span><br /><br /> <span styl=
+e=3D"font-weight: bold;">10.00 Inregistrarea participantilor &amp; welcome =
+coffee</span><br /> <br /><span style=3D"font-weight: bold;">10.30 - 13.00 =
+Valentin Hanga, Sales Senior trainer</span> <span style=3D"font-weight: bol=
+d;"><br /> </span><span style=3D"font-weight: normal;">1. Definirea procesu=
+lui de negociere dupa proiectul Harvard ( Fisher)</span><br /><span style=
+=3D"font-weight: normal;">2. Negocierea pozitiilor, intereselor si a variab=
+ilelor</span><br /><span style=3D"font-weight: normal;">3. Schimbul de vari=
+abile - BATNA</span><br /><span style=3D"font-weight: normal;">4. Procesul =
+de vanzare in domeniul B2B</span><br /><span style=3D"font-weight: bold;"><=
+br />13.00 - 14.00 Dejun </span><br /><br /> <span style=3D"font-weight: bo=
+ld;">14.00 - 17.00 Valentin Hanga, Sales Senior trainer</span> <span style=
+=3D"font-weight: bold;"><br /> </span><span style=3D"font-weight: normal;">=
+5. Pregatirea ofertei pentru clientul cu tipologie diferita</span><br /><sp=
+an style=3D"font-weight: normal;">6. Abordarea clientului in functie de tip=
+ologia acestuia </span><br /><span style=3D"font-weight: normal;">7. Trick&=
+amp;tips in incheierea vanzarii</span><br /><span style=3D"font-weight: nor=
+mal;">8. Clasificarea si depasirea obiectiilor ce apar in procesul de vanza=
+re</span><br /><span style=3D"font-weight: normal;">9. Dezvoltarea tehnicii=
+ adecvate pentru descoperirea nevoilor clientului</span><br /><span style=
+=3D"font-weight: normal;">10. Schimbul de variabile, ca ultim pas al negoci=
+erii, utilizat la semnarea contractului</span><br /><br /><span style=3D"fo=
+nt-weight: normal;"><br />Taxa de participare : 400 lei plus TVA</span><br =
+/><span style=3D"font-weight: normal;">Reduceri acordate :</span><br /> <sp=
+an style=3D"font-weight: normal;">- 10% pentru una - trei persoane, inscrie=
+re si</span> <span style=3D"font-weight: normal;">plata pana in data de 20 =
+ianuarie 2014</span> <span style=3D"font-weight: normal;">- 15% pentru patr=
+u sau mai multe persoane din </span> <span style=3D"font-weight: normal;">a=
+ceeasi companie, inscriere si plata</span> <span style=3D"font-weight: norm=
+al;">pana in data de 20 ianuarie 2014<br /></span><br /> <span style=3D"fon=
+t-weight: normal;">Pentru inscriere completati formularul de </span><span><=
+a href=3D"http://client.campaignsender.ro/tl.php?p=3D2qi/2ja/rs/8gst/y5/rs/=
+/http%3A%2F%2Fwww.trainyourbrain.ro%2F20140123_Traning_negociere_vanzari.ht=
+ml" target=3D"_new">aici</a><br /><span style=3D"font-weight: normal;">sau =
+scrieti la </span><span><a href=3D"mailto:office@trainyourbrain.ro">office@=
+trainyourbrain.ro</a></span><span> / 0726 824 784 <br /><br /><br /><br /><=
+/span></span><br /> </span></div>=0A</div>=0A</div>=0A</td>=0A</tr>=0A</tbo=
+dy>=0A</table>=0A<table style=3D"margin-top: 10px; margin-left: 0px;" align=
+=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr=
+>=0A<td class=3D"w410" width=3D"610">=0A<table align=3D"left" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td><a href=3D"http=
+://client.campaignsender.ro/tl.php?p=3D2qi/2ja/rs/8gst/y5/rs//http%3A%2F%2F=
+www.capitalplaza.ro%2F" target=3D"_new"><img src=3D"http://www.trainyourbra=
+in.ro/parteneri/capitalplaza.jpg" td=3D"" width=3D"72" height=3D"41" /> </a=
+></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"margin-top: 10px; ma=
+rgin-left: 30px;" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0">=0A<tbody>=0A<tr>=0A<td><a href=3D"http://client.campaignsender.ro/t=
+l.php?p=3D2qi/2ja/rs/8gst/y5/rs//http%3A%2F%2Fwww.traduceri-apostilari.ro%2=
+F" target=3D"_new"><img src=3D"http://www.trainyourbrain.ro/parteneri/iatom=
+.jpg" td=3D"" width=3D"68" height=3D"32" /> </a></td>=0A</tr>=0A</tbody>=0A=
+</table>=0A<table style=3D"margin-top: 10px; margin-left: 40px;" align=3D"l=
+eft" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<=
+td><a href=3D"http://client.campaignsender.ro/tl.php?p=3D2qi/2ja/rs/8gst/y5=
+/rs//http%3A%2F%2Fwww.eurocom.ro" target=3D"_new"><img src=3D"http://www.tr=
+ainyourbrain.ro/parteneri/eurocom.jpg" td=3D"" width=3D"49" height=3D"41" /=
+> </a></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"margin-top: 10p=
+x; margin-left: 50px;" align=3D"right" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0">=0A<tbody>=0A<tr>=0A<td><a href=3D"http://client.campaignsende=
+r.ro/tl.php?p=3D2qi/2ja/rs/8gst/y5/rs//http%3A%2F%2Fwww.fabricadeambalaje.r=
+o" target=3D"_new"><img src=3D"http://www.trainyourbrain.ro/parteneri/exoni=
+a.jpg" td=3D"" width=3D"75" height=3D"22" /> </a></td>=0A</tr>=0A</tbody>=
+=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A<td class=3D"w3=
+0" width=3D"30"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbo=
+dy>=0A</table>=0A</td>=0A</tr>=0A<tr>=0A<td class=3D"w640" width=3D"640">=
+=0A<table style=3D"width: 640px;" class=3D"w640" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td class=3D"w170" bgcolor=3D"=
+#e2e2e2" width=3D"170" height=3D"15"></td>=0A<td class=3D"w470" bgcolor=3D"=
+#ffffff" width=3D"470" height=3D"15"></td>=0A</tr>=0A</tbody>=0A</table>=0A=
+</td>=0A</tr>=0A<tr>=0A<td class=3D"w640" width=3D"640">=0A<table style=3D"=
+width: 640px;" id=3D"footer" class=3D"w640" bgcolor=3D"#043948" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td class=3D"w30"=
+ width=3D"30"></td>=0A<td class=3D"w580 h0" width=3D"360" height=3D"30"></t=
+d>=0A<td class=3D"w0" width=3D"60"></td>=0A<td class=3D"w0" width=3D"160"><=
+/td>=0A<td class=3D"w30" width=3D"30"></td>=0A</tr>=0A<tr>=0A<td class=3D"w=
+30" width=3D"30"></td>=0A<td class=3D"w580" valign=3D"top" width=3D"960">=
+=0A<p id=3D"permission-reminder" class=3D"footer-content-left" align=3D"lef=
+t"><span>Oferta este trimisa cu cea mai buna intentie, in cazul in care nu =
+apreciati comunicarea va rugam sa ne comunicati acest lucru.</span><br /> <=
+span> In conformitate cu Legea nr. 365/2002 privind comertul electronic si =
+Legea nr. 506/2004 privind prelucrarea datelor cu caracter personal si prot=
+ectia vietii private in sectorul comunicarilor electronice, acest mesaj nu =
+poate fi considerat SPAM deoarece: </span><br /> <span> (1) - acceptarea de=
+ primire a ofertei nu va implica financiar; </span><br /> <span> (2) - cont=
+ine toate datele noastre de identificare;</span><br /> <span> (3) - are sco=
+pul de a va informa cu privire la produse sau servicii ce va pot aduce bene=
+ficii; </span><br /> <span> (4) adresa dvs. de e-mail fie a fost obtinuta i=
+n mod direct ca urmare a unor corespondente anterioare sau deoarece sunteti=
+ un client/furnizor al companiei noastre sau a fost selectata dintr-o baza =
+de date la care ati subscris; fie a fost facuta publica de catre dvs. fie p=
+rin afisari cu caracter publicitar intr-un ghid de afaceri sau in cadrul un=
+ei intalniri de afaceri. Ne cerem scuze daca acest mesaj a ajuns din gresea=
+la la dvs. sau a provocat neplaceri.Pentru DEZABONARE accesati link-ul de m=
+ai jos</span><br /> <span></span></p>=0A<p class=3D"footer-content-left" al=
+ign=3D"left"><span><a href=3D"http://client.campaignsender.ro/u.php?p=3D2qi=
+/rs/8gst/y5/2ja/rs" target=3D"_blank"><u></u>Dezabonare<u></u></a></span></=
+p>=0A</td>=0A<td class=3D"hide w0" width=3D"60"></td>=0A<td class=3D"hide w=
+0" valign=3D"top" width=3D"160">=0A<p id=3D"street-address" class=3D"footer=
+-content-right" align=3D"right"><span>Train Your Brain</span><br /> <span>B=
+ucuresti</span><br /> <span>0723824784</span><br /> <span><a href=3D"mailto=
+:office@trainyourbrain.ro">office@trainyourbrain.ro</a></span></p>=0A</td>=
+=0A<td class=3D"w30" width=3D"30"></td>=0A</tr>=0A<tr>=0A<td class=3D"w30" =
+width=3D"30"></td>=0A<td class=3D"w580 h0" width=3D"360" height=3D"15"></td=
+>=0A<td class=3D"w0" width=3D"60"></td>=0A<td class=3D"w0" width=3D"160"></=
+td>=0A<td class=3D"w30" width=3D"30"></td>=0A</tr>=0A</tbody>=0A</table>=0A=
+</td>=0A</tr>=0A<tr>=0A<td class=3D"w640" width=3D"640" height=3D"60"></td>=
+=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</di=
+v>=0A=0A<img src=3D"http://client.campaignsender.ro/to.php?p=3D2qi/2ja/rs/8=
+gst/y5/rs" width=3D"5" height=3D"2" alt=3D".">=0A=0A</body></html>
+
+
+--b1_592c2812ecab5e58c2a5a357de208104--

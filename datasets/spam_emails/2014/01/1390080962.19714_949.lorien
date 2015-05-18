@@ -1,0 +1,81 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 7093 invoked from network); 18 Jan 2014 11:06:20 -0000
+Received: (qmail 18213 invoked from network); 18 Jan 2014 11:06:20 -0000
+Received: from nm9-vm0.bullet.mail.ird.yahoo.com (nm9-vm0.bullet.mail.ird.yahoo.com [77.238.189.197])
+  by mx01.futurequest.net ([10.2.1.171])
+  with ESMTP via TCP; 18 Jan 2014 11:06:20 -0000
+Received: from [77.238.189.56] by nm9.bullet.mail.ird.yahoo.com with NNFMP; 18 Jan 2014 11:06:18 -0000
+Received: from [212.82.98.122] by tm9.bullet.mail.ird.yahoo.com with NNFMP; 18 Jan 2014 11:06:18 -0000
+Received: from [127.0.0.1] by omp1059.mail.ir2.yahoo.com with NNFMP; 18 Jan 2014 11:06:18 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 582475.66138.bm@omp1059.mail.ir2.yahoo.com
+Received: (qmail 27500 invoked by uid 60001); 18 Jan 2014 11:06:18 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.fr; s=s1024; t=1390043178; bh=wVyjV80uVJi3PxULJE3emllit2hA+Z2mOo0sYmpVwGc=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-RocketYMMF:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding; b=qwYjMgHqC28/fIFraNud05an4CoiXRitrKQtHU4HMu9Vg53B2FKJqnMIphBnP5HDypfb3POlJJZE3PW7RreiKduRuAHhxuc9v6hbGsENDt4xivVc9Ndfno8soMeuQa/zI5vQMi1JCv/VrxPZ7wA79jaUPgHcExWE6guzDr1uGWo=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.fr;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-RocketYMMF:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=vlqP8cFGM95VqK6LOhm4OlU3qKUQXLxS9G/NZqIruZW+sLsNoknOZphGTddymD34qKMYe0AZ6s/AJ0q3RRDoDgtaH+jgwCrAXPU1WDeNNsWM5H7IfE45ve4TrhG+1yDISTCO48WvBCjU8RN5RzoKrjcR74yyXs1KREoE6UMm9Mg=;
+X-YMail-OSG: 27jj37sVM1lOXgmMzRlGV2zHG6qkG2qmxT347rhzuhDrTYF
+ CgIGRhq5IaF8mzitrzNk.AyhtX_Jh0bh3SSZsvOnRKHcIp2ZnDVFRwMuvLYl
+ rHAdyK4QPhlEhVoHHkCAztnDBZm.An3IFH_mcpeuFTbwqxFvtxwTHI4.5yya
+ po0nF2gOcNcyVlsYjPLqeBYVIGYkXdgVTr8eBe8xhIEuK.gQBTIlj2FeQznI
+ tzEgtoHpCZmnqKQPwUuNXKrkTa7w33SK9e_hgR1HL7gzr.mDC4QhwhEOQAOm
+ 9G_.acBuedLXhjPecLMiYTwBwrj4LNRYyrVUT91s6lwTAMzRN0Unr3t4tDEu
+ .3knNJwyUg0sPufiwGNVnOTawx.Wwvkyezq2F51azhbK4NoTdPYEKmgJIjhQ
+ gTW2n04rSfu6EfZfUZQd3NfMAZR6UEZYLtUp.lXKfRkXNlpKI9KmHKABTdMk
+ RAuLKSRs7fO4PrHDl5qaa_6GgIiKPcYQny2y6yG9zTgnmvpE1.VdNY7YFpRK
+ RY.g4AxChtoIu2o0vcxMGfMUIPDjhKTIEEZrw.xGkIUDN4iYg1urrxtmX1VU
+ kZd.Cds.ZqNNVKw7eILfz50sdnqPj56yX6f1dSbm6qp3LVwr9Rr2WvDPXpd_
+ 66tF_AG2BIEPCGOORgxOrnzMPvZBBo30n3qZI1tSghkGaC3KPMyEe7_sCwLF
+ kUe.4I58TxTqKcs_0hkHU5VXXYk8W
+Received: from [41.138.102.127] by web133004.mail.ir2.yahoo.com via HTTP; Sat, 18 Jan 2014 11:06:18 GMT
+X-Rocket-MIMEInfo: 002.001,DQpEZWFyIGZyaWVuZCwNCiANCg0KSSBrbm93IHRoYXQgdGhpcyBtZXNzYWdlIHdpbGwgY29tZSB0byB5b3UgYXMgYSBzdXJwcmlzZS4gSSBhbSBEci5BYnUgU2FsYW0gZnJvbSBCdXJraW5hIEZhc28gdGhlIEFjY291bnRpbmcgYW5kIEF1ZGl0aW5nIE1hbmFnZXIgYmFuayBvZiBBZnJpY2EgKEIuTy5BKSwgT3VhZ2Fkb3Vnb3UNCiANCg0KSSBob3BlZCB0aGF0IHlvdSB3aWxsIG5vdCBleHBvc2Ugb3IgYmV0cmF5IHRoaXMgdHJ1c3QgYW5kIGNvbmZpZGVudCB0aGF0IEkgYW0gYWJvdXQgdG8gcmVwb3NlIG9uIHkBMAEBAQE-
+X-RocketYMMF: sbassir2006
+X-Mailer: YahooMailClassic/390 YahooMailWebService/0.8.173.622
+Message-ID: <1390043178.27203.YahooMailBasic@web133004.mail.ir2.yahoo.com>
+Date: Sat, 18 Jan 2014 11:06:18 +0000 (GMT)
+From: salam <abusalam228@gmail.com>
+Reply-To: abusalam228@gmail.com
+Subject: URGENT URGENT
+To: undisclosed recipients: ;
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Dear friend,
+=20
+
+I know that this message will come to you as a surprise. I am Dr.Abu Salam =
+from Burkina Faso the Accounting and Auditing Manager bank of Africa (B.O.A=
+), Ouagadougou
+=20
+
+I hoped that you will not expose or betray this trust and confident that I =
+am about to repose on you for the mutual benefit of our families. I need yo=
+ur urgent assistance in transferring the sum of (usd$10.5m) million to your=
+ account within 10 to 14 banking days. This money has been dormant for year=
+s in our bank without claim. I want the bank to release the money to you as=
+ the nearest person to our deceased customer (the owner of the account) die=
+d along with his supposed next of kin in an air crash since July, 2007.
+=20
+
+
+I don't want the money to go into our bank treasurer account as an abandone=
+d fund. So this is the reason why I contacted you so that the bank can rele=
+ase the money to you as the next of kin to the deceased customer. Please I =
+would like you to keep this proposal as a top secret and delete it if you a=
+re not upon receipt of your reply, I will give you full details on how the =
+business will be executed and also note that you will have 35% of the above=
+ mentioned sum if you agree to handle this business with me? And 10% will b=
+e set aside for any expenses that warrant on the process before the fund ge=
+t into your bank account such as telephone calls bills (etc).
+=20
+
+
+Finally send your photo or your international passports for more identifica=
+tion.
+=20
+
+Best Regards,
+Dr.Abu Salam

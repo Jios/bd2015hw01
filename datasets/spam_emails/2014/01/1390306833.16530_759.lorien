@@ -1,0 +1,79 @@
+Delivered-To: unknown
+Received: from pop.shaw.ca (64.59.128.135:110) by ivanova with POP3; 21 Jan
+  2014 11:30:03 -0000
+Received: from cds062.dcs.int.inet (LHLO cds062.dcs.int.inet) (10.0.145.71)
+ by cds062.dcs.int.inet with LMTP; Mon, 20 Jan 2014 16:44:36 -0700 (MST)
+Received: from pd3mr1so-ssvc.prod.shaw.ca (pd3mr1so-ssvc.prod.shaw.ca [10.0.141.177])
+	by cds062.dcs.int.inet (Postfix) with ESMTP id D28EDCC04A
+	for <bruce.guenter@shaw.ca>; Mon, 20 Jan 2014 16:44:36 -0700 (MST)
+X-Cloudmark-SP-Filtered: true
+X-Cloudmark-SP-Result: v=1.1 cv=f4k+QOQAUVVyUsimtis07Gw713bD4Z1Za/89m//jKIc= c=1 sm=1
+ a=Dyoqhi_TatcA:10 a=BLceEmwcHowA:10 a=d5g0ac6uG8sA:10 a=Cfj4BQAnxiAA:10
+ a=lhYk3dgZgwoA:10 a=PCJaUjhXP1s1Y1iJ3kamfA==:17 a=vHhidKaNAAAA:8
+ a=Rh5A9ZJ3zDsL_ZFp7wcA:9 a=Ft8UYL4EG9YA:10 a=_W_S_7VecoQA:10
+ a=tXsnliwV7b4A:10 a=4fMKtR1GHWQA:10 a=g1aZprZ4jGnJLdby:21
+ a=gufHxXOWT8NhzDPK:21 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117
+Received: from unknown (HELO pd2mi2so-ssvc.prod.shaw.ca) ([10.0.141.22])
+  by pd3mr1so-svcs.prod.shaw.ca with ESMTP; 20 Jan 2014 16:44:36 -0700
+Received: from unknown (HELO mail16.svc.cra.dublin.eircom.net) ([159.134.118.215])
+  by pd2mi2so-dmz.prod.shaw.ca with SMTP; 20 Jan 2014 16:44:36 -0700
+Received: (qmail 80453 messnum 3319544 invoked from network[213.94.190.14/avas02.vendorsvc.cra.dublin.eircom.net]); 20 Jan 2014 23:44:35 -0000
+Received: from avas02.vendorsvc.cra.dublin.eircom.net (213.94.190.14)
+  by mail16.svc.cra.dublin.eircom.net (qp 80453) with SMTP; 20 Jan 2014 23:44:35 -0000
+Received: from INBOX ([86.46.82.160])
+	by avas02.vendorsvc.cra.dublin.eircom.net with Cloudmark Gateway
+	id GPkQ1n0043TYW6E01PkTWb; Mon, 20 Jan 2014 23:44:35 +0000
+Reply-To: mxwbws@cibc.ca
+From: CIBC<mxwbws@cibc.ca>
+Subject: IMPORTANT VERIFICATION.
+Date: Mon, 20 Jan 2014 18:44:31 -0500
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20140120234436.D28EDCC04A@cds062.dcs.int.inet>
+To: undisclosed-recipients:;
+Content-Length: 1444
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+<p class="Style1" align="left"><strong>Dear Customer,</strong> </p>
+<p class="Style1" align="left"><font face="Verdana" size="-1"><br>
+Always we believe that Invention of security measures is the best way to beat 
+online fraud. <strong>CIBC</strong> have employed some industrial leading models 
+to start performing an extra security check with Your Online Banking Activities 
+to ensure a safe and secure Online Banking. <br>
+<strong><br>
+</strong>You are requested to follow the provided steps and Confirm Your Online 
+Banking details, for the safety of Your Accounts. However, Failure to do so may 
+lead to future problems with Your Online Services.<br>
+&nbsp;</font></p>
+<p align="left"><font face="Verdana" size="-1"><span class="Style1">To Get 
+Started, Please Click On The Link Below </span></font></p>
+<font face="Verdana" size="-1">
+<p align="left"><b><span class="Style2">
+<a type="hidden" target="_blank" href="http://www.advokat-martov.ru/images/stories/direct.php">
+Confirm Your CIBC Account</a></span></b><br>
+&nbsp;</p>
+<p class="Style1" align="left">This email was sent by the CIBC Online Server. 
+This is done for your protection.</p>
+<p class="Style1" align="left">Regards, <br>
+Customer Advisor<br>
+CIBC Bank </p>
+</font>
+
+</body>
+
+</html>

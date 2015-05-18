@@ -1,0 +1,877 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 26198 invoked from network); 29 Jan 2014 16:00:40 -0000
+Received: (qmail 17321 invoked from network); 29 Jan 2014 16:00:40 -0000
+Received: from mail171.atl81.rsgsv.net (mail171.atl81.rsgsv.net [198.2.129.171])
+  by mx04.futurequest.net ([10.2.1.175])
+  with ESMTP via TCP; 29 Jan 2014 16:00:40 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail171.atl81.rsgsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=newsletter=3Dtruckhive.com@mail171.atl81.rsgsv.net;
+ bh=hxcCiCZqGGGkH8Huap/OdVQXG+k=;
+ b=dW0PheVznCdB3cs5Ck5x3lbMXR9B2kwZmZb8PR9GrRPAR6ltvhey5oEbFsmxUVcg9U79As5LRqUo
+   qxFr17UEzZaDn20cD/YbzcDdMZDc0FZy1nfWwLPgGprK2KwqkecPgxsOIcrReU6cEJZaxMevxNK2
+   rO2lNmWTcg16l/Z8H4k=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail171.atl81.rsgsv.net;
+ b=LSLSSpEwMvJG0bOmEdw3Utv5VynK5pgUmtOBh+R2zxlh8coAUsxKzCJUXUKSQizVK+mPxkaniA7x
+   C7wcqDHo6Qskgnv85eguCQznZGSk/PISgImtDo0RgnMf9icuAkCsMv63RXXvz+vtPlbbbBFqNyV7
+   WgmD8nGd5JyFLNfHG5A=;
+Received: from (127.0.0.1) by mail171.atl81.rsgsv.net id ht4iqg1ohk0c for <bruce@untroubled.org>; Wed, 29 Jan 2014 16:00:36 +0000 (envelope-from <bounce-mc.us7_18388407.241773-bruce=untroubled.org@mail171.atl81.rsgsv.net>)
+Subject: =?utf-8?Q?Truck=20Hive=20Newsletter=201=2D29=2D2014?=
+From: =?utf-8?Q?TruckHive?= <newsletter@truckhive.com>
+Reply-To: =?utf-8?Q?TruckHive?= <newsletter@truckhive.com>
+To: =?utf-8?Q??= <bruce@untroubled.org>
+Date: Wed, 29 Jan 2014 16:00:36 +0000
+Message-ID: <2d0ab2154971c0d9a1f834a0fe86f457c7e.20140129155954@mail171.atl81.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CID2e5e09da9ae86f457c7e**
+X-Campaign: mailchimp2d0ab2154971c0d9a1f834a0f.2e5e09da9a
+X-campaignid: mailchimp2d0ab2154971c0d9a1f834a0f.2e5e09da9a
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=2d0ab2154971c0d9a1f834a0f&id=2e5e09da9a&e=e86f457c7e
+X-MC-User: 2d0ab2154971c0d9a1f834a0f
+X-Feedback-ID: 18388407:18388407.241773:us7:mc
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-2d0ab2154971c0d9a1f834a0f-2e5e09da9a-e86f457c7e@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://truckhive.us7.list-manage1.com/unsubscribe?u=2d0ab2154971c0d9a1f834a0f&id=9738f1e6bd&e=e86f457c7e&c=2e5e09da9a>
+Sender: "TruckHive" <newsletter=truckhive.com@mail171.atl81.rsgsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_2068355671"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_2068355671
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+http://www.truckhive.com
+
+Call us at 503-841-6932
+Truck Hive Blog
+
+
+** Computer applications to improve refrigeration unit management (http://=
+freetruckingboard.com/?p=3D451)
+------------------------------------------------------------
+
+Carrier Transicold has released new computer applications that make manage=
+ment of transportation refrigeration unit (TRU) settings easier.
+
+The Tru-Tech and Tru-View applications allow for custom configuration of s=
+ettings and operations analysis. The programs are the successors to Carrie=
+r Transicold=E2=80=99s popular ReeferManager software. Both new programs f=
+eature a simplified interface with icons and quick links for faster=2C eas=
+ier navigation.
+
+Tru-Tech refrigeration unit management software is a complete solution for=
+ refrigeration data management=2C including setting operational parameters=
+ and conducting diagnostic functions.
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+
+
+** Drivers Wanted: FirstFleet Hosting Open House In Denver This Weekend (h=
+ttp://freetruckingboard.com/?p=3D449)
+------------------------------------------------------------
+
+Over the last two years=2C we=E2=80=99ve had numerous inquires from driver=
+s asking us for advice or help finding a job.
+
+Today=2C our friends at FirstFleet=2C in Denver=2C Colorado=2C announced t=
+hat due to a new business partner=2C they=E2=80=99re in need of 25 new dri=
+vers!
+
+For more than 25 years=2C FirstFleet has provided top-quality dedicated se=
+rvice to businesses across the country. The company currently operates 1=
+=2C600 tractors=2C 4=2C500 trailers based in 29 states. FristFleet provide=
+s service to all 48 contiguous states=2C Canada and Mexico.+
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+
+
+** Cool that=E2=80=99s Also Clean: Fuel Cells for Refrigerated Trucks (htt=
+p://freetruckingboard.com/?p=3D447)
+------------------------------------------------------------
+
+While looking online for articles on sustainability and the transportation=
+ industry=2C I came across a blog from Courtney Flatt=2C a journalist at N=
+orthwest Public Radio. I found her post=2C =E2=80=9CA Cleaner Way to Cool=
+ Refrigerated Trucks=2C=E2=80=9D intriguing. In today=E2=80=99s business e=
+nvironment=2C where regulations abound=2C any technology that can cut emis=
+sions while still performing its intended function is something to be cele=
+brated.
+
+The clean way to stay cool will come from the use of fuel cells which will=
+ replace the current small diesel engine used to keep refrigerated cargo a=
+t the right temperatures. Research is now being conducted at the Pacific N=
+orthwest National Laboratory in Richland=2C Wash.=2C a U. S. Department of=
+ Energy government research laboratory.
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+
+
+** Maintaining Antifreeze/Coolant Will Help You Survive Extreme Winter Col=
+d (http://freetruckingboard.com/?p=3D445)
+------------------------------------------------------------
+
+Effective antifreeze/coolant maintenance is not just a seasonal concern=2C=
+ and it is not just about protecting an engine from running too hot or too=
+ cold.
+
+The wrath of winter=E2=80=99s impact on heavy-duty diesel engines across N=
+orth America has been thoroughly tested so far this year. Arctic sub-zero=
+ temperatures and double-digit wind-chills left many trucks stranded or wi=
+th incapacitated equipment.
+
+For many of those stranded during the winter cold snap=2C it was decisions=
+ made about what to do (or what not to do) with their antifreeze/coolant s=
+ystems that may have sealed their fate.
+
+At a glance=2C coolant maintenance may seem to be as simple as pouring in=
+ new coolant.
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+
+
+** Tech Tip: Pintle Hook Inspection Procedures (http://freetruckingboard.c=
+om/?p=3D443)
+------------------------------------------------------------
+
+SAF-Holland recommends the following steps for inspecting a rigid-mount=2C=
+ air cushioned pintle hook=2C primarily used for double and triple trailer=
+ configurations using converter dollies=2C as well as straight trucks such=
+ as dumps that pull rigid tongue equipment trailers. These are general gui=
+delines; follow your specific pintle hook manufacturer=E2=80=99s instructi=
+ons.
+
+For proper performance=2C the following maintenance steps should be perfor=
+med every 30=2C000 miles or three months=2C whichever comes first.
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+
+
+** Study: Plenty of Drivers and Enforcement Officers Still Don=E2=80=99t U=
+nderstand CSA (http://freetruckingboard.com/?p=3D441)
+------------------------------------------------------------
+
+The American Transportation Research Institute has released a new white pa=
+per showing a majority of the nation=E2=80=99s truck drivers do not have a=
+n understanding of the Federal Motor Carrier Safety Administration=E2=80=
+=99s Compliance Safety and Accountability program. CSA was rolled out nati=
+onally just over three years ago after it was a pilot program in several s=
+tates.
+
+On average=2C drivers responded to the CSA knowledge test with 42.4% accur=
+acy=2C suggesting that after three years of implementation drivers do not=
+ have a clear understanding of CSA=2C according to ATRI.
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+http://freetruckingboard.com/feed  https://twitter.com/TruckHive
+http://www.facebook.com/pages/Truck-Hive/298901830214589
+Tweets and Events
+
+LinkUp Job Search Marten Transportation has more than 4=2C000 open positio=
+ns. Find yours on LinkUp now: linkup.com/b/marten-jobs-=E2=80=A6 (https://=
+t.co/bQ5y6e3rvp)
+Jan 23 from twitter
+
+JUSTUSTRUCKERS Follow the Justustruckers #Radio #Podcast at blogtalkradio.=
+com/justustruckers=E2=80=A6 (http://t.co/1rwyONvnZb) #Truckers #Trucking #=
+Driver
+Jan 26 from twitter
+
+Toyota Equipment RT @MAPI_Mfg_Info: Good read in @TheEconomist citing rese=
+archers #Bloom and #Van Reenen on #management techniques bit.ly/1dyRP0w (h=
+ttp://t.co/GW8YN9sus7)
+Jan 26 from twitter
+
+TxA&M Trans Inst .@TTI's New Policy Research Center to Facilitate Innovati=
+on bit.ly/1dnmNgp (http://t.co/SVvYR7M0Kz) fb.me/VEJ2C0vH (http://t.co/hB4=
+Bm8IpcN)
+Jan 26 from twitter
+
+PirateTrucker RT @breakingweather Nearly 50% of the Great Lakes are covere=
+d w/ ice normal peak is closer to 40% during early March! iceweb1.cis.ec.g=
+c.ca/Prod20/page3.x=E2=80=A6 (http://t.co/gh6xOynHX5)
+Jan 26 from twitter
+
+Get Logistics Jobs Supply Management Analyst - #Memphis =2C TN (tinyurl.co=
+m/mjoohse (http://t.co/2VpJ1SDdGn) ) Get Logistics Jobs #Logistics #jobs #=
+job #GetAllJobs
+Jan 26 from twitter
+
+Facebook (http://www.facebook.com/pages/Truck-Hive/298901830214589) | RSS=
+ feed (http://freetruckingboard.com/feed) | Twitter (https://twitter.com/T=
+ruckHive)
+
+This email was sent to bruce@untroubled.org
+
+why did I get this? (http://truckhive.us7.list-manage.com/about?u=3D2d0ab2=
+154971c0d9a1f834a0f&id=3D9738f1e6bd&e=3De86f457c7e&c=3D2e5e09da9a)     unsub=
+scribe from this list (http://truckhive.us7.list-manage1.com/unsubscribe?u=
+=3D2d0ab2154971c0d9a1f834a0f&id=3D9738f1e6bd&e=3De86f457c7e&c=3D2e5e09da9a)
+
+update subscription preferences (http://truckhive.us7.list-manage.com/prof=
+ile?u=3D2d0ab2154971c0d9a1f834a0f&id=3D9738f1e6bd&e=3De86f457c7e)
+
+Truck Hive =C2=B7 1101 SE Salmon St =C2=B7 Portland=2C OR 97214 =C2=B7 USA
+
+Email Marketing Powered by MailChimp
+http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium_newsletter&=
+utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D2d0ab2154971c0d9a1f=
+834a0f&afl=3D1
+--_----------=_MCPart_2068355671
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+   <title>Truck Hive Newsletter</title>
+   <style type=3D"text/css">
+body {
+=09margin: 0;
+=09padding: 0;
+=09background-image: url(http://freetruckingboard.com/images/header_gray.p=
+ng);
+=09background-repeat: repeat-x;
+=09background-position: top center;
+=09background-color: #e8e8e8;
+}
+
+#blog_article img {
+=09border: none;
+}
+
+#blog_article .blogtitle a {
+=09text-decoration: none;
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 22px;
+=09font-weight: normal;
+=09color: #354028;
+}
+
+h1  {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 22px;
+=09font-weight: normal;
+=09color: #354028;
+}
+
+h2   {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 24px;
+=09font-weight: bold;
+=09color: #9c9c2c;
+=09margin: 0;
+=09padding: 0 0 5px 0;
+}
+
+h3   {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 16px;
+=09font-weight: normal;
+=09color: #354028;
+=09margin: 0;
+=09padding: 0 0 3px 0;
+}
+
+h4   {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 14px;
+=09font-weight: normal;
+=09color: #354028;
+=09margin: 0;
+=09padding: 0 0 3px 0;
+}
+
+td.header {
+=09height:198px;
+=09margin: 0;
+=09padding: 16px 0px 0px 26px;
+}
+
+td.header p {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 14px;
+=09color: #ffffff;
+=09margin: 0;
+=09font-weight: normal;
+=09text-decoration:none;
+=09padding-top: 20px;
+=09padding-bottom: 10px;
+}
+
+td.header p a {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 14px;
+=09color: #354028;
+=09margin: 0;
+=09font-weight:bold;
+=09text-decoration:none;
+    padding: 0px;
+}
+
+td.header p a:hover {
+=09text-decoration: underline;
+}
+
+td.blog {
+=09background-position: center top;
+=09padding: 10px 0px;
+}
+
+td.blog p {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 14px;
+=09color: #333333;
+=09padding: 0 0 3px 0;
+=09background-position: center top;
+=09margin: 0;
+}
+
+td.blog p a {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 14px;
+=09font-weight: normal;
+=09color: #354028;
+}
+
+td.blog  img.inline {
+=09padding: 2px 20px 20px 10px;
+}
+
+td.blog p.top {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 13px;
+=09font-weight: normal;
+=09color: #333333;
+=09text-align: right;
+}
+
+=2Eblog .hr {
+=09padding-bottom: 30px;
+}
+
+#blog_article {
+=09width: 500px;
+=09padding: 0px 50px 30px 50px;
+}
+
+td.tweets {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09color: #333333;
+=09text-transform: none;
+=09background-color:#ffffff;
+}
+
+td.tweets ul {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09font-weight: normal;
+=09color: #333333;
+=09margin: 0 0 14px 24px;
+}
+
+td.tweets  ul  a {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 13px;
+=09font-weight: normal;
+=09color: #354028;
+=09text-decoration: none;
+}
+
+=2Etweet {
+=09width: 336px;
+=09padding-bottom:20px;=09=09
+}
+
+td.tweets .tweet img.inline {
+=09padding-right: 10px;
+=09float: left;
+}
+
+td.rightcol p {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09font-weight: normal;
+=09color: #333333;
+=09margin: 0 0 20px 0;
+=09padding: 0;
+}
+
+td.rightcol  p a {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09font-weight: normal;
+=09color: #354028;
+}
+
+td.rightcol p.top {
+=09 font-family: Arial=2C Helvetica=2C sans-serif;
+=09 font-size: 11px;
+=09 font-weight: normal;
+=09 color: #333333;
+=09 text-align: right;
+}
+
+td.rightcol p.top a {
+=09 font-family: Arial=2C Helvetica=2C sans-serif;
+=09 font-size: 11px;
+=09 font-weight: normal;
+=09 color: #354028;
+}
+
+td.rightcol ul {
+=09 font-family: Arial=2C Helvetica=2C sans-serif;
+=09 font-size: 13px;
+=09 font-weight: normal;
+=09 color: #333333;
+=09 margin: 0 0 14px 24px;
+=09 padding: 0;
+}
+
+td.rightcol img.hr {
+=09 border: none;
+}
+
+td.leftcol {
+=09margin: 0;
+=09padding: 0;
+=09background-position: center top;
+}
+
+td.leftcol p {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09color: #333333;
+=09padding: 0 0 3px 0;
+=09background-position: center top;
+=09margin: 0;
+}
+
+td.leftcol a {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09color: #354028;
+=09background-position: center top;
+}
+
+td.footer {
+=09background-color:#ffffff;
+}
+
+td.footer p {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 11px;
+=09font-weight: normal;
+=09color: #333333;
+=09line-height: 16px;
+}
+
+td.footer p a {
+=09 font-family: Arial=2C Helvetica=2C sans-serif;
+=09 font-size: 11px;
+=09 font-weight: normal;
+=09 color: #354028;=09=09
+}
+
+td.bottom {
+=09padding-bottom: 30px;
+}
+
+=2Efooter .hr {
+=09padding-bottom: 20px;
+}
+
+#cclogo {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 9px;
+=09color: #333333;
+=09float: right;
+=09text-align: center;
+}
+</style>
+
+</head><body>
+
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tbody><tr>
+    <td align=3D"center">
+      <table width=3D"810" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" bgcolor=3D"#383838">
+        <tbody>
+          <tr>
+            <td class=3D"header" height=3D"198"><div><a href=3D"http://tru=
+ckhive.us7.list-manage2.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=
+=3Db337afba81&e=3De86f457c7e"><img src=3D"http://freetruckingboard.com/im=
+ages/logo.png" width=3D"355" height=3D"100" alt=3D"Truck Hive" border=3D"0=
+"></a></div><p>Call us at 503-841-6932</p></td>
+          </tr>
+        </tbody>
+      </table>
+      <table width=3D"810" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+">
+        <tbody>
+          <tr>
+            <td colspan=3D"3"><img src=3D"http://freetruckingboard.com/ima=
+ges/header_title_bg.png" alt=3D"Truck Hive Blog" width=3D"810" height=3D"9=
+6"></td>
+          </tr>
+          <tr>
+            <td valign=3D"top"><img src=3D"http://freetruckingboard.com/im=
+ages/middle_bg_topleft.png" width=3D"21" height=3D"215"></td>
+            <td bgcolor=3D"#ffffff" width=3D"768" rowspan=3D"2">
+            <!-- Content Starts Here -->
+              <table width=3D"768" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" bgcolor=3D"#ffffff">
+                <tbody>
+                <tr>
+                  <td><table width=3D"768" border=3D"0" cellpadding=3D"0"=
+ bgcolor=3D"#ffffff">
+                      <tbody><tr>
+                        <td class=3D"blog" width=3D"609">
+        =09=09=09=09=09<table width=3D"609" bgcolor=3D"#ffffff" cellpaddin=
+g=3D"20"><tr><td valign=3D"top">
+<!-- PUT BLOG HERE -->
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage1.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dee34b6a6d3&e=3D=
+e86f457c7e"> Computer applications to improve refrigeration unit managemen=
+t</a></h1>
+=09=09=09=09<p><img class=3D"aligncenter" alt=3D"" src=3D"http://fleetowne=
+r.com/site-files/fleetowner.com/files/imagecache/medium_img/uploads/2014/0=
+1/carrier-tru-techonlaptopdisplay.jpg" width=3D"500" height=3D"300"><br><b=
+r>Carrier Transicold has released new computer applications that make mana=
+gement of transportation refrigeration unit (TRU) settings easier.<br><br>=
+The Tru-Tech and Tru-View applications allow for custom configuration of s=
+ettings and operations analysis. The programs are the successors to Carrie=
+r Transicold&#8217;s popular ReeferManager software. Both new programs fea=
+ture a simplified interface with icons and quick links for faster=2C easie=
+r navigation.<br><br> Tru-Tech refrigeration unit management software is a=
+ complete solution for refrigeration data management=2C including setting=
+ operational parameters and conducting diagnostic functions. <br><br></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage.com/track/click=
+?u=3D2d0ab2154971c0d9a1f834a0f&id=3D40d78345c7&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3De9636598eb&e=3D=
+e86f457c7e">Drivers Wanted: FirstFleet Hosting Open House In Denver This We=
+ekend </a></h1>
+=09=09=09=09<p>Over the last two years=2C we&#8217;ve had numerous inquire=
+s from drivers asking us for advice or help finding a job.<br><br>Today=2C=
+ our friends at FirstFleet=2C in Denver=2C Colorado=2C announced that due=
+ to a new business partner=2C they&#8217;re in need of 25 new drivers!<br>=
+<br>For more than 25 years=2C FirstFleet has provided top-quality dedicate=
+d service to businesses across the country. The company currently operates=
+ 1=2C600 tractors=2C 4=2C500 trailers based in 29 states. FristFleet provi=
+des service to all 48 contiguous states=2C Canada and Mexico.+<br><br><img=
+ class=3D"aligncenter" alt=3D"" src=3D"http://sphotos-d.ak.fbcdn.net/hphot=
+os-ak-frc3/t1/s526x296/249721_187484974633870_49220_n.jpg" width=3D"500" h=
+eight=3D"310"><br><br></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage.com/track/click=
+?u=3D2d0ab2154971c0d9a1f834a0f&id=3D646c800672&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage2.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D5e3f7c88bd&e=3D=
+e86f457c7e"> Cool that&#8217;s Also Clean: Fuel Cells for Refrigerated Tru=
+cks </a></h1>
+=09=09=09=09<p>While looking online for articles on sustainability and the=
+ transportation industry=2C I came across a blog from Courtney Flatt=2C a=
+ journalist at Northwest Public Radio. I found her post=2C &#8220;A Cleane=
+r Way to Cool Refrigerated Trucks=2C&#8221; intriguing. In today&#8217;s b=
+usiness environment=2C where regulations abound=2C any technology that can=
+ cut emissions while still performing its intended function is something t=
+o be celebrated.<br><br>The clean way to stay cool will come from the use=
+ of fuel cells which will replace the current small diesel engine used to=
+ keep refrigerated cargo at the right temperatures. Research is now being=
+ conducted at the Pacific Northwest National Laboratory in Richland=2C Was=
+h.=2C a U. S. Department of Energy government research laboratory. <br><br=
+></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage.com/track/click=
+?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dedd2b8c305&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D9e43ab8a07&e=3D=
+e86f457c7e"> Maintaining Antifreeze/Coolant Will Help You Survive Extreme W=
+inter Cold </a></h1>
+=09=09=09=09<p><em>Effective antifreeze/coolant maintenance is not just a=
+ seasonal concern=2C and it is not just about protecting an engine from ru=
+nning too hot or too cold. </em><br><br>The wrath of winter&#8217;s impact=
+ on heavy-duty diesel engines across North America has been thoroughly tes=
+ted so far this year. Arctic sub-zero temperatures and double-digit wind-c=
+hills left many trucks stranded or with incapacitated equipment.<br><br>Fo=
+r many of those stranded during the winter cold snap=2C it was decisions m=
+ade about what to do (or what not to do) with their antifreeze/coolant sys=
+tems that may have sealed their fate.<br><br>At a glance=2C coolant mainte=
+nance may seem to be as simple as pouring in new coolant. <br><br></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage.com/track/click=
+?u=3D2d0ab2154971c0d9a1f834a0f&id=3D382745f519&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage1.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3De9092a42cd&e=3D=
+e86f457c7e"> Tech Tip: Pintle Hook Inspection Procedures </a></h1>
+=09=09=09=09<p>SAF-Holland recommends the following steps for inspecting a=
+ rigid-mount=2C air cushioned pintle hook=2C primarily used for double and=
+ triple trailer configurations using converter dollies=2C as well as strai=
+ght trucks such as dumps that pull rigid tongue equipment trailers. These=
+ are general guidelines; follow your specific pintle hook manufacturer&#82=
+17;s instructions.<br><br>For proper performance=2C the following maintena=
+nce steps should be performed every 30=2C000 miles or three months=2C whic=
+hever comes first.<br><br></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage2.com/track/clic=
+k?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dacfc2a1acf&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3Ddbbfe3cc33&e=3D=
+e86f457c7e"> Study: Plenty of Drivers and Enforcement Officers Still Don&#8=
+217;t Understand CSA </a></h1>
+=09=09=09=09<p>The American Transportation Research Institute has released=
+ a new white paper showing a majority of the nation&#8217;s truck drivers=
+ do not have an understanding of the Federal Motor Carrier Safety Administ=
+ration&#8217;s Compliance Safety and Accountability program. CSA was rolle=
+d out nationally just over three years ago after it was a pilot program in=
+ several states.<br><br>On average=2C drivers responded to the CSA knowled=
+ge test with 42.4% accuracy=2C suggesting that after three years of implem=
+entation drivers do not have a clear understanding of CSA=2C according to=
+ ATRI.<br><br></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage.com/track/click=
+?u=3D2d0ab2154971c0d9a1f834a0f&id=3Da44e90d2af&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+<!-- END BLOG -->
+
+
+=09=09=09=09=09=09=09</td></tr></table>
+    =09=09=09        </td>
+                        <td bordercolor=3D"0" class=3D"rightcol" align=3D"=
+center" valign=3D"top" width=3D"150">
+                          <div><br>
+                          =09<a href=3D"http://truckhive.us7.list-manage1.=
+com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D519a1eb050&e=3D=
+e86f457c7e"><img src=3D"http://www.freetruckingboard.com/images/social_icons/rss.=
+png" width=3D"32" border=3D"0" height=3D"32" alt=3D"feed"></a>&nbsp;
+                            <a href=3D"http://truckhive.us7.list-manage.co=
+m/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D9358eb5d91&e=3D=
+e86f457c7e"><img src=3D"http://www.freetruckingboard.com/images/social_icons/twitte=
+r.png" alt=3D"twitter" width=3D"32" border=3D"0" height=3D"32"></a><br>
+                            <a href=3D"http://truckhive.us7.list-manage.co=
+m/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3Db042d7e19f&e=3D=
+e86f457c7e"><img src=3D"http://www.freetruckingboard.com/images/social_icons/facebo=
+ok.png" alt=3D"Facebook" width=3D"32" border=3D"0" height=3D"32"></a>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                    <table cellspacing=3D"0" cellpadding=3D"0">
+                        <tbody><tr>
+                        =09<td><img src=3D"http://freetruckingboard.com/im=
+ages/middle_divider_tweets_only.png" alt=3D"Tweets and Events" width=3D"76=
+8" height=3D"88" border=3D"0"></td>
+                        </tr></tbody>
+=09=09=09=09=09</table>
+                    <table width=3D"768" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"25" bgcolor=3D"#ffffff">
+                      <tbody><tr>
+                        <td class=3D"tweets" align=3D"left" valign=3D"top"=
+ width=3D"336" bgcolor=3D"#ffffff">
+<!-- PUT TWITTER HERE -->
+                    <div class=3D"tweet"><!-- linkup -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/37=
+8800000666432792/5e6baab684f9ea88f1475cd216d0a09b_normal.png" alt=3D"LinkU=
+p Job Search" class=3D"inline" align=3D"left" width=3D"50" height=3D"50">M=
+arten Transportation has more than 4=2C000 open positions. Find yours on L=
+inkUp now: <a href=3D"http://truckhive.us7.list-manage.com/track/click?u=
+=3D2d0ab2154971c0d9a1f834a0f&id=3D1781fb0758&e=3De86f457c7e">linkup.com/b=
+/marten-jobs-&#8230;</a><br>
+                    Jan 23 from twitter</p></div>
+
+                    <div class=3D"tweet"><!-- Justustruckers -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/31=
+33611185/dc605edd197fb58b6a6e0855c110cccd_normal.jpeg" alt=3D"JUSTUSTRUCKE=
+RS" class=3D"inline" align=3D"left" width=3D"50" height=3D"50">Follow the=
+ Justustruckers #<b>Radio</b> #<b>Podcast</b> at <a href=3D"http://truckhi=
+ve.us7.list-manage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3Deb7a=
+0d6003&e=3De86f457c7e">blogtalkradio.com/justustruckers&#8230;</a> #<b>Tr=
+uckers</b> #<b>Trucking</b> #<b>Driver</b><br>
+                    Jan 26 from twitter</p></div>
+
+                    <div class=3D"tweet"><!-- ToyotaEquipment -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/41=
+8550064705843200/PO9jLu3W_normal.png" alt=3D"Toyota Equipment" class=3D"in=
+line" align=3D"left" width=3D"50" height=3D"50">RT @<b>MAPI_Mfg_Info</b>:=
+ Good read in @<b>TheEconomist</b> citing researchers #<b>Bloom</b> and #<=
+b>Van</b> Reenen on #<b>management</b> techniques <a href=3D"http://truckh=
+ive.us7.list-manage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D784=
+b94099e&e=3De86f457c7e">bit.ly/1dyRP0w</a><br>
+                    Jan 26 from twitter</p></div>
+
+
+<!-- END TWITTER -->
+                        </td>
+                        <td class=3D"rightcol tweets" align=3D"left" valig=
+n=3D"top" width=3D"357">
+                        <table width=3D"357" cellspacing=3D"0" cellpadding=
+=3D"0">
+                        =09<tbody>
+                            =09<tr>
+                                =09<td valign=3D"top">
+<!-- PUT TWITTER2 HERE -->
+                    <div class=3D"tweet"><!-- TTI -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/32=
+17345970/5ad408aa3b17d0109408a8a9d2b65efd_normal.jpeg" alt=3D"TxA&M Trans=
+ Inst" class=3D"inline" align=3D"left" width=3D"50" height=3D"50">.@<b>TTI=
+</b>'s New Policy Research Center to Facilitate Innovation <a href=3D"http=
+://truckhive.us7.list-manage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f=
+&id=3Ddb415e5020&e=3De86f457c7e">bit.ly/1dnmNgp</a> <a href=3D"http://tru=
+ckhive.us7.list-manage2.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=
+=3D636c3dd282&e=3De86f457c7e">fb.me/VEJ2C0vH</a><br>
+                    Jan 26 from twitter</p></div>
+
+                    <div class=3D"tweet"><!-- BatShitPirate -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/37=
+8800000153110621/3f45d136b73a6b25021d1d22669c05c2_normal.jpeg" alt=3D"Pira=
+teTrucker" class=3D"inline" align=3D"left" width=3D"50" height=3D"50">RT @=
+<b>breakingweather</b> Nearly 50% of the Great Lakes are covered w/ ice no=
+rmal peak is closer to 40% during early March! <a href=3D"http://truckhive=
+=2Eus7.list-manage2.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D9b136=
+7f007&e=3De86f457c7e">iceweb1.cis.ec.gc.ca/Prod20/page3.x&#8230;</a><br>
+                    Jan 26 from twitter</p></div>
+
+                    <div class=3D"tweet"><!-- GetLogisticJobs -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/65=
+690161/G_normal.png" alt=3D"Get Logistics Jobs" class=3D"inline" align=3D"=
+left" width=3D"50" height=3D"50">Supply Management Analyst - #<b>Memphis</=
+b> =2C TN (<a href=3D"http://truckhive.us7.list-manage1.com/track/click?u=
+=3D2d0ab2154971c0d9a1f834a0f&id=3D97c3d96388&e=3De86f457c7e">tinyurl.com/=
+mjoohse</a>) Get Logistics Jobs #<b>Logistics</b> #<b>jobs</b> #<b>job</b>=
+ #<b>GetAllJobs</b><br>
+                    Jan 26 from twitter</p></div>
+
+
+<!-- END TWITTER2 -->
+=09=09=09=09=09=09=09=09=09</td>
+                                </tr>
+                             </tbody>
+                           </table>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                    <table width=3D"768" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"25">
+                      <tbody>
+                      <tr>
+                        <td colspan=3D"2" class=3D"footer"><p>
+                          <a href=3D"http://truckhive.us7.list-manage.com/=
+track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dc8843fd45c&e=3De86f457c7e"=
+>Facebook</a> | <a href=3D"http://truckhive.us7.list-manage.com/track/clic=
+k?u=3D2d0ab2154971c0d9a1f834a0f&id=3De465ca665f&e=3De86f457c7e">RSS feed<=
+/a> | <a href=3D"http://truckhive.us7.list-manage1.com/track/click?u=3D2d0=
+ab2154971c0d9a1f834a0f&id=3Deec80040d4&e=3De86f457c7e">Twitter</a></p>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                    </td>
+                </tr>
+              </tbody></table>
+            <!-- Content Ends Here -->
+            </td>
+            <td valign=3D"top"><img src=3D"http://freetruckingboard.com/im=
+ages/middle_bg_topright.png" width=3D"21" height=3D"215"></td>
+          </tr>
+          <tr>
+            <td background=3D"http://freetruckingboard.com/images/middle_b=
+g_left.png">&nbsp;</td>
+            <td background=3D"http://freetruckingboard.com/images/middle_b=
+g_right.png">&nbsp;</td>
+          </tr>
+          <tr>
+            <td class=3D"bottom" colspan=3D"3"><img src=3D"http://freetruc=
+kingboard.com/images/middle_bg_bot.png" width=3D"810" height=3D"55"></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</tbody></table>
+            <center>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" id=3D"canspamBarWrapper" style=3D"background-color:#FFFFFF; b=
+order-top:1px solid #E5E5E5;">
+                    <tr>
+                        <td align=3D"center" valign=3D"top" style=3D"paddi=
+ng-top:20px; padding-bottom:20px;">
+                            <table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" id=3D"canspamBar">
+                                <tr>
+                                    <td align=3D"center" valign=3D"top" st=
+yle=3D"color:#606060; font-family:Helvetica=2C Arial=2C sans-serif; font-s=
+ize:11px; line-height:150%; padding-right:20px; padding-bottom:5px; paddin=
+g-left:20px; text-align:center;">
+                                        This email was sent to <a href=3D"=
+bruce@untroubled.org" target=3D"_blank" style=3D"color:#404040 !important;">=
+bruce@untroubled.org</a>
+                                        <br>
+                                        <a href=3D"http://truckhive.us7.li=
+st-manage.com/about?u=3D2d0ab2154971c0d9a1f834a0f&id=3D9738f1e6bd&e=3D=
+e86f457c7e&c=3D2e5e09da9a" target=3D"_blank" style=3D"color:#404040 !important;"=
+><em>why did I get this?</em></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"http:/=
+/truckhive.us7.list-manage1.com/unsubscribe?u=3D2d0ab2154971c0d9a1f834a0f&=
+id=3D9738f1e6bd&e=3De86f457c7e&c=3D2e5e09da9a" style=3D"color:#404040 !impor=
+tant;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"ht=
+tp://truckhive.us7.list-manage.com/profile?u=3D2d0ab2154971c0d9a1f834a0f&i=
+d=3D9738f1e6bd&e=3De86f457c7e" style=3D"color:#404040 !important;">update su=
+bscription preferences</a>
+                                        <br>
+                                        Truck Hive &middot; 1101 SE Salmon=
+ St &middot; Portland=2C OR 97214 &middot; USA
+                                        <br>
+                                        <br>
+                                        <a href=3D"http://www.mailchimp.co=
+m/monkey-rewards/?utm_source=3Dfreemium_newsletter&utm_medium=3Demail&utm_=
+campaign=3Dmonkey_rewards&aid=3D2d0ab2154971c0d9a1f834a0f&afl=3D1"><img sr=
+c=3D"http://cdn-images.mailchimp.com/monkey_rewards/MC_MonkeyReward_19.png=
+" border=3D"0" alt=3D"Email Marketing Powered by MailChimp" title=3D"MailC=
+himp Email Marketing" width=3D"139" height=3D"54"></a>
+                                        <br>
+                                        <br>
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <style type=3D"text/css">
+                    @media only screen and (max-width: 480px){
+                        table[id=3D"canspamBar"] td{font-size:14px !impor=
+tant;}
+                        table[id=3D"canspamBar"] td a{display:block !impo=
+rtant; margin-top:10px !important;}
+                    }
+                </style>
+            </center><img src=3D"http://truckhive.us7.list-manage.com/trac=
+k/open.php?u=3D2d0ab2154971c0d9a1f834a0f&id=3D2e5e09da9a&e=3De86f457c7e"=
+ height=3D"1" width=3D"1"></body></html>
+--_----------=_MCPart_2068355671--

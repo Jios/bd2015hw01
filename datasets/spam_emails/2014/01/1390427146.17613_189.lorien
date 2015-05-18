@@ -1,0 +1,869 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 18789 invoked from network); 22 Jan 2014 16:00:22 -0000
+Received: (qmail 16625 invoked from network); 22 Jan 2014 16:00:22 -0000
+Received: from mail140.atl61.mcsv.net (mail140.atl61.mcsv.net [205.201.135.140])
+  by mx06.futurequest.net ([10.2.1.177])
+  with ESMTP via TCP; 22 Jan 2014 16:00:22 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail140.atl61.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=newsletter=3Dtruckhive.com@mail140.atl61.mcsv.net;
+ bh=N6qO6T7EblbXoU6QLLImrJf4vY4=;
+ b=Tqu2eUHwCFG2Vm/d1ly2Y3krt5uPeq3OlePsD5zqdgq/qcOQQUn/TbBbzHmzyCnzxvALaHQkiHIi
+   O8mY/pM5iKE/K4SALziABIIhzObiDlkCiKJbjZRsAZbSdGuqDrFShV9eDW99zrE+rYz8ACgt8uSA
+   MWCsJfbnRKL3WOCslmk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail140.atl61.mcsv.net;
+ b=BeJYJtFw5UFuah/C+c8GwnFgkM7yE3Gbp1nSoBSgwIXzqZyfhj6RNb8cZHHHevay6w2jB+J1oiN9
+   FytRvRDAt5yrdBy7lWt5hBCHU4YmYWq2MWmKBpX7SPjJmj9PjaCU8sOvIAW+5nPDp7ShrIJr3JwS
+   wzbXmuobf53YE+Sd3nc=;
+Received: from (127.0.0.1) by mail140.atl61.mcsv.net id hrvlhc174acp for <bruce@untroubled.org>; Wed, 22 Jan 2014 16:00:19 +0000 (envelope-from <bounce-mc.us7_18388407.241765-bruce=untroubled.org@mail140.atl61.mcsv.net>)
+Subject: =?utf-8?Q?Truck=20Hive=20Newsletter=201=2D22=2D2014?=
+From: =?utf-8?Q?TruckHive?= <newsletter@truckhive.com>
+Reply-To: =?utf-8?Q?TruckHive?= <newsletter@truckhive.com>
+To: =?utf-8?Q??= <bruce@untroubled.org>
+Date: Wed, 22 Jan 2014 16:00:19 +0000
+Message-ID: <2d0ab2154971c0d9a1f834a0fe86f457c7e.20140122155938@mail140.atl61.mcsv.net>
+X-Mailer: MailChimp Mailer - **CID01df26fa79e86f457c7e**
+X-Campaign: mailchimp2d0ab2154971c0d9a1f834a0f.01df26fa79
+X-campaignid: mailchimp2d0ab2154971c0d9a1f834a0f.01df26fa79
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=2d0ab2154971c0d9a1f834a0f&id=01df26fa79&e=e86f457c7e
+X-MC-User: 2d0ab2154971c0d9a1f834a0f
+X-Feedback-ID: 18388407:18388407.241765:us7:mc
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-2d0ab2154971c0d9a1f834a0f-01df26fa79-e86f457c7e@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://truckhive.us7.list-manage1.com/unsubscribe?u=2d0ab2154971c0d9a1f834a0f&id=9738f1e6bd&e=e86f457c7e&c=01df26fa79>
+Sender: "TruckHive" <newsletter=truckhive.com@mail140.atl61.mcsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_828729011"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_828729011
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+http://www.truckhive.com
+
+Call us at 503-841-6932
+Truck Hive Blog
+
+
+** Once Around the Yard: How Salvation Army Won its P&D Battles (http://fr=
+eetruckingboard.com/?p=3D437)
+------------------------------------------------------------
+
+Over the Christmas holidays=2C the Salvation Army=E2=80=99s bell ringers r=
+aise money to help fund its disaster and human-relief efforts.
+
+But considerable dollars also come from its daily pick-ups of donated hous=
+ehold and office goods that are delivered to warehouses for sorting and re=
+furbishment. These items are then resold in its Family Stores. For this=2C=
+ SA employs a fleet of medium-duty trucks.
+
+Using modern vehicles=2C the operation now is marching along strongly in i=
+ts western territory=2C which includes California and several other states=
+=2E But it wasn=E2=80=99t always so=2C says Henry Filoteo=2C director of pro=
+duction.
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+
+
+** Keeping Tabs With Fuel Cards (http://freetruckingboard.com/?p=3D432)
+------------------------------------------------------------
+
+Using technology to monitor fuel card transactions can save you money
+
+Fleets don=E2=80=99t always have a clear picture of what=E2=80=99s happeni=
+ng with their fuel purchasing plans. That=E2=80=99s become quite clear in=
+ the recent Pilot Flying J scandal=2C where the truckstop chain allegedly=
+ bilked customers out of fuel rebates.
+
+Analyzing fuel card and telematics/GPS data offers fleets increased visibi=
+lity of fuel purchase transactions.
+
+Fleets don=E2=80=99t always have a clear picture of what=E2=80=99s happeni=
+ng with their fuel purchasing plans. That=E2=80=99s become quite clear in=
+ the recent Pilot Flying J scandal=2C where the truckstop chain allegedly=
+ bilked customers out of fuel rebates.
+Analyzing fuel card and telematics/GPS data offers fleets increased visibi=
+lity of fuel purchase transactions. Analyzing fuel card andtelematics/GPS=
+ data offersfleets increased visibility of fuel purchase transactions.
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+
+
+** Mismatching Dual Tires: A Sure-Fire Way to Kill Two Tires at Once (http=
+://freetruckingboard.com/?p=3D430)
+------------------------------------------------------------
+
+Mismatched tire sizes means the shorter tire is chasing the taller tire do=
+wn the road=2C and scrubbing away value with every mile.
+
+Close enough for Rock & Roll; good enough for the women I go out with; clo=
+se enough for government work ... all these expressions speak to our willi=
+ngness to settle for something less than the ideal. In tire maintenance=2C=
+ the difference between "it'll do" and "ideal" can be costly.
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+
+
+** Will Truck Owners Face GHG Enforcement? (http://freetruckingboard.com/?=
+p=3D428)
+------------------------------------------------------------
+
+Truck owners and manufacturers share responsibility for compliance with th=
+e new limits on carbon dioxide emissions and fuel economy=2C although the=
+ initial burden falls on the original equipment manufacturers.
+
+Comments by a builder representative at the Technology & Maintenance Counc=
+il=E2=80=99s meeting in Pittsburgh last September=2C sparked angst among f=
+leet managers about how the rule will be enforced.
+
+The general understanding has been that truck and engine builders=2C rathe=
+r than owners=2C will be responsible for obeying the Environmental Protect=
+ion Agency and National Highway Traffic Safety Administration regulations=
+ that went into effect Jan. 1. These rules limit carbon dioxide and requir=
+e higher fuel economy for commercial trucks.
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+
+
+** Does More Fuel Data Make You Smarter? (http://freetruckingboard.com/?p=
+=3D425)
+------------------------------------------------------------
+
+Data can't improve your bottom line all by itself=2C no matter how much yo=
+u have.
+
+"Big Data is Dumb Data." That phrase has really stuck with me over the pas=
+t few years. Before I joined Sokolis Group=2C I spent a number of years at=
+ a company called ALC within the direct marketing industry. Chairman Donn=
+ Rappaport came up with that phrase as Big Data proliferated throughout th=
+e marketing industry.
+
+The point of his observation was simple: Although technology has enabled u=
+s to collect so much data now=2C does having vast amounts of it really mak=
+e us any smarter?
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+
+
+** Save Fuel=2C Increase Profit=2C Save the Planet (http://freetruckingboa=
+rd.com/?p=3D423)
+------------------------------------------------------------
+
+New greenhouse gas regs for 2014 are here =E2=80=93 and might be a win-win=
+=2E
+Is this a case of win-win? Do the new regulations limiting greenhouse gas=
+ emissions help both the environment and truck operators=E2=80=99 bottom l=
+ines?
+
+So it seems. The regs=2C written by the Environmental Protection Agency an=
+d the National Highway Traffic Safety Administration=2C are formally title=
+d =E2=80=9CGreenhouse Gas Emissions Standards and Fuel Efficiency Standard=
+s for Medium- and Heavy-Duty Engines and Vehicles.=E2=80=9D
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+http://freetruckingboard.com/feed  https://twitter.com/TruckHive
+http://www.facebook.com/pages/Truck-Hive/298901830214589
+Tweets and Events
+
+Get Logistics Jobs Logistics Management Analyst - #Baltimore =2C MD (tinyu=
+rl.com/k83bbkb (http://t.co/92RBTZC6D0) ) #Logistics #jobs #job #GetAllJob=
+s
+Jan 20 from twitter
+
+TMW Systems Read Up: The importance of trucking software for small busines=
+s fleets. ow.ly/sF76q (http://t.co/zNudBsZ7py)
+Jan 20 from twitter
+
+TruckerToTrucker.com Great supply of #Freightliner #trucks for sale in #Ok=
+lahoma ow.ly/sKMuI (http://t.co/bY8iAIeYF1)
+Jan 20 from twitter
+
+EON Transportation Harris Corporation CEO William M. Brown to Speak at Bar=
+clays Industrial Select Conference dlvr.it/4l96J7 (http://t.co/RwpScGwody)
+Jan 20 from twitter
+
+Saferway Victoria BC Tip of the day - Align kingpin on the trailer to go d=
+own the center of the fifth-wheel to prevent sideways stress. http://t.co/=
+55G33L7ZUX
+Jan 20 from twitter
+
+Truck Parts&Service VIPAR Heavy Duty has acquired Power Heavy Duty | succe=
+ssfuldealer.com/?p=3D19251 (http://t.co/hVSnzwS4W8)
+Jan 20 from twitter
+
+Facebook (http://www.facebook.com/pages/Truck-Hive/298901830214589) | RSS=
+ feed (http://freetruckingboard.com/feed) | Twitter (https://twitter.com/T=
+ruckHive)
+
+This email was sent to bruce@untroubled.org
+
+why did I get this? (http://truckhive.us7.list-manage.com/about?u=3D2d0ab2=
+154971c0d9a1f834a0f&id=3D9738f1e6bd&e=3De86f457c7e&c=3D01df26fa79)     unsub=
+scribe from this list (http://truckhive.us7.list-manage1.com/unsubscribe?u=
+=3D2d0ab2154971c0d9a1f834a0f&id=3D9738f1e6bd&e=3De86f457c7e&c=3D01df26fa79)
+
+update subscription preferences (http://truckhive.us7.list-manage.com/prof=
+ile?u=3D2d0ab2154971c0d9a1f834a0f&id=3D9738f1e6bd&e=3De86f457c7e)
+
+Truck Hive =C2=B7 1101 SE Salmon St =C2=B7 Portland=2C OR 97214 =C2=B7 USA
+
+Email Marketing Powered by MailChimp
+http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium_newsletter&=
+utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D2d0ab2154971c0d9a1f=
+834a0f&afl=3D1
+--_----------=_MCPart_828729011
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+   <title>Truck Hive Newsletter</title>
+   <style type=3D"text/css">
+body {
+=09margin: 0;
+=09padding: 0;
+=09background-image: url(http://freetruckingboard.com/images/header_gray.p=
+ng);
+=09background-repeat: repeat-x;
+=09background-position: top center;
+=09background-color: #e8e8e8;
+}
+
+#blog_article img {
+=09border: none;
+}
+
+#blog_article .blogtitle a {
+=09text-decoration: none;
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 22px;
+=09font-weight: normal;
+=09color: #354028;
+}
+
+h1  {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 22px;
+=09font-weight: normal;
+=09color: #354028;
+}
+
+h2   {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 24px;
+=09font-weight: bold;
+=09color: #9c9c2c;
+=09margin: 0;
+=09padding: 0 0 5px 0;
+}
+
+h3   {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 16px;
+=09font-weight: normal;
+=09color: #354028;
+=09margin: 0;
+=09padding: 0 0 3px 0;
+}
+
+h4   {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 14px;
+=09font-weight: normal;
+=09color: #354028;
+=09margin: 0;
+=09padding: 0 0 3px 0;
+}
+
+td.header {
+=09height:198px;
+=09margin: 0;
+=09padding: 16px 0px 0px 26px;
+}
+
+td.header p {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 14px;
+=09color: #ffffff;
+=09margin: 0;
+=09font-weight: normal;
+=09text-decoration:none;
+=09padding-top: 20px;
+=09padding-bottom: 10px;
+}
+
+td.header p a {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 14px;
+=09color: #354028;
+=09margin: 0;
+=09font-weight:bold;
+=09text-decoration:none;
+    padding: 0px;
+}
+
+td.header p a:hover {
+=09text-decoration: underline;
+}
+
+td.blog {
+=09background-position: center top;
+=09padding: 10px 0px;
+}
+
+td.blog p {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 14px;
+=09color: #333333;
+=09padding: 0 0 3px 0;
+=09background-position: center top;
+=09margin: 0;
+}
+
+td.blog p a {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 14px;
+=09font-weight: normal;
+=09color: #354028;
+}
+
+td.blog  img.inline {
+=09padding: 2px 20px 20px 10px;
+}
+
+td.blog p.top {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 13px;
+=09font-weight: normal;
+=09color: #333333;
+=09text-align: right;
+}
+
+=2Eblog .hr {
+=09padding-bottom: 30px;
+}
+
+#blog_article {
+=09width: 500px;
+=09padding: 0px 50px 30px 50px;
+}
+
+td.tweets {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09color: #333333;
+=09text-transform: none;
+=09background-color:#ffffff;
+}
+
+td.tweets ul {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09font-weight: normal;
+=09color: #333333;
+=09margin: 0 0 14px 24px;
+}
+
+td.tweets  ul  a {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 13px;
+=09font-weight: normal;
+=09color: #354028;
+=09text-decoration: none;
+}
+
+=2Etweet {
+=09width: 336px;
+=09padding-bottom:20px;=09=09
+}
+
+td.tweets .tweet img.inline {
+=09padding-right: 10px;
+=09float: left;
+}
+
+td.rightcol p {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09font-weight: normal;
+=09color: #333333;
+=09margin: 0 0 20px 0;
+=09padding: 0;
+}
+
+td.rightcol  p a {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09font-weight: normal;
+=09color: #354028;
+}
+
+td.rightcol p.top {
+=09 font-family: Arial=2C Helvetica=2C sans-serif;
+=09 font-size: 11px;
+=09 font-weight: normal;
+=09 color: #333333;
+=09 text-align: right;
+}
+
+td.rightcol p.top a {
+=09 font-family: Arial=2C Helvetica=2C sans-serif;
+=09 font-size: 11px;
+=09 font-weight: normal;
+=09 color: #354028;
+}
+
+td.rightcol ul {
+=09 font-family: Arial=2C Helvetica=2C sans-serif;
+=09 font-size: 13px;
+=09 font-weight: normal;
+=09 color: #333333;
+=09 margin: 0 0 14px 24px;
+=09 padding: 0;
+}
+
+td.rightcol img.hr {
+=09 border: none;
+}
+
+td.leftcol {
+=09margin: 0;
+=09padding: 0;
+=09background-position: center top;
+}
+
+td.leftcol p {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09color: #333333;
+=09padding: 0 0 3px 0;
+=09background-position: center top;
+=09margin: 0;
+}
+
+td.leftcol a {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09color: #354028;
+=09background-position: center top;
+}
+
+td.footer {
+=09background-color:#ffffff;
+}
+
+td.footer p {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 11px;
+=09font-weight: normal;
+=09color: #333333;
+=09line-height: 16px;
+}
+
+td.footer p a {
+=09 font-family: Arial=2C Helvetica=2C sans-serif;
+=09 font-size: 11px;
+=09 font-weight: normal;
+=09 color: #354028;=09=09
+}
+
+td.bottom {
+=09padding-bottom: 30px;
+}
+
+=2Efooter .hr {
+=09padding-bottom: 20px;
+}
+
+#cclogo {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 9px;
+=09color: #333333;
+=09float: right;
+=09text-align: center;
+}
+</style>
+
+</head><body>
+
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tbody><tr>
+    <td align=3D"center">
+      <table width=3D"810" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" bgcolor=3D"#383838">
+        <tbody>
+          <tr>
+            <td class=3D"header" height=3D"198"><div><a href=3D"http://tru=
+ckhive.us7.list-manage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D=
+65b57863e0&e=3De86f457c7e"><img src=3D"http://freetruckingboard.com/image=
+s/logo.png" width=3D"355" height=3D"100" alt=3D"Truck Hive" border=3D"0"><=
+/a></div><p>Call us at 503-841-6932</p></td>
+          </tr>
+        </tbody>
+      </table>
+      <table width=3D"810" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+">
+        <tbody>
+          <tr>
+            <td colspan=3D"3"><img src=3D"http://freetruckingboard.com/ima=
+ges/header_title_bg.png" alt=3D"Truck Hive Blog" width=3D"810" height=3D"9=
+6"></td>
+          </tr>
+          <tr>
+            <td valign=3D"top"><img src=3D"http://freetruckingboard.com/im=
+ages/middle_bg_topleft.png" width=3D"21" height=3D"215"></td>
+            <td bgcolor=3D"#ffffff" width=3D"768" rowspan=3D"2">
+            <!-- Content Starts Here -->
+              <table width=3D"768" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" bgcolor=3D"#ffffff">
+                <tbody>
+                <tr>
+                  <td><table width=3D"768" border=3D"0" cellpadding=3D"0"=
+ bgcolor=3D"#ffffff">
+                      <tbody><tr>
+                        <td class=3D"blog" width=3D"609">
+        =09=09=09=09=09<table width=3D"609" bgcolor=3D"#ffffff" cellpaddin=
+g=3D"20"><tr><td valign=3D"top">
+<!-- PUT BLOG HERE -->
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage2.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D64767f292f&e=3D=
+e86f457c7e"> Once Around the Yard: How Salvation Army Won its P&D Battles<=
+/a></h1>
+=09=09=09=09<p>Over the Christmas holidays=2C the Salvation Army&#8217;s b=
+ell ringers raise money to help fund its disaster and human-relief efforts=
+=2E<br><br>But considerable dollars also come from its daily pick-ups of don=
+ated household and office goods that are delivered to warehouses for sorti=
+ng and refurbishment. These items are then resold in its Family Stores. Fo=
+r this=2C SA employs a fleet of medium-duty trucks.<br><br><img class=3D"a=
+ligncenter" alt=3D"" src=3D"http://www.truckinginfo.com/fc_images/articles=
+/m-sta71023-1.jpg" width=3D"500" height=3D"320"><br><br>Using modern vehic=
+les=2C the operation now is marching along strongly in its western territo=
+ry=2C which includes California and several other states. But it wasn&#821=
+7;t always so=2C says Henry Filoteo=2C director of production. <br><br></p=
+>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage.com/track/click=
+?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dc7c69e003d&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D271a869a13&e=3D=
+e86f457c7e"> Keeping Tabs With Fuel Cards </a></h1>
+=09=09=09=09<p><em>Using technology to monitor fuel card transactions can=
+ save you money </em><br><br>Fleets don&#8217;t always have a clear pictur=
+e of what&#8217;s happening with their fuel purchasing plans. That&#8217;s=
+ become quite clear in the recent Pilot Flying J scandal=2C where the truc=
+kstop chain allegedly bilked customers out of fuel rebates.<br><br><img cl=
+ass=3D"aligncenter" alt=3D"" src=3D"http://www.truckinginfo.com/fc_images/=
+articles/m-ryder-1.jpeg" width=3D"500" height=3D"375"><br><em><br>Analyzin=
+g fuel card and telematics/GPS data offers fleets increased visibility of=
+ fuel purchase transactions.</em><br><br>Fleets don&#8217;t always have a=
+ clear picture of what&#8217;s happening with their fuel purchasing plans.=
+ That&#8217;s become quite clear in the recent Pilot Flying J scandal=2C w=
+here the truckstop chain allegedly bilked customers out of fuel rebates.<b=
+r>Analyzing fuel card and telematics/GPS data offers fleets increased visi=
+bility of fuel purchase transactions. Analyzing fuel card andtelematics/GP=
+S data offersfleets increased visibility of fuel purchase transactions.<br=
+><br></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage.com/track/click=
+?u=3D2d0ab2154971c0d9a1f834a0f&id=3D97caade45f&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage2.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D9f3491b292&e=3D=
+e86f457c7e">Mismatching Dual Tires: A Sure-Fire Way to Kill Two Tires at O=
+nce </a></h1>
+=09=09=09=09<p><img src=3D"http://www.truckinginfo.com/fc_images/articles/=
+m-ajp-1932-1.jpg" width=3D"500" height=3D"375" class=3D"aligncenter"><br><=
+br><em>Mismatched tire sizes means the shorter tire is chasing the taller=
+ tire down the road=2C and scrubbing away value with every mile.</em><br><=
+br>Close enough for Rock & Roll; good enough for the women I go out with;=
+ close enough for government work ... all these expressions speak to our w=
+illingness to settle for something less than the ideal. In tire maintenanc=
+e=2C the difference between "it'll do" and "ideal" can be costly.<br><br><=
+/p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage2.com/track/clic=
+k?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dfc7c3526fb&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D820184e86c&e=3D=
+e86f457c7e"> Will Truck Owners Face GHG Enforcement? </a></h1>
+=09=09=09=09<p>Truck owners and manufacturers share responsibility for com=
+pliance with the new limits on carbon dioxide emissions and fuel economy=
+=2C although the initial burden falls on the original equipment manufactur=
+ers.<br><br>Comments by a builder representative at the Technology & Maint=
+enance Council&#8217;s meeting in Pittsburgh last September=2C sparked ang=
+st among fleet managers about how the rule will be enforced.<br><br>The ge=
+neral understanding has been that truck and engine builders=2C rather than=
+ owners=2C will be responsible for obeying the Environmental Protection Ag=
+ency and National Highway Traffic Safety Administration regulations that w=
+ent into effect Jan. 1. These rules limit carbon dioxide and require highe=
+r fuel economy for commercial trucks.<br><br></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage1.com/track/clic=
+k?u=3D2d0ab2154971c0d9a1f834a0f&id=3D8cb29e5e05&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dfff601204d&e=3D=
+e86f457c7e"> Does More Fuel Data Make You Smarter? </a></h1>
+=09=09=09=09<p><em>Data can't improve your bottom line all by itself=2C no=
+ matter how much you have.</em><br><br><img class=3D"aligncenter" alt=3D""=
+ src=3D"http://www.truckinginfo.com/fc_images/articles/m-fueling-2010-cr-d=
+l-1.jpg" width=3D"500" height=3D"360"><br><br>"Big Data is Dumb Data." Tha=
+t phrase has really stuck with me over the past few years. Before I joined=
+ Sokolis Group=2C I spent a number of years at a company called ALC within=
+ the direct marketing industry. Chairman Donn Rappaport came up with that=
+ phrase as Big Data proliferated throughout the marketing industry.<br><br=
+>The point of his observation was simple: Although technology has enabled=
+ us to collect so much data now=2C does having vast amounts of it really m=
+ake us any smarter?<br><br></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage1.com/track/clic=
+k?u=3D2d0ab2154971c0d9a1f834a0f&id=3Df11462f9da&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D7a02f07837&e=3D=
+e86f457c7e"> Save Fuel=2C Increase Profit=2C Save the Planet </a></h1>
+=09=09=09=09<p><em>New greenhouse gas regs for 2014 are here &#8211; and m=
+ight be a win-win.</em><br>Is this a case of win-win? Do the new regulatio=
+ns limiting greenhouse gas emissions help both the environment and truck o=
+perators&#8217; bottom lines?<br><br>So it seems. The regs=2C written by t=
+he Environmental Protection Agency and the National Highway Traffic Safety=
+ Administration=2C are formally titled &#8220;Greenhouse Gas Emissions Sta=
+ndards and Fuel Efficiency Standards for Medium- and Heavy-Duty Engines an=
+d Vehicles.&#8221;<br><br></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage.com/track/click=
+?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dcd688f9eea&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+<!-- END BLOG -->
+
+
+=09=09=09=09=09=09=09</td></tr></table>
+    =09=09=09        </td>
+                        <td bordercolor=3D"0" class=3D"rightcol" align=3D"=
+center" valign=3D"top" width=3D"150">
+                          <div><br>
+                          =09<a href=3D"http://truckhive.us7.list-manage.c=
+om/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dcd1484a012&e=3D=
+e86f457c7e"><img src=3D"http://www.freetruckingboard.com/images/social_icons/rss.p=
+ng" width=3D"32" border=3D"0" height=3D"32" alt=3D"feed"></a>&nbsp;
+                            <a href=3D"http://truckhive.us7.list-manage.co=
+m/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dbb1646817c&e=3D=
+e86f457c7e"><img src=3D"http://www.freetruckingboard.com/images/social_icons/twitte=
+r.png" alt=3D"twitter" width=3D"32" border=3D"0" height=3D"32"></a><br>
+                            <a href=3D"http://truckhive.us7.list-manage1.c=
+om/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D19def611b8&e=3D=
+e86f457c7e"><img src=3D"http://www.freetruckingboard.com/images/social_icons/faceb=
+ook.png" alt=3D"Facebook" width=3D"32" border=3D"0" height=3D"32"></a>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                    <table cellspacing=3D"0" cellpadding=3D"0">
+                        <tbody><tr>
+                        =09<td><img src=3D"http://freetruckingboard.com/im=
+ages/middle_divider_tweets_only.png" alt=3D"Tweets and Events" width=3D"76=
+8" height=3D"88" border=3D"0"></td>
+                        </tr></tbody>
+=09=09=09=09=09</table>
+                    <table width=3D"768" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"25" bgcolor=3D"#ffffff">
+                      <tbody><tr>
+                        <td class=3D"tweets" align=3D"left" valign=3D"top"=
+ width=3D"336" bgcolor=3D"#ffffff">
+<!-- PUT TWITTER HERE -->
+                    <div class=3D"tweet"><!-- GetLogisticJobs -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/65=
+690161/G_normal.png" alt=3D"Get Logistics Jobs" class=3D"inline" align=3D"=
+left" width=3D"50" height=3D"50">Logistics Management Analyst - #<b>Baltim=
+ore</b> =2C MD (<a href=3D"http://truckhive.us7.list-manage.com/track/clic=
+k?u=3D2d0ab2154971c0d9a1f834a0f&id=3D4f36d5e27c&e=3De86f457c7e">tinyurl.c=
+om/k83bbkb</a>) #<b>Logistics</b> #<b>jobs</b> #<b>job</b> #<b>GetAllJobs<=
+/b><br>
+                    Jan 20 from twitter</p></div>
+
+                    <div class=3D"tweet"><!-- TMWSystems -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/23=
+43902244/7zo5u7luf4h3haj0xr42_normal.png" alt=3D"TMW Systems" class=3D"inl=
+ine" align=3D"left" width=3D"50" height=3D"50">Read Up: The importance of=
+ trucking software for small business fleets. <a href=3D"http://truckhive.=
+us7.list-manage2.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D5c188e=
+d24d&e=3De86f457c7e">ow.ly/sF76q</a><br>
+                    Jan 20 from twitter</p></div>
+
+                    <div class=3D"tweet"><!-- semitrucks -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/27=
+4865335/trucker_normal.jpg" alt=3D"TruckerToTrucker.com" class=3D"inline"=
+ align=3D"left" width=3D"50" height=3D"50">Great supply of #<b>Freightline=
+r</b> #<b>trucks</b> for sale in #<b>Oklahoma</b> <a href=3D"http://truckh=
+ive.us7.list-manage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D3bc=
+b3f9275&e=3De86f457c7e">ow.ly/sKMuI</a><br>
+                    Jan 20 from twitter</p></div>
+
+
+<!-- END TWITTER -->
+                        </td>
+                        <td class=3D"rightcol tweets" align=3D"left" valig=
+n=3D"top" width=3D"357">
+                        <table width=3D"357" cellspacing=3D"0" cellpadding=
+=3D"0">
+                        =09<tbody>
+                            =09<tr>
+                                =09<td valign=3D"top">
+<!-- PUT TWITTER2 HERE -->
+                    <div class=3D"tweet"><!-- EON_Transport -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/27=
+95592673/ffe31f2c48d4e45a540978a270a10023_normal.png" alt=3D"EON Transport=
+ation" class=3D"inline" align=3D"left" width=3D"50" height=3D"50">Harris C=
+orporation CEO William M. Brown to Speak at Barclays Industrial Select Con=
+ference <a href=3D"http://truckhive.us7.list-manage.com/track/click?u=3D2d=
+0ab2154971c0d9a1f834a0f&id=3D7458fa0e55&e=3De86f457c7e">dlvr.it/4l96J7</a=
+><br>
+                    Jan 20 from twitter</p></div>
+
+                    <div class=3D"tweet"><!-- Saferway -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/41=
+3719719200305152/t2p1E7zZ_normal.jpeg" alt=3D"Saferway Victoria BC" class=
+=3D"inline" align=3D"left" width=3D"50" height=3D"50">Tip of the day -  Al=
+ign kingpin on the trailer to go down the center of the fifth-wheel to pre=
+vent sideways stress. http://t.co/55G33L7ZUX<br>
+                    Jan 20 from twitter</p></div>
+
+                    <div class=3D"tweet"><!-- TPSMagazine -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/29=
+67350764/aae9f4211fca2d32975922d8c5ccd508_normal.jpeg" alt=3D"Truck Parts&=
+Service" class=3D"inline" align=3D"left" width=3D"50" height=3D"50">VIPAR=
+ Heavy Duty has acquired Power Heavy Duty | <a href=3D"http://truckhive.us=
+7.list-manage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3De2f97c1c3=
+f&e=3De86f457c7e">successfuldealer.com/?p=3D19251</a><br>
+                    Jan 20 from twitter</p></div>
+
+
+<!-- END TWITTER2 -->
+=09=09=09=09=09=09=09=09=09</td>
+                                </tr>
+                             </tbody>
+                           </table>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                    <table width=3D"768" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"25">
+                      <tbody>
+                      <tr>
+                        <td colspan=3D"2" class=3D"footer"><p>
+                          <a href=3D"http://truckhive.us7.list-manage.com/=
+track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dfb5af0c471&e=3De86f457c7e"=
+>Facebook</a> | <a href=3D"http://truckhive.us7.list-manage.com/track/clic=
+k?u=3D2d0ab2154971c0d9a1f834a0f&id=3D062bd50f1e&e=3De86f457c7e">RSS feed<=
+/a> | <a href=3D"http://truckhive.us7.list-manage.com/track/click?u=3D2d0a=
+b2154971c0d9a1f834a0f&id=3D6ce074aec9&e=3De86f457c7e">Twitter</a></p>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                    </td>
+                </tr>
+              </tbody></table>
+            <!-- Content Ends Here -->
+            </td>
+            <td valign=3D"top"><img src=3D"http://freetruckingboard.com/im=
+ages/middle_bg_topright.png" width=3D"21" height=3D"215"></td>
+          </tr>
+          <tr>
+            <td background=3D"http://freetruckingboard.com/images/middle_b=
+g_left.png">&nbsp;</td>
+            <td background=3D"http://freetruckingboard.com/images/middle_b=
+g_right.png">&nbsp;</td>
+          </tr>
+          <tr>
+            <td class=3D"bottom" colspan=3D"3"><img src=3D"http://freetruc=
+kingboard.com/images/middle_bg_bot.png" width=3D"810" height=3D"55"></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</tbody></table>
+            <center>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" id=3D"canspamBarWrapper" style=3D"background-color:#FFFFFF; b=
+order-top:1px solid #E5E5E5;">
+                    <tr>
+                        <td align=3D"center" valign=3D"top" style=3D"paddi=
+ng-top:20px; padding-bottom:20px;">
+                            <table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" id=3D"canspamBar">
+                                <tr>
+                                    <td align=3D"center" valign=3D"top" st=
+yle=3D"color:#606060; font-family:Helvetica=2C Arial=2C sans-serif; font-s=
+ize:11px; line-height:150%; padding-right:20px; padding-bottom:5px; paddin=
+g-left:20px; text-align:center;">
+                                        This email was sent to <a href=3D"=
+bruce@untroubled.org" target=3D"_blank" style=3D"color:#404040 !important;">=
+bruce@untroubled.org</a>
+                                        <br>
+                                        <a href=3D"http://truckhive.us7.li=
+st-manage.com/about?u=3D2d0ab2154971c0d9a1f834a0f&id=3D9738f1e6bd&e=3D=
+e86f457c7e&c=3D01df26fa79" target=3D"_blank" style=3D"color:#404040 !important;"=
+><em>why did I get this?</em></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"http:/=
+/truckhive.us7.list-manage1.com/unsubscribe?u=3D2d0ab2154971c0d9a1f834a0f&=
+id=3D9738f1e6bd&e=3De86f457c7e&c=3D01df26fa79" style=3D"color:#404040 !impor=
+tant;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"ht=
+tp://truckhive.us7.list-manage.com/profile?u=3D2d0ab2154971c0d9a1f834a0f&i=
+d=3D9738f1e6bd&e=3De86f457c7e" style=3D"color:#404040 !important;">update su=
+bscription preferences</a>
+                                        <br>
+                                        Truck Hive &middot; 1101 SE Salmon=
+ St &middot; Portland=2C OR 97214 &middot; USA
+                                        <br>
+                                        <br>
+                                        <a href=3D"http://www.mailchimp.co=
+m/monkey-rewards/?utm_source=3Dfreemium_newsletter&utm_medium=3Demail&utm_=
+campaign=3Dmonkey_rewards&aid=3D2d0ab2154971c0d9a1f834a0f&afl=3D1"><img sr=
+c=3D"http://cdn-images.mailchimp.com/monkey_rewards/MC_MonkeyReward_19.png=
+" border=3D"0" alt=3D"Email Marketing Powered by MailChimp" title=3D"MailC=
+himp Email Marketing" width=3D"139" height=3D"54"></a>
+                                        <br>
+                                        <br>
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <style type=3D"text/css">
+                    @media only screen and (max-width: 480px){
+                        table[id=3D"canspamBar"] td{font-size:14px !impor=
+tant;}
+                        table[id=3D"canspamBar"] td a{display:block !impo=
+rtant; margin-top:10px !important;}
+                    }
+                </style>
+            </center><img src=3D"http://truckhive.us7.list-manage.com/trac=
+k/open.php?u=3D2d0ab2154971c0d9a1f834a0f&id=3D01df26fa79&e=3De86f457c7e"=
+ height=3D"1" width=3D"1"></body></html>
+--_----------=_MCPart_828729011--

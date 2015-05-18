@@ -1,0 +1,44 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 28084 invoked from network); 12 Jan 2014 02:08:04 -0000
+Received: from serverh.domain (host202-84-static.90-82-b.business.telecomitalia.it [82.90.84.202])
+  by churchill.factcomp.com ([24.89.90.248])
+  with SMTP via TCP; 12 Jan 2014 02:08:04 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+  s=s1024;d=host202-84-static.90-82-b.business.telecomitalia.it;
+  h=message-id:from:to:subject:date:mime-version:content-type;
+  bh=Gx43iPNz9gVWeC2BJ/lT+/lxkFw=;
+  b=PcvGX7ncSJyd9XnyoRoFpyNq75iUaS97YDdypUjtK9F1wa6Rnratzdj9ygcBx4tdaOGFVrOOXC8GUYNhLwNUD9z/Kh+zw2ariu21RK9p3vYvrlTXRY5XK07/6CR9DTiD2oHa3EwiZtqSgtvRBdShcvxj/Ei8Mf5w3OTI4ra/YrQ=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024;d=host202-84-static.90-82-b.business.telecomitalia.it;
+  h=message-id:from:to:subject:date:mime-version:content-type;
+  b=HGMrgbWARboCrHT1zYc7jQcI3Lur4NDB06kcyN5gj1Ja+LUV5Cy+D7Xzmwb48JF3m8B/v2hE4b70kHJLbytb0tpjRMuZwnZp29wxzi9U60uON5GmuPZ0pfldx3kWDebZUZKGTJYv19cnlEGF++f1QkBB8JU3iTGlc/rfy85zDb0=
+Message-ID: <183df62639bf4a9109b565612fd3b0cb@host202-84-static.90-82-b.business.telecomitalia.it>
+From: <bruceg@host202-84-static.90-82-b.business.telecomitalia.it>
+To: <bruceg@em.ca>
+Subject: hi
+Date: Sun, 12 Jan 2014 03:13:10 +0100
+X-Priority: 3
+X-Mailer: The Bat! (v.4.0.12) Professional
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="a4b83f79fe30634b3aa0ecdd00040aa0"
+
+This is a multi-part message in MIME format.
+
+--a4b83f79fe30634b3aa0ecdd00040aa0
+Content-Type: text/plain;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Sir, http://hostelsmsk.ru/cruelly/preamble/
+
+--a4b83f79fe30634b3aa0ecdd00040aa0
+Content-Type: text/html;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><BODY><p id=3D"CLcnu3F70DPWvhcq" class=3D"z2w0DhK59o3">hi frend =
+http://intersos.ru/droll/incentive/?3OFSYWPZ</p></BODY></HTML>
+
+--a4b83f79fe30634b3aa0ecdd00040aa0--
+

@@ -1,0 +1,12 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 18241 invoked from network); 27 Jan 2014 16:41:43 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 27 Jan 2014 16:41:43 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 27 Jan 2014 16:41:43 -0000
+Received: (qmail 15143 invoked from network); 27 Jan 2014 16:41:42 -0000
+Received: from 69.5.6.152 ([115.248.188.149])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 27 Jan 2014 16:41:42 -0000
+

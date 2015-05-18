@@ -1,0 +1,157 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 718 invoked from network); 24 Jan 2014 05:03:01 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 24 Jan 2014 05:03:01 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 24 Jan 2014 05:03:01 -0000
+Received: (qmail 22455 invoked from network); 24 Jan 2014 05:03:00 -0000
+Received: from nin001.localhost ([103.251.156.60])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 24 Jan 2014 05:03:00 -0000
+Received: by nin001.localhost (Postfix, from userid 1002)
+	id 52F741490316; Fri, 24 Jan 2014 14:01:56 +0900 (JST)
+Received: from localhost (unknown [10.35.171.16])
+	by localhost (Postfix) with ESMTP id 14D591048CAF
+	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Fri, 24 Jan 2014 14:01:45 +0900 (JST)
+Received: from ayykmgmco.jmv (unknown [103.30.73.155])
+	by nin001.localhost (Postfix) with ESMTP id 4B6F3148FAE0
+	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Fri, 24 Jan 2014 14:01:45 +0900 (JST)
+Received: from localhost (localhost.ayykmgmco.jmv [127.0.0.1])
+	by ayykmgmco.jmv (Postfix) with ESMTP id 14D591048CAF
+	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Fri, 24 Jan 2014 14:01:45 +0900 (JST)
+MIME-Version: 1.0
+Content-Type: multipart/related;
+ boundary="=_7f9ff612d01a77fde63c6cc7e9957c7f"
+To: <lists-reiserfs-list@bruce-guenter.dyndns.org>
+From: <mail-noreply@ply-google.com>
+Subject: =?Shift_JIS?B?R29vZ2xlUGxheZazl7+CqIK3greC34NBg3aDio/Qie4=?=
+Message-Id: <20140124050145.14D591048CAF@ayykmgmco.jmv>
+Date: Fri, 24 Jan 2014 14:01:45 +0900 (JST)
+
+--=_7f9ff612d01a77fde63c6cc7e9957c7f
+Content-Type: multipart/alternative;
+ boundary="=_eca9f810ea28bce9a36e29a4a61b3f09"
+
+--=_eca9f810ea28bce9a36e29a4a61b3f09
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=Shift_JIS
+
+
+--=_eca9f810ea28bce9a36e29a4a61b3f09
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset=Shift_JIS
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjEvL0VOIiAiaHR0cDov
+L3d3dy53My5vcmcvVFIveGh0bWwxMS9EVEQveGh0bWwxMS5kdGQiPgo8aHRtbD4NCjxoZWFkPg0K
+PC9oZWFkPg0KPGJvZHk+PGRpdiBzdHlsZT0nYm9yZGVyOiAxcHggc29saWQgYmxhY2s7IG1hcmdp
+bi1sZWZ0OiBhdXRvOyBtYXJnaW4tcmlnaHQ6IGF1dG87IHdpZHRoOiAyNTBweDsgYmFja2dyb3Vu
+ZC1jb2xvcjogJz48aW1nIHNyYz0nY2lkOm1haWxfdG9wJyBzdHlsZT0nd2lkdGg6IDI1MHB4Oyc+
+PGJyPg0KR29vZ2xlUGxheSCC5oLoPGJyPg0KPGJyPg0KPGJyPg0Kg1iDXoNig3SDSYNYg1iDgYLM
+lrOXv5BWjeyDQYN2g4qC8IKyj9CJ7jxicj4NCjxwIHN0eWxlPSJiYWNrZ3JvdW5kLWNvbG9yOiNm
+ZmZmNjY7Ij48Zm9udCBzaXplPSI0Ij48Yj6BRZBWjeyCqIK3greC34NBg3aDijwvYj48L2ZvbnQ+
+PC9wPg0KDQqKrpFTlrOXv4LMQUtCNDiDQYN2g4qCqpNvj+ohITxicj4NCo2hgsWCzYypgueC6oLI
+gqKJ34uOgsyDT4OJg3KDQYKpgueDQYN2g4qMwJLog0+DiYNyg0GCqpC3guiR8o5SISE8YnI+DQqD
+XoNig3aCt4Lpgr6Cr4LFgUFTRINKgVuDaJXbkbaC4JXHjoaQ3ZLoguCKeYFYg1iDfYFbg2eCyY9v
+l4iC3IK3gUI8YnI+DQo8YnI+DQqNoYLIgueDioOKgVuDWJPBlcqLTJRPgsWKrpFTlrOXv4LFg1+D
+RYOTg42BW4NoicKUXCEhPGJyPg0KPGJyPg0KQUtCNDg8QSBIcmVmPSJodHRwOi8vbmluMDAxLm1h
+Zy1yZm4ubmV0L3FhZi82d2trdy5waHA/dDk9TG04bXpNOG16UWsxem16cDhtaWN6YVJHem1GRXpP
+a3ciPpHlk4cgl0SOcTwvYT48YnI+DQpBS0I0ODxBIEhyZWY9Imh0dHA6Ly9uaW4wMDEubWFnLXJm
+bi5uZXQvcWFmLzZ3a2t3LnBocD90OT10MHBnOE1MUkwwSHA4bWljemE4dzhtTEV6UWttNzBwNSI+
+j6yTiCCXeo3YPC9hPjxicj4NCoyzQUtCNDg8QSBIcmVmPSJodHRwOi8vbmluMDAxLm1hZy1yZm4u
+bmV0L3FhZi82d2trdy5waHA/dDk9TDB6Tjcwb3V6TVVNek15NThtRjU4bW9tSlE4YzdRTGIiPpFP
+k2Mgk9aOcTwvYT48YnI+DQqMs0FLQjQ4PEEgSHJlZj0iaHR0cDovL25pbjAwMS5tYWctcmZuLm5l
+dC9xYWYvNndra3cucGhwP3Q5PXQwcGc4TUxSTDBVTThtcmM3UUZ3N1Fyd3pPeW03UWlFIj6OwpNj
+IJaDl6KOcTwvYT48YnI+DQqMs1NETjQ4PEEgSHJlZj0iaHR0cDovL25pbjAwMS5tYWctcmZuLm5l
+dC9xYWYvNndra3cucGhwP3Q5PUpROGM3UUpONzBvdXpNVTN6aDhtelFvUjhNb2M4MFB1Ij6L2pPf
+PC9hPjxicj48YnI+DQo8YnI+DQo8ZGl2IGFsaWduPSJsZWZ0Ij4NCjxBIEhyZWY9Imh0dHA6Ly9u
+aW4wMDEubWFnLXJmbi5uZXQvcWFmLzZ3a2t3LnBocD90OT1MbThtek04bXpRazF6bXpwOG1pY3ph
+Ukd6bUZFek9rdyI+PEltZyBTcmM9ImNpZDoxQHdpbnMiIFdpZHRoPSI2MCIgSGVpZ2h0PSI2MCI+
+PC9hPg0KPEEgSHJlZj0iaHR0cDovL25pbjAwMS5tYWctcmZuLm5ldC9xYWYvNndra3cucGhwP3Q5
+PXQwcGc4TUxSTDBIcDhtaWN6YTh3OG1MRXpRa203MHA1Ij48SW1nIFNyYz0iY2lkOjJAd2lucyIg
+V2lkdGg9IjYwIiBIZWlnaHQ9IjYwIj48L2E+DQo8QSBIcmVmPSJodHRwOi8vbmluMDAxLm1hZy1y
+Zm4ubmV0L3FhZi82d2trdy5waHA/dDk9TDB6Tjcwb3V6TVVNek15NThtRjU4bW9tSlE4YzdRTGIi
+PjxJbWcgU3JjPSJjaWQ6M0B3aW5zIiBXaWR0aD0iNjAiIEhlaWdodD0iNjAiPjwvYT4NCjwvZGl2
+Pg0KPGRpdiBhbGlnbj0icmlnaHQiPg0KPEEgSHJlZj0iaHR0cDovL25pbjAwMS5tYWctcmZuLm5l
+dC9xYWYvNndra3cucGhwP3Q5PXQwcGc4TUxSTDBVTThtcmM3UUZ3N1Fyd3pPeW03UWlFIj48SW1n
+IFNyYz0iY2lkOjRAd2lucyIgV2lkdGg9IjYwIiBIZWlnaHQ9IjYwIj48L2E+DQo8QSBIcmVmPSJo
+dHRwOi8vbmluMDAxLm1hZy1yZm4ubmV0L3FhZi82d2trdy5waHA/dDk9SlE4YzdRSk43MG91ek1V
+M3poOG16UW9SOE1vYzgwUHUiPjxJbWcgU3JjPSJjaWQ6NUB3aW5zIiBXaWR0aD0iNjAiIEhlaWdo
+dD0iNjAiPjwvYT4NCjwvZGl2Pg0KPHAgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6I2ZmZmY2Njsi
+Pjxmb250IHNpemU9IjQiPjxiPoFFjUyNkDwvYj48L2ZvbnQ+PC9wPg0KjUqCxZhikeiCzILcgsaC
+34NUg0ODZ4KqQW5kcm9pZILFk2+P6iEhPGJyPjxicj4NCjxBIEhyZWY9Imh0dHA6Ly9uaW4wMDEu
+bWFnLXJmbi5uZXQvcWFmLzZ3a2t3LnBocD90OT1MMFpONzBvdXpNVU16MFA1elFGZzhtTFJKUThj
+N1FMYiI+PEltZyBTcmM9ImNpZDo3QHdpbnMiIFdpZHRoPSI1MCIgSGVpZ2h0PSI1MCI+PC9hPjxi
+cj4NCoOBg1aDRYN9kayV8SAyY2iC3ILGgt+DVINDg2c8QSBIcmVmPSJodHRwOi8vbmluMDAxLm1h
+Zy1yZm4ubmV0L3FhZi82d2trdy5waHA/dDk9TDBaTjcwb3V6TVVNejBQNXpRRmc4bUxSSlE4YzdR
+TGIiPjxCVVRUT04gdHlwZT0ic3VibWl0Ij6Ws5e/g1+DRYOTg42BW4NoPC9CVVRUT04+PC9BPjxi
+cj4NCjxocj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCjxicj4NCkdvb2dsZVBsYXkgg2CBW4OA
+PGJyPg0KQ29weXJpZ2h0IChDKSAyMDE0IEdvb2dsZSBJbmMuPGJyPg0KPC9kaXY+PC9ib2R5Pg0K
+PC9odG1sPg==
+--=_eca9f810ea28bce9a36e29a4a61b3f09--
+
+--=_7f9ff612d01a77fde63c6cc7e9957c7f
+Content-Type: message/external-body; access-type=x-deleted; length=2484
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <1@wins>
+Content-Type: image/jpeg;
+ name="img1.jpg"
+
+--=_7f9ff612d01a77fde63c6cc7e9957c7f
+Content-Type: message/external-body; access-type=x-deleted; length=2484
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <2@wins>
+Content-Type: image/jpeg;
+ name="img2.jpg"
+
+--=_7f9ff612d01a77fde63c6cc7e9957c7f
+Content-Type: message/external-body; access-type=x-deleted; length=4093
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <3@wins>
+Content-Type: image/jpeg;
+ name="img3.jpg"
+
+--=_7f9ff612d01a77fde63c6cc7e9957c7f
+Content-Type: message/external-body; access-type=x-deleted; length=2423
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <4@wins>
+Content-Type: image/jpeg;
+ name="img4.jpg"
+
+--=_7f9ff612d01a77fde63c6cc7e9957c7f
+Content-Type: message/external-body; access-type=x-deleted; length=2435
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <5@wins>
+Content-Type: image/jpeg;
+ name="img5.jpg"
+
+--=_7f9ff612d01a77fde63c6cc7e9957c7f
+Content-Type: message/external-body; access-type=x-deleted; length=4032
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <7@wins>
+Content-Type: image/jpeg;
+ name="img7.jpg"
+
+--=_7f9ff612d01a77fde63c6cc7e9957c7f
+Content-Type: message/external-body; access-type=x-deleted; length=1702
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <mail_top>
+Content-Type: image/gif;
+ name="mail_top.gif"
+
+--=_7f9ff612d01a77fde63c6cc7e9957c7f--
+

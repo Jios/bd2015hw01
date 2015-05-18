@@ -1,0 +1,46 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 902 invoked from network); 15 Jan 2014 06:36:26 -0000
+Received: from ongate.wareso.ro (ongate.wareso.ro [81.12.155.242])
+  by churchill.factcomp.com ([24.89.90.248])
+  with ESMTP via TCP; 15 Jan 2014 06:36:26 -0000
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by ongate.wareso.ro (Postfix) with ESMTP id 270A1B9823D;
+	Wed, 15 Jan 2014 08:42:02 +0200 (EET)
+Received: from User (dsl51B7D524.fixip.t-online.hu [81.183.213.36])
+	by ongate.wareso.ro (Postfix) with ESMTPA id 19618B98236;
+	Wed, 15 Jan 2014 08:41:58 +0200 (EET)
+From: "security@amnazon.com"<security@amnazon.com>
+Subject: You have 1 New Security Notification!
+Date: Wed, 15 Jan 2014 07:36:37 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20140115064159.19618B98236@ongate.wareso.ro>
+To: undisclosed-recipients:;
+
+<html>
+<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWaIR4zUGXBcHH9ebqCjrJ61HJXsAd1XPriLWH8OTFo0iaOAQd" width="264" height="76"><br>
+<font face="arial" size="2"><b>Dear Customer,</b> <BR>
+<BR>
+We recently reviewed your account, and suspect that your <BR>
+Amazon account may have been accessed by an unauthorized<BR> 
+third party. Protecting the security of your account is our<BR> 
+primary concern. Therefore, as a preventative measure, we have<BR> 
+temporarily limited access to sensitive account features.<BR>
+<BR>
+To restore your account access, we need you to confirm your<BR> 
+identity, to do so we need you to follow the link below and<BR> 
+proceed to confirm your information:<BR>
+<BR></font>
+<font face="Verdana" style="font-size: 9pt"><a href="http://www.enrichcosmo.com/amzzon/" class="style4">http://www.amazon.com/hub/index.action?template=signin</a></font><br>
+<BR><font face="arial" size="2">
+Thank you for your patience as we work together to protect your account.</b><br>
+<BR>
+<font face="arial" size="2"><b>Sincerely,<BR>
+Amazon Customer Service.</b>
+</html>

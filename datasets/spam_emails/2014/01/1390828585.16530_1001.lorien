@@ -1,0 +1,159 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 6273 invoked from network); 27 Jan 2014 10:27:56 -0000
+Received: (qmail 18908 invoked from network); 27 Jan 2014 10:27:56 -0000
+Received: from mail-oa0-f72.google.com (mail-oa0-f72.google.com [209.85.219.72])
+  by mx05.futurequest.net ([10.2.1.176])
+  with ESMTP via TCP; 27 Jan 2014 10:27:56 -0000
+Received: by mail-oa0-f72.google.com with SMTP id i4so23732359oah.11
+        for <bruce@untroubled.org>; Mon, 27 Jan 2014 02:27:55 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type;
+        bh=977GuhGryJVH4DtjnHRxlcAg6On1FFc+IsFF6I/nkhY=;
+        b=aP0QJP5Tn8YOf97r4345m1DFf9s4Wq6wRcH586jwbjKDercMGlHeueU1GK/suHxUGs
+         1fGEwXTuii9r0dDIUmzLivs8gu/sy8WEVrrfLbQ6i1RtQLTcwUNbkCrCxkufpSsP6JPn
+         SR7s9/x3qmV2Er6CLEJry8NRmB97YwMMBsoenl4GXTpkIKHjVx/ij78Fb6uZ2eO5gygi
+         2YQ+UaGz0Jva27+SdD9r1nCPjJtMHI5GUBdGwNWDKf6OycvxAcP6iFp95g4/rpFn90Ep
+         Whbg2OCiMoGi3SOLXzUGeA455lizdrOQOnK4t+INqMZG0kAx8xnaG9xIHeTLpSK8iFi0
+         PE6A==
+MIME-Version: 1.0
+X-Received: by 10.43.135.4 with SMTP id ie4mr747225icc.1.1390818475565; Mon,
+ 27 Jan 2014 02:27:55 -0800 (PST)
+Message-ID: <20cf307f30882ee77604f0f1297c@google.com>
+Date: Mon, 27 Jan 2014 10:27:55 +0000
+Subject: www.untroubled.org
+From: Alana Roper <alanaroper4@gmail.com>
+To: bruce@untroubled.org
+Content-Type: multipart/alternative; boundary=20cf307f30882ee77004f0f12979
+Content-Length: 8483
+
+--20cf307f30882ee77004f0f12979
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+DQoNCg0KDQoNCg0KDQoNCg0KSGkNCg0KDQoNCkkgZm91bmQgeW91ciBjb250YWN0IG92ZXIgdGhl
+IHdlYiBhbmQgd2FudGVkIHRvIHNob290IHlvdSBhIHF1aWNrIG5vdGUuDQoNCg0KDQpXaXRoIFNl
+YXJjaCBFbmdpbmUgT3B0aW1pemF0aW9uIChTRU8pIGFuZCBXZWIgRGV2ZWxvcG1lbnQsIEkgY2Fu
+IGhlbHAgeW91cg0KYnVzaW5lc3MgYWNoaWV2ZSBiZXR0ZXIgcmFua2luZyBvbiBwcm9taW5lbnQg
+c2VhcmNoIGVuZ2luZXMgbGlrZSBHb29nbGUsDQpCaW5nICYgb3RoZXJzIHRvIGdlbmVyYXRlIG1v
+cmUgbGVhZHMvc2FsZXMgKE5vIE9mZmVuc2U6IFNFTyBpcyB0aGUgcHJvY2Vzcw0Kb2YgYWZmZWN0
+aW5nIHRoZSB2aXNpYmlsaXR5IG9mIGEgd2Vic2l0ZSBvciBhIHdlYiBwYWdlIGluIGEgc2VhcmNo
+IGVuZ2luZSdzDQoibmF0dXJhbCIgb3IgdW4tcGFpZCAib3JnYW5pYyIgc2VhcmNoIHRocm91Z2gg
+aW5kZXhpbmcsIHByZXZlbnRpbmcgY3Jhd2xpbmcNCiYgaW5jcmVhc2luZyBwcm9taW5lbmNlKQ0K
+DQoNCg0KVGhpcyBtYXkgbG9vayBsaWtlIG9uZSBvZiB0aG9zZSBzcHVyaW91cyBmb3JlaWduIGVt
+YWlscyB5b3UgZ2V0IGluIHlvdXINCmluYm94IGV2ZXJ5IGRheSB0aGF0IHByb21pc2UgYmlnIGJ1
+dCBkZWxpdmVycyBub3RoaW5nLiBKdXN0IHRvIGJlIHVwZnJvbnQNCndlIGFyZSBoYXBweSB0byBk
+aXNjdXNzIHlvdXIgcmVxdWlyZW1lbnQgZnJlZSBvZiBjb3N0Lg0KDQoNCg0KU28sIGxldCBtZSBr
+bm93IGlmIHlvdSBhcmUgaW50ZXJlc3RlZCBpbiByZWNlaXZpbmcgZnVydGhlcg0KaW5mb3JtYXRp
+b24vcXVvdGUgd2l0aCBubyBzdHJpbmdzIGF0dGFjaGVkIGZyb20gb3VyIHRlYW0gb2YgU0VPICYg
+V2ViDQpleHBlcnRzICYgaWYgeW91IGFyZSBhbGwgb2sgdGhhbiBzaW1wbHkgcmVwbHkgd2l0aCBh
+biDigJxVTlNVQlNDUklCReKAnSBoZWFkZXINCmFuZCBJIHByb21pc2Ugbm90IHRvIHdhc3RlIHlv
+dXIgdGltZSBldmVyIGFnYWluIChraW5kIGFwb2xvZ3kpLg0KDQoNCg0KVGhhbmsgeW91IGFuZCBo
+YXZlIGEgbmljZSBkYXkuDQoNCg0KQmVzdCBSZWdhcmRzLA0KDQoNCkFsYW5hIFJvcGVyDQpPbmxp
+bmUgTWFya2V0aW5nIFNwZWNpYWxpc3QNCg0KKsWgKirDiSoqw5YqDQo=
+--20cf307f30882ee77004f0f12979
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"font-family:tahoma,sans-serif;border-collapse:collapse;border:medium=
+ none"><tbody><tr><td valign=3D"top" width=3D"245" style=3D"width:2.55in;ba=
+ckground-image:none;background-color:navy;padding:0in 5.4pt;background-repe=
+at:repeat repeat">
+<p class=3D"MsoNormal"><span style=3D"font-size:12pt;font-family:&#39;Couri=
+er New&#39;;color:rgb(40,40,40)">=C2=A0</span></p></td><td valign=3D"top" w=
+idth=3D"245" style=3D"width:2.55in;background-image:none;background-color:f=
+uchsia;padding:0in 5.4pt;background-repeat:repeat repeat">
+<p class=3D"MsoNormal"><span style=3D"font-size:12pt;font-family:&#39;Couri=
+er New&#39;;color:rgb(40,40,40)">=C2=A0</span></p></td><td valign=3D"top" w=
+idth=3D"245" style=3D"width:2.55in;background-image:none;background-color:r=
+gb(255,204,0);padding:0in 5.4pt;background-repeat:repeat repeat">
+<p class=3D"MsoNormal"><span style=3D"font-size:12pt;font-family:&#39;Couri=
+er New&#39;;color:rgb(40,40,40)">=C2=A0</span></p></td></tr></tbody></table=
+><p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;font-family:tahoma,=
+sans-serif;background-image:none;background-repeat:repeat repeat">
+<span style=3D"font-size:12pt;font-family:&#39;Courier New&#39;;color:rgb(4=
+0,40,40)"><br>Hi</span></p><p class=3D"MsoNormal" style=3D"margin-bottom:0.=
+0001pt;font-family:tahoma,sans-serif;background-image:none;background-repea=
+t:repeat repeat">
+<span style=3D"font-size:12pt;font-family:&#39;Courier New&#39;;color:rgb(4=
+0,40,40)">=C2=A0</span></p><p class=3D"MsoNormal" style=3D"margin-bottom:0.=
+0001pt;font-family:tahoma,sans-serif;background-image:none;background-repea=
+t:repeat repeat">
+<span style=3D"font-size:12pt;font-family:&#39;Courier New&#39;;color:rgb(4=
+0,40,40)">I found your contact over the web and wanted to shoot you a quick=
+ note.</span></p><p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;fon=
+t-family:tahoma,sans-serif;background-image:none;background-repeat:repeat r=
+epeat">
+<span style=3D"font-size:12pt;font-family:&#39;Courier New&#39;;color:rgb(4=
+0,40,40)">=C2=A0</span></p><p class=3D"MsoNormal" style=3D"margin-bottom:0.=
+0001pt;font-family:tahoma,sans-serif;background-image:none;background-repea=
+t:repeat repeat">
+<span style=3D"font-size:12pt;font-family:&#39;Courier New&#39;;color:rgb(4=
+0,40,40)">With Search Engine Optimization (SEO) and Web Development, I can =
+help your business achieve better ranking on prominent search engines like =
+Google, Bing &amp; others to generate more leads/sales=C2=A0</span><span st=
+yle=3D"font-family:&#39;Courier New&#39;;color:rgb(89,89,89)">(No Offense: =
+SEO is the process of affecting the visibility of a website or a web page i=
+n a search engine&#39;s &quot;natural&quot; or un-paid &quot;organic&quot; =
+search through indexing, preventing crawling &amp; increasing prominence)</=
+span><span style=3D"font-size:12pt;font-family:&#39;Courier New&#39;;color:=
+rgb(40,40,40)"></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;font-family:tahoma,s=
+ans-serif;background-image:none;background-repeat:repeat repeat"><span styl=
+e=3D"font-size:12pt;font-family:&#39;Courier New&#39;;color:rgb(40,40,40)">=
+=C2=A0</span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;font-family:tahoma,s=
+ans-serif;background-image:none;background-repeat:repeat repeat"><span styl=
+e=3D"font-size:12pt;font-family:&#39;Courier New&#39;;color:rgb(40,40,40)">=
+This may look like one of those spurious foreign emails you get in your inb=
+ox every day that promise big but delivers nothing. Just to be upfront we a=
+re happy to discuss your requirement free of cost.</span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;font-family:tahoma,s=
+ans-serif;background-image:none;background-repeat:repeat repeat"><span styl=
+e=3D"font-size:12pt;font-family:&#39;Courier New&#39;;color:rgb(40,40,40)">=
+=C2=A0</span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;font-family:tahoma,s=
+ans-serif;background-image:none;background-repeat:repeat repeat"><span styl=
+e=3D"font-size:12pt;font-family:&#39;Courier New&#39;;color:rgb(40,40,40)">=
+So, let me know if you are interested in receiving further information/quot=
+e with no strings attached from our team of SEO &amp; Web experts &amp; if =
+you are all ok than simply reply with an =E2=80=9CUNSUBSCRIBE=E2=80=9D head=
+er and I promise not to waste your time ever again (kind apology).</span></=
+p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;font-family:tahoma,s=
+ans-serif;background-image:none;background-repeat:repeat repeat"><span styl=
+e=3D"font-size:12pt;font-family:&#39;Courier New&#39;;color:rgb(40,40,40)">=
+=C2=A0</span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;font-family:tahoma,s=
+ans-serif;background-image:none;background-repeat:repeat repeat"><span styl=
+e=3D"font-size:12pt;font-family:&#39;Courier New&#39;;color:rgb(40,40,40)">=
+Thank you and have a nice day.</span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;font-family:tahoma,s=
+ans-serif;background-image:none;background-repeat:repeat repeat"><b><span s=
+tyle=3D"font-size:18pt;font-family:Arial,sans-serif"><br></span></b><span s=
+tyle=3D"font-size:12pt;font-family:&#39;Courier New&#39;;color:rgb(40,40,40=
+)">Best Regards,</span><span style=3D"font-size:18pt;font-family:Arial,sans=
+-serif"></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;font-family:tahoma,s=
+ans-serif;background-image:none;background-repeat:repeat repeat"><b><span s=
+tyle=3D"font-size:13.5pt;font-family:&#39;Trebuchet MS&#39;,sans-serif;colo=
+r:rgb(51,51,0)"><br>
+</span></b><span style=3D"font-size:24pt;font-family:Arial,sans-serif">Alan=
+a Roper<br></span><span style=3D"font-size:12pt;font-family:&#39;Courier Ne=
+w&#39;;color:rgb(40,40,40)">Online Marketing Specialist</span><span style=
+=3D"font-size:24pt;font-family:Arial,sans-serif"><br>
+</span><span style=3D"font-size:12pt;font-family:&#39;Courier New&#39;;colo=
+r:rgb(40,40,40)"></span></p><br style=3D"font-family:tahoma,sans-serif"><p =
+class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;font-family:tahoma,sans=
+-serif;background-image:none;background-repeat:repeat repeat">
+<b><span style=3D"font-size:24pt;font-family:Arial,sans-serif"></span></b><=
+b><span style=3D"font-size:36pt;font-family:Arial,sans-serif;color:navy">=
+=C5=A0</span></b><b><span style=3D"font-size:36pt;font-family:Arial,sans-se=
+rif;color:fuchsia">=C3=89</span></b><b><span style=3D"font-size:36pt;font-f=
+amily:Arial,sans-serif;color:rgb(255,204,0)">=C3=96</span></b></p>
+<div dir=3D"ltr" style=3D"font-family:arial,sans-serif">
+
+</div></div>
+
+--20cf307f30882ee77004f0f12979--

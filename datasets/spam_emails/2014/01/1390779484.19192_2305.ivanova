@@ -1,0 +1,31 @@
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 4531 invoked from network); 26 Jan 2014 18:59:08 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 26 Jan 2014 18:59:08 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 26 Jan 2014 18:59:08 -0000
+Received: (qmail 24060 invoked from network); 26 Jan 2014 17:12:07 -0000
+Received: from localhost ([103.7.241.178])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 26 Jan 2014 17:12:07 -0000
+To: lists-bikini@bruce-guenter.dyndns.org
+Subject: =?Shift_JIS?B?gaE=?=50000pt(50=?Shift_JIS?B?lpyJfpWqKZLHicGKrpe5gsyCqJJtgueCuYGh?=
+DKIM-Signature: v=1;	a=rsa-sha1;	l=460;	s=selector;	t=1390756321;	c=relaxed/simple;	h=From;	d=fwyim9.info;	bh=t8o1PaJaBIXB4L4mCQ6Wir+e3uo=;	b=Aqf7YbRzAtr+DsOc7EXwAkkHayOyV2vvhTSlMiNegf5cvQj5cIWVOtkVP9o0p9nT
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=fwyim9.info; s=selector; h=From;
+	b=Ed645Z4YMy+e2asMAb3UpVXfQ6FRrKARAuryXIsFSqAvy2LmegaEqwqvSI/zyyc8
+Return-Path: <return-mail-76822@fwyim9.info>
+From: Park <info@fwyim9.info>
+MIME-Version: 1.0
+Date: Mon, 27 Jan 2014 02:12:01 +0900
+Message-ID: <2fe31862c8f819572bf05d300a7252cc0abafe2d@fwyim9.info>
+Content-Type: text/plain; charset=Shift_JIS
+Content-Transfer-Encoding: base64
+
+gZ+Wa56KicaQ1Y7mgZ+Wa56Kl1SOcZdsguaC6IKoi3GXbILWDQo1MDAwMHB0KDUwlpyJfpWqKYLM
+cHSP95NukFyQv4LwgqKCvYK+gquBQYr5gsmSx4nBgrOC6oLEgqiC6ILcgrcNCo/ji0xwdILNlrOX
+v4LFgrKXmJdwgqKCvYK+gq+C3IK3gUKPn47ogsmXv4vggqqUrZC2greC6YKxgsaCzYKygrSCooLc
+grmC8YLMgsWCsojAkFOJuoKzgqINCg0KgZ+Wa56KicaQ1Y7mgZ+Wa56Kl1SOcZdsgqmC54LMg4GD
+YoNagVuDV4LNgrGCv4LnDQpodHRwOi8vbC5md3lpbTkuaW5mby9ob21lL2ZwLnBocD9rZXk9ZWY5
+ZmY0MzQ2YmRjMWEzOTMyMjU0ODMyMDI2ODNkMTYmcm09NzY4MjImZnBrPSZmcGs9eDE=
+

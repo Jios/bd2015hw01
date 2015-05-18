@@ -1,0 +1,29 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 18916 invoked from network); 3 Jan 2014 13:03:04 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 03 Jan 2014 13:03:04 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 03 Jan 2014 13:03:04 -0000
+Received: (qmail 30043 invoked from network); 3 Jan 2014 13:03:03 -0000
+Received: from localhost ([182.160.196.178])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 03 Jan 2014 13:03:03 -0000
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?ISO-2022-JP?B?GyRCO1kxZ0ZxTDE1XzpRNSE0WCEmRiNCazJtP0MbKEI=?=
+DKIM-Signature: v=1;	a=rsa-sha1;	l=162;	s=selector;	t=1388754182;	c=relaxed/simple;	h=From;	d=d12f-mbga.mobi;	bh=tsMhhphzkSgBPFMNxrBBxqyKXFc=;	b=onbPeiTxT8mzD68uHWuAXdy15COfDPMFveZ3piCOoAP4SO0bvGqQO7j3MtT7ETIf
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=d12f-mbga.mobi; s=selector; h=From;
+	b=LCxOMvC4JNo4oqRLAsHnNjh6GnkWcbmZPkHmW8RxRPAzxTRVRQvoYJCRc6EQ+//0
+Return-Path: <mail@d12f-mbga.mobi>
+From: =?ISO-2022-JP?B?TE9WRRskQiEhGyhCUElFQ0Ug?=<mail@d12f-mbga.mobi>
+MIME-Version: 1.0
+Date: Fri, 03 Jan 2014 22:03:02 +0900
+Message-ID: <e06a75e860f5e2ac4257785a12d96b86399c4766@d12f-mbga.mobi>
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 
+
+これで終わりですね...？
+
+
+http://R9cADQ.legacy-mbga.mobi/%7eXZzOV4j22q/p/mail_view.asp?mode=1&Q=tFVuQv9o42xuqiBB40F4&mailid=376283144&id=22520723
+

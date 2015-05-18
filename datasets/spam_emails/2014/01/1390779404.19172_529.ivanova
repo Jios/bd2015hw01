@@ -1,0 +1,45 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 23565 invoked from network); 26 Jan 2014 17:49:46 -0000
+Received: (qmail 6114 invoked from network); 26 Jan 2014 17:49:46 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by mx15.futurequest.net ([10.2.1.189])
+  with ESMTP via TCP; 26 Jan 2014 17:49:46 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S1753227AbaAZRte (ORCPT <rfc822;bruce@untroubled.org>);
+	Sun, 26 Jan 2014 12:49:34 -0500
+Received: from emea01-am1-ndr.ptr.protection.outlook.com ([157.56.116.98]:56079
+	"EHLO emea01-am1-obe.outbound.protection.outlook.com"
+	rhost-flags-OK-OK-OK-FAIL) by vger.kernel.org with ESMTP
+	id S1752534AbaAZRtb convert rfc822-to-8bit (ORCPT
+	<rfc822;linux-kernel@vger.kernel.org>);
+	Sun, 26 Jan 2014 12:49:31 -0500
+Received: from [116.202.4.168] (116.202.4.168) by
+ AMSPR05MB019.eurprd05.prod.outlook.com (10.242.80.149) with Microsoft SMTP
+ Server (TLS) id 15.0.859.15; Sun, 26 Jan 2014 17:49:28 +0000
+Content-Type:	text/plain; charset=US-ASCII
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7BIT
+Content-Description: Mail message body
+Subject: Good News
+To:	Recipients <angela1@angela723.onmicrosoft.com>
+From:	Dave and Angela <angela1@angela723.onmicrosoft.com>
+Date:	Sun, 26 Jan 2014 23:15:40 -0800
+Reply-To: <daveangela_dewas@hotmail.com>
+Message-ID: <643efeb6-8188-4a01-98b4-52db4ace12a6@AMSPR05MB019.eurprd05.prod.outlook.com>
+X-Originating-IP: [116.202.4.168]
+X-ClientProxiedBy: DM2PR08CA003.namprd08.prod.outlook.com (10.141.52.161) To
+ AMSPR05MB019.eurprd05.prod.outlook.com (10.242.80.149)
+X-Forefront-PRVS: 01039C93E4
+X-Forefront-Antispam-Report: SFV:SPM;SFS:(10019001)(6049001)(6009001)(6039001)(199002)(189002)(47446002)(74502001)(74662001)(76576001)(69226001)(86372001)(221733001)(43066001)(76176001)(93516002)(86362001)(81342001)(19580405001)(19580395003)(83322001)(558084003)(79102001)(47776003)(63696002)(87976001)(76796001)(76786001)(74366001)(87266001)(81686001)(50466002)(50986001)(47976001)(74706001)(66066001)(81816001)(74876001)(49866001)(47736001)(80022001)(65816001)(77982001)(4396001)(59766001)(85306002)(86442001)(83072002)(85852003)(42186004)(54356001)(64872005)(74316001)(76482001)(51856001)(17643785005)(46102001)(90146001)(23756003)(89136003)(56816005)(77096001)(80976001)(56776001)(53256004)(94316002)(81542001)(93136001)(54316002)(92726001)(33646001)(62346011);DIR:OUT;SFP:1501;SCL:5;SRVR:AMSPR05MB019;H:[116.202.4.168];CLIP:116.202.4.168;FPR:;InfoNoRecordsA:0;MX:1;LANG:en;
+X-OriginatorOrg: angela723.onmicrosoft.com
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List:	linux-kernel@vger.kernel.org
+
+My wife and I have a draft here for you. Please contact us for this God's giving opportunity: dave_angela@zbavitu.net
+--
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

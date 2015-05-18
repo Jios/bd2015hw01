@@ -1,0 +1,12 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 16173 invoked from network); 29 Jan 2014 12:27:48 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 29 Jan 2014 12:27:48 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 29 Jan 2014 12:27:48 -0000
+Received: (qmail 18862 invoked from network); 29 Jan 2014 12:27:46 -0000
+Received: from 80.93.49.145.peterhost.ru ([80.93.49.145])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 29 Jan 2014 12:27:46 -0000
+

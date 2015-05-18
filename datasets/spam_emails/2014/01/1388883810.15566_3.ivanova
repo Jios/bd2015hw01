@@ -1,0 +1,54 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 29456 invoked from network); 4 Jan 2014 21:22:42 -0000
+Received: from nm43.bullet.mail.ne1.yahoo.com (nm43.bullet.mail.ne1.yahoo.com [98.138.120.50])
+  by churchill.factcomp.com ([24.89.90.248])
+  with SMTP via TCP; 04 Jan 2014 21:22:42 -0000
+Received: from [127.0.0.1] by nm43.bullet.mail.ne1.yahoo.com with NNFMP; 04 Jan 2014 21:27:45 -0000
+Received: from [98.138.100.103] by nm43.bullet.mail.ne1.yahoo.com with NNFMP; 04 Jan 2014 21:24:45 -0000
+Received: from [216.39.60.167] by tm102.bullet.mail.ne1.yahoo.com with NNFMP; 04 Jan 2014 21:24:44 -0000
+Received: from [216.39.60.252] by tm3.access.bullet.mail.gq1.yahoo.com with NNFMP; 04 Jan 2014 21:24:44 -0000
+Received: from [127.0.0.1] by omp1023.access.mail.gq1.yahoo.com with NNFMP; 04 Jan 2014 21:24:44 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 759012.17582.bm@omp1023.access.mail.gq1.yahoo.com
+Received: (qmail 69425 invoked by uid 60001); 4 Jan 2014 21:24:43 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1388870683; bh=Gyf9HmgE41m5SmmdLkENa0373VzNCeBV21Sbhc96Dkg=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-RocketYMMF:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=dO0H7cHxz3N1xfYdZ/4RR+R3hOFlZdmYV4mCjE6ENAaKoxICo8/SCa/OtuVdFOLBhAKg5SlI4j4d0mQgHYBKeEdDNFqgI9eg6obcnAe3K/bsqFe/U+T8v7ry7e/AKwaP3/WuIxwF7oM9VBRKwOMULWoBpAjYIA6bJq7pMK/0ZBg=
+X-YMail-OSG: J5WgoXUVM1ndTOiN7hl51yvodo5UZSSy_igNfEFQeqUXdWL
+ sU8AhGm8WJWvfdtAk0baF37Et20zsgWK_BsF40ZlwUfEGueZ2n.nb8eKxdsK
+ MMbqhKOWAEjg2TyDTbq1Qrf0lKXnTFwVBTfBgPxl_pVjpp56on6R6YkWwVy3
+ K.bIge.Tp08XNls.IirPvDhT1EVbr8sR3kTHG7TR6Gfko5USuYUux2riBsd5
+ arfUuDcpVWoBFxqIzVY0zHIQcErYelszY2B32ScphJhDKvJ4gGPJbG36wIyU
+ h.blg9.Qtvlx2G5eyYrPtSXJxUVvyIef2j0JuAiH.EwqyicUeXpaSeUQ8gz2
+ eqsRVn08k33xI4A_hzrByl7wm6Uy1bnvgooaGtoq9AqZKqwaVJdNp1Ox5ZlV
+ KCq.YVQGwEXcFgfmuVSnFLPSsDI5TvytXtRfBY4RyzHS1pxrn3eSwDJly1IW
+ fblIRpzqxjZmsdZIF84PVPUqjFrkXcGlYjJ9KeQvxQL82WVzR9mGikZ1I2y0
+ jF.46gQgaghgf7kQ-
+Received: from [197.228.213.80] by web5703.biz.mail.ne1.yahoo.com via HTTP; Sat, 04 Jan 2014 13:24:43 PST
+X-Rocket-MIMEInfo: 002.001,CgEwAQEBAQ--
+X-RocketYMMF: web.jhomes56
+X-Mailer: YahooMailWebService/0.8.172.614
+References: <1387058420.90944.YahooMailNeo@web5706.biz.mail.ne1.yahoo.com> <1387058492.72997.YahooMailNeo@web5702.biz.mail.ne1.yahoo.com> <1387183283.29850.YahooMailNeo@web5706.biz.mail.ne1.yahoo.com> <1387183355.17171.YahooMailNeo@web5703.biz.mail.ne1.yahoo.com> <1387298720.7655.YahooMailNeo@web5704.biz.mail.ne1.yahoo.com> <1387355315.72456.YahooMailNeo@web5701.biz.mail.ne1.yahoo.com> <1387378217.72739.YahooMailNeo@web5706.biz.mail.ne1.yahoo.com> <1387437233.9551.YahooMailNeo@web5704.biz.mail.ne1.yahoo.com> <1387437291.23222.YahooMailNeo@web5705.biz.mail.ne1.yahoo.com> <1387493167.36415.YahooMailNeo@web5705.biz.mail.ne1.yahoo.com> <1387493224.54657.YahooMailNeo@web5705.biz.mail.ne1.yahoo.com> <1387502033.43513.YahooMailNeo@web5701.biz.mail.ne1.yahoo.com> <1387642195.68388.YahooMailNeo@web5701.biz.mail.ne1.yahoo.com> <1387746825.48863.YahooMailNeo@web5706.biz.mail.ne1.yahoo.com> <1387753552.77085.YahooMailNeo@web5702.biz.mail.ne1.yahoo.com> <1387873492.14272.YahooMailNeo@web5702.biz.mail.ne1.yahoo.com> <1388067156.19365.YahooMailNeo@web5705.biz.mail.ne1.yahoo.com> <1388121045.65140.YahooMailNeo@web5706.biz.mail.ne1.yahoo.com> <1388127225.88577.YahooMailNeo@web5704.biz.mail.ne1.yahoo.com> <1388127299.6955.YahooMailNeo@web5705.biz.mail.ne1.yahoo.com> <1388144836.21188.YahooMailNeo@web5701.biz.mail.ne1.yahoo.com> <1388195729.92222.YahooMailNeo@web5702.biz.mail.ne1.yahoo.com> <1388237910.32720.YahooMailNeo@web5702.biz.mail.ne1.yahoo.com> <1388318571.14346.YahooMailNeo@web5702.biz.mail.ne1.yahoo.com> <1388334677.44406.YahooMailNeo@web5704.biz.mail.ne1.yahoo.com> <1388353167.37454.YahooMailNeo@web5703.biz.mail.ne1.yahoo.com> <1388353232.80793.YahooMailNeo@web5701.biz.mail.ne1.yahoo.com> <1388389499.8050.YahooMailNeo@web5705.biz.mail.ne1.yahoo.com> <1388389560.85929.YahooMailNeo@web5704.biz.mail.ne1.yahoo.com> <1388580588.38896.YahooMailNeo@web5703.biz.mail.ne1.yahoo.com> <1388580648.19831.YahooMailNeo@web5706.biz.mail.ne1.yahoo.com> <1388602984.9799.YahooMailNeo@web5705.biz.mail.ne1.yahoo.com> <1388603051.3612.YahooMailNeo@web5706.biz.mail.ne1.yahoo.com> <1388611809.68317.YahooMailNeo@web5704.biz.mail.ne1.yahoo.com> <1388611826.70380.YahooMailNeo@web5701.biz.mail.ne1.yahoo.com> <1388611871.32232.YahooMailNeo@web5703.biz.mail.ne1.yahoo.com> <1388650222.71949.YahooMailNeo@web5704.biz.mail.ne1.yahoo.com> <1388650286.91947.YahooMailNeo@web5706.biz.mail.ne1.yahoo.com> <1388695050.76746.YahooMailNeo@web5704.biz.mail.ne1.yahoo.com> <1388695062.85109.YahooMailNeo@web5703.biz.mail.ne1.yahoo.com> <1388695075.8312.YahooMailNeo@web5705.biz.mail.ne1.yahoo.com> <1388695194.14333.YahooMailNeo@web5702.biz.mail.ne1.yahoo.com> <1388739537.80388.YahooMailNeo@web5701.biz.mail.ne1.yahoo.com> <1388761478.85517.YahooMailNeo@web5702.biz.mail.ne1.yahoo.com> <1388787278.75936.YahooMailNeo@web5706.biz.mail.ne1.yahoo.com> <1388787318.43345.YahooMailNeo@web5705.biz.mail.ne1.yahoo.com>
+Message-ID: <1388870683.51317.YahooMailNeo@web5703.biz.mail.ne1.yahoo.com>
+Date: Sat, 4 Jan 2014 13:24:43 -0800 (PST)
+From: Microsoft Corporation <micros.corp101@hotmail.com>
+Reply-To: Microsoft Corporation <microffices@superposta.com>
+Subject: You have won a Microsoft Award, Kindly view attachment. 
+To: undisclosed recipients: ;
+In-Reply-To: <1388787318.43345.YahooMailNeo@web5705.biz.mail.ne1.yahoo.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="1588175011-1463417915-1388870683=:51317"
+Content-Length: 457
+
+--1588175011-1463417915-1388870683=:51317
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=0A
+--1588175011-1463417915-1388870683=:51317
+Content-Type: message/external-body; access-type=x-deleted; length=76194
+
+
+Content-Type: application/pdf; name="Notification letter.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Notification letter.pdf"
+
+--1588175011-1463417915-1388870683=:51317--

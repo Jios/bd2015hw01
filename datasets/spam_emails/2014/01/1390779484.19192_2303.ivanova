@@ -1,0 +1,31 @@
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 20661 invoked from network); 24 Jan 2014 13:13:04 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 24 Jan 2014 13:13:04 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 24 Jan 2014 13:13:04 -0000
+Received: (qmail 27527 invoked from network); 24 Jan 2014 13:13:03 -0000
+Received: from localhost ([103.7.241.38])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 24 Jan 2014 13:13:03 -0000
+To: lists-bikini@bruce-guenter.dyndns.org
+Subject: =?Shift_JIS?B?gaE=?=50000pt(50=?Shift_JIS?B?lpyJfpWqKZLHicGKrpe5gsyCqJJtgueCuYGh?=
+DKIM-Signature: v=1;	a=rsa-sha1;	l=460;	s=selector;	t=1390569181;	c=relaxed/simple;	h=From;	d=8pzhzv.info;	bh=xLXhHQUNigODvvYYLtxggSVBnnA=;	b=umHd5dFtO/KImYWMz7TVsexf1HhVNzeN/LRf7W1cDVODfDq6UsRcIiQ/phbrgPbF
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=8pzhzv.info; s=selector; h=From;
+	b=cwYXDIqnA1v+QvMyoE1uGhHhuZyv94sW7R3ziI0YTQV/QZxn4KLAUEHFDUWDSwq3
+Return-Path: <return-mail-75733@8pzhzv.info>
+From: Park <info@8pzhzv.info>
+MIME-Version: 1.0
+Date: Fri, 24 Jan 2014 22:13:01 +0900
+Message-ID: <4022443fe987d262bae5f288322d53f7330a140a@8pzhzv.info>
+Content-Type: text/plain; charset=Shift_JIS
+Content-Transfer-Encoding: base64
+
+gZ+Wa56KicaQ1Y7mgZ+Wa56Kl1SOcZdsguaC6IKoi3GXbILWDQo1MDAwMHB0KDUwlpyJfpWqKYLM
+cHSP95NukFyQv4LwgqKCvYK+gquBQYr5gsmSx4nBgrOC6oLEgqiC6ILcgrcNCo/ji0xwdILNlrOX
+v4LFgrKXmJdwgqKCvYK+gq+C3IK3gUKPn47ogsmXv4vggqqUrZC2greC6YKxgsaCzYKygrSCooLc
+grmC8YLMgsWCsojAkFOJuoKzgqINCg0KgZ+Wa56KicaQ1Y7mgZ+Wa56Kl1SOcZdsgqmC54LMg4GD
+YoNagVuDV4LNgrGCv4LnDQpodHRwOi8vbC44cHpoenYuaW5mby9ob21lL2ZwLnBocD9rZXk9ZWY5
+ZmY0MzQ2YmRjMWEzOTMyMjU0ODMyMDI2ODNkMTYmcm09NzU3MzMmZnBrPSZmcGs9eDE=
+

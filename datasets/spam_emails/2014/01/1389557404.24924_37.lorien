@@ -1,0 +1,57 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 8095 invoked from network); 11 Jan 2014 23:36:49 -0000
+Received: (qmail 25198 invoked from network); 11 Jan 2014 23:36:49 -0000
+Received: from hosting67.hosting67.com (magazinuldeflori.ro [89.38.251.165])
+  by mx15.futurequest.net ([10.2.1.189])
+  with ESMTP via TCP; 11 Jan 2014 23:36:49 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=hosting67.com; s=default;
+	h=Content-Transfer-Encoding:Content-Type:List-Unsubscribe:MIME-Version:Reply-To:From:Date:Message-ID:Subject:To; bh=irOH+er1oO6oMIHJPGG7lz3vYslR7GWIM4a9uFPsssY=;
+	b=H/bXjxuX4LXZ97EAAHMYUO+lX85j+JhPcUNKhzUIJVWgj6jpzT9c1ohHkLgUFg/ir5CwiIVABCQmfK46oj2NSIui5ZAK8YCw9L5Xw3LwueaB+FHM8LBDRrgiL84CvCq8SPwsVeI9OBFzzFee9bLhU/fTElxvNFN2xrupTa6C4Ag=;
+Received: from hosting6 by hosting67.hosting67.com with local (Exim 4.82)
+	(envelope-from <bounce19@hosting67.com>)
+	id 1W286G-0000bq-Ow
+	for bruce@untroubled.org; Sun, 12 Jan 2014 01:36:20 +0200
+To: bruce@untroubled.org
+Subject: Vrei poze cu mine?
+Message-ID: <32c6fd5748f29bcc8bb34c327ff48ecc@hosting67.com>
+Date: Sat, 11 Jan 2014 19:36:33 +0200
+From: "Andreea" <andreea@hosting67.com>
+Reply-To: andreea@hosting67.com
+MIME-Version: 1.0
+X-Mailer-LID: 1
+List-Unsubscribe: <http://hosting67.com/email19/unsubscribe.php?M=143555&C=e06c76a931e5f57c55b297881217fbd3&L=1&N=2>
+X-Mailer-SID: 2
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_941b19eb4d3730db161a48a31364de4a"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - hosting67.hosting67.com
+X-AntiAbuse: Original Domain - untroubled.org
+X-AntiAbuse: Originator/Caller UID/GID - [502 32007] / [47 12]
+X-AntiAbuse: Sender Address Domain - hosting67.com
+X-Get-Message-Sender-Via: hosting67.hosting67.com: authenticated_id: hosting6/from_h
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php -f /home/hosting6/public_html/email19/admin/cron/cron.php 
+X-Source-Dir: hosting67.com:/public_html/email19/admin/cron
+
+--b1_941b19eb4d3730db161a48a31364de4a
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://hosting67.com/email19/display.php?M=143555&C=e06c76a931e5f57c55b297881217fbd3&S=2&L=1&N=1
+
+
+To stop receiving these
+emails:http://hosting67.com/email19/unsubscribe.php?M=143555&C=e06c76a931e5f57c55b297881217fbd3&L=1&N=2
+
+--b1_941b19eb4d3730db161a48a31364de4a
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body>Buna,<br />Vrei poze cu mine?<img
+src="http://hosting67.com/email19/open.php?M=143555&L=1&N=2&F=H"></body></html>
+
+--b1_941b19eb4d3730db161a48a31364de4a--
+

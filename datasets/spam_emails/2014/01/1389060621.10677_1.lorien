@@ -1,0 +1,47 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 3010 invoked from network); 6 Jan 2014 08:03:08 -0000
+Received: from server2.easyred.com (server2.easyred.com [184.154.190.130])
+  by churchill.factcomp.com ([24.89.90.248])
+  with ESMTP via TCP; 06 Jan 2014 08:03:08 -0000
+Received: from 200-155-187-134.core01.spo.ifx.net.br ([200.155.187.134]:51047 helo=cartasi.it)
+	by server2.easyred.com with esmtpa (Exim 4.80.1)
+	(envelope-from <CartaSi_Informa@cartasi.it>)
+	id 1W01WD-0001ip-Mo
+	for bruceg@em.ca; Sun, 05 Jan 2014 22:10:26 -0600
+From: CartaSi <CartaSi_Informa@cartasi.it>
+To: bruceg@em.ca
+Subject: Situazione aggiornata al 06/01/2014
+Date: 06 Jan 2014 02:10:18 -0200
+Message-ID: <20140106021018.A2E61025500A61A7@cartasi.it>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_E1B68403.32D9EF41"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server2.easyred.com
+X-AntiAbuse: Original Domain - em.ca
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - cartasi.it
+X-Get-Message-Sender-Via: server2.easyred.com: authenticated_id: test@gratum.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0012_E1B68403.32D9EF41
+Content-Type: text/plain
+Content-Transfer-Encoding: 8bit
+
+In conformita con il regolamento del'unione europea, dal giorno
+06/01/2014 per poter utilizzare tua carte di credito on line,
+ si rende necessario il completamento del file in allegato.
+------=_NextPart_000_0012_E1B68403.32D9EF41
+Content-Type: message/external-body; access-type=x-deleted; length=4076
+
+
+Content-Type: application/octet-stream; name="CartaSi.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="CartaSi.zip"
+
+------=_NextPart_000_0012_E1B68403.32D9EF41--
+

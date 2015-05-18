@@ -1,0 +1,862 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 5617 invoked from network); 14 Jan 2014 16:01:42 -0000
+Received: (qmail 2276 invoked from network); 14 Jan 2014 16:01:41 -0000
+Received: from mail171.atl81.rsgsv.net (mail171.atl81.rsgsv.net [198.2.129.171])
+  by mx13.futurequest.net ([10.2.1.186])
+  with ESMTP via TCP; 14 Jan 2014 16:01:41 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail171.atl81.rsgsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=newsletter=3Dtruckhive.com@mail171.atl81.rsgsv.net;
+ bh=Sro8LVLBkAL847KRWnBabAYf1fI=;
+ b=R5Po3Qg9yLnXs10ZFdH2DDjV+2cmOC/vjHTe9ZMRFImp7nyiCyURZFa/Zz4x9LMA9daJwfYH6lIZ
+   XwinbZk8jD6K0iAft2F80B5OtJBO0iCWHiJj+VQfIYx2Uwo2SqUCeHAJhcgTjFBBB+7YmBAVAr+F
+   Xy4bOwc4t7TqBM0hWi8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail171.atl81.rsgsv.net;
+ b=E9/iIsBr7YNj1sClzftniBVx+QBzQAg6t4gjVIVM9sQZq+igXF3l0nBWpEjWLFeGDi9mWjM69FBV
+   OsCdswG+pEY9EabkOY1uBXZUlOqQ1+pLMhkCFFoRGblOlbYGsGz3IykltsJQD/zUYOJuZlLEAsP7
+   NVK9CE0Dbpsg+YZ9YXQ=;
+Received: from (127.0.0.1) by mail171.atl81.rsgsv.net id hqlfmc1ohk0n for <bruce@untroubled.org>; Tue, 14 Jan 2014 16:01:40 +0000 (envelope-from <bounce-mc.us7_18388407.241757-bruce=untroubled.org@mail171.atl81.rsgsv.net>)
+Subject: =?utf-8?Q?Truck=20Hive=20Newsletter=201=2D14=2D2014?=
+From: =?utf-8?Q?TruckHive?= <newsletter@truckhive.com>
+Reply-To: =?utf-8?Q?TruckHive?= <newsletter@truckhive.com>
+To: =?utf-8?Q??= <bruce@untroubled.org>
+Date: Tue, 14 Jan 2014 16:01:40 +0000
+Message-ID: <2d0ab2154971c0d9a1f834a0fe86f457c7e.20140114160049@mail171.atl81.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CIDcce5b2f5e6e86f457c7e**
+X-Campaign: mailchimp2d0ab2154971c0d9a1f834a0f.cce5b2f5e6
+X-campaignid: mailchimp2d0ab2154971c0d9a1f834a0f.cce5b2f5e6
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=2d0ab2154971c0d9a1f834a0f&id=cce5b2f5e6&e=e86f457c7e
+X-MC-User: 2d0ab2154971c0d9a1f834a0f
+X-Feedback-ID: 18388407:18388407.241757:us7:mc
+x-accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-2d0ab2154971c0d9a1f834a0f-cce5b2f5e6-e86f457c7e@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://truckhive.us7.list-manage1.com/unsubscribe?u=2d0ab2154971c0d9a1f834a0f&id=9738f1e6bd&e=e86f457c7e&c=cce5b2f5e6>
+Sender: "TruckHive" <newsletter=truckhive.com@mail171.atl81.rsgsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_2111828440"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_2111828440
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+http://www.truckhive.com
+
+Call us at 503-841-6932
+Truck Hive Blog
+
+
+** Getting the Lead Out of Tire Weights (http://freetruckingboard.com/?p=
+=3D420)
+------------------------------------------------------------
+
+Six states have banned the use of lead tire weights. While a nationwide fe=
+deral ban is not yet on the radar screen=2C don=E2=80=99t rule it out.
+
+Beware the lead tire weight cops.
+
+They are out there and working in six states=2C with several more states l=
+ooking at banning lead weights. California=2C Illinois=2C Maine=2C New Yor=
+k=2C Vermont and Washington already have lead wheel weight laws on their b=
+ooks. New Hampshire=2C Minnesota and Wyoming have tried to ban the sale=2C=
+ distribution and installation of lead weights=2C but those attempts faile=
+d.
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+
+
+** Two Things You Should Know About Trailer Lighting and Wiring (http://fr=
+eetruckingboard.com/?p=3D418)
+------------------------------------------------------------
+
+Over the years=2C electrical failures have been the number one problem wit=
+h trailers. Lighting problems have been reduced by the wider adoption of L=
+ED lighting. However=2C even LEDs=2C along with the rest of the electrical=
+ system=2C are subject to corrosion=2C which remains a major headache. Agg=
+ressive de-icing chemicals that are splashed up onto trailers=E2=80=99 und=
+ersides and onto wiring and lamps=2C speed up the corrosion that interrupt=
+s current flow.
+
+The best way to avoid the worst of these problems is by taking a =E2=80=9C=
+whole-system=E2=80=9D approach when spec=E2=80=99ing new trailers=2C says=
+ the Technology & Maintenance Council of the American Trucking Association=
+s.
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+
+
+** Test Drive: Peterbilt 567- Driver=E2=80=99s Delight (http://freetruckin=
+gboard.com/?p=3D416)
+------------------------------------------------------------
+
+Bigger cab and chassis improvements place this new vocational truck above=
+ the current Model 367.
+
+Does a bigger cab merit a larger model number for a truck? It does with Pe=
+terbilt=E2=80=99s 567=2C the builder=E2=80=99s latest vocational truck=2C=
+ which will eventually replace the current 367.
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+
+
+** Q&A: Bill Kozek on His First Six Months-Plus at Navistar (http://freetr=
+uckingboard.com/?p=3D414)
+------------------------------------------------------------
+
+In May=2C Navistar International Corp. named Bill Kozek=2C a 26-year veter=
+an of Paccar=2C as president of Navistar's North America Truck and Parts b=
+usiness. He succeeded Jack Allen=2C who was promoted to chief operating of=
+ficer.
+
+Kozek took the position at a time when Navistar was still trying to recove=
+r from what in hindsight was a poor decision to try to avoid using selecti=
+ve catalytic reduction to meet EPA 2010 emissions standards and use only i=
+n-cylinder technology and exhaust gas recirculation. The company was not a=
+ble to get its MaxxForce proprietary engines to meet the EPA standard on t=
+ime and was drowning in penalties. It announced in 2012 it would adopt SCR=
+ after all=2C both on its MaxxForce 13-liter and by offering Cummins engin=
+es.
+
+Kozek spoke with HDT Editor in Chief Deborah Lockridge about the company's=
+ progress and his first six months on the job=2C shortly after the company=
+ announced disappointing fourth-quarter earnings. The Q&A can be found at=
+ TruckHive.
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+
+
+** Going Mobile: The BYOD Debate (http://freetruckingboard.com/?p=3D412)
+------------------------------------------------------------
+
+Mobile computing is quickly becoming the platform of choice. Tablets and s=
+martphones are far outselling laptop or desktop computers in the consumer=
+ market=2C and a growing number of trucking operations are deploying these=
+ devices.
+
+Trucking firms have used handheld mobile devices for some time=2C especial=
+ly in package delivery or food service. What is different is that the tech=
+nology and performance of current consumer-grade smartphones and tablets m=
+ake them capable of similar tasks as traditional=2C commercial-grade devic=
+es at a much lower cost. Combined with cloud-based fleet management softwa=
+re choices=2C fleets of all sizes have more options available to automate=
+ their operations.
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+
+
+** Q&A: Rep. Earl Blumenauer on His Bill to Raise the Fuel Tax (http://fre=
+etruckingboard.com/?p=3D409)
+------------------------------------------------------------
+
+Rep. Earl Blumenauer=2C D-Ore.=2C introduced a bill that would raise feder=
+al fuel taxes and index them to the cost of living to pay for more investm=
+ent in roads and bridges. The bill would repeal the taxes by 2025 in antic=
+ipation of replacing them with a vehicle-mile tax.
+
+Specifically=2C the bill would raise gasoline and diesel taxes by 15 cents=
+ over three years=2C starting this year. The tax would be phased in: 8 cen=
+ts a gallon this year=2C 4 cents more in 2015 and 3 more cents in 2016.
+
+Read More at Truck Hive (http://www.freetruckingboard.com/)
+http://freetruckingboard.com/feed  https://twitter.com/TruckHive
+http://www.facebook.com/pages/Truck-Hive/298901830214589
+Tweets and Events
+
+Freight News #Freight News: Freight runs=2C funding possibilities boost Co=
+lebrookdale Railroad's plans - The Mercury bit.ly/1hMATvq (http://t.co/qDg=
+3pBM48K)
+Jan 12 from twitter
+
+NorthcoastFS Calphalon Product Reviews | Your site for EVERYTHING #Calphal=
+on: bit.ly/13G7TQx (http://t.co/r07AVGQQs8) #Cooking #Cookware
+Jan 12 from twitter
+
+TruckNet UK New discussion: The New Renault=2C What It Lacks In Looks.....=
+=2E bit.ly/1av7npB (http://t.co/61ZuZwI3rZ)
+Jan 12 from twitter
+
+Get Logistics Jobs Manager Production Planner - #EastHanover =2C NJ (tinyu=
+rl.com/nn36w3q (http://t.co/6viBgrEU7v) ) Get Logistics Jobs #Logistics #j=
+obs #job #GetAllJobs
+Jan 12 from twitter
+
+Andy Palanisamy At #TRBAM=2C checking exhibits? Stop by #3601 to say a hel=
+lo & grab a copy of this map of US #transpo infrastruc: http://t.co/BZNuKW=
+Wn1U
+Jan 12 from twitter
+
+Allen Smith UPS Commends Lawmakers on Introduction of Bipartisan Trade Pro=
+motion Authority Bill bit.ly/1gxYtYZ (http://t.co/1QKWaN7HVR)
+Jan 12 from twitter
+
+Facebook (http://www.facebook.com/pages/Truck-Hive/298901830214589) | RSS=
+ feed (http://freetruckingboard.com/feed) | Twitter (https://twitter.com/T=
+ruckHive)
+
+This email was sent to bruce@untroubled.org
+
+why did I get this? (http://truckhive.us7.list-manage1.com/about?u=3D2d0ab=
+2154971c0d9a1f834a0f&id=3D9738f1e6bd&e=3De86f457c7e&c=3Dcce5b2f5e6)     unsu=
+bscribe from this list (http://truckhive.us7.list-manage1.com/unsubscribe?=
+u=3D2d0ab2154971c0d9a1f834a0f&id=3D9738f1e6bd&e=3De86f457c7e&c=3Dcce5b2f5e6)
+
+update subscription preferences (http://truckhive.us7.list-manage2.com/pro=
+file?u=3D2d0ab2154971c0d9a1f834a0f&id=3D9738f1e6bd&e=3De86f457c7e)
+
+Truck Hive =C2=B7 1101 SE Salmon St =C2=B7 Portland=2C OR 97214 =C2=B7 USA
+
+Email Marketing Powered by MailChimp
+http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium_newsletter&=
+utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D2d0ab2154971c0d9a1f=
+834a0f&afl=3D1
+--_----------=_MCPart_2111828440
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+   <title>Truck Hive Newsletter</title>
+   <style type=3D"text/css">
+body {
+=09margin: 0;
+=09padding: 0;
+=09background-image: url(http://freetruckingboard.com/images/header_gray.p=
+ng);
+=09background-repeat: repeat-x;
+=09background-position: top center;
+=09background-color: #e8e8e8;
+}
+
+#blog_article img {
+=09border: none;
+}
+
+#blog_article .blogtitle a {
+=09text-decoration: none;
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 22px;
+=09font-weight: normal;
+=09color: #354028;
+}
+
+h1  {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 22px;
+=09font-weight: normal;
+=09color: #354028;
+}
+
+h2   {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 24px;
+=09font-weight: bold;
+=09color: #9c9c2c;
+=09margin: 0;
+=09padding: 0 0 5px 0;
+}
+
+h3   {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 16px;
+=09font-weight: normal;
+=09color: #354028;
+=09margin: 0;
+=09padding: 0 0 3px 0;
+}
+
+h4   {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 14px;
+=09font-weight: normal;
+=09color: #354028;
+=09margin: 0;
+=09padding: 0 0 3px 0;
+}
+
+td.header {
+=09height:198px;
+=09margin: 0;
+=09padding: 16px 0px 0px 26px;
+}
+
+td.header p {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 14px;
+=09color: #ffffff;
+=09margin: 0;
+=09font-weight: normal;
+=09text-decoration:none;
+=09padding-top: 20px;
+=09padding-bottom: 10px;
+}
+
+td.header p a {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 14px;
+=09color: #354028;
+=09margin: 0;
+=09font-weight:bold;
+=09text-decoration:none;
+    padding: 0px;
+}
+
+td.header p a:hover {
+=09text-decoration: underline;
+}
+
+td.blog {
+=09background-position: center top;
+=09padding: 10px 0px;
+}
+
+td.blog p {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 14px;
+=09color: #333333;
+=09padding: 0 0 3px 0;
+=09background-position: center top;
+=09margin: 0;
+}
+
+td.blog p a {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 14px;
+=09font-weight: normal;
+=09color: #354028;
+}
+
+td.blog  img.inline {
+=09padding: 2px 20px 20px 10px;
+}
+
+td.blog p.top {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 13px;
+=09font-weight: normal;
+=09color: #333333;
+=09text-align: right;
+}
+
+=2Eblog .hr {
+=09padding-bottom: 30px;
+}
+
+#blog_article {
+=09width: 500px;
+=09padding: 0px 50px 30px 50px;
+}
+
+td.tweets {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09color: #333333;
+=09text-transform: none;
+=09background-color:#ffffff;
+}
+
+td.tweets ul {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09font-weight: normal;
+=09color: #333333;
+=09margin: 0 0 14px 24px;
+}
+
+td.tweets  ul  a {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 13px;
+=09font-weight: normal;
+=09color: #354028;
+=09text-decoration: none;
+}
+
+=2Etweet {
+=09width: 336px;
+=09padding-bottom:20px;=09=09
+}
+
+td.tweets .tweet img.inline {
+=09padding-right: 10px;
+=09float: left;
+}
+
+td.rightcol p {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09font-weight: normal;
+=09color: #333333;
+=09margin: 0 0 20px 0;
+=09padding: 0;
+}
+
+td.rightcol  p a {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09font-weight: normal;
+=09color: #354028;
+}
+
+td.rightcol p.top {
+=09 font-family: Arial=2C Helvetica=2C sans-serif;
+=09 font-size: 11px;
+=09 font-weight: normal;
+=09 color: #333333;
+=09 text-align: right;
+}
+
+td.rightcol p.top a {
+=09 font-family: Arial=2C Helvetica=2C sans-serif;
+=09 font-size: 11px;
+=09 font-weight: normal;
+=09 color: #354028;
+}
+
+td.rightcol ul {
+=09 font-family: Arial=2C Helvetica=2C sans-serif;
+=09 font-size: 13px;
+=09 font-weight: normal;
+=09 color: #333333;
+=09 margin: 0 0 14px 24px;
+=09 padding: 0;
+}
+
+td.rightcol img.hr {
+=09 border: none;
+}
+
+td.leftcol {
+=09margin: 0;
+=09padding: 0;
+=09background-position: center top;
+}
+
+td.leftcol p {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09color: #333333;
+=09padding: 0 0 3px 0;
+=09background-position: center top;
+=09margin: 0;
+}
+
+td.leftcol a {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 12px;
+=09color: #354028;
+=09background-position: center top;
+}
+
+td.footer {
+=09background-color:#ffffff;
+}
+
+td.footer p {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 11px;
+=09font-weight: normal;
+=09color: #333333;
+=09line-height: 16px;
+}
+
+td.footer p a {
+=09 font-family: Arial=2C Helvetica=2C sans-serif;
+=09 font-size: 11px;
+=09 font-weight: normal;
+=09 color: #354028;=09=09
+}
+
+td.bottom {
+=09padding-bottom: 30px;
+}
+
+=2Efooter .hr {
+=09padding-bottom: 20px;
+}
+
+#cclogo {
+=09font-family: Arial=2C Helvetica=2C sans-serif;
+=09font-size: 9px;
+=09color: #333333;
+=09float: right;
+=09text-align: center;
+}
+</style>
+
+</head><body>
+
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+  <tbody><tr>
+    <td align=3D"center">
+      <table width=3D"810" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" bgcolor=3D"#383838">
+        <tbody>
+          <tr>
+            <td class=3D"header" height=3D"198"><div><a href=3D"http://tru=
+ckhive.us7.list-manage1.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=
+=3De2f1532e30&e=3De86f457c7e"><img src=3D"http://freetruckingboard.com/im=
+ages/logo.png" width=3D"355" height=3D"100" alt=3D"Truck Hive" border=3D"0=
+"></a></div><p>Call us at 503-841-6932</p></td>
+          </tr>
+        </tbody>
+      </table>
+      <table width=3D"810" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+">
+        <tbody>
+          <tr>
+            <td colspan=3D"3"><img src=3D"http://freetruckingboard.com/ima=
+ges/header_title_bg.png" alt=3D"Truck Hive Blog" width=3D"810" height=3D"9=
+6"></td>
+          </tr>
+          <tr>
+            <td valign=3D"top"><img src=3D"http://freetruckingboard.com/im=
+ages/middle_bg_topleft.png" width=3D"21" height=3D"215"></td>
+            <td bgcolor=3D"#ffffff" width=3D"768" rowspan=3D"2">
+            <!-- Content Starts Here -->
+              <table width=3D"768" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" bgcolor=3D"#ffffff">
+                <tbody>
+                <tr>
+                  <td><table width=3D"768" border=3D"0" cellpadding=3D"0"=
+ bgcolor=3D"#ffffff">
+                      <tbody><tr>
+                        <td class=3D"blog" width=3D"609">
+        =09=09=09=09=09<table width=3D"609" bgcolor=3D"#ffffff" cellpaddin=
+g=3D"20"><tr><td valign=3D"top">
+<!-- PUT BLOG HERE -->
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D3f5efd59a6&e=3D=
+e86f457c7e"> Getting the Lead Out of Tire Weights </a></h1>
+=09=09=09=09<p>Six states have banned the use of lead tire weights. While=
+ a nationwide federal ban is not yet on the radar screen=2C don&#8217;t ru=
+le it out. <br><br>Beware the lead tire weight cops.<br><br>They are out t=
+here and working in six states=2C with several more states looking at bann=
+ing lead weights. California=2C Illinois=2C Maine=2C New York=2C Vermont a=
+nd Washington already have lead wheel weight laws on their books. New Hamp=
+shire=2C Minnesota and Wyoming have tried to ban the sale=2C distribution=
+ and installation of lead weights=2C but those attempts failed.<br><br><im=
+g src=3D"http://www.truckinginfo.com/fc_images/articles/m-ajp-7820.jpg" wi=
+dth=3D"500" height=3D"350" class=3D"aligncenter"><br><br></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage2.com/track/clic=
+k?u=3D2d0ab2154971c0d9a1f834a0f&id=3D5049eb224f&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage2.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dec4d4147ba&e=3D=
+e86f457c7e">Two Things You Should Know About Trailer Lighting and Wiring <=
+/a></h1>
+=09=09=09=09<p>Over the years=2C electrical failures have been the number=
+ one problem with trailers. Lighting problems have been reduced by the wid=
+er adoption of LED lighting. However=2C even LEDs=2C along with the rest o=
+f the electrical system=2C are subject to corrosion=2C which remains a maj=
+or headache. Aggressive de-icing chemicals that are splashed up onto trail=
+ers&#8217; undersides and onto wiring and lamps=2C speed up the corrosion=
+ that interrupts current flow.<br><br>The best way to avoid the worst of t=
+hese problems is by taking a &#8220;whole-system&#8221; approach when spec=
+&#8217;ing new trailers=2C says the Technology & Maintenance Council of th=
+e American Trucking Associations.<br><br></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage.com/track/click=
+?u=3D2d0ab2154971c0d9a1f834a0f&id=3D1a6f282c58&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage1.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D12930e114b&e=3D=
+e86f457c7e">Test Drive: Peterbilt 567- Driver&#8217;s Delight </a></h1>
+=09=09=09=09<p>Bigger cab and chassis improvements place this new vocation=
+al truck above the current Model 367. <br><br>Does a bigger cab merit a la=
+rger model number for a truck? It does with Peterbilt&#8217;s 567=2C the b=
+uilder&#8217;s latest vocational truck=2C which will eventually replace th=
+e current 367.<br><br><img src=3D"http://www.truckinginfo.com/fc_images/ar=
+ticles/m-sam-2207-1.jpg" width=3D"500" height=3D"350" class=3D"aligncenter=
+"><br><br></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage.com/track/click=
+?u=3D2d0ab2154971c0d9a1f834a0f&id=3D952beda044&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage1.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dfee0d619d3&e=3D=
+e86f457c7e">Q&A: Bill Kozek on His First Six Months-Plus at Navistar </a><=
+/h1>
+=09=09=09=09<p><img class=3D"aligncenter" alt=3D"" src=3D"http://www.truck=
+inginfo.com/fc_images/articles/m-navistarkozekqa.jpg" width=3D"500" height=
+=3D"350"><br><br>In May=2C Navistar International Corp. named Bill Kozek=
+=2C a 26-year veteran of Paccar=2C as president of Navistar's North Americ=
+a Truck and Parts business. He succeeded Jack Allen=2C who was promoted to=
+ chief operating officer.<br><br>Kozek took the position at a time when Na=
+vistar was still trying to recover from what in hindsight was a poor decis=
+ion to try to avoid using selective catalytic reduction to meet EPA 2010 e=
+missions standards and use only in-cylinder technology and exhaust gas rec=
+irculation. The company was not able to get its MaxxForce proprietary engi=
+nes to meet the EPA standard on time and was drowning in penalties. It ann=
+ounced in 2012 it would adopt SCR after all=2C both on its MaxxForce 13-li=
+ter and by offering Cummins engines.<br><br>Kozek spoke with HDT Editor in=
+ Chief Deborah Lockridge about the company's progress and his first six mo=
+nths on the job=2C shortly after the company announced disappointing fourt=
+h-quarter earnings. The Q&amp;A can be found at TruckHive.<br><br></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage2.com/track/clic=
+k?u=3D2d0ab2154971c0d9a1f834a0f&id=3D8bde120ebe&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage1.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dce0aff5760&e=3D=
+e86f457c7e"> Going Mobile: The BYOD Debate </a></h1>
+=09=09=09=09<p>Mobile computing is quickly becoming the platform of choice=
+=2E Tablets and smartphones are far outselling laptop or desktop computers i=
+n the consumer market=2C and a growing number of trucking operations are d=
+eploying these devices.<br><br>Trucking firms have used handheld mobile de=
+vices for some time=2C especially in package delivery or food service. Wha=
+t is different is that the technology and performance of current consumer-=
+grade smartphones and tablets make them capable of similar tasks as tradit=
+ional=2C commercial-grade devices at a much lower cost. Combined with clou=
+d-based fleet management software choices=2C fleets of all sizes have more=
+ options available to automate their operations.<br><br></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage1.com/track/clic=
+k?u=3D2d0ab2154971c0d9a1f834a0f&id=3D2f5ed270e6&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+=09=09=09=09<div id=3D"blog_article">
+=09=09=09=09<h1 class=3D"blogtitle"><a href=3D"http://truckhive.us7.list-m=
+anage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D68cef5a387&e=3D=
+e86f457c7e"> Q&A: Rep. Earl Blumenauer on His Bill to Raise the Fuel Tax </=
+a></h1>
+=09=09=09=09<p><img src=3D"http://www.truckinginfo.com/fc_images/articles/=
+m-attachment-1.jpg" width=3D"500" height=3D"752" class=3D"aligncenter"><br=
+><br>Rep. Earl Blumenauer=2C D-Ore.=2C introduced a bill that would raise=
+ federal fuel taxes and index them to the cost of living to pay for more i=
+nvestment in roads and bridges. The bill would repeal the taxes by 2025 in=
+ anticipation of replacing them with a vehicle-mile tax.<br><br>Specifical=
+ly=2C the bill would raise gasoline and diesel taxes by 15 cents over thre=
+e years=2C starting this year. The tax would be phased in: 8 cents a gallo=
+n this year=2C 4 cents more in 2015 and 3 more cents in 2016.<br><br></p>
+=09=09=09=09<p><a href=3D"http://truckhive.us7.list-manage.com/track/click=
+?u=3D2d0ab2154971c0d9a1f834a0f&id=3D0c543e0567&e=3De86f457c7e">Read More=
+ at Truck Hive</a></p>
+=09=09=09=09</div>
+
+<!-- END BLOG -->
+
+
+=09=09=09=09=09=09=09</td></tr></table>
+    =09=09=09        </td>
+                        <td bordercolor=3D"0" class=3D"rightcol" align=3D"=
+center" valign=3D"top" width=3D"150">
+                          <div><br>
+                          =09<a href=3D"http://truckhive.us7.list-manage1.=
+com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dc6679e29b6&e=3D=
+e86f457c7e"><img src=3D"http://www.freetruckingboard.com/images/social_icons/rss.=
+png" width=3D"32" border=3D"0" height=3D"32" alt=3D"feed"></a>&nbsp;
+                            <a href=3D"http://truckhive.us7.list-manage1.c=
+om/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D2bffa134d7&e=3D=
+e86f457c7e"><img src=3D"http://www.freetruckingboard.com/images/social_icons/twitt=
+er.png" alt=3D"twitter" width=3D"32" border=3D"0" height=3D"32"></a><br>
+                            <a href=3D"http://truckhive.us7.list-manage2.c=
+om/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3De88f05c466&e=3D=
+e86f457c7e"><img src=3D"http://www.freetruckingboard.com/images/social_icons/faceb=
+ook.png" alt=3D"Facebook" width=3D"32" border=3D"0" height=3D"32"></a>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                    <table cellspacing=3D"0" cellpadding=3D"0">
+                        <tbody><tr>
+                        =09<td><img src=3D"http://freetruckingboard.com/im=
+ages/middle_divider_tweets_only.png" alt=3D"Tweets and Events" width=3D"76=
+8" height=3D"88" border=3D"0"></td>
+                        </tr></tbody>
+=09=09=09=09=09</table>
+                    <table width=3D"768" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"25" bgcolor=3D"#ffffff">
+                      <tbody><tr>
+                        <td class=3D"tweets" align=3D"left" valign=3D"top"=
+ width=3D"336" bgcolor=3D"#ffffff">
+<!-- PUT TWITTER HERE -->
+                    <div class=3D"tweet"><!-- FreightNews -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/28=
+3634230/twitter-icon_normal.png" alt=3D"Freight News" class=3D"inline" ali=
+gn=3D"left" width=3D"50" height=3D"50">#<b>Freight</b> News: Freight runs=
+=2C funding possibilities boost Colebrookdale Railroad's plans - The Mercu=
+ry <a href=3D"http://truckhive.us7.list-manage1.com/track/click?u=3D2d0ab2=
+154971c0d9a1f834a0f&id=3D03f2b48f6c&e=3De86f457c7e">bit.ly/1hMATvq</a><br=
+>
+                    Jan 12 from twitter</p></div>
+
+                    <div class=3D"tweet"><!-- NorthcoastFS -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/22=
+28343682/logo_300_normal.jpg" alt=3D"NorthcoastFS" class=3D"inline" align=
+=3D"left" width=3D"50" height=3D"50">Calphalon Product Reviews | Your site=
+ for EVERYTHING #<b>Calphalon</b>: <a href=3D"http://truckhive.us7.list-ma=
+nage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D535e86f229&e=3D=
+e86f457c7e">bit.ly/13G7TQx</a> #<b>Cooking</b> #<b>Cookware</b><br>
+                    Jan 12 from twitter</p></div>
+
+                    <div class=3D"tweet"><!-- TruckNet_UK -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/16=
+64048078/tnuk-logo-square2_normal.gif" alt=3D"TruckNet UK" class=3D"inline=
+" align=3D"left" width=3D"50" height=3D"50">New discussion: The New Renaul=
+t=2C What It Lacks In Looks...... <a href=3D"http://truckhive.us7.list-man=
+age.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3Deff564feb3&e=3D=
+e86f457c7e">bit.ly/1av7npB</a><br>
+                    Jan 12 from twitter</p></div>
+
+
+<!-- END TWITTER -->
+                        </td>
+                        <td class=3D"rightcol tweets" align=3D"left" valig=
+n=3D"top" width=3D"357">
+                        <table width=3D"357" cellspacing=3D"0" cellpadding=
+=3D"0">
+                        =09<tbody>
+                            =09<tr>
+                                =09<td valign=3D"top">
+<!-- PUT TWITTER2 HERE -->
+                    <div class=3D"tweet"><!-- GetLogisticJobs -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/65=
+690161/G_normal.png" alt=3D"Get Logistics Jobs" class=3D"inline" align=3D"=
+left" width=3D"50" height=3D"50">Manager Production Planner - #<b>EastHano=
+ver</b> =2C NJ (<a href=3D"http://truckhive.us7.list-manage2.com/track/cli=
+ck?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dbcddd9563e&e=3De86f457c7e">tinyurl.=
+com/nn36w3q</a>) Get Logistics Jobs #<b>Logistics</b> #<b>jobs</b> #<b>job=
+</b> #<b>GetAllJobs</b><br>
+                    Jan 12 from twitter</p></div>
+
+                    <div class=3D"tweet"><!-- transportgooru -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/29=
+00626798/7643540c82edb4f0e71c85237ed46cf6_normal.jpeg" alt=3D"Andy Palanis=
+amy" class=3D"inline" align=3D"left" width=3D"50" height=3D"50">At #<b>TRB=
+AM</b>=2C checking exhibits? Stop by #3601 to say a hello &amp; grab a cop=
+y of this map of US #<b>transpo</b> infrastruc: http://t.co/BZNuKWWn1U<br>
+                    Jan 12 from twitter</p></div>
+
+                    <div class=3D"tweet"><!-- truckerapp -->
+                    <p><img src=3D"https://pbs.twimg.com/profile_images/87=
+660524/LOGO02_normal.png" alt=3D"Allen Smith" class=3D"inline" align=3D"le=
+ft" width=3D"50" height=3D"50">UPS Commends Lawmakers on Introduction of B=
+ipartisan Trade Promotion Authority Bill <a href=3D"http://truckhive.us7.l=
+ist-manage.com/track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3Da0d2d91564&e=
+=3De86f457c7e">bit.ly/1gxYtYZ</a><br>
+                    Jan 12 from twitter</p></div>
+
+
+<!-- END TWITTER2 -->
+=09=09=09=09=09=09=09=09=09</td>
+                                </tr>
+                             </tbody>
+                           </table>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                    <table width=3D"768" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"25">
+                      <tbody>
+                      <tr>
+                        <td colspan=3D"2" class=3D"footer"><p>
+                          <a href=3D"http://truckhive.us7.list-manage.com/=
+track/click?u=3D2d0ab2154971c0d9a1f834a0f&id=3D22a6a519d3&e=3De86f457c7e"=
+>Facebook</a> | <a href=3D"http://truckhive.us7.list-manage2.com/track/cli=
+ck?u=3D2d0ab2154971c0d9a1f834a0f&id=3D3bc939152f&e=3De86f457c7e">RSS feed=
+</a> | <a href=3D"http://truckhive.us7.list-manage.com/track/click?u=3D2d0=
+ab2154971c0d9a1f834a0f&id=3D1a3052e232&e=3De86f457c7e">Twitter</a></p>
+                        </td>
+                      </tr>
+                    </tbody></table>
+                    </td>
+                </tr>
+              </tbody></table>
+            <!-- Content Ends Here -->
+            </td>
+            <td valign=3D"top"><img src=3D"http://freetruckingboard.com/im=
+ages/middle_bg_topright.png" width=3D"21" height=3D"215"></td>
+          </tr>
+          <tr>
+            <td background=3D"http://freetruckingboard.com/images/middle_b=
+g_left.png">&nbsp;</td>
+            <td background=3D"http://freetruckingboard.com/images/middle_b=
+g_right.png">&nbsp;</td>
+          </tr>
+          <tr>
+            <td class=3D"bottom" colspan=3D"3"><img src=3D"http://freetruc=
+kingboard.com/images/middle_bg_bot.png" width=3D"810" height=3D"55"></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</tbody></table>
+            <center>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" id=3D"canspamBarWrapper" style=3D"background-color:#FFFFFF; b=
+order-top:1px solid #E5E5E5;">
+                    <tr>
+                        <td align=3D"center" valign=3D"top" style=3D"paddi=
+ng-top:20px; padding-bottom:20px;">
+                            <table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" id=3D"canspamBar">
+                                <tr>
+                                    <td align=3D"center" valign=3D"top" st=
+yle=3D"color:#606060; font-family:Helvetica=2C Arial=2C sans-serif; font-s=
+ize:11px; line-height:150%; padding-right:20px; padding-bottom:5px; paddin=
+g-left:20px; text-align:center;">
+                                        This email was sent to <a href=3D"=
+bruce@untroubled.org" target=3D"_blank" style=3D"color:#404040 !important;">=
+bruce@untroubled.org</a>
+                                        <br>
+                                        <a href=3D"http://truckhive.us7.li=
+st-manage1.com/about?u=3D2d0ab2154971c0d9a1f834a0f&id=3D9738f1e6bd&e=3D=
+e86f457c7e&c=3Dcce5b2f5e6" target=3D"_blank" style=3D"color:#404040 !important;=
+"><em>why did I get this?</em></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"http:=
+//truckhive.us7.list-manage1.com/unsubscribe?u=3D2d0ab2154971c0d9a1f834a0f=
+&id=3D9738f1e6bd&e=3De86f457c7e&c=3Dcce5b2f5e6" style=3D"color:#404040 !impo=
+rtant;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"h=
+ttp://truckhive.us7.list-manage2.com/profile?u=3D2d0ab2154971c0d9a1f834a0f=
+&id=3D9738f1e6bd&e=3De86f457c7e" style=3D"color:#404040 !important;">update=
+ subscription preferences</a>
+                                        <br>
+                                        Truck Hive &middot; 1101 SE Salmon=
+ St &middot; Portland=2C OR 97214 &middot; USA
+                                        <br>
+                                        <br>
+                                        <a href=3D"http://www.mailchimp.co=
+m/monkey-rewards/?utm_source=3Dfreemium_newsletter&utm_medium=3Demail&utm_=
+campaign=3Dmonkey_rewards&aid=3D2d0ab2154971c0d9a1f834a0f&afl=3D1"><img sr=
+c=3D"http://cdn-images.mailchimp.com/monkey_rewards/MC_MonkeyReward_19.png=
+" border=3D"0" alt=3D"Email Marketing Powered by MailChimp" title=3D"MailC=
+himp Email Marketing" width=3D"139" height=3D"54"></a>
+                                        <br>
+                                        <br>
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <style type=3D"text/css">
+                    @media only screen and (max-width: 480px){
+                        table[id=3D"canspamBar"] td{font-size:14px !impor=
+tant;}
+                        table[id=3D"canspamBar"] td a{display:block !impo=
+rtant; margin-top:10px !important;}
+                    }
+                </style>
+            </center><img src=3D"http://truckhive.us7.list-manage.com/trac=
+k/open.php?u=3D2d0ab2154971c0d9a1f834a0f&id=3Dcce5b2f5e6&e=3De86f457c7e"=
+ height=3D"1" width=3D"1"></body></html>
+--_----------=_MCPart_2111828440--

@@ -1,0 +1,54 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 18285 invoked from network); 15 Jan 2014 06:16:47 -0000
+Received: (qmail 11504 invoked from network); 15 Jan 2014 06:16:47 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by mx12.futurequest.net ([10.2.1.185])
+  with ESMTP via TCP; 15 Jan 2014 06:16:46 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S1750770AbaAOGQn (ORCPT <rfc822;bruce@untroubled.org>);
+	Wed, 15 Jan 2014 01:16:43 -0500
+Received: from mail-qc0-f194.google.com ([209.85.216.194]:35228 "EHLO
+	mail-qc0-f194.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+	with ESMTP id S1750723AbaAOGQl (ORCPT
+	<rfc822;linux-btrfs@vger.kernel.org>);
+	Wed, 15 Jan 2014 01:16:41 -0500
+Received: by mail-qc0-f194.google.com with SMTP id e16so169107qcx.5
+        for <linux-btrfs@vger.kernel.org>; Tue, 14 Jan 2014 22:16:40 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:reply-to:date:message-id:subject
+         :from:to:content-type;
+        bh=ySILsLtzlDGM/CC+l8Z8m4oR4PT5CbFdpk7j2tEf7dI=;
+        b=BjOGDzVIjNtPc43DFUSYIR1GZJbJ+lpNuIEAEIVnKdh5SAfFQG3VRKTvCtqzJSaBIx
+         tWUYDddQsiAy8p5K7LiAaZxyJqVXajwz/yxvRUhv1NBjyhfAcG93blWOGY+sNqQ+tb0t
+         8TBXYCqB06sGQRgmcjkCkyHW8Z4C8HD8zo6ndmbt2lhPeYOtv/DJ3Gre82rRB6MNOl3U
+         e+GSvjHvRGLGm2RojB/Ru1in7lF6/STnsAKg+30+FTUrU8BROFbs+J1WG/qv7TY7I32d
+         YcO6+J9zBZWqHkywwmsNjobElCCLIt6Aci9xGlJRjvwtX6ocgKzfvmm6Xr+2uDbn0ts5
+         p3Cg==
+X-Gm-Message-State: ALoCoQk5Yc/CKOnAXUFyOF+oZ91+724pE1Kd4zXIaprlaTe8LafTybI+7AIcJItkMGZ/ZNxLO1c2
+MIME-Version: 1.0
+X-Received: by 10.49.30.197 with SMTP id u5mr730025qeh.33.1389766600546; Tue,
+ 14 Jan 2014 22:16:40 -0800 (PST)
+Received: by 10.229.139.201 with HTTP; Tue, 14 Jan 2014 22:16:40 -0800 (PST)
+Reply-To: Osbornlawfirm@mail2judge.com
+Date:	Wed, 15 Jan 2014 07:16:40 +0100
+Message-ID: <CAJwhCat1+SA5DsEf8Er=dO2ZBeZn3-C4rsk-fug-XEDrLywXGw@mail.gmail.com>
+Subject: PRIVATE MESSAGE
+From:	Osbornes Solicitors LLP <jaclark6@crimson.ua.edu>
+To:	undisclosed-recipients:;
+Content-Type: text/plain; charset=ISO-8859-1
+Sender:	linux-btrfs-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-btrfs.vger.kernel.org>
+X-Mailing-List:	linux-btrfs@vger.kernel.org
+Content-Length: 359
+
+My late client made his last will and testament in your favour, i sent
+letters to you but got no response, i advise you contact me
+immediately.
+
+Barr Mark Freedman
+--
+To unsubscribe from this list: send the line "unsubscribe linux-btrfs" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html

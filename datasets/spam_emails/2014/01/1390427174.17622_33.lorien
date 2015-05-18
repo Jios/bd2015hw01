@@ -1,0 +1,36 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 13912 invoked from network); 22 Jan 2014 15:33:49 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 22 Jan 2014 15:33:49 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 22 Jan 2014 15:33:49 -0000
+Received: (qmail 5024 invoked from network); 22 Jan 2014 15:33:48 -0000
+Received: from 18.164.ip.konectate.co ([201.159.18.164])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 22 Jan 2014 15:33:48 -0000
+Received: from 10.1.0.21 ([10.1.0.21])
+Message-ID: <234E12A8128A486D826B416B57479617@b2eyetty>
+From: "Finance-and-Accounts Department" <atletica@uisper.info>
+To: "Consumer" <cvs@bruce-guenter.dyndns.org>
+Subject: Notification of your order
+Date: Wed, 22 Jan 2014 07:43:08 +0200 (EEST)
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="windows-1250";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 14.0.8117.416
+X-MimeOLE: Produced By Microsoft MimeOLE V14.0.8117.416
+
+Hello Consumer
+We have received your order and will be processing it for 3 business days.
+Find details of the invoice:
+http://tecmadesign.com/2014/customers/654.126547.14.zip
+Bye,
+Finance-and-Accounts Department
+
+

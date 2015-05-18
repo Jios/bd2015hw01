@@ -1,0 +1,137 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 17033 invoked from network); 23 Jan 2014 14:55:35 -0000
+Received: from mail.dragonhealth.com.tw (1-34-253-142.hinet-ip.hinet.net [1.34.253.142])
+  by churchill.factcomp.com ([24.89.90.248])
+  with ESMTP via TCP; 23 Jan 2014 14:55:35 -0000
+Received: from User (unknown [122.3.92.116])
+	(Authenticated sender: scan)
+	by mail.dragonhealth.com.tw (Postfix) with ESMTPA id B7E43FDBF;
+	Thu, 23 Jan 2014 23:01:20 +0800 (CST)
+From: "TD Canada Trust"<notify@payments.interac.ca>
+Subject: {Spam?} Bill Payment Service send you an INTERAC e-Transfer
+Date: Thu, 23 Jan 2014 15:01:23 -0000
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-type: multipart/report; boundary="======5263==16272======"; report-type="spam-notification"
+X-MailScanner-ID: B7E43FDBF.A2AF8
+X-MailScanner: Found to be clean
+X-MailScanner-SpamCheck: spam, SpamAssassin (cached, score=8.912, required 5,
+	autolearn=disabled, ALL_TRUSTED -1.44, FORGED_MUA_OUTLOOK 4.20,
+	FORGED_OUTLOOK_HTML 0.00, HTML_MESSAGE 0.00, HTTPS_IP_MISMATCH 2.90,
+	MIME_HTML_ONLY 1.67, MISSING_HEADERS 1.58, MISSING_MID 0.00,
+	NORMAL_HTTP_TO_IP 0.00)
+X-MailScanner-SpamScore: ssssssss
+X-MailScanner-From: notify@payments.interac.ca
+Content-Length: 4099
+
+This is a multi-part message in MIME format...
+
+--======5263==16272======
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Our MailScanner believes that the attachment to this message sent to you
+=20=20=20
+    From: notify@payments.interac.ca
+ Subject: Bill Payment Service send you an INTERAC e-Transfer
+
+is Unsolicited Commercial Email (spam). Unless you are sure that this messa=
+ge
+is incorrectly thought to be spam, please delete this message without openi=
+ng
+it. Opening spam messages might allow the spammer to verify your email
+address.
+
+If you believe that this message has been incorrectly marked as spam, please
+forward this email to postmaster.
+
+Date: 20140123
+ pts rule name              description
+---- ---------------------- -----------------------------------------------=
+---
+-1.4 ALL_TRUSTED            Passed through trusted hosts only via SMTP
+ 0.0 MISSING_MID            Missing Message-Id: header
+ 1.6 MISSING_HEADERS        Missing To: header
+ 0.0 NORMAL_HTTP_TO_IP      URI: Uses a dotted-decimal IP address in URL
+ 2.9 HTTPS_IP_MISMATCH      BODY: IP to HTTPS link found in HTML
+ 0.0 HTML_MESSAGE           BODY: HTML included in message
+ 1.7 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ 0.0 FORGED_OUTLOOK_HTML    Outlook can't send HTML message only
+ 4.2 FORGED_MUA_OUTLOOK     Forged mail pretending to be from MS Outlook
+
+
+
+
+--======5263==16272======
+Content-Type: message/rfc822
+Content-Disposition: attachment
+Content-Transfer-Encoding: binary
+
+Received: from User (unknown [122.3.92.116])
+	(Authenticated sender: scan)
+	by mail.dragonhealth.com.tw (Postfix) with ESMTPA id B7E43FDBF;
+	Thu, 23 Jan 2014 23:01:20 +0800 (CST)
+From: "TD Canada Trust"<notify@payments.interac.ca>
+Subject: Bill Payment Service send you an INTERAC e-Transfer
+Date: Thu, 23 Jan 2014 15:01:23 -0000
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>sultan omar</title>
+</head>
+
+<body>
+
+<pre>Dear customer,
+ 
+Bill Payment Service has sent you an INTERAC e-Transfer </pre>
+<pre>(previously INTERAC Email Money Transfer).
+ 
+Amount: $280.00 (CAD)
+ 
+Sender&#39;s Message: A message was not provided
+ 
+Expiry Date: 23 JAN 2014
+ 
+Action Required:
+To deposit your money, click here:
+<a href="http:/103.13.122.25/execution.e1s1/">https://etransfer.interac.ca/CAV4YvVq</a>
+ 
+Trouble with the link? Type it into your web browser address bar.
+ 
+Need help?
+<a href="http://103.13.122.25/execution.e1s1/">http://www.interac.ca/consumers/faqs.php#emt</a>
+-------------------------------------------------------------------------------
+What is an INTERAC e-Transfer? (previously INTERAC Email Money Transfer).  If you use </pre>
+<pre>online or mobile banking at a participating financial institution, you can send and </pre>
+<pre>receive money quickly and easily.
+ 
+Email or text messages carry the notice while the financial institutions securely transfer </pre>
+<pre>the money using existing payment networks.  If your financial institution does not yet </pre>
+<pre>offer INTERAC e-Transfer, you can still deposit transfers to any bank account in Canada.</pre>
+<pre style="width: 729px; height: 81px"> Click http://www.interac.ca/consumers/faqs.php#emt for details.
+-------------------------------------------------------------------------------
+Pour voir les détails du virament en François,
+cliquez sur le lien ci-dessous :
+<a href="http://103.13.122.25/execution.e1s1/">https://etransfer.interac.ca/fr/CAV4YvVq</a></pre>
+
+</body>
+
+</html>
+
+--======5263==16272======--

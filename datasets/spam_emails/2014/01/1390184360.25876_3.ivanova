@@ -1,0 +1,57 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 7855 invoked from network); 19 Jan 2014 18:08:07 -0000
+Received: (qmail 16752 invoked from network); 19 Jan 2014 18:08:07 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by mx15.futurequest.net ([10.2.1.189])
+  with ESMTP via TCP; 19 Jan 2014 18:08:07 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S1751909AbaASSHk (ORCPT <rfc822;bruce@untroubled.org>);
+	Sun, 19 Jan 2014 13:07:40 -0500
+Received: from emea01-db3-ndr.ptr.protection.outlook.com ([157.56.120.101]:28023
+	"EHLO emea01-db3-obe.outbound.protection.outlook.com"
+	rhost-flags-OK-OK-OK-FAIL) by vger.kernel.org with ESMTP
+	id S1751885AbaASSHj (ORCPT <rfc822;linux-btrfs@vger.kernel.org>);
+	Sun, 19 Jan 2014 13:07:39 -0500
+Received: from [116.203.50.234] (116.203.50.234) by
+ SINPR01MB060.apcprd01.prod.exchangelabs.com (10.242.51.156) with Microsoft
+ SMTP Server (TLS) id 15.0.847.13; Sun, 19 Jan 2014 18:07:28 +0000
+Content-Type: multipart/mixed; boundary="===============0878009325=="
+MIME-Version: 1.0
+Subject: NOKIA COMPANY 2014 AWARD
+To: Recipients <NOKIA4@AWARD808.onmicrosoft.com>
+From: NOKIA COMPANY AWARD UK <NOKIA4@AWARD808.onmicrosoft.com>
+Date: Sun, 19 Jan 2014 23:36:55 +0530
+Reply-To: <nokiaaward.office.uk@gmail.com>
+Message-ID: <5353224c-8557-4f93-9e8a-187beceb0b85@SINPR01MB060.apcprd01.prod.exchangelabs.com>
+X-Originating-IP: [116.203.50.234]
+X-ClientProxiedBy: DM2PR06CA005.namprd06.prod.outlook.com (10.141.96.35) To
+ SINPR01MB060.apcprd01.prod.exchangelabs.com (10.242.51.156)
+X-Forefront-PRVS: 00963989E5
+X-Forefront-Antispam-Report: SFV:SPM;SFS:(10009001)(189002)(199002)(77096001)(49866001)(50986001)(47736001)(81542001)(47976001)(81816001)(568964001)(83072002)(4396001)(85852003)(74662001)(69226001)(74876001)(80976001)(81686001)(76796001)(81956001)(76786001)(71186001)(81342001)(74706001)(47446002)(87266001)(93516002)(76176001)(74502001)(54316002)(66066001)(65816001)(80022001)(54356001)(42186004)(92726001)(512934002)(1496005)(76482001)(64872005)(79102001)(74316001)(564344003)(19580395003)(33646001)(77982001)(93136001)(83322001)(59766001)(56776001)(63696002)(74366001)(87976001)(89136003)(85306002)(46102001)(90146001)(51856001)(56816005)(84326002)(569044001)(43066001)(86362001)(86372001)(82596007);DIR:OUT;SFP:1501;SCL:5;SRVR:SINPR01MB060;H:[116.203.50.234];CLIP:116.203.50.234;FPR:;RD:InfoNoRecords;MX:1;A:0;LANG:en;
+X-OriginatorOrg: AWARD808.onmicrosoft.com
+Sender: linux-btrfs-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-btrfs.vger.kernel.org>
+X-Mailing-List: linux-btrfs@vger.kernel.org
+
+--===============0878009325==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+KINDLY OPEN THE ATTAICH FILE
+--===============0878009325==
+Content-Type: message/external-body; access-type=x-deleted; length=46767
+
+
+Content-Type: application/octet-stream
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="NOKIA AWARD FILE.rtf"
+
+--===============0878009325==--
+--
+To unsubscribe from this list: send the line "unsubscribe linux-btrfs" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html

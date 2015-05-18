@@ -1,0 +1,116 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 9374 invoked from network); 24 Jan 2014 20:39:13 -0000
+Received: (qmail 23847 invoked from network); 24 Jan 2014 20:39:12 -0000
+Received: from mail-oa0-f69.google.com (mail-oa0-f69.google.com [209.85.219.69])
+  by mx07.futurequest.net ([10.2.1.178])
+  with ESMTP via TCP; 24 Jan 2014 20:39:12 -0000
+Received: by mail-oa0-f69.google.com with SMTP id h16so13873407oag.4
+        for <bruce@untroubled.org>; Fri, 24 Jan 2014 12:39:12 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type;
+        bh=80/Iqav4yGaGXwzKBinI2NZOfwJj0vOGUEz655kCZsw=;
+        b=ctUfO2gsKWythz3SxQbjQ/p54wIHrZ98Bgj8cWkRFIyQZKQpo1IOUousqopnnI9yxj
+         4EEaX2e91Juc+jdt5AQPsoIlB5HS2aWDNvZLiRKl0Y/lWfsU1qbTNrfaJGgP2JFXBWc1
+         96aWuvL2nfKQ3tgCH1hqzIlD0//fPjpDz6Tc0N+n0wE2Q+aZt4Jfzxoy48R9hEgLEF99
+         TonrdJrrr4w6c5x8o3FNb/LG9tvgUW0eQa9PDR/BBQltT2UaQyQvfXJvzZWxzcQomUkE
+         d2WugROr0Oi1Exg8U+1iblPRB337dibG6bFT7WPdHZPoFapk7cliF7HKeotGwTK3jQQx
+         GlRA==
+MIME-Version: 1.0
+X-Received: by 10.182.251.230 with SMTP id zn6mr5882008obc.14.1390595952283;
+ Fri, 24 Jan 2014 12:39:12 -0800 (PST)
+Message-ID: <001a11c1dfb6c3187f04f0bd59a6@google.com>
+Date: Fri, 24 Jan 2014 20:39:12 +0000
+Subject: www.untroubled.org
+From: Stella Jones <stellagjones12@gmail.com>
+To: bruce@untroubled.org
+Content-Type: multipart/alternative; boundary=001a11c1dfb6c3187804f0bd59a3
+Content-Length: 5764
+
+--001a11c1dfb6c3187804f0bd59a3
+Content-Type: text/plain; charset=windows-1252; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+DQoNCkhpLA0KDQpJIGp1c3Qgd2FudGVkIHRvIHNlbmQgeW91IGEgcXVpY2sgbm90ZS4gV2l0aCBh
+IGZldyBzaW1wbGUgY2hhbmdlcyB0byBtYWtlDQp5b3VyIHNpdGUgbW9yZSBTRU8tZnJpZW5kbHkg
+SZJtIHN1cmUgeW91IGNhbiBjb252ZXJ0IG1vcmUgdmlzaXRvcnMgaW50bw0KbGVhZHMgYW5kIGdl
+dCBpdCBwbGFjZWQgaGlnaGVyIGluIHRoZSBvcmdhbmljIHNlYXJjaCByZXN1bHRzLCBmb3Iga2V5
+d29yZHMNCnRoYXQgbWF0dGVyIHRvIHlvdSB0aGUgbW9zdC4NCg0KV2UgYXJlIFVTQSBiYXNlZCBj
+b21wYW55IHdpdGggYSBncmVhdCBpbi1ob3VzZSB0ZWNobmljYWwgdGVhbSB3aG8gcmVhbGx5DQpr
+bm93IHRoZWlyIHN0dWZmIGFib3V0IHNlYXJjaCBlbmdpbmUgb3B0aW1pemF0aW9uLg0KDQpXb3Vs
+ZCB5b3UgbGlrZSBhIGJpdCBtb3JlIGluZm9ybWF0aW9uIGFib3V0IGhvdyB0byBnaXZlIHlvdXIg
+d2Vic2l0ZSBhDQpib29zdCB3aXRoIGJldHRlciBTRU8/DQoNCkJlc3QgcmVnYXJkcywNCg0KU3Rl
+bGxhIEpvbmVzDQpTRU8vV0VCIFNwZWNpYWxpc3QNCg0KW2ltYWdlOiBMaW5rZWRJbl0gW2ltYWdl
+OiBGYWNlYm9va10gW2ltYWdlOiBUd2l0dGVyXSBbaW1hZ2U6IFNreXBlXQ0KICAgICAgICAgICAg
+IFMgICBFICBPICAgICAgICAgICAgKlNlYXJjaCBFbmdpbmUgT3B0aW1pemF0aW9uKg0KDQpXZSBy
+ZXNwZWN0IHlvdXIgcHJpdmFjeSBhbmQgd2FudCB0byBtYWtlIHN1cmUgeW91IGFyZSBhd2FyZSBv
+ZiBhIGZldw0KdGhpbmdzLiBCeSByZXBseWluZyB0byB0aGlzIGVtYWlsLCB5b3UgYXV0aG9yaXpl
+IG91ciBVU0EgYWZmaWxpYXRlcyB0aGF0DQpjYW4gaGVscCB3aXRoIHlvdXIgcHJvamVjdCB0byBj
+YWxsIHlvdSBhdCB0aGUgbnVtYmVyIHlvdSBwcm92aWRlZCwgYW5kIHlvdQ0KdW5kZXJzdGFuZCB0
+aGF0IHRoZXkgbWF5IHVzZSBhdXRvbWF0ZWQgcGhvbmUgdGVjaG5vbG9neSB0byBjYWxsIHlvdS4g
+QXQgbm8NCnRpbWUgYXJlIHlvdSByZXF1aXJlZCB0byBtYWtlIGEgcHVyY2hhc2UuDQo=
+--001a11c1dfb6c3187804f0bd59a3
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p style=3D"color:rgb(34,34,34);font-size:13px;font-style:=
+normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-he=
+ight:normal;text-align:start;text-indent:0px;text-transform:none;white-spac=
+e:normal;word-spacing:0px;font-family:arial,sans-serif">
+Hi,</p><div class=3D"gmail_quote" style=3D"color:rgb(34,34,34);font-size:13=
+px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:=
+normal;line-height:normal;text-align:start;text-indent:0px;text-transform:n=
+one;white-space:normal;word-spacing:0px;font-family:arial,sans-serif">
+<div dir=3D"ltr"><div><p>I just wanted to send you a quick note. With a few=
+ simple changes to make your site more SEO-friendly I=92m sure you can conv=
+ert more visitors into leads and get it placed higher in the organic search=
+ results, for keywords that matter to you the most.</p>
+</div><div><p>We are USA based company with a great in-house technical team=
+ who really know their stuff about search engine optimization.=A0</p></div>=
+<p>Would you like a bit more information about how to give your website a b=
+oost with better SEO?</p>
+<p>Best regards,</p><p><span style=3D"font-family:&#39;book antiqua&#39;,pa=
+latino;color:rgb(136,136,136);font-size:small"><span style=3D"font-size:lar=
+ge">Stella Jones</span><br><span style=3D"color:rgb(0,0,0);font-family:aria=
+l,helvetica,sans-serif;font-size:xx-small">SEO/WEB Specialist</span></span>=
+<br>
+</p><p><img src=3D"https://ci5.googleusercontent.com/proxy/YYQPDBg7jkwqdYbz=
+IURyRviQ9qyG7FZGPzKIcuYqCi7941BKpiEGynw9t7NuMGwB-Icc1XYWHRmkruEahIN1IU4=3Ds=
+0-d-e1-ft#http://ctrlq.org/html-mail/img/linkedin.png" alt=3D"LinkedIn">=A0=
+<img src=3D"https://ci4.googleusercontent.com/proxy/5Zp6AjzAzB7p_x7nHLSzifi=
+A5INm8S0RSxcLYh1hGEdbomO4vf1Qxe4Retajy4TGeqfxkaxDOG88i81-erdz2cQ=3Ds0-d-e1-=
+ft#http://ctrlq.org/html-mail/img/facebook.png" alt=3D"Facebook">=A0<img sr=
+c=3D"https://ci6.googleusercontent.com/proxy/Q6jSZAIuY69y8zvFQYJiaq87NSHOwx=
+O2DVSU-00oGogNG83KVENI3G_ttv9dPx4Yqq2y9uvz1fQLGB36BKWY6w=3Ds0-d-e1-ft#http:=
+//ctrlq.org/html-mail/img/twitter.png" alt=3D"Twitter">=A0<img src=3D"https=
+://ci5.googleusercontent.com/proxy/79O4WzFFSP4FjojPQN4UKvbAs_QaTb-VSly69DOz=
+R7KCaTJI9PJe4go-2fhEiqluwQH_km_pPdNU-Ap4qGo=3Ds0-d-e1-ft#http://ctrlq.org/h=
+tml-mail/img/skype.png" alt=3D"Skype">=A0</p>
+<table style=3D"margin-left:auto;margin-right:auto" border=3D"0"><tbody><tr=
+><td style=3D"font-family:arial,sans-serif;margin:0px">=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0</td><td style=3D"font-family:arial,sans-serif;margin:0px;backg=
+round-color:rgb(72,114,233)">
+<b>=A0</b>=A0<span style=3D"font-family:&#39;times new roman&#39;,times;fon=
+t-size:large;color:rgb(255,255,255)">S</span><b>=A0=A0</b></td><td style=3D=
+"font-family:arial,sans-serif;margin:0px;background-color:rgb(255,0,51)">=
+=A0<span style=3D"font-family:&#39;times new roman&#39;,times;font-size:lar=
+ge"><span style=3D"font-size:x-large;color:rgb(255,255,255)">E</span>=A0</s=
+pan></td>
+<td style=3D"font-family:arial,sans-serif;margin:0px;background-color:rgb(1=
+01,235,19)"><span style=3D"font-size:large;color:rgb(255,255,255);font-fami=
+ly:&#39;times new roman&#39;,times">=A0O=A0</span></td><td style=3D"font-fa=
+mily:arial,sans-serif;margin:0px;text-align:center">
+=A0=A0=A0 =A0 =A0 =A0 =A0</td></tr><tr><td colspan=3D"5" style=3D"font-fami=
+ly:arial,sans-serif;margin:0px;background-color:rgb(0,0,0);text-align:cente=
+r"><b><span style=3D"font-family:tahoma,arial,helvetica,sans-serif;color:rg=
+b(255,255,255)">Search Engine Optimization</span></b></td>
+</tr></tbody></table><p style=3D"text-align:center"><span style=3D"font-fam=
+ily:arial,helvetica,sans-serif;font-size:xx-small;color:rgb(136,136,136)">W=
+e respect your privacy and want to make sure you are aware of a few things.=
+ By replying to this email, you authorize our USA affiliates that can help =
+with your project to call you at the number you provided, and you understan=
+d that they may use automated phone technology to call you. At no time are =
+you required to make a purchase.</span></p>
+</div></div></div>
+
+--001a11c1dfb6c3187804f0bd59a3--

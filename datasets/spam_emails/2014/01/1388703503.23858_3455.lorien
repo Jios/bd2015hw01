@@ -1,0 +1,12 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 18978 invoked from network); 1 Jan 2014 01:15:43 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Jan 2014 01:15:43 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Jan 2014 01:15:43 -0000
+Received: (qmail 22767 invoked from network); 1 Jan 2014 01:15:42 -0000
+Received: from seminars.brcgl.com ([95.211.135.83])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 01 Jan 2014 01:15:42 -0000
+

@@ -1,0 +1,143 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 19161 invoked from network); 23 Jan 2014 21:05:17 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 23 Jan 2014 21:05:17 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 23 Jan 2014 21:05:17 -0000
+Received: (qmail 11124 invoked from network); 23 Jan 2014 21:05:16 -0000
+Received: from mta113.promolatam.net ([198.27.122.113])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 23 Jan 2014 21:05:16 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=promolatam.net;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=info@promolatam.net;
+ bh=FSAzTKlsgCC/wyh1P+rdIhYMISU=;
+ b=BQ86b13tkkZa4coNF3bVEo5+JiXq0j6sB7g1aOgqV2m1eP+yFn9GfsWmbGDtzbgo6KeywvJnOE/S
+   RJQuQ5fxPm1JZiwYjQeHiVmY7leIL/6J+xZRLZ+RzRYiyP2dAli/J2kMfhg1xv80Dfh8P23Eewhu
+   A+VM07D7hykWPHhBfqY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=promolatam.net;
+ b=I3R/J14JFhlf/asm7vL1DjkAr26z0jaCqngniKsK3VXeBLixsVlPk57EyeiVec6IQpyWgiHPBW5U
+   1OeSdpm2BlWMpX+9WAIqk/XbY3R5gYe4qipcdPySnULNhF3r+Zt9Im2W8fBzVsi4/qRo6+d5mSaS
+   CboXgqQtrNiP2kQxeXA=;
+Received: from promolatam.net (198.27.85.210) by mta113.promolatam.net id hs620o0001g0 for <cvs@bruce-guenter.dyndns.org>; Thu, 23 Jan 2014 16:05:07 -0500 (envelope-from <info@promolatam.net>)
+To: cvs@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?UFJPTU8gTW9uaXRvcmVvIGRlIEFsYXJtYXMgYSBzw7NsbyAkMTc5?=
+Message-ID: <bc2266e96f83ab40b46b36c7d2526c94@promolatam.net>
+Return-Path: info@promolatam.net
+Date: Thu, 23 Jan 2014 16:15:20 +0100
+From: "USS Alarmas" <info@promolatam.net>
+Reply-To: info@promolatam.net
+MIME-Version: 1.0
+X-Mailer-LID: 47,48,49,46,20
+List-Unsubscribe: <http://promolatam.net/mailing/unsubscribe.php?M=2195719&C=8cdbf64268a2504a399d90e48b5b42f5&L=48&N=19>
+X-Mailer-RecptId: 2195719
+X-Mailer-SID: 19
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_d580fe137f53328a4ea5375d3f00b656"
+Content-Transfer-Encoding: 8bit
+Content-Length: 5025
+
+--b1_d580fe137f53328a4ea5375d3f00b656
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Si no visualiza correctamente este mensa
+[http://promolatam.net/mailing/link.php?M=2195719&N=19&L=224&F=T haga click
+aqui. [http://promolatam.net/mailing/link.php?M=2195719&N=19&L=225&F=T]
+- [http://promolatam.net/mailing/link.php?M=2195719&N=19&L=226&F=T mensaje
+enviado a cvs@bruce-guenter.dyndns.org. Este correo no podrá ser
+considerado SPAM ya que posee un medio automático de desuscripción. Este
+en virtud de lo establecido por la Disposición nro 4 de la Dirección
+Nacional de Protección de Datos Personales y de los arts 27, inc 3 de la
+Ley 25.326 y 27, párrafo 3ro del Decreto 1558/01, referidos a las bases de
+datos con fines de publicidad, le informamos que usted tiene derecho al
+retiro o bloqueo, total o parcial, de su nombre de esta base de datos, lo
+que podrá haciendo click en el link Remover suscripción.
+
+Los mencionados artículos expresan lo siguiente: - 'Ley 25.326 art 27
+inciso 3ro: El titular podrá, en cualquier momento, solicitar el retiro o
+bloqueo de su nombre de los bancos de datos a los que se refiere el
+presente artículo' -'Decreto 1158/01 art 27 párrafo 3ro: En toda
+comunicación con fines de publicidad que se realice por correo, teléfono,
+correo electrónico, internet u otro medio a distancia a conocer, se
+deberá indicar, en forma expresa y destacada, la posibilidad del titular
+del dato de solicitar el retiro o bloqueo, total o parcial, de su nombre de
+la base de datos'.
+
+© 2014 USS Alarmas. Política de Privacidad
+
+Si desea desuscribirse de nuestra lista haga click aqui.
+[http://promolatam.net/mailing/link.php?M=2195719&N=19&L=4&F=T]
+
+
+
+--b1_d580fe137f53328a4ea5375d3f00b656
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><meta charset="utf-8" />
+<title>USS Alarmas</title>
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+width="550">
+<tbody>
+<tr>
+<td style="text-align: center;"><a target="_blank"
+href="http://promolatam.net/mailing/link.php?M=2195719&N=19&L=225&F=H">Si
+no visualiza correctamente este mens<span style="color:
+#0000ff;">a</span></a><span style="color: #0000ff;"><a target="_blank"
+href="http://promolatam.net/mailing/link.php?M=2195719&N=19&L=225&F=H">je
+haga click aqui.</a></span><br /><span style="color:
+#ffffff;">-</span></td>
+</tr>
+<tr>
+<td><a target="_blank"
+href="http://promolatam.net/mailing/link.php?M=2195719&N=19&L=225&F=H"><img
+src="http://ussalarmas.lpage.com.ar/2014/uss-mailing.jpg" alt="USS Alarmas
+/ Monitoreo de Alarmas Con Sensores Inal&aacute;mbricos / SUPER PROMO CASAS
+(solo CABA y GBA) $179 final / CONSULT&Aacute; AHORA" height="600"
+width="550" /></a></td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0"
+width="550">
+<tbody>
+<tr>
+<td>
+<p style="font-family: Tahoma, Geneva, sans-serif; font-size: 10px; color:
+#999; text-align: justify;" align="justify">Este mensaje enviado a
+cvs@bruce-guenter.dyndns.org. Este correo no podr&aacute; ser considerado
+SPAM ya que posee un medio autom&aacute;tico de desuscripci&oacute;n. Este
+en virtud de lo establecido por la Disposici&oacute;n nro 4 de la
+Direcci&oacute;n Nacional de Protecci&oacute;n de Datos Personales y de los
+arts 27, inc 3 de la Ley 25.326 y 27, p&aacute;rrafo 3ro del Decreto
+1558/01, referidos a las bases de datos con fines de publicidad, le
+informamos que usted tiene derecho al retiro o bloqueo, total o parcial, de
+su nombre de esta base de datos, lo que podr&aacute; haciendo click en el
+link Remover suscripci&oacute;n.</p>
+<p style="font-family: Tahoma, Geneva, sans-serif; font-size: 10px; color:
+#999; text-align: justify;" align="justify">Los mencionados
+art&iacute;culos expresan lo siguiente: - 'Ley 25.326 art 27 inciso 3ro: El
+titular podr&aacute;, en cualquier momento, solicitar el retiro o bloqueo
+de su nombre de los bancos de datos a los que se refiere el presente
+art&iacute;culo' -'Decreto 1158/01 art 27 p&aacute;rrafo 3ro: En toda
+comunicaci&oacute;n con fines de publicidad que se realice por correo,
+tel&eacute;fono, correo electr&oacute;nico, internet u otro medio a
+distancia a conocer, se deber&aacute; indicar, en forma expresa y
+destacada, la posibilidad del titular del dato de solicitar el retiro o
+bloqueo, total o parcial, de su nombre de la base de datos'.</p>
+<p style="font-family: Tahoma, Geneva, sans-serif; font-size: 12px; color:
+#999; text-align: center;" align="center">&copy; 2014 USS Alarmas.
+Pol&iacute;tica de Privacidad</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p align="center"><span style="color: #ffffff;"></span><a
+href="http://promolatam.net/mailing/unsubscribe.php?M=2195719&C=8cdbf64268a2504a399d90e48b5b42f5&L=48&N=19">Si
+desea desuscribirse de nuestra lista haga click aqui.</a><br mce_bogus="1"
+/></p><img
+src="http://promolatam.net/mailing/open.php?M=2195719&L=48&N=19&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_d580fe137f53328a4ea5375d3f00b656--

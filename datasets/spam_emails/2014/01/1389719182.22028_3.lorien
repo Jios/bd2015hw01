@@ -1,0 +1,388 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 4438 invoked from network); 14 Jan 2014 15:48:05 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 14 Jan 2014 15:48:05 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 14 Jan 2014 15:48:05 -0000
+Received: (qmail 11398 invoked from network); 14 Jan 2014 15:48:04 -0000
+Received: from o82.topregionfr.com ([77.89.253.82])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 14 Jan 2014 15:48:04 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=DKIM1; d=topregionfr.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=postmaster@topregionfr.com;
+ bh=JBxx8dlHn58QnL1cUsOy3Ui+D0c=;
+ b=IN/2ByZYJLIauOABs/S+GmbPTtYpsRv07vzkxNIB4gjaKlEJeUlJfTp/vRMaIAdYiuOcQ6aRaKS1
+   E7RejVc8nD7oWktGDOub9tFt127buWUhHqkye9i33ORqxApqwsB1MzTPuoUmVXhWC27N9gWWNfVX
+   Gt5yku7IHWLT4smEWEE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=DKIM1; d=topregionfr.com;
+ b=kcZDtyRf9W7MW6vCo74nfhRLovM9IwHxNadOFx3AoD5z+Txp9SE+5V44ezUzCztkAlhwPx7H8nz6
+   nguKDcS/nOPcI70nAGvubElX0Uc2y4TI1n2ZugCdUMMJXK3RX26MiaI+ZcwpX0XRPfRsiyMFeHGO
+   6JeEU+DMQB0r5Z38MLM=;
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?UsOpZHVpc2V6IGxlcyByaXNxdWVzIGQndW5lIHBhaWUgZW5jb3JlIHBsdXMgY29tcGxleGUgZW4gMjAxNA==?=
+Message-ID: <c31ac921ebcfa8fcdf0e4d4acd21ab3b@topregionfr.com>
+Return-Path: bounce@topregionfr.com
+Date: Tue, 14 Jan 2014 17:48:03 +0200
+From: "Astuce PME" <info@topregionfr.com>
+Reply-To: info@topregionfr.com
+MIME-Version: 1.0
+X-Mailer-LID: 49,55
+List-Unsubscribe: <http://topregionfr.com/unsubscribe.php?M=5374556&C=42837b1bee3c07c2df530f2a7deff2a1&L=55&N=87>
+X-Mailer-RecptId: 5374556
+X-Mailer-SID: 87
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_c341d870ee324a6f05433cef4de48208"
+Content-Transfer-Encoding: 8bit
+Content-Length: 13632
+
+--b1_c341d870ee324a6f05433cef4de48208
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Devis Factory
+
+Service 100% gratuit
+Aucune obligation d'achat
+Meilleurs prestataires agréés
+
+Paie 2014 : demandez conseil à des experts
+Comme chaque début d’année, il existe des changements à prévoir pour
+établir sa feuille de paie correctement (smic, plafond sécurité
+sociale...). Ces modifications complexifient encore la gestion de la paie
+pour les PME, tâche souvent source d'erreurs.
+
+Profitez de cette nouvelle pour vous libérer d'une tâche sans cesse plus
+technique et complexe. Vous pouvez réaliser entre 20 et 30% d'économies
+en externalisant votre paie.
+
+Soumettez votre demande de devis et recevez les propositions de plusieurs
+prestataires spécialisés dans la gestion de paie.
+
+Obtenez des devis en 48h
+
+http://topregionfr.com/link.php?M=5374556&N=87&L=58&F=T
+
+_________________________________________________________________________________________________________________________________________
+Ce message vous est envoyé par LeadsLeader. D é s a b o n n e m e n t de
+la liste: http://topregionfr.com/link.php?M=5374556&N=87&L=2&F=T
+_________________________________________________________________________________________________________________________________________
+
+
+--b1_c341d870ee324a6f05433cef4de48208
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Externalisation de la Paie</title>
+<style type="text/css">
+#outlook a
+	padding: 0;
+
+body
+	width: 100% !important;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	margin: 0;
+	padding: 0;
+
+ .ExternalClass
+	width: 100%;
+
+ .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass
+font, .ExternalClass td, .ExternalClass div
+	line-height: 100%;
+
+table
+	border-collapse: collapse;
+
+td
+	border-collapse: collapse;
+
+</style>
+</head>
+<body bgcolor="#ddd2be">
+<table style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" bgcolor="#ddd2be"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/ep/img/espace.gif"
+alt="" width="5" height="5" /></td>
+</tr>
+<tr>
+<td style="font-family: Arial, sans-serif; color: #0000ff; font-size:
+10px;" align="center" bgcolor="#ddd2be">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ddd2be"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/ep/img/espace.gif"
+alt="" width="5" height="5" /></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ddd2be">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 600px;">
+<tbody>
+<tr>
+<td>
+<div align="center">Si vous ne visualisez pas correctement ce message, <a
+href="http://topregionfr.com/link.php?M=5374556&N=87&L=59&F=H"
+target="_blank">consultez-le en ligne.</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 502px;" border="0" cellspacing="0" cellpadding="0"
+align="center">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF"><a
+href="http://topregionfr.com/link.php?M=5374556&N=87&L=58&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/ep/img/effi_ep2_r1_c1.jpg"
+alt="Externalisation de la Paie" width="251" height="200" /></a></td>
+<td bgcolor="#FFFFFF"><a
+href="http://topregionfr.com/link.php?M=5374556&N=87&L=58&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/ep/img/effi_ep2_r1_c2.jpg" alt="Moins
+de contraintes" width="251" height="200" /></a></td>
+</tr>
+<tr>
+<td bgcolor="#211f5e"><a
+href="http://topregionfr.com/link.php?M=5374556&N=87&L=58&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/logo2.jpg" alt="Devis Factory"
+width="251" height="93" /></a></td>
+<td bgcolor="#211f5e">
+<table style="width: 251px;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="30"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/ep/img/point.jpg" alt="" width="30"
+height="22" /></td>
+<td style="font-family: Arial, sans-serif; color: #ffffff; font-size:
+13px;" width="221" align="left">Service <span style="color: #9999ff;"
+data-mce-mark="1"><strong>100% gratuit&nbsp;</strong></span></td>
+</tr>
+<tr>
+<td><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/ep/img/point.jpg" alt="" width="30"
+height="22" /></td>
+<td style="font-family: Arial, sans-serif; color: #ffffff; font-size:
+13px;" width="221" align="left"><span style="color: #9999ff;"
+data-mce-mark="1"><strong>Aucune obligation</strong></span> d'achat</td>
+</tr>
+<tr>
+<td><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/ep/img/point.jpg" alt="" width="30"
+height="22" /></td>
+<td style="font-family: Arial, sans-serif; color: #ffffff; font-size:
+13px;" width="221" align="left">Meilleurs&nbsp;<span style="color:
+#9999ff;" data-mce-mark="1"><strong>prestataires
+agr&eacute;&eacute;s</strong></span></td>
+</tr>
+<tr>
+<td style="font-size: 1px; line-height: 1px;"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/ep/img/espace.gif"
+alt="" width="5" height="10" /></td>
+<td style="font-size: 1px; line-height: 1px;"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/ep/img/espace.gif"
+alt="" width="5" height="10" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF"><a
+href="http://topregionfr.com/link.php?M=5374556&N=87&L=58&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/coin2.jpg" alt="" width="251"
+height="77" /></a></td>
+<td bgcolor="#FFFFFF"><a
+href="http://topregionfr.com/link.php?M=5374556&N=87&L=58&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/ep/img/bouton.jpg" alt="Recevez des
+devis sans engagement" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ddd2be">
+<table style="width: 502px;" border="0" cellspacing="0" cellpadding="0"
+align="center">
+<tbody>
+<tr>
+<td width="4" bgcolor="#211f5e"><img style="outline: none; text-decoration:
+none; -ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/ep/img/espace.gif" alt="" width="4"
+height="4" /></td>
+<td width="35" bgcolor="#FFFFFF"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/ep/img/espace.gif"
+alt="" width="35" height="5" /></td>
+<td width="424" bgcolor="#FFFFFF">
+<table style="width: 424px;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-family: Arial, sans-serif; color: #003399; font-size:
+20px;" align="left"><span style="color: #cb0303;" data-mce-mark="1">Paie
+2014 : </span>demandez conseil &agrave; des experts&nbsp;</td>
+</tr>
+<tr>
+<td style="font-size: 1px; line-height: 1px;"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/ep/img/espace.gif"
+alt="" width="5" height="15" /></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 424px;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-family: Arial, sans-serif; color: #333333; font-size:
+13px;" width="204" align="left" valign="top"><strong></strong>Comme chaque
+d&eacute;but d&rsquo;ann&eacute;e, il existe des <strong>changements
+&agrave; pr&eacute;voir pour &eacute;tablir sa feuille de paie</strong>
+correctement (smic, plafond s&eacute;curit&eacute; sociale...). Ces
+modifications complexifient encore la gestion de la paie pour les PME,
+t&acirc;che souvent source d'erreurs.&nbsp;<br /><br />Profitez de cette
+nouvelle pour vous lib&eacute;rer d'une t&acirc;che sans cesse plus
+technique et complexe<strong>.</strong> Vous pouvez r&eacute;aliser entre
+<strong>20 et 30% d'&eacute;conomies</strong> en externalisant votre
+paie.</td>
+<td style="font-family: Arial, sans-serif; color: #333333; font-size:
+13px;" width="8"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/ep/img/espace.gif" alt="" width="8"
+height="5" /></td>
+<td style="font-family: Arial, sans-serif; color: #0000ff; font-size:
+14px;" width="212" align="center" valign="top"><a
+href="http://topregionfr.com/link.php?M=5374556&N=87&L=58&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/ep/img/ExternalisationPaie2.jpg"
+alt="Comparez les devis." width="212" height="150" /></a><a
+href="http://topregionfr.com/link.php?M=5374556&N=87&L=58&F=H"
+style="color: #0000ff;" target="_blank"><br />&raquo; Obtenez des devis en
+48h</a></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 424px;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-size: 1px; line-height: 1px;" align="left"><img
+style="outline: none; text-decoration: none; -ms-interpolation-mode:
+bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/ep/img/espace.gif" alt="" width="5"
+height="20" /></td>
+</tr>
+<tr>
+<td style="font-family: Arial, sans-serif; color: #003399; font-size:
+13px;" align="left"><a
+href="http://topregionfr.com/link.php?M=5374556&N=87&L=58&F=H"
+target="_blank"><strong>&raquo; Soumettez votre demande de devis et recevez
+les propositions de plusieurs prestataires sp&eacute;cialis&eacute;s dans
+la gestion de paie.</strong></a><strong></strong></td>
+</tr>
+<tr>
+<td align="left"><span style="font-family: Arial, sans-serif; color:
+#333333; font-size: 13px;" data-mce-mark="1"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/ep/img/espace.gif"
+alt="" width="5" height="40" /></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="35" bgcolor="#FFFFFF"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/ep/img/espace.gif"
+alt="" width="35" height="5" /></td>
+<td width="4" bgcolor="#211f5e"><img style="outline: none; text-decoration:
+none; -ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/ep/img/espace.gif" alt="" width="4"
+height="4" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 1px; line-height: 1px;" align="center"
+bgcolor="#ddd2be">
+<table style="width: 502px;" border="0" cellspacing="0" cellpadding="0"
+align="center">
+<tbody>
+<tr>
+<td style="font-size: 1px; line-height: 1px;" bgcolor="#FFFFFF"><img
+style="outline: none; text-decoration: none; -ms-interpolation-mode:
+bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/ep/img/coingauche.jpg" alt="" /></td>
+<td style="font-size: 1px; line-height: 1px;" bgcolor="#FFFFFF"><img
+style="outline: none; text-decoration: none; -ms-interpolation-mode:
+bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/ep/img/coindroite.jpg" alt="" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 1px; line-height: 1px;" align="center"
+bgcolor="#ddd2be"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/ep/img/espace.gif" alt="" width="5"
+height="10" /></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ddd2be">
+<table style="width: 502px;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-family: Arial, sans-serif; color: #333333; font-size:
+10px;" align="center">Ce message vous est envoy&eacute; par LeadsLeader. <a
+href="http://topregionfr.com/link.php?M=5374556&N=87&L=2&F=H">D &eacute; s
+a b o n n e m e n t</a> de la liste</td>
+</tr>
+<tr>
+<td style="font-size: 1px; line-height: 1px;" align="center"><img
+style="outline: none; text-decoration: none; -ms-interpolation-mode:
+bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/ep/img/espace.gif" alt="" width="5"
+height="5" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://track12990371.effimails13.com/servlet/effi.pixel?id_compteur=12990371"
+/>
+<img
+src="http://topregionfr.com/open.php?M=5374556&L=55&N=87&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_c341d870ee324a6f05433cef4de48208--

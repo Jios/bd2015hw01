@@ -1,0 +1,12 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 28051 invoked from network); 14 Jan 2014 12:30:19 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 14 Jan 2014 12:30:19 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 14 Jan 2014 12:30:19 -0000
+Received: (qmail 7244 invoked from network); 14 Jan 2014 12:30:18 -0000
+Received: from 69.5.6.152 ([46.191.237.118])
+  by zak.futurequest.net ([69.5.6.152])
+  with SMTP via TCP; 14 Jan 2014 12:30:18 -0000
+

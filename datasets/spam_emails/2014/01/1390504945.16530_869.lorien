@@ -1,0 +1,462 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 6847 invoked from network); 23 Jan 2014 19:07:54 -0000
+Received: (qmail 31771 invoked from network); 23 Jan 2014 19:07:53 -0000
+Received: from mta109.loyaltycampaign.com (mta109.loyaltycampaign.com [84.247.1.109])
+  by mx15.futurequest.net ([10.2.1.189])
+  with ESMTP via TCP; 23 Jan 2014 19:07:53 -0000
+Received: by mta100.loyaltycampaign.com (Postfix, from userid 500)
+	id 39C41C0039; Thu, 23 Jan 2014 21:07:49 +0200 (EET)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=loyaltycampaign.ro;
+	s=selector; t=1390504069;
+	bh=IaITd5X6ONVMi3lCYil08RYmY3qCCKjMULXYF9S93Z8=;
+	h=Date:To:From:Reply-to:Subject:Message-ID:Sender:List-Unsubscribe:
+	 MIME-Version:Content-Type;
+	b=SeUlgGarQhp0H7KVudC45N2iig4Q0UR3TkVXBm/sZR3sRKymaywnZJYFBzfnHRuU4
+	 gr2WasCxADh9b0ovxz6oJf0n4etmELSrqmQNNJBneP0Z43tG/5ZcZn35Bq93l7VcGA
+	 2Aaige4L5rt/O95DqdztzapLa1aiuNYl6AgApSwY=
+DomainKey-Signature: a=rsa-sha1; s=selector1; d=loyaltycampaign.ro; c=nofws; q=dns;
+	b=TW3+YGGke85oELtS6H7eFwdFdBSThPC7goGzyH5r/5kNXmrNeJcB642W+UskIpI6s
+	zPRrQljs2RGjIoPWpj0xw==
+Date: Thu, 23 Jan 2014 21:07:49 +0200
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+From: Train Your Brain <office@trainyourbrain.ro>
+Reply-to: Train Your Brain <office@trainyourbrain.ro>
+Subject: Managementul conflictelor in procesele de negociere... 6 februarie, Bucuresti
+Message-ID: <9fcca74cced7c01baa69ca91af9a2cd6@localhost.localdomain>
+X-Priority: 3
+Sender: <user-sv@loyaltycampaign.ro>
+X-Mailer: CampaignSender
+X-Complaints-To: abuse@loyaltycampaign.com
+List-Unsubscribe: <http://client.campaignsender.ro/u.php?p=2ru/rs/8gst/y5/2kh/rs>
+X-MessageID: 2ru-8gst-YnJ1Y2VAdW50cm91YmxlZC5vcmc%3D-y5-sv-rs
+X-Report-Abuse: <http://client.campaignsender.ro/report_abuse.php?mid=2ru-8gst-YnJ1Y2VAdW50cm91YmxlZC5vcmc%3D-y5-sv-rs>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_9fcca74cced7c01baa69ca91af9a2cd6"
+Content-Length: 31896
+
+
+--b1_9fcca74cced7c01baa69ca91af9a2cd6
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Versiune web ( http://www.trainyourbrain.ro/20140206_Managementul_conflicte=
+lor.html )=0A=0A( https://www.facebook.com/TrainYourBrainn )=0A=0A( http://=
+www.trainyourbrain.ro )=0A=0AEVENIMENTE ANTERIOARE=0A=0A05.12.2013=0A"Trani=
+ng Team Leader-Echipa" ( http://www.trainyourbrain.ro/20131205_Team_leader.=
+html )=0A=0A28.11.2013=0A"Tehnici de negociere si vanzari" ( http://www.tra=
+inyourbrain.ro/20131128_Traning_negociere_vanzari.html )=0A=0A15.11.2013=0A=
+"Training de time management si stabilirea obiectivelor" ( http://www.train=
+yourbrain.ro/20131115_Time_management_stabilirea_obiectivelor.html )=0A=0A1=
+4.11.2013=0A"Comunicare, manipulare, influentare" ( http://www.trainyourbra=
+in.ro/20131114_Comunicare_manipulare_influentare.html )=0A=0A31.10.2013=0AS=
+eminar =D4=85valuarea, motivarea, fidelizarea si procedurile de=0Alucru ale=
+ angajatilor=D3=BC/a>=0A=0A( http://www.trainyourbrain.ro/20131031_Evaluare=
+a_motivarea_fidelizarea_procedurile_lucru_angajatilor.html )24.10.2013=0A"T=
+raning de Leadeship Situational" ( http://www.trainyourbrain.ro/20131024_Tr=
+aining_leadership_situational.html )=0A=0A10.10.2013=0A"Traning specializat=
+ de negociere si vanzari" ( http://www.trainyourbrain.ro/20131010_negociere=
+_vanzari.html )=0A=0A03.10.2013=0A"Traning Team Leader - echipa" ( http://w=
+ww.trainyourbrain.ro/20131003_Team_leader.html )=0A=0A19.09.2013=0A"Traning=
+ de negociere si vanzari" ( http://www.trainyourbrain.ro/20130919_Tehnici_n=
+egociere_vanzari.html )=0A=0A05.09.2013=0A"Traning de time management si st=
+abilirea obiectivelor" ( http://www.trainyourbrain.ro/20130905_Training_tim=
+e_management_stabilirea_obiectivelor.html )=0A=0A18.07.2013=0A"Traning de t=
+ime management si stabilirea obiectivelor" ( http://www.trainyourbrain.ro/2=
+0130718_Training_time_management_stabilirea_obiectivelor.html )=0A=0AManage=
+mentul conflictelor in procesele de negociere, relatii de=0Alucru si in org=
+anizatie=0A=0AEvenimentul se desfasoara la Hotel Capital Plaza****, B-dul=
+=0AIancu de Hunedoara nr. 54, Bucuresti, in data de 6 februarie=0A2014, int=
+re orele 10.00 =D6=A017.00, conform agendei prezentate mai=0Ajos.=0A=0AAGEN=
+DA :=0A=0A10.00 - 10.30 Inregistrarea participantilor & welcome coffee=0A=
+=0A10.30 - 13.00 Valentin Hanga, Sales Senior trainer=0A1. Negocierea=0A- D=
+efinirea/cunoasterea "participantilor" la un proces de=0Anegociere=0A2. Pas=
+ii procesului de Negociere (dupa FISHER)=0A- Declinarea POZITIEI participan=
+tilor la procesul de negociere=0A- Descoperirea INTERESELOR comune=0A- Gasi=
+rea SOLUTIILOR acceptate=0A3. Schimbul de variabile superior inferior; apli=
+carea=0Aprincipiului BATNA=0A=0A13.00 - 14.00 Dejun=0A=0A14.00 - 17.00 Vale=
+ntin Hanga, Sales Senior trainer=0A4. Elemente de "Analiza Comportamentala"=
+ utilizate in procesul de=0Anegociere=0A- Definirea modelului LIFO=0A- Cond=
+ucerea caracterelor diferite din echipa=0A5. Managementul Conflictului=0A- =
+Triunghiul dramatic - un instrument din "Analiza=0ATranzactionala"=0A- Defi=
+nirea/cunoasterea modelului PAC, ca motor declansator al=0Aconflictelor=0A6=
+. Rezolvarea conflictelor=0A-"Dezamorsarea" starii conflictuale, ce apare i=
+n negocierea=0Apozitiilor participantilor la procesul de negociere=0A=0ATax=
+a de participare : 400 lei plus TVA=0AReduceri acordate :=0A- 10% pentru un=
+a - trei persoane, inscriere si plata pana in data=0Ade 03 februarie 2014 -=
+ 15% pentru patru sau mai multe persoane=0Adin aceeasi companie, inscriere =
+si plata pana in data de 03=0Afebruarie 2014=0A=0APentru inscriere completa=
+ti formularul de aici ( http://www.trainyourbrain.ro/20140206_Managementul_=
+conflictelor.html )=0Asau scrieti la office@trainyourbrain.ro (=0Amailto:of=
+fice@trainyourbrain.ro ) / 0726 824 784=0A=0A( http://www.capitalplaza.ro/ =
+)=0A=0A( http://www.traduceri-apostilari.ro/ )=0A=0A( http://www.eurocom.ro=
+ )=0A=0A( http://www.fabricadeambalaje.ro )=0A=0AOferta este trimisa cu cea=
+ mai buna intentie, in cazul in care nu=0Aapreciati comunicarea va rugam sa=
+ ne comunicati acest lucru.=0AIn conformitate cu Legea nr. 365/2002 privind=
+ comertul=0Aelectronic si Legea nr. 506/2004 privind prelucrarea datelor cu=
+=0Acaracter personal si protectia vietii private in sectorul=0Acomunicarilo=
+r electronice, acest mesaj nu poate fi considerat=0ASPAM deoarece:=0A(1) - =
+acceptarea de primire a ofertei nu va implica financiar;=0A(2) - contine to=
+ate datele noastre de identificare;=0A(3) - are scopul de a va informa cu p=
+rivire la produse sau=0Aservicii ce va pot aduce beneficii;=0A(4) adresa dv=
+s. de e-mail fie a fost obtinuta in mod direct ca=0Aurmare a unor corespond=
+ente anterioare sau deoarece sunteti un=0Aclient/furnizor al companiei noas=
+tre sau a fost selectata dintr-o=0Abaza de date la care ati subscris; fie a=
+ fost facuta publica de=0Acatre dvs. fie prin afisari cu caracter publicita=
+r intr-un ghid=0Ade afaceri sau in cadrul unei intalniri de afaceri. Ne cer=
+em=0Ascuze daca acest mesaj a ajuns din greseala la dvs. sau a=0Aprovocat n=
+eplaceri.Pentru DEZABONARE accesati link-ul de mai jos=0A=0ADezabonare ( ht=
+tp://client.campaignsender.ro/u.php?p=3D2ru/rs/8gst/y5/2kh/rs )=0A=0ATrain =
+Your Brain=0ABucuresti=0A0723824784=0Aoffice@trainyourbrain.ro ( mailto:off=
+ice@trainyourbrain.ro )
+
+--b1_9fcca74cced7c01baa69ca91af9a2cd6
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html>=0A<head><title>Manage=
+mentul conflictelor in procesele de negociere, relatii de lucru si in organ=
+izatie</title><meta http-equiv=3D"Content-Type" content=3D"text/html; chars=
+et=3Dutf-8"><meta name=3D"viewport" content=3D"width=3D320, target-densityd=
+pi=3Ddevice-dpi">=0A=0A</head>=0A=0A<body>=0A<style type=3D"text/css"><!--=
+=0A/* Mobile-specific Styles */=0A@media only screen and (max-width: 660px)=
+ { =0Atable[class=3Dw0], td[class=3Dw0] { width: 0 !important; }=0Atable[cl=
+ass=3Dw10], td[class=3Dw10], img[class=3Dw10] { width:10px !important; }=0A=
+table[class=3Dw15], td[class=3Dw15], img[class=3Dw15] { width:5px !importan=
+t; }=0Atable[class=3Dw30], td[class=3Dw30], img[class=3Dw30] { width:10px !=
+important; }=0Atable[class=3Dw60], td[class=3Dw60], img[class=3Dw60] { widt=
+h:10px !important; }=0Atable[class=3Dw125], td[class=3Dw125], img[class=3Dw=
+125] { width:80px !important; }=0Atable[class=3Dw130], td[class=3Dw130], im=
+g[class=3Dw130] { width:55px !important; }=0Atable[class=3Dw140], td[class=
+=3Dw140], img[class=3Dw140] { width:90px !important; }=0Atable[class=3Dw160=
+], td[class=3Dw160], img[class=3Dw160] { width:180px !important; }=0Atable[=
+class=3Dw170], td[class=3Dw170], img[class=3Dw170] { width:100px !important=
+; }=0Atable[class=3Dw180], td[class=3Dw180], img[class=3Dw180] { width:80px=
+ !important; }=0Atable[class=3Dw195], td[class=3Dw195], img[class=3Dw195] {=
+ width:80px !important; }=0Atable[class=3Dw220], td[class=3Dw220], img[clas=
+s=3Dw220] { width:80px !important; }=0Atable[class=3Dw240], td[class=3Dw240=
+], img[class=3Dw240] { width:180px !important; }=0Atable[class=3Dw255], td[=
+class=3Dw255], img[class=3Dw255] { width:185px !important; }=0Atable[class=
+=3Dw275], td[class=3Dw275], img[class=3Dw275] { width:135px !important; }=
+=0Atable[class=3Dw280], td[class=3Dw280], img[class=3Dw280] { width:135px !=
+important; }=0Atable[class=3Dw300], td[class=3Dw300], img[class=3Dw300] { w=
+idth:140px !important; }=0Atable[class=3Dw325], td[class=3Dw325], img[class=
+=3Dw325] { width:95px !important; }=0Atable[class=3Dw360], td[class=3Dw360]=
+, img[class=3Dw360] { width:140px !important; }=0Atable[class=3Dw410], td[c=
+lass=3Dw410], img[class=3Dw410] { width:180px !important; }=0Atable[class=
+=3Dw470], td[class=3Dw470], img[class=3Dw470] { width:200px !important; }=
+=0Atable[class=3Dw580], td[class=3Dw580], img[class=3Dw580] { width:280px !=
+important; }=0Atable[class=3Dw640], td[class=3Dw640], img[class=3Dw640] { w=
+idth:300px !important; }=0Atable[class*=3Dhide], td[class*=3Dhide], img[cla=
+ss*=3Dhide], p[class*=3Dhide], span[class*=3Dhide] { display:none !importan=
+t; }=0Atable[class=3Dh0], td[class=3Dh0] { height: 0 !important; }=0Ap[clas=
+s=3Dfooter-content-left] { text-align: center !important; }=0A#headline p {=
+ font-size: 30px !important; }=0A.article-content, #left-sidebar{ -webkit-t=
+ext-size-adjust: 90% !important; -ms-text-size-adjust: 90% !important; }=0A=
+.header-content, .footer-content-left {-webkit-text-size-adjust: 80% !impor=
+tant; -ms-text-size-adjust: 80% !important;}=0Aimg { height: auto; line-hei=
+ght: 100%;}=0A } =0A/* Client-specific Styles */=0A#outlook a { padding: 0;=
+ }=09/* Force Outlook to provide a "view in browser" button. */=0Abody { wi=
+dth:640px !important; }=0A.ReadMsgBody { width: 100%; }=0A.ExternalClass { =
+width: 100%; display:block !important; } /* Force Hotmail to display emails=
+ at full width */=0A/* Reset Styles */=0A/* Add 100px so mobile switch bar =
+doesn't cover street address. */=0Abody { background-color: #ececec; margin=
+: 0; padding: 0; }=0Aimg { outline: none; text-decoration: none; display: b=
+lock;}=0Abr, strong br, b br, em br, i br { line-height:100%; }=0Ah1, h2, h=
+3, h4, h5, h6 { line-height: 100% !important; -webkit-font-smoothing: antia=
+liased; }=0Ah1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: blue !important; }=
+=0Ah1 a:active, h2 a:active,  h3 a:active, h4 a:active, h5 a:active, h6 a:a=
+ctive {=09color: red !important; }=0A/* Preferably not the same color as th=
+e normal header link color.  There is limited support for psuedo classes in=
+ email clients, this was added just for good measure. */=0Ah1 a:visited, h2=
+ a:visited,  h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited { color=
+: purple !important; }=0A/* Preferably not the same color as the normal hea=
+der link color. There is limited support for psuedo classes in email client=
+s, this was added just for good measure. */  =0Atable td, table tr { border=
+-collapse: collapse; }=0A.yshortcuts, .yshortcuts a, .yshortcuts a:link,.ys=
+hortcuts a:visited, .yshortcuts a:hover, .yshortcuts a span {=0Acolor: blac=
+k; text-decoration: none !important; border-bottom: none !important; backgr=
+ound: none !important;=0A}=09/* Body text color for the New Yahoo.  This ex=
+ample sets the font of Yahoo's Shortcuts to black. */=0A/* This most probab=
+ly won't work in all email clients. Don't include code blocks in email. */=
+=0Acode {=0A  white-space: normal;=0A  word-break: break-all;=0A}=0A#backgr=
+ound-table { background-color: #ececec; }=0A/* Webkit Elements */=0A#top-ba=
+r { border-radius:6px 6px 0px 0px; -moz-border-radius: 6px 6px 0px 0px; -we=
+bkit-border-radius:6px 6px 0px 0px; -webkit-font-smoothing: antialiased; ba=
+ckground-color: #043948; color: #e7cba3; }=0A#top-bar a { font-weight: bold=
+; color: #e7cba3; text-decoration: none;}=0A#footer { border-radius:0px 0px=
+ 6px 6px; -moz-border-radius: 0px 0px 6px 6px; -webkit-border-radius:0px 0p=
+x 6px 6px; -webkit-font-smoothing: antialiased; }=0A/* Fonts and Content */=
+=0Abody, td { font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans=
+-serif; }=0A.header-content, .footer-content-left, .footer-content-right { =
+-webkit-text-size-adjust: none; -ms-text-size-adjust: none; }=0A/* Prevent =
+Webkit and Windows Mobile platforms from changing default font sizes on hea=
+der and footer. */=0A.header-content { font-size: 12px; color: #e7cba3; }=
+=0A.header-content a { font-weight: bold; color: #e7cba3; text-decoration: =
+none; }=0A#headline p { color: #e7cba3; font-family: 'Helvetica Neue', Aria=
+l, Helvetica, Geneva, sans-serif; font-size: 36px; text-align: center; marg=
+in-top:0px; margin-bottom:30px; }=0A#headline p a { color: #e7cba3; text-de=
+coration: none; }=0A#left-sidebar .toc-item { font-family: 'Helvetica Neue'=
+, Arial, Helvetica, Geneva, sans-serif; font-size: 12px; line-height: 16px;=
+ color: #00707b; margin-top: 0px; margin-bottom: 6px; }=0A#left-sidebar .to=
+c-item a { color: #00707b; text-decoration: none; }=0A#left-sidebar .toc-he=
+ading { font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif=
+; font-size: 11px; line-height: 15px; color:#9a9661; font-weight:bold; }=0A=
+#left-sidebar .toc-heading a { color: #9a9661; text-decoration: none; }=0A#=
+left-sidebar .left-column-heading { font-family: 'Helvetica Neue', Arial, H=
+elvetica, Geneva, sans-serif; font-size: 11px; line-height:15px; color: #9a=
+9661; font-weight:bold; }=0A#left-sidebar .left-column-heading a { color: #=
+9a9661; text-decoration:none; }=0A#left-sidebar .left-column-subhead { font=
+-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:=
+ 13px; line-height: 16px; color: #999999; font-weight: bold; margin-top: 0p=
+x; margin-bottom: 16px; }=0A#left-sidebar .left-column-subhead a { color: #=
+999999; text-decoration:none; }=0A#left-sidebar .left-column-content { font=
+-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size:=
+ 11px; line-height: 10px; color: #9a9661; margin-top: 0px; margin-bottom: 1=
+6px; }=0A#left-sidebar .left-column-content a { color: #00707b; text-decora=
+tion: none; }=0A.article-title { font-size: 18px; line-height:24px; color: =
+#9a9661; font-weight:bold; margin-top:0px; margin-bottom:18px; font-family:=
+ 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; }=0A.article-title=
+ a { color: #9a9661; text-decoration: none; }=0A.article-title.with-meta {m=
+argin-bottom: 0;}=0A.article-meta { font-size: 13px; line-height: 20px; col=
+or: #ccc; font-weight: bold; margin-top: 0;}=0A.article-content { font-size=
+: 13px; line-height: 18px; color: #444444; margin-top: 0px; margin-bottom: =
+18px; font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; =
+}=0A.article-content a { color: #00707b; font-weight:bold; text-decoration:=
+none; }=0A.article-content img { max-width: 100% }=0A.article-content ol, .=
+article-content ul { margin-top:0px; margin-bottom:18px; margin-left:19px; =
+padding:0; }=0A.article-content li { font-size: 13px; line-height: 18px; co=
+lor: #444444; }=0A.article-content li a { color: #00707b; text-decoration:u=
+nderline; }=0A.article-content p {margin-bottom: 15px;}=0A.footer-content-l=
+eft { font-size: 12px; line-height: 15px; color: #e2e2e2; margin-top: 0px; =
+margin-bottom: 15px; }=0A.footer-content-left a { color: #e7cba3; font-weig=
+ht: bold; text-decoration: none; }=0A.footer-content-right { font-size: 11p=
+x; line-height: 16px; color: #e2e2e2; margin-top: 160px; margin-bottom: 5px=
+; }=0A.footer-content-right a { color: #e7cba3; font-weight: bold; text-dec=
+oration: none; }=0A#footer { background-color: #043948; color: #e2e2e2; }=
+=0A#footer a { color: #e7cba3; text-decoration: none; font-weight: bold; }=
+=0A#permission-reminder { font-size: 9px; white-space: normal; }=0A#street-=
+address {font-size: 12px; color: #e7cba3; white-space: normal; }=0A--></sty=
+le>=0A<div align=3D"center">=0A<table style=3D"width: 640px;" id=3D"backgro=
+und-table" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<t=
+r>=0A<td align=3D"center" bgcolor=3D"#ececec">=0A<table class=3D"w640" styl=
+e=3D"margin: 0px 10px; width: 640px;" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0">=0A<tbody>=0A<tr>=0A<td class=3D"w640" width=3D"640" height=3D"=
+20"></td>=0A</tr>=0A<tr>=0A<td class=3D"w640" width=3D"640">=0A<table style=
+=3D"width: 640px;" id=3D"top-bar" class=3D"w640" bgcolor=3D"#00707b" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td class=3D=
+"w15" width=3D"15"></td>=0A<td class=3D"w325" align=3D"left" valign=3D"midd=
+le" width=3D"350">=0A<table style=3D"width: 350px;" class=3D"w325" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td class=3D=
+"w325" width=3D"350" height=3D"8"></td>=0A</tr>=0A</tbody>=0A</table>=0A<di=
+v class=3D"header-content"><a href=3D"http://client.campaignsender.ro/tl.ph=
+p?p=3D2ru/2kh/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyourbrain.ro%2F20140206_=
+Managementul_conflictelor.html" target=3D"_new">Versiune web</a></div>=0A<t=
+able style=3D"width: 350px;" class=3D"w325" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td class=3D"w325" width=3D"350" heig=
+ht=3D"8"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A<td class=3D"w30" wi=
+dth=3D"30"></td>=0A<td class=3D"w255" align=3D"right" valign=3D"middle" wid=
+th=3D"255">=0A<table style=3D"width: 255px;" class=3D"w255" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td class=3D"w255" wi=
+dth=3D"255" height=3D"8"></td>=0A</tr>=0A</tbody>=0A</table>=0A<table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td valign=
+=3D"middle">=0A<div class=3D"header-content"><a href=3D"http://client.campa=
+ignsender.ro/tl.php?p=3D2ru/2kh/rs/8gst/y5/rs//https%3A%2F%2Fwww.facebook.c=
+om%2FTrainYourBrainn" target=3D"_new"><img src=3D"http://www.trainyourbrain=
+.ro/parteneri/facebook.jpg" div=3D"" width=3D"25" height=3D"25" /></a></div=
+>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 255px;" cl=
+ass=3D"w255" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A=
+<tr>=0A<td class=3D"w255" width=3D"255" height=3D"8"></td>=0A</tr>=0A</tbod=
+y>=0A</table>=0A</td>=0A<td class=3D"w15" width=3D"15"></td>=0A</tr>=0A</tb=
+ody>=0A</table>=0A</td>=0A</tr>=0A<tr>=0A<td id=3D"header" class=3D"w640" a=
+lign=3D"center" bgcolor=3D"#00707b" width=3D"640">=0A<div style=3D"text-ali=
+gn: center;" align=3D"center"><a href=3D"http://client.campaignsender.ro/tl=
+.php?p=3D2ru/2kh/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyourbrain.ro" target=
+=3D"_new"> <img src=3D"http://www.trainyourbrain.ro/parteneri/banner.jpg" w=
+idth=3D"640" height=3D"65" /> </a></div>=0A</td>=0A</tr>=0A<tr id=3D"twocol=
+umn-content-row">=0A<td class=3D"w640" width=3D"640">=0A<table style=3D"wid=
+th: 640px;" class=3D"w640" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+>=0A<tbody>=0A<tr>=0A<td class=3D"w15" bgcolor=3D"#e2e2e2" width=3D"15"></t=
+d>=0A<td id=3D"left-sidebar" class=3D"w140" align=3D"left" bgcolor=3D"#e2e2=
+e2" valign=3D"top" width=3D"140">=0A<table style=3D"width: 140px;" class=3D=
+"w140" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=
+=0A<td class=3D"w140" width=3D"140" height=3D"15"></td>=0A</tr>=0A<tr>=0A<t=
+d class=3D"w140" width=3D"140">=0A<div class=3D"left-column-heading" align=
+=3D"left"><span>EVENIMENTE ANTERIOARE</span> <br /><br /></div>=0A<div clas=
+s=3D"left-column-content" align=3D"left"><span><a href=3D"http://client.cam=
+paignsender.ro/tl.php?p=3D2ru/2kh/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyour=
+brain.ro%2F20131205_Team_leader.html" target=3D"_new">05.12.2013<br />"Tran=
+ing Team Leader-Echipa"</a><br /> <br /><span><a href=3D"http://client.camp=
+aignsender.ro/tl.php?p=3D2ru/2kh/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyourb=
+rain.ro%2F20131128_Traning_negociere_vanzari.html" target=3D"_new">28.11.20=
+13<br />"Tehnici de negociere si vanzari"</a><br /> <br /><span><a href=3D"=
+http://client.campaignsender.ro/tl.php?p=3D2ru/2kh/rs/8gst/y5/rs//http%3A%2=
+F%2Fwww.trainyourbrain.ro%2F20131115_Time_management_stabilirea_obiectivelo=
+r.html" target=3D"_new">15.11.2013<br />"Training de time management si sta=
+bilirea obiectivelor"</a><br /> <br /><span><a href=3D"http://client.campai=
+gnsender.ro/tl.php?p=3D2ru/2kh/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyourbra=
+in.ro%2F20131114_Comunicare_manipulare_influentare.html" target=3D"_new">14=
+.11.2013<br />"Comunicare, manipulare, influentare"</a><br /> <br /><span><=
+a href=3D"http://client.campaignsender.ro/tl.php?p=3D2ru/2kh/rs/8gst/y5/rs/=
+/http%3A%2F%2Fwww.trainyourbrain.ro%2F20131031_Evaluarea_motivarea_fideliza=
+rea_procedurile_lucru_angajatilor.html" target=3D"_new">31.10.2013<br /> Se=
+minar =D4=85valuarea, motivarea, fidelizarea si procedurile de lucru ale an=
+gajatilor=D3=BC/a&gt;<br /> <br /><span></span></a><a href=3D"http://client=
+.campaignsender.ro/tl.php?p=3D2ru/2kh/rs/8gst/y5/rs//http%3A%2F%2Fwww.train=
+yourbrain.ro%2F20131024_Training_leadership_situational.html" target=3D"_ne=
+w">24.10.2013<br /> "Traning de Leadeship Situational"</a><br /> <br /><spa=
+n><a href=3D"http://client.campaignsender.ro/tl.php?p=3D2ru/2kh/rs/8gst/y5/=
+rs//http%3A%2F%2Fwww.trainyourbrain.ro%2F20131010_negociere_vanzari.html" t=
+arget=3D"_new">10.10.2013<br /> "Traning specializat de negociere si vanzar=
+i"</a><br /> <br /><span><a href=3D"http://client.campaignsender.ro/tl.php?=
+p=3D2ru/2kh/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyourbrain.ro%2F20131003_Te=
+am_leader.html" target=3D"_new">03.10.2013<br />"Traning Team Leader - echi=
+pa"</a><br /> <br /><span><a href=3D"http://client.campaignsender.ro/tl.php=
+?p=3D2ru/2kh/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyourbrain.ro%2F20130919_T=
+ehnici_negociere_vanzari.html" target=3D"_new">19.09.2013<br /> "Traning de=
+ negociere si vanzari"</a><br /> <br /><span><a href=3D"http://client.campa=
+ignsender.ro/tl.php?p=3D2ru/2kh/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyourbr=
+ain.ro%2F20130905_Training_time_management_stabilirea_obiectivelor.html" ta=
+rget=3D"_new">05.09.2013<br /> "Traning de time management si stabilirea ob=
+iectivelor"</a><br /> <br /><span><a href=3D"http://client.campaignsender.r=
+o/tl.php?p=3D2ru/2kh/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyourbrain.ro%2F20=
+130718_Training_time_management_stabilirea_obiectivelor.html" target=3D"_ne=
+w">18.07.2013<br /> "Traning de time management si stabilirea obiectivelor"=
+</a><br /> <br /></span> <br /></span></span></span></span></span></span></=
+span></span></span></div>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A<=
+td class=3D"w15" bgcolor=3D"#e2e2e2" width=3D"15"></td>=0A<td class=3D"w470=
+" bgcolor=3D"#ffffff" valign=3D"top" width=3D"470">=0A<table style=3D"width=
+: 470px;" class=3D"w470" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=
+=0A<tbody>=0A<tr>=0A<td class=3D"w470" width=3D"470" height=3D"30"></td>=0A=
+</tr>=0A</tbody>=0A</table>=0A<table style=3D"width: 470px;" class=3D"w470"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td c=
+lass=3D"w30" width=3D"30"></td>=0A<td class=3D"w410" width=3D"410">=0A<tabl=
+e style=3D"width: 410px;" class=3D"w410" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0">=0A<tbody>=0A<tr>=0A<td class=3D"w410" width=3D"410">=0A<p c=
+lass=3D"article-title" align=3D"center"><span>Managementul conflictelor in =
+procesele de negociere, relatii de lucru si in organizatie</span></p>=0A<di=
+v align=3D"center"><span style=3D"font-weight: bold; color: #9a9661; font-s=
+ize: 14px;"></span><br />=0A<div align=3D"center"><span style=3D"font-weigh=
+t: bold; color: #9a9661; font-size: 14px;"></span>=0A<div class=3D"article-=
+content" align=3D"left"><span> <span style=3D"font-weight: bold;">Eveniment=
+ul se desfasoara la Hotel Capital Plaza****, B-dul Iancu de Hunedoara nr. 5=
+4, Bucuresti, in data de 6 februarie 2014, intre orele 10.00 =D6=A017.00, c=
+onform agendei prezentate mai jos.<br /></span><br /> <span style=3D"font-w=
+eight: bold;">AGENDA :</span><br /><br /> <span style=3D"font-weight: bold;=
+">10.00 - 10.30 Inregistrarea participantilor &amp; welcome coffee</span><b=
+r /> <br /><span style=3D"font-weight: bold;">10.30 - 13.00 Valentin Hanga,=
+ Sales Senior trainer</span> <span style=3D"font-weight: bold;"><br /> </sp=
+an><span style=3D"font-weight: normal;">1. Negocierea</span><br /><span sty=
+le=3D"font-weight: normal;">- Definirea/cunoasterea "participantilor" la un=
+ proces de negociere</span><br /><span style=3D"font-weight: normal;">2. Pa=
+sii procesului de Negociere (dupa FISHER)</span><br /><span style=3D"font-w=
+eight: normal;">- Declinarea POZITIEI participantilor la procesul de negoci=
+ere</span><br /><span style=3D"font-weight: normal;">- Descoperirea INTERES=
+ELOR comune</span><br /><span style=3D"font-weight: normal;">- Gasirea SOLU=
+TIILOR acceptate</span><br /><span style=3D"font-weight: normal;">3. Schimb=
+ul de variabile superior inferior; aplicarea principiului BATNA</span><br /=
+><span style=3D"font-weight: bold;"><br />13.00 - 14.00 Dejun </span><br />=
+<br /> <span style=3D"font-weight: bold;">14.00 - 17.00 Valentin Hanga, Sal=
+es Senior trainer</span> <span style=3D"font-weight: bold;"><br /> </span><=
+span style=3D"font-weight: normal;">4. Elemente de "Analiza Comportamentala=
+" utilizate in procesul de negociere</span><br /><span style=3D"font-weight=
+: normal;">- Definirea modelului LIFO</span><br /><span style=3D"font-weigh=
+t: normal;">- Conducerea caracterelor diferite din echipa</span><br /><span=
+ style=3D"font-weight: normal;">5. Managementul Conflictului</span><br /><s=
+pan style=3D"font-weight: normal;">- Triunghiul dramatic - un instrument di=
+n "Analiza Tranzactionala"</span><br /><span style=3D"font-weight: normal;"=
+>- Definirea/cunoasterea modelului PAC, ca motor declansator al conflictelo=
+r</span><br /><span style=3D"font-weight: normal;">6. Rezolvarea conflictel=
+or </span><br /><span style=3D"font-weight: normal;">-"Dezamorsarea" starii=
+ conflictuale, ce apare in negocierea pozitiilor participantilor la procesu=
+l de negociere</span><br /><br /><span style=3D"font-weight: bold;"><br />T=
+axa de participare : 400 lei plus TVA</span><br /><span style=3D"font-weigh=
+t: normal;">Reduceri acordate :</span><br /> <span style=3D"font-weight: no=
+rmal;">- 10% pentru una - trei persoane, inscriere si</span> <span style=3D=
+"font-weight: normal;">plata pana in data de 03 februarie 2014</span> <span=
+ style=3D"font-weight: normal;">- 15% pentru patru sau mai multe persoane d=
+in </span> <span style=3D"font-weight: normal;">aceeasi companie, inscriere=
+ si plata</span> <span style=3D"font-weight: normal;">pana in data de 03 fe=
+bruarie 2014<br /></span><br /> <span style=3D"font-weight: normal;">Pentru=
+ inscriere completati formularul de </span><span><a href=3D"http://client.c=
+ampaignsender.ro/tl.php?p=3D2ru/2kh/rs/8gst/y5/rs//http%3A%2F%2Fwww.trainyo=
+urbrain.ro%2F20140206_Managementul_conflictelor.html" target=3D"_new">aici<=
+/a><br /><span style=3D"font-weight: normal;">sau scrieti la </span><span><=
+a href=3D"mailto:office@trainyourbrain.ro">office@trainyourbrain.ro</a></sp=
+an><span> / 0726 824 784 <br /><br /><br /><br /></span></span><br /> </spa=
+n></div>=0A</div>=0A</div>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A<table s=
+tyle=3D"margin-top: 10px; margin-left: 0px;" align=3D"left" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td class=3D"w410" wi=
+dth=3D"610">=0A<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0">=0A<tbody>=0A<tr>=0A<td><a href=3D"http://client.campaignsender.=
+ro/tl.php?p=3D2ru/2kh/rs/8gst/y5/rs//http%3A%2F%2Fwww.capitalplaza.ro%2F" t=
+arget=3D"_new"><img src=3D"http://www.trainyourbrain.ro/parteneri/capitalpl=
+aza.jpg" td=3D"" width=3D"72" height=3D"41" /> </a></td>=0A</tr>=0A</tbody>=
+=0A</table>=0A<table style=3D"margin-top: 10px; margin-left: 30px;" align=
+=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr=
+>=0A<td><a href=3D"http://client.campaignsender.ro/tl.php?p=3D2ru/2kh/rs/8g=
+st/y5/rs//http%3A%2F%2Fwww.traduceri-apostilari.ro%2F" target=3D"_new"><img=
+ src=3D"http://www.trainyourbrain.ro/parteneri/iatom.jpg" td=3D"" width=3D"=
+68" height=3D"32" /> </a></td>=0A</tr>=0A</tbody>=0A</table>=0A<table style=
+=3D"margin-top: 10px; margin-left: 40px;" align=3D"left" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0">=0A<tbody>=0A<tr>=0A<td><a href=3D"http://cl=
+ient.campaignsender.ro/tl.php?p=3D2ru/2kh/rs/8gst/y5/rs//http%3A%2F%2Fwww.e=
+urocom.ro" target=3D"_new"><img src=3D"http://www.trainyourbrain.ro/partene=
+ri/eurocom.jpg" td=3D"" width=3D"49" height=3D"41" /> </a></td>=0A</tr>=0A<=
+/tbody>=0A</table>=0A<table style=3D"margin-top: 10px; margin-left: 50px;" =
+align=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<tbody>=
+=0A<tr>=0A<td><a href=3D"http://client.campaignsender.ro/tl.php?p=3D2ru/2kh=
+/rs/8gst/y5/rs//http%3A%2F%2Fwww.fabricadeambalaje.ro" target=3D"_new"><img=
+ src=3D"http://www.trainyourbrain.ro/parteneri/exonia.jpg" td=3D"" width=3D=
+"75" height=3D"22" /> </a></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</t=
+r>=0A</tbody>=0A</table>=0A</td>=0A<td class=3D"w30" width=3D"30"></td>=0A<=
+/tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A=
+</tr>=0A<tr>=0A<td class=3D"w640" width=3D"640">=0A<table style=3D"width: 6=
+40px;" class=3D"w640" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A<=
+tbody>=0A<tr>=0A<td class=3D"w170" bgcolor=3D"#e2e2e2" width=3D"170" height=
+=3D"15"></td>=0A<td class=3D"w470" bgcolor=3D"#ffffff" width=3D"470" height=
+=3D"15"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A<tr>=0A<td cl=
+ass=3D"w640" width=3D"640">=0A<table style=3D"width: 640px;" id=3D"footer" =
+class=3D"w640" bgcolor=3D"#043948" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0">=0A<tbody>=0A<tr>=0A<td class=3D"w30" width=3D"30"></td>=0A<td cla=
+ss=3D"w580 h0" width=3D"360" height=3D"30"></td>=0A<td class=3D"w0" width=
+=3D"60"></td>=0A<td class=3D"w0" width=3D"160"></td>=0A<td class=3D"w30" wi=
+dth=3D"30"></td>=0A</tr>=0A<tr>=0A<td class=3D"w30" width=3D"30"></td>=0A<t=
+d class=3D"w580" valign=3D"top" width=3D"960">=0A<p id=3D"permission-remind=
+er" class=3D"footer-content-left" align=3D"left"><span>Oferta este trimisa =
+cu cea mai buna intentie, in cazul in care nu apreciati comunicarea va ruga=
+m sa ne comunicati acest lucru.</span><br /> <span> In conformitate cu Lege=
+a nr. 365/2002 privind comertul electronic si Legea nr. 506/2004 privind pr=
+elucrarea datelor cu caracter personal si protectia vietii private in secto=
+rul comunicarilor electronice, acest mesaj nu poate fi considerat SPAM deoa=
+rece: </span><br /> <span> (1) - acceptarea de primire a ofertei nu va impl=
+ica financiar; </span><br /> <span> (2) - contine toate datele noastre de i=
+dentificare;</span><br /> <span> (3) - are scopul de a va informa cu privir=
+e la produse sau servicii ce va pot aduce beneficii; </span><br /> <span> (=
+4) adresa dvs. de e-mail fie a fost obtinuta in mod direct ca urmare a unor=
+ corespondente anterioare sau deoarece sunteti un client/furnizor al compan=
+iei noastre sau a fost selectata dintr-o baza de date la care ati subscris;=
+ fie a fost facuta publica de catre dvs. fie prin afisari cu caracter publi=
+citar intr-un ghid de afaceri sau in cadrul unei intalniri de afaceri. Ne c=
+erem scuze daca acest mesaj a ajuns din greseala la dvs. sau a provocat nep=
+laceri.Pentru DEZABONARE accesati link-ul de mai jos</span><br /> <span></s=
+pan></p>=0A<p class=3D"footer-content-left" align=3D"left"><span><a href=3D=
+"http://client.campaignsender.ro/u.php?p=3D2ru/rs/8gst/y5/2kh/rs" target=3D=
+"_blank"><u></u>Dezabonare<u></u></a></span></p>=0A</td>=0A<td class=3D"hid=
+e w0" width=3D"60"></td>=0A<td class=3D"hide w0" valign=3D"top" width=3D"16=
+0">=0A<p id=3D"street-address" class=3D"footer-content-right" align=3D"righ=
+t"><span>Train Your Brain</span><br /> <span>Bucuresti</span><br /> <span>0=
+723824784</span><br /> <span><a href=3D"mailto:office@trainyourbrain.ro">of=
+fice@trainyourbrain.ro</a></span></p>=0A</td>=0A<td class=3D"w30" width=3D"=
+30"></td>=0A</tr>=0A<tr>=0A<td class=3D"w30" width=3D"30"></td>=0A<td class=
+=3D"w580 h0" width=3D"360" height=3D"15"></td>=0A<td class=3D"w0" width=3D"=
+60"></td>=0A<td class=3D"w0" width=3D"160"></td>=0A<td class=3D"w30" width=
+=3D"30"></td>=0A</tr>=0A</tbody>=0A</table>=0A</td>=0A</tr>=0A<tr>=0A<td cl=
+ass=3D"w640" width=3D"640" height=3D"60"></td>=0A</tr>=0A</tbody>=0A</table=
+>=0A</td>=0A</tr>=0A</tbody>=0A</table>=0A</div>=0A=0A<img src=3D"http://cl=
+ient.campaignsender.ro/to.php?p=3D2ru/2kh/rs/8gst/y5/rs" width=3D"5" height=
+=3D"2" alt=3D".">=0A=0A</body></html>
+
+
+--b1_9fcca74cced7c01baa69ca91af9a2cd6--

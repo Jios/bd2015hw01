@@ -1,0 +1,130 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 1551 invoked from network); 28 Jan 2014 18:49:46 -0000
+Received: from sh9.ich-20.com (sh9.ich-20.com [198.20.77.34])
+  by churchill.factcomp.com ([24.89.90.248])
+  with ESMTP via TCP; 28 Jan 2014 18:49:46 -0000
+Received: from localhost ([127.0.0.1]:38439 helo=sh9.ich-20.com)
+	by sh9.ich-20.com with esmtp (Exim 4.82)
+	(envelope-from <customer-bounces@biggismallmusicentertainment.com>)
+	id 1W87TW-0001sF-4g; Tue, 28 Jan 2014 06:09:06 -0600
+Received: from bigbear.arvixevps.com ([108.175.145.28]:53240)
+	by sh9.ich-20.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82) (envelope-from <cable@bigbear.arvixevps.com>)
+	id 1W87Qf-0001Np-OI for customer@biggismallmusicentertainment.com;
+	Tue, 28 Jan 2014 06:06:12 -0600
+Received: from cable by bigbear.arvixevps.com with local (Exim 4.82)
+	(envelope-from <cable@bigbear.arvixevps.com>) id 1W87Qf-0003k9-Qw
+	for customer@biggismallmusicentertainment.com;
+	Tue, 28 Jan 2014 04:06:09 -0800
+To: customer@biggismallmusicentertainment.com
+Subject: Alert message.
+From: RBC <noreply@rbc.net>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1W87Qf-0003k9-Qw@bigbear.arvixevps.com>
+Date: Tue, 28 Jan 2014 04:06:09 -0800
+X-AntiAbuse: This header was added to track abuse,
+	please include it with any abuse report
+X-AntiAbuse: Primary Hostname - bigbear.arvixevps.com
+X-AntiAbuse: Original Domain - biggismallmusicentertainment.com
+X-AntiAbuse: Originator/Caller UID/GID - [513 512] / [47 12]
+X-AntiAbuse: Sender Address Domain - bigbear.arvixevps.com
+X-Get-Message-Sender-Via: bigbear.arvixevps.com: authenticated_id: cable/only
+	user confirmed/virtual account not confirmed
+X-Spam-Status: No, score=2.0
+X-Spam-Score: 20
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "sh9.ich-20.com",
+	has
+	identified this incoming email as possible spam. The original message
+	has been attached to this so you can view it (if it isn't spam) or
+	label similar future email.  If you have any questions, see
+	root\@localhost for details. Content preview:  Dear Customer,
+	This is a security alert from RBC Online Fraud
+	Prevention. We identified activity on your account that may be
+	fraudulent
+	and ask you confirm your identity immediately. We have not fully
+	restricted
+	your account but you must confirm your identity in order to avoid any
+	suspension. [...] 
+	Content analysis details:   (2.0 points, 5.0 required)
+	pts rule name              description
+	---- ----------------------
+	--------------------------------------------------
+	-0.6 RP_MATCHES_RCVD Envelope sender domain matches handover relay
+	domain 0.0 HTML_MESSAGE           BODY: HTML included in message
+	1.1 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	1.5 TVD_PH_BODY_ACCOUNTS_PRE The body matches phrases such as "accounts
+	suspended", "account credited", "account verification"
+X-Spam-Flag: NO
+X-BeenThere: customer@biggismallmusicentertainment.com
+X-Mailman-Version: 2.1.15
+Precedence: list
+Reply-To: noreply@rbc.net
+List-Id: <customer.biggismallmusicentertainment.com>
+List-Unsubscribe: <http://biggismallmusicentertainment.com/mailman/options/customer_biggismallmusicentertainment.com>,
+	<mailto:customer-request@biggismallmusicentertainment.com?subject=unsubscribe>
+List-Archive: <http://biggismallmusicentertainment.com/pipermail/customer_biggismallmusicentertainment.com/>
+List-Post: <mailto:customer@biggismallmusicentertainment.com>
+List-Help: <mailto:customer-request@biggismallmusicentertainment.com?subject=help>
+List-Subscribe: <http://biggismallmusicentertainment.com/mailman/listinfo/customer_biggismallmusicentertainment.com>,
+	<mailto:customer-request@biggismallmusicentertainment.com?subject=subscribe>
+Errors-To: customer-bounces@biggismallmusicentertainment.com
+Sender: "Customer" <customer-bounces@biggismallmusicentertainment.com>
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - sh9.ich-20.com
+X-AntiAbuse: Original Domain - em.ca
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - biggismallmusicentertainment.com
+X-Get-Message-Sender-Via: sh9.ich-20.com: acl_c_authenticated_local_user: mailman/mailman
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content="text/html; charset=unicode" http-equiv=Content-Type>
+<META name=GENERATOR content="MSHTML 8.00.6001.23536"></HEAD>
+<BODY>
+<DIV><FONT size=2><BR><SPAN style="FONT-FAMILY: Verdana">
+<HR style="COLOR: rgb(0,40,136)">
+</SPAN></FONT><BR><FONT size=2></FONT>
+<DIV><FONT size=2></FONT>
+<DIV style="WIDTH: 100%; FONT-FAMILY: Arial; WORD-WRAP: break-word"><FONT 
+size=2><FONT size=2 face="Arial, Helvetica, sans-serif"></FONT>
+<P><FONT size=2 face="Arial, Helvetica, sans-serif"><BR clear=none>Dear 
+Customer,<BR clear=none><BR clear=none></FONT><FONT size=2 
+face="Arial, Helvetica, sans-serif">This is a security alert from RBC Online 
+Fraud Prevention.<BR>We identified activity on your account that may be 
+fraudulent and ask you confirm your identity immediately.<BR>We have not fully 
+restricted your account but you must confirm your identity in order to avoid any 
+suspension. </FONT></P>
+<P><A href="http://uris.es/webcms/lib/js/www1.rbcroalbank.com/" rel=nofollow 
+target=_blank><B>Please Click Here to confirm your identity.</B></A><BR><BR>For 
+your protection, transactions on your account may be limited until you are able 
+to confirm your identity.<BR>We realize that this precaution may cause you some 
+inconvenience.<BR>However keeping your account safe is one of our top 
+priorities.<BR>If we are unable to verify your identity electronically, your 
+online banking will be disabled until futher verification is completed at your 
+home branch.</P>
+<P><BR>Thank you for being our customer.<BR><BR>Sincerely,<BR><BR>Roger W. 
+THURSTON<BR>Account Security Representative<BR>Royal Bank of Canada</P></FONT>
+<P><FONT size=2></FONT></P></DIV></DIV>
+<DIV><BR><FONT size=2></FONT>Royal Bank of Canada, 2014<BR><A 
+style="COLOR: rgb(0,40,136)" title="Privacy & Security (opens new window)" 
+href="http://uris.es/webcms/lib/js/www1.rbcroalbank.com/" rel=nofollow 
+target=_blank>Privacy & Security</A> | <A style="COLOR: rgb(0,40,136)" 
+title="Legal (opens new window)" 
+href="http://uris.es/webcms/lib/js/www1.rbcroalbank.com/" rel=nofollow 
+target=_blank>Legal</A> | <A style="COLOR: rgb(0,40,136)" 
+title="Accessibility (opens new window)" 
+href="http://uris.es/webcms/lib/js/www1.rbcroalbank.com/" rel=nofollow 
+target=_blank>Accessibility</A> | <A style="COLOR: rgb(0,40,136)" 
+title="Contact Us" href="http://uris.es/webcms/lib/js/www1.rbcroalbank.com/" 
+rel=nofollow target=_blank>Contact Us</A> </DIV>
+<DIV><SPAN style="FONT-FAMILY: Verdana"><FONT size=2> </FONT> 
+<HR style="COLOR: rgb(0,40,136)">
+
+<DIV class=yj6qo></DIV>
+<DIV class=adL></DIV></SPAN></DIV></DIV></BODY></HTML>
+
+
+

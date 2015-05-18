@@ -1,0 +1,67 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 4290 invoked from network); 17 Jan 2014 12:01:55 -0000
+Received: from mint.mentalserver.biz (mint.mentalserver.biz [198.7.57.191])
+  by churchill.factcomp.com ([24.89.90.248])
+  with ESMTP via TCP; 17 Jan 2014 12:01:55 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=m1; d=mentalserver.biz;
+ h=MIME-Version:Sender:From:To:Reply-To:Date:Subject:Content-Type:Content-Transfer-Encoding:Message-ID;
+ bh=BkXOkakQbs/LQdyrCbMdC8tcxc4=;
+ b=ITqoSpTP+MKq1wmY5gmWdPM5+cQOZKueLgxssPYv0hz5YBcZFsA7n892lBvoQJOV7SiI3LjnKB1c
+   5unqEmnE96djDfsaO6Lpny0o6a00Hgcgg83VNystlqPwCH3Bmo67Eo9jWJ1c92Liya2LGNo2PP+L
+   vRV+QYWmgcko3PK78jw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=m1; d=mentalserver.biz;
+ b=XsTXrQsHx3+Md4WFrk3RI/lLsO3xTYN4wxuKacl6fTAO1EtHN7Ev0WRBXGN+qHCICiq5H7typsQg
+   SObFi0FfjCZAjfE3c7FlxqFRTjpbcbHfN4q1W6A4O0EZHIi9SqeWhOm80dGC0RRm6u6gx/QLuvy4
+   YQjRTNyFYlz5KUCDxLw=;
+X-Priority: 1
+Precedence: bulk
+X-SID: 72
+MIME-Version: 1.0
+Sender: =?utf-8?Q?=EF=80=B1noreply?=
+ <noreply@mentalserver.biz>
+From: =?utf-8?Q?=EE=A0=BARick?=
+ <noreply@pspower.biz>
+To: =?utf-8?Q?=C2=BBbruceg?=
+ <bruceg@em.ca>
+Reply-To: =?utf-8?Q?=EF=80=B1noreply?=
+ <noreply@pspower.biz>
+Priority: urgent
+Importance: high
+Date: 17 Jan 2014 17:36:57 +0530
+Subject: =?utf-8?B?4p6KV2F0Y2hpbmcgdGhpcyB2aWRlbyBtYXkgY2F1c2UgeW91?=
+ =?utf-8?B?ciBiYW5rIGFjY291bnQgdG8gc3dlbGwuIEZhc3Q=?=
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+Message-ID: <0.0.1.74E.1CF137C98BD27FE.0@mint.mentalserver.biz>
+Content-Length: 1935
+
+PGJyLz48cD48c3BhbiBzdHlsZT0iZm9udC1zaXplOiBzbWFsbDsiPkVhcm5pbmcg
+NSBmaWd1cmVzIGEgbW9udGgsIGV2ZXJ5IG1vbnRoIG1ha2VzIGEgbG90IG9mIHBl
+b3BsZSB3b25kZXI8L3NwYW4+PC9wPg0KPHA+PHNwYW4gc3R5bGU9ImZvbnQtc2l6
+ZTogc21hbGw7Ij5qdXN0IGhvdyBJIGFtIGRvaW5nIGl0LiZuYnNwOyBBbmQgSSBs
+aWtlIHRoYXQuPC9zcGFuPjwvcD4NCjxwPjxzcGFuIHN0eWxlPSJmb250LXNpemU6
+IHNtYWxsOyI+Jm5ic3A7PC9zcGFuPjwvcD4NCjxwPjxzcGFuIHN0eWxlPSJmb250
+LXNpemU6IHNtYWxsOyI+SnVzdCB5ZXN0ZXJkYXkgYSBmcmllbmQgb2YgbWluZSBh
+c2tlZCBtZSwgUmljaywgd2hhdCBleGFjdGx5IGRvIHlvdTwvc3Bhbj48L3A+DQo8
+cD48c3BhbiBzdHlsZT0iZm9udC1zaXplOiBzbWFsbDsiPmRvIHRvIGVhcm4gc28g
+bXVjaCBhbmQgbmV2ZXIgc2VlbSB0byB3b3JrPzwvc3Bhbj48L3A+DQo8cD48c3Bh
+biBzdHlsZT0iZm9udC1zaXplOiBzbWFsbDsiPiZuYnNwOzwvc3Bhbj48L3A+DQo8
+cD48c3BhbiBzdHlsZT0iZm9udC1zaXplOiBzbWFsbDsiPkkgc2FpZCwgd2F0Y2gg
+dGhpcyBuZXcgdmlkZW8gPGEgaHJlZj0iaHR0cDovL2JpZ2lkZWFtYXN0ZXJtaW5k
+LmNvbS9iaW1zdG9ybS8/aWQ9bGl2ZWVwaWMiPjxzdHJvbmc+cmlnaHQgJm5ic3A7
+bm93PC9zdHJvbmc+PC9hPiZuYnNwOzwvc3Bhbj48L3A+DQo8cD48c3BhbiBzdHls
+ZT0iZm9udC1zaXplOiBzbWFsbDsiPldhdGNoIHRoZSAyMDE0IFN1Y2Nlc3MgVmlk
+ZW8gPGEgaHJlZj0iaHR0cDovL2JpZ2lkZWFtYXN0ZXJtaW5kLmNvbS9iaW1zdG9y
+bS8/aWQ9bGl2ZWVwaWMiPjxzdHJvbmc+TElWRSBub3c8L3N0cm9uZz48L2E+PGJy
+IC8+PC9zcGFuPjwvcD4NCjxwPjxzcGFuIHN0eWxlPSJmb250LXNpemU6IHNtYWxs
+OyI+Jm5ic3A7PC9zcGFuPjwvcD4NCjxwPjxzcGFuIHN0eWxlPSJmb250LXNpemU6
+IHNtYWxsOyI+YnJ1Y2VnQGVtLmNhJm5ic3A7PC9zcGFuPjxzcGFuIHN0eWxlPSJm
+b250LXNpemU6IHNtYWxsOyI+PHN0cm9uZz5UbyB1bnN1YnNjcmliZSBmcm9tIHRo
+aXMgZW1haWwgbGlzdCwgcGxlYXNlIHdyaXRlIHRvIHVzIGhhdmluZyB0aGUgc3Vi
+amVjdCBsaW5lIGFzICZsZHF1bztVbnN1YnNjcmliZSZyZHF1bzssIGFuZCB3ZSB3
+b3VsZCB1bnN1YnNjcmliZSB5b3UgZnJvbSB0aGUgbGlzdC4mbmJzcDs8L3N0cm9u
+Zz48L3NwYW4+PC9wPg0KPHA+Jm5ic3A7PC9wPjxici8+PGRpdiBzdHlsZT0nbWFy
+Z2luLWxlZnQ6MHB4OyBmb250LXNpemU6MTJweDsnPjx0YWJsZSBib3JkZXI9JzAn
+Pjx0Ym9keT48dHI+PHRkIHN0eWxlPSdmb250LXJpZ2h0OiBib2xkJz4mbmJzcDs8
+L3RkPjwvdHI+PHRyPjx0ZD4mbmJzcDs8L3RkPjwvdHI+PC9ib2R5Pjx0cj48dGQ+
+Jm5ic3A7PC90ZD48L3RyPjwvdGFibGU+PC9kaXY+PGJyPi4=

@@ -1,0 +1,159 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 22692 invoked from network); 17 Jan 2014 03:21:39 -0000
+Received: (qmail 24134 invoked from network); 17 Jan 2014 03:21:39 -0000
+Received: from mail-pa0-f72.google.com (mail-pa0-f72.google.com [209.85.220.72])
+  by mx11.futurequest.net ([10.2.1.184])
+  with ESMTP via TCP; 17 Jan 2014 03:21:39 -0000
+Received: by mail-pa0-f72.google.com with SMTP id rd3so8048222pab.11
+        for <bruce@untroubled.org>; Thu, 16 Jan 2014 19:21:38 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type;
+        bh=cdmwOldgS7M3CvSX/RRZHVPvPhQFZdBQ2dDlk2G3OVQ=;
+        b=zPToE7ZSRupvUTPW9+0xEtnzuktFqZv+HSS/xy0Bl7jex7QsMZaQEo6adwuhKyA84k
+         Kho010Wus0O8NOQBhcGIcN+Frxe8i1yw9CErPkg5V9QfLxu5vwJ8KQIbcbFR5puL+Lb/
+         tTm+BwG9oT2IllpBGmIgiNmXwt52ckZdDYRDWHovvVtx1l+v0SiNwO1mw0Ik8/4xBN4T
+         n8REntR2RT+qJH9+lq+4ro0xH69KSEYcPc8x/htL1bV2nRNupuOw6hR3/oSb1LoFhvv1
+         sK6nBNdRvihuRAsttPI0lEsOWLnivhVtsQ1O3rDjAY/EPaSeUUFIHEzAVueyEoMBZAyg
+         9o+A==
+MIME-Version: 1.0
+X-Received: by 10.66.218.70 with SMTP id pe6mr4817694pac.33.1389928898183;
+ Thu, 16 Jan 2014 19:21:38 -0800 (PST)
+Message-ID: <047d7b5d8d213d480e04f0220a2d@google.com>
+Date: Fri, 17 Jan 2014 03:21:38 +0000
+Subject: =?windows-1252?Q?Local_business_=96_Untroubled=2Eorg?=
+From: Anjali Verma <chloe.bestseoservices@gmail.com>
+To: bruce@untroubled.org
+Content-Type: multipart/alternative; boundary=047d7b5d8d213d480504f0220a2a
+Content-Length: 8464
+
+--047d7b5d8d213d480504f0220a2a
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9Imx0ciI+PHAgc3R5bGU9Im1hcmdpbi1ib3R0b206MGNtIj48L3A+PHAgIA0Kc3R5
+bGU9Im1hcmdpbi1ib3R0b206MGNtIj48Zm9udCBjb2xvcj0iIzAwMDBmZiIgZmFjZT0iVmVyZGFu
+YSwgIA0Kc2Fucy1zZXJpZiI+PGI+VW50cm91YmxlZC5vcmc8L2I+PC9mb250Pjxmb250IGNvbG9y
+PSIjMDAwMGZmIj48YiAgDQpzdHlsZT0iZm9udC1mYW1pbHk6VmVyZGFuYSxzYW5zLXNlcmlmIj6g
+PC9iPjxzcGFuICANCnN0eWxlPSJmb250LWZhbWlseTpWZXJkYW5hLHNhbnMtc2VyaWYiPlRlYW0s
+PC9zcGFuPjxicj4NCg0KPC9mb250PjwvcD4NCjxwIHN0eWxlPSJtYXJnaW4tYm90dG9tOjBjbSI+
+PGZvbnQgY29sb3I9IiMwMDAwZmYiPjxmb250ICANCnN0eWxlPSJmb250LWZhbWlseTpWZXJkYW5h
+LHNhbnMtc2VyaWYiPkkNCndvdWxkIGxpa2UgdG8gdGFrZSBhIGZldyBtaW51dGVzIGZyb20geW91
+ciBzY2hlZHVsZSBhbmQgYXNrIGZvciB5b3VyDQphdHRlbnRpb24gdG93YXJkcyBPcmdhbmljIHNl
+YXJjaCBlbmdpbmUgdHJhZmZpYyBmb3KgPC9mb250PjxiPjxmb250ICANCmZhY2U9IlZlcmRhbmEs
+IHNhbnMtc2VyaWYiPlVudHJvdWJsZWQub3JnLjwvZm9udD48L2I+PGJyPjwvZm9udD48L3A+DQo8
+cD48Zm9udCBjb2xvcj0iIzAwMDBmZiI+PGZvbnQgZmFjZT0iVmVyZGFuYSwgc2Fucy1zZXJpZiI+
+QXMNCmEgYnVzaW5lc3MgT3duZXIgeW91IG1pZ2h0IGJlIGludGVyZXN0ZWQgdG8gZ2FpbiBwcm9m
+aXQgYnkgcGxhY2luZw0KeW91ciB3ZWJzaXRlIGFtb25nIHRvcCBpbiBzZWFyY2ggZW5naW5lcy4g
+WW91ciB3ZWJzaXRlIG5lZWRzDQppbW1lZGlhdGUgaW1wcm92ZW1lbnQgZm9yIHNvbWUgbWFqb3Ig
+aXNzdWVzIHdpdGggeW91ciAgDQp3ZWJzaXRlLjwvZm9udD48L2ZvbnQ+PC9wPg0KPHA+PGZvbnQg
+Y29sb3I9IiMwMDAwZmYiPjxmb250IGZhY2U9IlZlcmRhbmEsIHNhbnMtc2VyaWYiPjEuDQpMb3cg
+b25saW5lIHByZXNlbmNlIGZvciBtYW55IGNvbXBldGl0aXZlIGtleXdvcmQgcGhyYXNlcy48L2Zv
+bnQ+PC9mb250PjwvcD4NCjxwPjxmb250IGNvbG9yPSIjMDAwMGZmIj48Zm9udCBmYWNlPSJWZXJk
+YW5hLCBzYW5zLXNlcmlmIj4yLg0KTm90IGRvaW5nIHdlbGwgaW4gbW9zdCBvZiB0aGUgU29jaWFs
+IE1lZGlhIFdlYnNpdGVzLjwvZm9udD48L2ZvbnQ+PC9wPg0KPHA+PGZvbnQgZmFjZT0iVmVyZGFu
+YSwgc2Fucy1zZXJpZiIgY29sb3I9IiMwMDAwZmYiPjMuDQpZb3VyIHNpdGUgaXMgbm90IHVzZXIg
+ZnJpZW5kbHkgb24gbW9iaWxlDQpkZXZpY2VzLjwvZm9udD48L3A+DQo8cD48Zm9udCBmYWNlPSJW
+ZXJkYW5hLCBzYW5zLXNlcmlmIj48Zm9udD48Zm9udCBjb2xvcj0iIzAwMDBmZiI+TG9va2luZw0K
+YXQgdGhlIGFib3ZlIGlzc3VlcyBhbmQgb3RoZXIgYWRkaXRpb25hbCBpbXByb3ZlbWVudHMgZm9y
+IHlvdXINCndlYnNpdGUsIEkgd291bGQgbGlrZSB5b3UgdG8gZ2l2ZSB1cyBhIGNoYW5jZSB0byBm
+aXggdGhvc2UgaXNzdWVzLg0KT3VyIHRlYW0gb2YgU2VhcmNoIEVuZ2luZSBhbmQgU29jaWFsIE1l
+ZGlhIGV4cGVydHMgYXJlIGhlcmUgdG8gc2VydmUNCnlvdSB3aXRoIGJlc3QgaW5wdXRzLiBJZiB5
+b3UgYXJlIGludGVyZXN0ZWQgaW4gbGVhcm5pbmcgbW9yZSBhYm91dA0KY3VycmVudCBzdGF0dXMg
+b2YgeW91ciB3ZWJzaXRlLCB3ZSB3b3VsZCBiZSBnbGFkIHRvIHNoYXJlIFdFQlNJVEUNCkFVRElU
+IFJFUE9SVCBvZqA8L2ZvbnQ+PGZvbnQgIA0KY29sb3I9IiMwMDAwZmYiPjxiPlVudHJvdWJsZWQu
+b3JnoDwvYj48L2ZvbnQ+PGZvbnQgY29sb3I9IiMwMDAwZmYiPmZvcg0KRlJFRS48L2ZvbnQ+PC9m
+b250PjwvZm9udD48L3A+DQo8cD48Zm9udCBjb2xvcj0iIzAwMDBmZiI+PGZvbnQgZmFjZT0iVmVy
+ZGFuYSwgc2Fucy1zZXJpZiI+WW91DQp3aWxsIGZlZWwgdGhlIGRpZmZlcmVuY2Ugb25jZSB5b3Ug
+Z2V0IHNlcnZpY2VzIGZyb20gb3VyIGNvbXBhbnkgYXMgd2UNCm5ldmVyIGxldCBvdXIgY2xpZW50
+cyBleHBlY3RhdGlvbnMgZ28gZG93bi4gQmVpbmcgYXQgdGhlIHRvcCBsZWZ0IG9mDQpHb29nbGUg
+KCMxLSAjMyBvcmdhbmljIHBvc2l0aW9ucykgaXMgdGhlIGJlc3QgdGhpbmcgeW91IGNhbiBkbyBm
+b3INCnlvdXIgY29tcGFueSYjMzk7cyB3ZWJzaXRlIHRyYWZmaWMgYW5kIG9ubGluZSByZXB1dGF0
+aW9uLiBZb3Ugd2lsbCBiZQ0KaGFwcHkgdG8ga25vdyB0aGF0LCBteSB0ZWFtIGlzIHdpbGxpbmcg
+dG8gZ3VhcmFudGVlIHlvdSAxc3QgcGFnZQ0KR29vZ2xlIHJhbmtpbmcgZm9yIG1vc3Qgb2YgeW91
+ciB0YXJnZXRlZCBsb2NhbCBrZXl3b3JkIHBocmFzZXMgaW4gb3VyDQpzaXggbW9udGggb25nb2lu
+ZyBjYW1wYWlnbi48L2ZvbnQ+PC9mb250PjwvcD4NCjxwPjxmb250IGNvbG9yPSIjMDAwMGZmIj48
+Zm9udCBmYWNlPSJWZXJkYW5hLCBzYW5zLXNlcmlmIj5JZg0KbXkgcHJvcG9zYWwgc291bmQmIzM5
+O3MgaW50ZXJlc3RpbmcgZm9yIHlvdXIgYnVzaW5lc3MgZ29hbCwgZmVlbCBmcmVlIHRvDQplbWFp
+bCB1cywgb3IgY2FuIHByb3ZpZGUgbWUgd2l0aCB5b3VyIHBob25lIG51bWJlciBhbmQgdGhlIGJl
+c3QgdGltZQ0KdG8gY2FsbCB5b3UuIEkgYW0gYWxzbyBhdmFpbGFibGUgZm9yIGFuIG9ubGluZSBt
+ZWV0aW5nIHRvIHByZXNlbnQgeW91DQp0aGlzIHdlYnNpdGUgYXVkaXQgcmVwb3J0LjwvZm9udD48
+L2ZvbnQ+PC9wPg0KPHA+PGZvbnQgZmFjZT0iVmVyZGFuYSwgc2Fucy1zZXJpZiIgIA0KY29sb3I9
+IiMwMDAwZmYiPi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLTxXQlI+LS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tPFdCUj4tLS0tLTxicj5CZXN0DQpSZWdhcmRzLDxicj48Yj5Bbmph
+bGkgVmVybWE8L2I+PGJyPk1hcmtldGluZw0KQ29uc3VsdGFudDxicj48YnI+UFMgSTogSSBhbSBu
+b3QNCnNwYW1taW5nLiBJIGhhdmUgc3R1ZGllZCB5b3VyIHdlYnNpdGUgYW5kIGJlbGlldmUgSSBj
+YW4gaGVscCB3aXRoDQp5b3VyIGJ1c2luZXNzIHByb21vdGlvbi4gSWYgeW91IHN0aWxsIHdhbnQg
+dXMgdG8gbm90IGNvbnRhY3QgeW91LCB5b3UNCmNhbiBpZ25vcmUgdGhpcyBlbWFpbCBvciBhc2sg
+dG8gcmVtb3ZlIGFuZCBJIHdpbGwgbm90IGNvbnRhY3QgIA0KYWdhaW4uPC9mb250PjwvcD4NCjxw
+Pjxmb250IGNvbG9yPSIjMDAwMGZmIj48Zm9udCBmYWNlPSJWZXJkYW5hLCBzYW5zLXNlcmlmIj5Q
+Uw0KSUk6IEkgZm91bmQgeW91ciBzaXRlIHVzaW5nIEdvb2dsZSBzZWFyY2ggYW5kIGFmdGVyIGhh
+dmluZyBhIGxvb2sNCm92ZXIgeW91ciB3ZWJzaXRlIEkgcmVjb21tZW5kIHlvdSB0byBpbXBsZW1l
+bnQgZnV0dXJlIHRlY2hub2xvZ2llcw0Kc3VjaCBhcyBIVE1MNSBhbmQgUmVzcG9uc2l2ZSBEZXNp
+Z24gdG8gbWFrZSB5b3VyIHNpdGUgbW9yZSBhY2Nlc3NpYmxlDQppbiBtb2JpbGUgcGhvbmUsIHRh
+YmxldHMsIGRlc2t0b3AgZXRjPC9mb250PjwvZm9udD48L3A+PHA+PC9wPjwvZGl2Pg0K
+--047d7b5d8d213d480504f0220a2a
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p style=3D"margin-bottom:0cm"></p><p style=3D"margin-bott=
+om:0cm"><font color=3D"#0000ff" face=3D"Verdana, sans-serif"><b>Untroubled.=
+org</b></font><font color=3D"#0000ff"><b style=3D"font-family:Verdana,sans-=
+serif">=A0</b><span style=3D"font-family:Verdana,sans-serif">Team,</span><b=
+r>
+
+</font></p>
+<p style=3D"margin-bottom:0cm"><font color=3D"#0000ff"><font style=3D"font-=
+family:Verdana,sans-serif">I
+would like to take a few minutes from your schedule and ask for your
+attention towards Organic search engine traffic for=A0</font><b><font face=
+=3D"Verdana, sans-serif">Untroubled.org.</font></b><br></font></p>
+<p><font color=3D"#0000ff"><font face=3D"Verdana, sans-serif">As
+a business Owner you might be interested to gain profit by placing
+your website among top in search engines. Your website needs
+immediate improvement for some major issues with your website.</font></font=
+></p>
+<p><font color=3D"#0000ff"><font face=3D"Verdana, sans-serif">1.
+Low online presence for many competitive keyword phrases.</font></font></p>
+<p><font color=3D"#0000ff"><font face=3D"Verdana, sans-serif">2.
+Not doing well in most of the Social Media Websites.</font></font></p>
+<p><font face=3D"Verdana, sans-serif" color=3D"#0000ff">3.
+Your site is not user friendly on mobile
+devices.</font></p>
+<p><font face=3D"Verdana, sans-serif"><font><font color=3D"#0000ff">Looking
+at the above issues and other additional improvements for your
+website, I would like you to give us a chance to fix those issues.
+Our team of Search Engine and Social Media experts are here to serve
+you with best inputs. If you are interested in learning more about
+current status of your website, we would be glad to share WEBSITE
+AUDIT REPORT of=A0</font><font color=3D"#0000ff"><b>Untroubled.org=A0</b></=
+font><font color=3D"#0000ff">for
+FREE.</font></font></font></p>
+<p><font color=3D"#0000ff"><font face=3D"Verdana, sans-serif">You
+will feel the difference once you get services from our company as we
+never let our clients expectations go down. Being at the top left of
+Google (#1- #3 organic positions) is the best thing you can do for
+your company&#39;s website traffic and online reputation. You will be
+happy to know that, my team is willing to guarantee you 1st page
+Google ranking for most of your targeted local keyword phrases in our
+six month ongoing campaign.</font></font></p>
+<p><font color=3D"#0000ff"><font face=3D"Verdana, sans-serif">If
+my proposal sound&#39;s interesting for your business goal, feel free to
+email us, or can provide me with your phone number and the best time
+to call you. I am also available for an online meeting to present you
+this website audit report.</font></font></p>
+<p><font face=3D"Verdana, sans-serif" color=3D"#0000ff">-------------------=
+-----------<WBR>------------------------------<WBR>-----<br>Best
+Regards,<br><b>Anjali Verma</b><br>Marketing
+Consultant<br><br>PS I: I am not
+spamming. I have studied your website and believe I can help with
+your business promotion. If you still want us to not contact you, you
+can ignore this email or ask to remove and I will not contact again.</font>=
+</p>
+<p><font color=3D"#0000ff"><font face=3D"Verdana, sans-serif">PS
+II: I found your site using Google search and after having a look
+over your website I recommend you to implement future technologies
+such as HTML5 and Responsive Design to make your site more accessible
+in mobile phone, tablets, desktop etc</font></font></p><p></p></div>
+
+--047d7b5d8d213d480504f0220a2a--

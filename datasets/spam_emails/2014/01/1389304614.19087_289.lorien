@@ -1,0 +1,36 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 26414 invoked from network); 9 Jan 2014 02:36:43 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 09 Jan 2014 02:36:43 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 09 Jan 2014 02:36:43 -0000
+Received: (qmail 17417 invoked from network); 9 Jan 2014 02:36:42 -0000
+Received: from [93.62.58.198] ([93.62.58.198])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 09 Jan 2014 02:36:42 -0000
+Received: from 10.0.0.13 ([10.0.0.13])
+Message-ID: <345A5ED5CD0647E5AB4F1764A5F139A3@weestydom>
+From: "Gabriel Adrian" <winlove@edralink.com>
+To: "Customer" <lists-linux-kernel@bruce-guenter.dyndns.org>
+Subject: see details of the order
+Date: Thu, 09 Jan 2014 02:36:41 +0200 (EEST)
+MIME-Version: 1.0
+Content-Type: text/plain;
+format=flowed;
+charset="windows-1252";
+reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 14.0.8089.726
+X-MimeOLE: Produced By Microsoft MimeOLE V14.0.8089.726
+
+Dear Customer
+We have obtained your order and will be processing it for 2 business days.
+The specification:
+http://phskontor.dk/customers/case/014.34569.zip
+Thanks and good luck,
+Gabriel Adrian
+
+

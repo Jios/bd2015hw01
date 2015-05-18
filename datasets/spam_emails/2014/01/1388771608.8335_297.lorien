@@ -1,0 +1,57 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 11608 invoked from network); 02 Jan 2014 23:03:18 -0000
+Received: (qmail 5623 invoked from network); 2 Jan 2014 23:03:17 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by mx10.futurequest.net ([10.2.1.182])
+  with ESMTP via TCP; 02 Jan 2014 23:03:17 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S1752296AbaABXDF (ORCPT <rfc822;bruce@untroubled.org>);
+	Thu, 2 Jan 2014 18:03:05 -0500
+Received: from mail-bn1hn0122.outbound.protection.outlook.com ([157.56.110.122]:38125
+	"EHLO na01-bn1-obe.outbound.protection.outlook.com"
+	rhost-flags-OK-OK-OK-FAIL) by vger.kernel.org with ESMTP
+	id S1750814AbaABXDD (ORCPT <rfc822;linux-kernel@vger.kernel.org>);
+	Thu, 2 Jan 2014 18:03:03 -0500
+Received: from BN1PR07CA035.namprd07.prod.outlook.com (10.141.56.50) by
+ BN1PR07MB117.namprd07.prod.outlook.com (10.242.216.25) with Microsoft SMTP
+ Server (TLS) id 15.0.842.7; Thu, 2 Jan 2014 22:47:54 +0000
+Received: from BL2FFO11FD014.protection.gbl (2a01:111:f400:7c09::146) by
+ BN1PR07CA035.outlook.office365.com (2a01:111:e400:2a::50) with Microsoft SMTP
+ Server (TLS) id 15.0.842.7 via Frontend Transport; Thu, 2 Jan 2014 22:47:54
+ +0000
+Received: from COSEXCH10.lsi.com (192.19.220.100) by
+ BL2FFO11FD014.mail.protection.outlook.com (10.173.160.222) with Microsoft
+ SMTP Server (TLS) id 15.0.837.10 via Frontend Transport; Thu, 2 Jan 2014
+ 22:47:54 +0000
+Received: from User (175.100.0.32) by COSEXCH10.lsi.com (135.142.2.75) with
+ Microsoft SMTP Server id 14.3.158.1; Thu, 2 Jan 2014 15:47:38 -0700
+Reply-To: <tomhook230@yahoo.com>
+From:	"Mr. Tom Hook" <tomhook230@outlook.com>
+Subject: Good day
+Date:	Fri, 3 Jan 2014 05:47:33 +0700
+MIME-Version: 1.0
+Content-Type: text/plain; charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <d74b1352-afdf-45c3-88c1-4b99409c3fb0@COSEXCH10.lsi.com>
+To:	Undisclosed recipients:;
+X-EOPAttributedMessage:	0
+X-Matching-Connectors: 130331764745831632;(f081dce6-2920-4dfc-23e8-08d07091c5e3);()
+X-Forefront-Antispam-Report: CIP:192.19.220.100;CTRY:US;IPV:CAL;IPV:NLI;EFV:NLI;SFV:SPM;SFS:(10019001)(189002)(199002)(54316002)(79102001)(85306002)(43066001)(6806004)(87266001)(23686002)(65816001)(881003)(221733001)(59766001)(69226001)(87936001)(74706001)(80022001)(44976005)(77982001)(50986001)(31686002)(50466002)(76176001)(50226001)(87286001)(47976001)(62236002)(46102001)(74876001)(49866001)(74662001)(44716002)(83322001)(47736001)(62966002)(81542001)(61296002)(74366001)(88136002)(74502001)(51856001)(47446002)(56776001)(81342001)(551934002)(90146001)(56816005)(76786001)(77096001)(77156001)(89996001)(76796001)(83072002)(85852003)(80976001)(47776003)(20776003)(4396001)(33646001)(19580395003)(76482001)(563864002)(1671002)(63696002)(555904002)(175304002);DIR:OUT;SFP:1501;SCL:6;SRVR:BN1PR07MB117;H:COSEXCH10.lsi.com;CLIP:192.19.220.100;FPR:;RD:cosexch10.lsi.com;MX:1;A:1;LANG:en;
+X-OriginatorOrg: lsicorp.onmicrosoft.com
+X-Forefront-PRVS: 0079056367
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List:	linux-kernel@vger.kernel.org
+
+Can we invest in your country.My name is Mr.Tom Hook a banker here; there is an unfinished business transaction in my branch. This is a business that will profit both of us, if you are interested get back to me for more details please because the money needs to invest outside my country. I wait for your quick response
+Mr. Tom Hook
+--
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

@@ -1,0 +1,45 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 12881 invoked from network); 20 Jan 2014 10:08:43 -0000
+Received: (qmail 8826 invoked from network); 20 Jan 2014 10:08:43 -0000
+Received: from aexp.com ([194.225.187.189])
+  by mx04.futurequest.net ([10.2.1.175])
+  with ESMTP via TCP; 20 Jan 2014 10:08:42 -0000
+Received: from [110.213.124.141] (port=88084 helo=[10.0.3.90]) by 194.225.187.224 with asmtp id 363M9-000II-00 for bruce@untroubled.org; Mon, 20 Jan 2014 13:38:41 +0330
+Message-ID: <52DCF32A.4040105@hmrc.gov.uk>
+Date: Mon, 20 Jan 2014 13:38:41 +0330
+From: "HM Revenue and Customs" <noreply@hmrc.gov.uk>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20110929 Thunderbird/7.0.1
+MIME-Version: 1.0
+To: bruce@untroubled.org
+Subject: Notice of Underreported Income
+Content-Type: multipart/mixed;
+ boundary="----=_NextPart_4VL6YT4G_UAM7_KF0A_AEA6_V5D18IJ6WMQD"
+Content-Length: 795
+
+This is a multi-part message in MIME format.
+------=_NextPart_4VL6YT4G_UAM7_KF0A_AEA6_V5D18IJ6WMQD
+Content-Type: text/plain; charset=windows-1251; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Taxpayer ID: ufwsd-000003694447UK
+Tax Type: Income Tax
+Issue: Unreported/Underreported Income (Fraud Application)
+
+Please review your tax income statement on HM Revenue and Customs ( HMRC )
+
+Please complete the attached form
+
+HM Revenue and Customs
+
+
+------=_NextPart_4VL6YT4G_UAM7_KF0A_AEA6_V5D18IJ6WMQD
+Content-Type: message/external-body; access-type=x-deleted; length=11063
+
+
+Content-Type: application/zip;
+ name="ufwsd-000003694447UK.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ name="ufwsd-000003694447UK.zip"
+
+------=_NextPart_4VL6YT4G_UAM7_KF0A_AEA6_V5D18IJ6WMQD--

@@ -1,0 +1,84 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 8485 invoked from network); 5 Jan 2014 21:03:20 -0000
+Received: from HomeServer.jprihoda.net (homeserver.jprihoda.net [92.62.239.65])
+  by churchill.factcomp.com ([24.89.90.248])
+  with ESMTP via TCP; 05 Jan 2014 21:03:20 -0000
+Received: by HomeServer.jprihoda.net (Postfix, from userid 502)
+	id E8DCE35413E7; Sun,  5 Jan 2014 21:56:39 +0100 (CET)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	HomeServer.jprihoda.net
+X-Spam-Flag: YES
+X-Spam-Level: ******************************
+X-Spam-Status: Yes, score=30.7 required=5.0 tests=ALL_TRUSTED,
+	AXB_XMAILER_MIMEOLE_OL_024C2,BAYES_99,FORGED_MUA_OUTLOOK,FORGED_OUTLOOK_HTML,
+	FORGED_OUTLOOK_TAGS,FROM_MISSPACED,FROM_MISSP_EH_MATCH,FROM_MISSP_MSFT,
+	FROM_MISSP_USER,FSL_CTYPE_WIN1251,FSL_NEW_HELO_USER,HTML_MESSAGE,
+	HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,MISSING_HEADERS,MISSING_MID,
+	NSL_RCVD_FROM_USER,SUBJECT_NEEDS_ENCODING,TO_NO_BRKTS_FROM_MSSP,
+	T_FROM_MISSP_DKIM autolearn=spam version=3.3.1
+X-Spam-Report: 
+	* -1.0 ALL_TRUSTED Passed through trusted hosts only via SMTP
+	*  3.5 BAYES_99 BODY: Bayes spam probability is 99 to 100%
+	*      [score: 1.0000]
+	*  4.5 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+	*  1.4 NSL_RCVD_FROM_USER Received from User
+	*  1.0 MISSING_HEADERS Missing To: header
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.4 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+	*  0.1 FORGED_OUTLOOK_TAGS Outlook can't send HTML in this format
+	*  0.5 MISSING_MID Missing Message-Id: header
+	*  3.0 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+	*  0.0 SUBJECT_NEEDS_ENCODING SUBJECT_NEEDS_ENCODING
+	*  1.5 FSL_NEW_HELO_USER FSL_NEW_HELO_USER
+	*  2.2 AXB_XMAILER_MIMEOLE_OL_024C2 AXB_XMAILER_MIMEOLE_OL_024C2
+	*  0.0 FORGED_OUTLOOK_HTML Outlook can't send HTML message only
+	*  4.3 FROM_MISSP_USER From misspaced, from "User"
+	*  2.5 TO_NO_BRKTS_FROM_MSSP Multiple formatting errors
+	*  2.0 FROM_MISSPACED From: missing whitespace
+	*  0.0 T_FROM_MISSP_DKIM From misspaced, DKIM dependable
+	*  2.0 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+	*  1.9 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+Received: from User (mail.elpack.at [91.143.102.44])
+	(Authenticated sender: security)
+	by HomeServer.jprihoda.net (Postfix) with ESMTPA id BB2E235413A4;
+	Sun,  5 Jan 2014 21:56:29 +0100 (CET)
+From: "PostePay"<informa@posteitaliane.it>
+Subject: [SPAM] Si prega di confermare la tua identità
+Date: Sun, 5 Jan 2014 21:57:19 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Spam-Prev-Subject: Si prega di confermare la tua identità
+Message-Id: <20140105205639.E8DCE35413E7@HomeServer.jprihoda.net>
+To: undisclosed-recipients:;
+
+ATTENZIONE,</p>
+<p><br></p>
+<p>
+Gentile cliente,
+la normativa bancaria vigente, in particolare in materia di prevenzione dei reati <br>
+di riciclaggio, richiede l'acquisizione e il mantenimento nel tempo di tutte le<br>
+informazioni necessarie e aggiornate per assolvere agli obblighi di adeguata <br>
+verifica.<br>
+Pochi minuti del tuo tempo ti consentiranno di adempiere a tali obblighi, al fine di <br>
+evitare le conseguenze previste dalla legge, che possono comportare, in caso di <br>
+mancata comunicazione delle informazioni richieste, limitazioni operative dei <br>
+rapporti, fino alla chiusura degli stessi.<br>
+Si prega di confermare la tua identit?, cliccando sul link sottostante:<br>
+</p>
+<p><b><a target="_blank" href="http://www.profetasdebermuda.com/img_up/lanmik.htm">
+Completa online l'aggiornamento!</a></b></p>
+<p><br></p>
+<p>Nel caso di rapporti cointestati,<br>
+ti invitiamo a recarti presso un qualsiasi ufficio <br>
+postale, munito dei documenti di identit? in corso di validit? e dei codici fiscali di <br>
+entrambi gli intestatari. 
+<br></p>
+<p>Posteitaliane</p>
+ 

@@ -1,0 +1,61 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 31392 invoked from network); 08 Jan 2014 03:09:58 -0000
+Received: (qmail 15453 invoked from network); 8 Jan 2014 03:09:58 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by mx07.futurequest.net ([10.2.1.178])
+  with ESMTP via TCP; 08 Jan 2014 03:09:58 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S1754520AbaAHDJx (ORCPT <rfc822;bruce@untroubled.org>);
+	Tue, 7 Jan 2014 22:09:53 -0500
+Received: from sindamanoy.udenar.edu.co ([200.21.87.163]:46343 "EHLO
+	sindamanoy.udenar.edu.co" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+	with ESMTP id S1753749AbaAHDJv (ORCPT
+	<rfc822;linux-btrfs@vger.kernel.org>); Tue, 7 Jan 2014 22:09:51 -0500
+X-Greylist: delayed 405 seconds by postgrey-1.27 at vger.kernel.org; Tue, 07 Jan 2014 22:09:51 EST
+Received: from localhost (localhost [127.0.0.1])
+	by sindamanoy.udenar.edu.co (Postfix) with ESMTP id 3D79B725C4;
+	Tue,  7 Jan 2014 21:40:20 -0500 (COT)
+X-Virus-Scanned: Debian amavisd-new at newsinda
+Received: from sindamanoy.udenar.edu.co ([127.0.0.1])
+	by localhost (sindamanoy.udenar.edu.co [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Qc--jOB6o764; Tue,  7 Jan 2014 21:40:20 -0500 (COT)
+Received: from MAIL.udenar.edu.co (mail.udenar.edu.co [10.10.10.171])
+	by sindamanoy.udenar.edu.co (Postfix) with ESMTPS id ED94572598;
+	Tue,  7 Jan 2014 21:40:19 -0500 (COT)
+Received: from MAIL.udenar.edu.co ([10.10.10.171]) by MAIL.udenar.edu.co
+ ([10.10.10.171]) with mapi id 14.01.0289.001; Tue, 7 Jan 2014 22:03:03 -0500
+From:	=?utf-8?B?SUlJIFNlbWluYXJpbyBJbnRlcm5hY2lvbmFsIGRlIEFjdHVhbGl6YWNpw7Nu?=
+	 =?utf-8?Q?_en_Agroindustria?= <biorefinerias@udenar.edu.co>
+Subject: YOU HAVE RECEIVED A DONATION
+Thread-Topic: YOU HAVE RECEIVED A DONATION
+Thread-Index: Ac8MHiVc5G1bGdTsT8qNaOZtVJIMSA==
+Date:	Wed, 8 Jan 2014 03:03:03 +0000
+Message-ID: <FF1C8F6502D04448B871F7A763BAA41525ED74B2@MAIL.udenar.edu.co>
+Accept-Language: en-GB, es-CO, en-US
+Content-Language: en-GB
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [197.210.248.29]
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+To:	undisclosed-recipients:;
+Sender:	linux-btrfs-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-btrfs.vger.kernel.org>
+X-Mailing-List:	linux-btrfs@vger.kernel.org
+Content-Length: 860
+
+DQoNCg0KSGVsbG8sDQoNClRoaXMgbWVzc2FnZSBpcyB0byBpbmZvcm0geW91IHRoYXQgeW91IGhh
+dmUganVzdCByZWNlaXZlZCBhIGNhc2gNCmRvbmF0aW9uDQpvZiAkNDYwLDAwMCBmcm9tIHVzLiBZ
+b3UgYXJlIGFkdmlzZWQgdG8gd3JpdGUgdXMgYW4gZW1haWwgb25jZSB5b3UgZ2V0DQp0aGlzIG1l
+c3NhZ2UgdGhyb3VnaCB0aGUgZm9sbG93aW5nIEVtYWlsOiBkYXdlc2RhdmVlQGhvdG1haWwuY29t
+IGZvcg0KbW9yZQ0KaW5mb3JtYXRpb24gb24gaG93IHlvdSBjYW4gcmVkZWVtIHlvdXIgZG9uYXRl
+ZCBzdW0uDQoNCkJlc3Qgb2YgbHVjay4NCg0KRGF2ZSAmIEFuZ2VsYSBEYXdlcy4NCkVtYWlsOiBk
+YXdlc2RhdmVlQGdtYWlsLmNvbQ0KDQpfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXw0K
+Q29ycmVvIEVsZWN0csOzbmljbyAtIFVuaXZlcnNpZGFkIGRlIE5hcmnDsW8NClBhc3RvIC0gTmFy
+acOxbyAtIENvbG9tYmlhDQp3d3cudWRlbmFyLmVkdS5jbw0K
+--
+To unsubscribe from this list: send the line "unsubscribe linux-btrfs" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html

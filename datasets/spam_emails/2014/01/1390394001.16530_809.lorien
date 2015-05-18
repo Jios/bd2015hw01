@@ -1,0 +1,386 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 430 invoked from network); 22 Jan 2014 10:44:23 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 22 Jan 2014 10:44:23 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 22 Jan 2014 10:44:23 -0000
+Received: (qmail 28842 invoked from network); 22 Jan 2014 10:44:22 -0000
+Received: from n122.topregionfr.com ([77.89.254.122])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 22 Jan 2014 10:44:22 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=DKIM1; d=topregionfr.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=postmaster@topregionfr.com;
+ bh=dReJK9yULm6FZ7/m9oHPjFW5ZOU=;
+ b=KP1OZtNcUGZBr3EKG75W6bLljyVlswfwL257Amr5GYcVh7qo6M9ajgF4d2cgkRBv2QVB0GrAbA5p
+   S5quxcyUQfKyHpYI5U94yie/CmtUk94godd15lKpsvWY3A3Z8psSokUk1aovGPIgD/wTTWfTk3as
+   sQRk4OVKNS8d+MKOHVw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=DKIM1; d=topregionfr.com;
+ b=PuGtOQqe6y1+goFrDKqGFRQY1wvbGDYw0RFOJF2GvPzLhqBoIgeIswCvrTKA8HCVpsNxLQoYv9fp
+   E6yPaqR6ogHyUm4zmvYiXordANoYqZjyDAIxlJwxh3kHpnN86MdW7ypwSwOHnLa86xGBVF2XCscw
+   oDIRbo5AeW9AwGmUgcc=;
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?RGltaW51ZXogdm9zIGNvw7t0cyBtYWxncsOpIGxhIGhhdXNzZSBkZXMgdGFyaWZzIHBvc3RhdXggZW4gMjAxNA==?=
+Message-ID: <f866a6a1d71ec6e1c6270ce18b6b3775@topregionfr.com>
+Return-Path: bounce@topregionfr.com
+Date: Wed, 22 Jan 2014 12:19:05 +0200
+From: "=?UTF-8?B?TWFjaGluZSDDoCBhZmZyYW5jaGly?=" <info@topregionfr.com>
+Reply-To: info@topregionfr.com
+MIME-Version: 1.0
+X-Mailer-LID: 57
+List-Unsubscribe: <http://topregionfr.com/unsubscribe.php?M=5434897&C=dea167766003c8b940e0377afc6c2d87&L=57&N=194>
+X-Mailer-RecptId: 5434897
+X-Mailer-SID: 194
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_cdb3bf731b317e01e00e623e9e704df0"
+Content-Transfer-Encoding: 8bit
+Content-Length: 13525
+
+--b1_cdb3bf731b317e01e00e623e9e704df0
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Devis Factory
+
+Service 100% gratuit
+Aucune obligation d'achat
+Meilleurs prestataires agréés
+
+2014 : le prix du timbre augmente
+Comment réduire vos coûts pôstaux ?
+Depuis le 1er janvier 2014, les tarifs postaux ont augmenté. Minimisez vos
+coûts relatifs au traitement de votre courrier en ayant recours à une
+machine à affranchir. Vous réaliserez d'importantes économies grâce à
+un affranchissement précis.
+
+Aussi, vous gagnerez un temps précieux et vous serez plus autonome : la
+machine à affranchir vous évite d'acheter vos timbres et de vous
+déplacer à
+la Poste quotidiennement.
+
+Soumettez votre demande de devis et recevez les propositions de plusieurs
+prestataires spécialisés dans la gestion de paie.
+
+Obtenez des devis en 48h
+
+http://topregionfr.com/link.php?M=5434897&N=194&L=60&F=T
+
+_________________________________________________________________________________________________________________________________________
+Ce message vous est envoyé par LeadsLeader. D é s a b o n n e m e n t de
+la liste: http://topregionfr.com/link.php?M=5434897&N=194&L=2&F=T
+_________________________________________________________________________________________________________________________________________
+
+
+--b1_cdb3bf731b317e01e00e623e9e704df0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Machines a affranchir</title>
+<style type="text/css">
+#outlook a
+	padding: 0;
+
+body
+	width: 100% !important;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	margin: 0;
+	padding: 0;
+
+ .ExternalClass
+	width: 100%;
+
+ .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass
+font, .ExternalClass td, .ExternalClass div
+	line-height: 100%;
+
+table
+	border-collapse: collapse;
+
+td
+	border-collapse: collapse;
+
+</style>
+</head>
+<body bgcolor="#ddd2be">
+<table style="width: 100%;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center" bgcolor="#ddd2be"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/fm/img/espace.gif"
+alt="" height="5" width="5" /></td>
+</tr>
+<tr>
+<td style="font-family: Arial, sans-serif; color: #0000ff; font-size:
+10px;" align="center" bgcolor="#ddd2be">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ddd2be"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/fm/img/espace.gif"
+alt="" height="5" width="5" /></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ddd2be">
+<table style="width: 600px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<div align="center">Si vous ne visualisez pas correctement ce message, <a
+href="http://topregionfr.com/link.php?M=5434897&N=194&L=61&F=H"
+target="_blank">consultez-le en ligne.</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 502px;" align="center" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF"><a
+href="http://topregionfr.com/link.php?M=5434897&N=194&L=60&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/fm/img/effi_fm2_r1_c1.jpg" alt="Machine
+&agrave; affranchir" height="200" width="251" /></a></td>
+<td bgcolor="#FFFFFF"><a
+href="http://topregionfr.com/link.php?M=5434897&N=194&L=60&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/fm/img/effi_fm2_r1_c2.jpg"
+alt="Comparez les fournisseurs" height="200" width="251" /></a></td>
+</tr>
+<tr>
+<td bgcolor="#211f5e"><a
+href="http://topregionfr.com/link.php?M=5434897&N=194&L=60&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/logo2.jpg" alt="Devis Factory"
+height="93" width="251" /></a></td>
+<td bgcolor="#211f5e">
+<table style="width: 251px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="30"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/fm/img/point.jpg" alt="" height="22"
+width="30" /></td>
+<td style="font-family: Arial, sans-serif; color: #ffffff; font-size:
+13px;" align="left" width="221">Service <span style="color: #9999ff;"
+data-mce-mark="1"><strong>100% gratuit</strong></span></td>
+</tr>
+<tr>
+<td><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/fm/img/point.jpg" alt="" height="22"
+width="30" /></td>
+<td style="font-family: Arial, sans-serif; color: #ffffff; font-size:
+13px;" align="left" width="221"><span style="color: #9999ff;"
+data-mce-mark="1"><strong>Aucune obligation</strong></span> d'achat</td>
+</tr>
+<tr>
+<td><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/fm/img/point.jpg" alt="" height="22"
+width="30" /></td>
+<td style="font-family: Arial, sans-serif; color: #ffffff; font-size:
+13px;" align="left" width="221">Meilleurs&nbsp;<span style="color:
+#9999ff;" data-mce-mark="1"><strong>fournisseurs
+agr&eacute;&eacute;s</strong></span></td>
+</tr>
+<tr>
+<td style="font-size: 1px; line-height: 1px;"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/fm/img/espace.gif"
+alt="" height="10" width="5" /></td>
+<td style="font-size: 1px; line-height: 1px;"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/fm/img/espace.gif"
+alt="" height="10" width="5" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF"><a
+href="http://topregionfr.com/link.php?M=5434897&N=194&L=60&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/coin2.jpg" alt="" height="77"
+width="251" /></a></td>
+<td bgcolor="#FFFFFF"><a
+href="http://topregionfr.com/link.php?M=5434897&N=194&L=60&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/fm/img/bouton.jpg" alt="Obtenz 4 devis
+des meilleurs prestataires &amp;raquo" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ddd2be">
+<table style="width: 502px;" align="center" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#211f5e" width="4"><img style="outline: none; text-decoration:
+none; -ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/fm/img/espace.gif" alt="" height="4"
+width="4" /></td>
+<td bgcolor="#FFFFFF" width="35"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/fm/img/espace.gif"
+alt="" height="5" width="35" /></td>
+<td bgcolor="#FFFFFF" width="424">
+<table style="width: 424px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="font-family: Arial, sans-serif; color: #003399; font-size:
+20px;" align="left"><span style="color: #cb0303;">2014 : le prix du timbre
+augmente<br /></span>Comment r&eacute;duire vos co&ucirc;ts p&ocirc;staux
+?</td>
+</tr>
+<tr>
+<td style="font-size: 1px; line-height: 1px;"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/fm/img/espace.gif"
+alt="" height="15" width="5" /></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 424px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="font-family: Arial, sans-serif; color: #333333; font-size:
+13px;" align="left" valign="top" width="204"><strong>Depuis le 1er janvier
+2014</strong>, les tarifs postaux ont augment&eacute;. Minimisez vos
+co&ucirc;ts relatifs au traitement de votre courrier en ayant recours
+&agrave; une machine &agrave; affranchir. Vous r&eacute;aliserez
+d'importantes <strong>&eacute;conomies&nbsp;gr&acirc;ce &agrave; un
+affranchissement pr&eacute;cis</strong>.&nbsp;<br /><br />Aussi, vous
+gagnerez<strong> un temps pr&eacute;cieux </strong>et vous
+serez&nbsp;<strong>plus autonome :</strong>&nbsp;la machine &agrave;
+affranchir vous &eacute;vite d'acheter vos timbres et de vous
+d&eacute;placer &agrave; <br />la Poste quotidiennement.&nbsp;<br /><br
+/></td>
+<td style="font-family: Arial, sans-serif; color: #333333; font-size:
+13px;" width="8"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/fm/img/espace.gif" alt="" height="5"
+width="8" /></td>
+<td style="font-family: Arial, sans-serif; color: #0000ff; font-size: 14px;
+text-align: center;" align="left" valign="top" width="212"><a
+href="http://topregionfr.com/link.php?M=5434897&N=194&L=60&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/fm/img/MachineAffranchir2.jpg"
+alt="Plus de contraintes avec une machine &agrave; affranchir" height="150"
+width="212" /></a><a
+href="http://topregionfr.com/link.php?M=5434897&N=194&L=60&F=H"
+style="color: #0000ff;" target="_blank"><br />&raquo; Recevez 4 devis <br
+/>en machine &agrave; affranchir.<br /><br /></a></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 424px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="font-family: Arial, sans-serif; font-size: 13px;"
+align="left"><strong><a
+href="http://topregionfr.com/link.php?M=5434897&N=194&L=60&F=H"
+target="_blank">&raquo; N&rsquo;attendez plus pour d&eacute;poser votre
+demande de devis pour ensuite comparer les offres des meilleurs
+fournisseurs du march&eacute;.</a></strong></td>
+</tr>
+<tr>
+<td align="left"><span style="font-family: Arial, sans-serif; color:
+#333333; font-size: 13px;" data-mce-mark="1"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/fm/img/espace.gif"
+alt="" height="40" width="5" /></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td bgcolor="#FFFFFF" width="35"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/fm/img/espace.gif"
+alt="" height="5" width="35" /></td>
+<td bgcolor="#211f5e" width="4"><img style="outline: none; text-decoration:
+none; -ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/fm/img/espace.gif" alt="" height="4"
+width="4" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 1px; line-height: 1px;" align="center"
+bgcolor="#ddd2be">
+<table style="width: 502px;" align="center" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td style="font-size: 1px; line-height: 1px;" bgcolor="#FFFFFF"><img
+style="outline: none; text-decoration: none; -ms-interpolation-mode:
+bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/fm/img/coingauche.jpg" alt="" /></td>
+<td style="font-size: 1px; line-height: 1px;" bgcolor="#FFFFFF"><img
+style="outline: none; text-decoration: none; -ms-interpolation-mode:
+bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/fm/img/coindroite.jpg" alt="" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 1px; line-height: 1px;" align="center"
+bgcolor="#ddd2be"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/fm/img/espace.gif" alt="" height="10"
+width="5" /></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ddd2be">
+<table style="width: 502px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="font-family: Arial, sans-serif; color: #333333; font-size:
+10px;" align="center">Ce message vous est envoy&eacute; par LeadsLeader. <a
+href="http://topregionfr.com/link.php?M=5434897&N=194&L=2&F=H">D &eacute; s
+a b o n n e m e n t</a> de la liste</td>
+</tr>
+<tr>
+<td style="font-size: 1px; line-height: 1px;" align="center"><img
+style="outline: none; text-decoration: none; -ms-interpolation-mode:
+bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/fm/img/espace.gif" alt="" height="5"
+width="5" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://track12990372.effimails13.com/servlet/effi.pixel?id_compteur=12990372"
+/>
+<img
+src="http://topregionfr.com/open.php?M=5434897&L=57&N=194&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_cdb3bf731b317e01e00e623e9e704df0--

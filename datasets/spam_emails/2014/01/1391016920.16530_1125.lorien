@@ -1,0 +1,65 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 845 invoked from network); 29 Jan 2014 16:26:15 -0000
+Received: from fit2.filterserver.biz (fit2.filterserver.biz [192.161.175.160])
+  by churchill.factcomp.com ([24.89.90.248])
+  with ESMTP via TCP; 29 Jan 2014 16:26:15 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=f012; d=filterserver.biz;
+ h=MIME-Version:Sender:From:To:Reply-To:Subject:Content-Type:Content-Transfer-Encoding:Date;
+ bh=sg1EC+oGWPxpDtzXmLgqXunWHnQ=;
+ b=vZeulyXQC65Mqnz5qzzVoKpa21CPB4/FQYT8L0YjIkTwtETL8KImju1kMgGU6X3+tf3ZZjhtOhxj
+   ln3CmqotlGR6tSUaiR0Ku1CZIWDto7G0i5fwJKTxrV0/efGDscOdNUA5jHOlkzoIplhlMBXJ3lw3
+   z+l/Mu+PLjy/+hgvsZc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=f012; d=filterserver.biz;
+ b=rsN/MgamNwDKyXhbAYwTXuyKYFPHoDBQuXv0+Xkm+OxyMnIoKkLuX6aK0neWUbfRx9LqJlDLSl9f
+   TF51y7vJ2Fvp/KAtVcggJYld+WTq/tBDrhvyISLdFzL3BT8Zz++Z6fR+YLUdvyeZ+lr4Bwa34RCt
+   GsLk50BM+7XvfVG0C7c=;
+X-Priority: 1
+Precedence: bulk
+X-SID: 54
+MIME-Version: 1.0
+Sender: =?utf-8?Q?=EF=80=B1noreply?=
+ <noreply@filterserver.biz>
+From: =?utf-8?Q?=EF=80=B1Kylie_Creel?=
+ <support@delta011.info>
+To: =?utf-8?Q?=EF=BF=BFbruceg?=
+ <bruceg@em.ca>
+Reply-To: =?utf-8?Q?=EF=80=B1services?=
+ <services@delta004.info>
+Priority: urgent
+Importance: high
+Subject: =?utf-8?B?74CxSG93IGFib3V0IG1hbnkgZmFucyBmb3IgeW91ciBmYWNl?=
+ =?utf-8?B?Ym9vayBwYWdl?=
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+Date: Wed, 29 Jan 2014 19:33:45 +0300
+Content-Length: 1866
+
+PGJyLz48cD48c3Bhbj5IZWxsbyAhPC9zcGFuPjxiciAvPjxiciAvPjxzcGFuPkRv
+IHlvdSBoYXZlIGEgZmFjZWJvb2sgcGFnZSA/PC9zcGFuPjxiciAvPjxiciAvPjxz
+cGFuPldvdWxkIHlvdSBsaWtlIHRvIG9idGFpbiBtb3JlIGZhbnMgZm9yIHlvdXIg
+ZmFjZWJvb2sgcGFnZSwgYW5kIGluY3JlYXNlIHlvdXIgc29jaWFsIHZpc2liaWxp
+dHkgPzwvc3Bhbj48YnIgLz48YnIgLz48c3Bhbj5XZSBjYW4gZG8gdGhhdCBmb3Ig
+eW91LCB5b3UgY2FuIHVzZSBvdXIgb3VyIHNlcnZpY2UgdGhhdCB3aWxsIGdldCB5
+b3UgbG90cyBvZiBvZiByZWFsPC9zcGFuPjxiciAvPjxzcGFuPmZhbnMgZm9yIHlv
+dXIgcGFnZS48L3NwYW4+PC9wPg0KPHA+PGJyIC8+U2FmZSBhbmQgU29jaWFsIG1l
+ZGlhIHJ1bGVzIGNvbXBsaWFudCwgeW91IGNhbiByZWNlaXZlIDEwMDAgcmVhbCBl
+eHRyYSBsaWtlcyBmb3IgdXNkIDI5LjkwLCBvciB0aGUgc2FtZSBhbW91bnQgb2Yg
+dHdpdHRlciBmb2xsb3dlcnMgZm9yIHVzZCAxMi45MC48YnIgLz48YnIgLz5XZSBi
+ZWxpZXZlIHNvY2lhbCBuZXR3b3JrcyBhcmUgZ29pbmcgdG8gYmUgbW9yZSBpbXBv
+cnRhbnQgdGhhbiBldmVyIGluIDIwMTQsIHlvdSBjYW4gdXNlIG91ciBzZXJ2aWNl
+cyB0byBlc3RhYmxpc2ggYSBzdHJvbmcgcHJlc2VuY2Ugb24gc29jaWFsIG1lZGlh
+cywgZGlzcGxheSB5b3VyIG51bWJlciBvZiBmYW5zIG9uIHlvdXIgZWNvbW1lcmNl
+IHNpdGUgYW5kIGJ1aWxkIGEgZ29vZCByZXB1dGF0aW9uLjxiciAvPjxiciAvPllv
+dSBjYW4gY29udGFjdCB1cyBvbiBMaXZlIGNoYXQgb3IgdXNpbmcgb3VyIGNvbnRh
+Y3QgZm9ybSBvbiBvdXIgd2Vic2l0ZSA8YSBocmVmPSJodHRwOi8vbWNhZi5lZS9q
+aDQ1ayI+cXVhbGl0eS1mYW5zLmNvbTwvYT48YnIgLz48YnIgLz4tLSBTaXRlICZl
+YWN1dGU7Z2FsZW1lbnQgZGlzcG9uaWJsZSBlbiBGcmFuPHNwYW4+JmNjZWRpbDs8
+L3NwYW4+YWlzIC0tPC9wPjxici8+PGRpdiBzdHlsZT0nbWFyZ2luLWxlZnQ6MHB4
+OyBmb250LXNpemU6MTJweDsnPjx0YWJsZSBib3JkZXI9JzAnPjx0Ym9keT48dHI+
+PHRkIHN0eWxlPSdmb250LXJpZ2h0OiBib2xkJz48L3RkPjx0ZCBjb2xzcGFuPSc4
+Jz4mbmJzcDs8L3RkPjwvdHI+PHRyPjx0ZD4sPC90ZD48dGQ+PC90ZD48dGQ+PC90
+ZD48dGQ+PC90ZD48dGQ+PC90ZD48dGQ+PC90ZD48dGQ+PC90ZD48dGQ+PC90ZD48
+dGQ+Jm5ic3A7PC90ZD48L3RyPjwvYm9keT48dHI+PHRkPjwvdGQ+PHRkPiZuYnNw
+OzwvdGQ+PHRkPiZuYnNwOzwvdGQ+PHRkPiZuYnNwOzwvdGQ+PHRkPiZuYnNwOzwv
+dGQ+PHRkPiZuYnNwOzwvdGQ+PHRkPiZuYnNwOzwvdGQ+PHRkPiZuYnNwOzwvdGQ+
+PHRkPjwvdGQ+PC90cj48L3RhYmxlPjwvZGl2Pjxicj4w

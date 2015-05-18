@@ -1,0 +1,46 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 5741 invoked from network); 08 Jan 2014 20:16:19 -0000
+Received: (qmail 5493 invoked from network); 8 Jan 2014 20:16:19 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by mx07.futurequest.net ([10.2.1.178])
+  with ESMTP via TCP; 08 Jan 2014 20:16:19 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S1756925AbaAHUQG (ORCPT <rfc822;bruce@untroubled.org>);
+	Wed, 8 Jan 2014 15:16:06 -0500
+Received: from Static-230.196.93.111.tataidc.co.in ([111.93.196.230]:33747
+	"EHLO durga.amrita.ac.in" rhost-flags-OK-FAIL-OK-FAIL)
+	by vger.kernel.org with ESMTP id S1752653AbaAHUQE convert rfc822-to-8bit
+	(ORCPT <rfc822;linux-ext4@vger.kernel.org>);
+	Wed, 8 Jan 2014 15:16:04 -0500
+X-Greylist: delayed 2711 seconds by postgrey-1.27 at vger.kernel.org; Wed, 08 Jan 2014 15:16:03 EST
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by durga.amrita.ac.in (Postfix) with ESMTP id 6B1581E6DA04;
+	Thu,  9 Jan 2014 00:53:02 +0530 (IST)
+X-Virus-Scanned: amavisd-new at localhost.localdomain
+Received: from durga.amrita.ac.in ([127.0.0.1])
+	by localhost (durga.amrita.ac.in [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id cw9UAQaOaVDq; Thu,  9 Jan 2014 00:53:02 +0530 (IST)
+Received: from [10.178.22.234] (unknown [41.203.69.6])
+	by durga.amrita.ac.in (Postfix) with ESMTPSA id 469211E6D9E8;
+	Thu,  9 Jan 2014 00:52:53 +0530 (IST)
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8BIT
+Content-Description: Mail message body
+Subject: =?utf-8?q?You_Have_Been_Awarded_=C2=A3100=2C000_Pounds?=
+To:	Recipients <ravishankar@am.amrita.edu>
+From:	Facebook End Of Year Promotional Award <ravishankar@am.amrita.edu>
+Date:	Wed, 08 Jan 2014 20:23:01 +0100
+Reply-To: department187@gmail.com
+Message-Id: <20140108192254.469211E6D9E8@durga.amrita.ac.in>
+Sender:	linux-ext4-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-ext4.vger.kernel.org>
+X-Mailing-List:	linux-ext4@vger.kernel.org
+Content-Length: 315
+
+You Have Been Awarded £100,000 Pounds By Facebook End Of Year Promotional Award. Contact Our Agent: claimsdp95@gmail.com
+--
+To unsubscribe from this list: send the line "unsubscribe linux-ext4" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html

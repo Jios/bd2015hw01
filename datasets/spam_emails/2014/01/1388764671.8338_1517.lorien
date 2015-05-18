@@ -1,0 +1,159 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 16492 invoked from network); 03 Jan 2014 04:20:16 -0000
+Received: (qmail 9355 invoked from network); 3 Jan 2014 04:20:16 -0000
+Received: from mail-ob0-f198.google.com (mail-ob0-f198.google.com [209.85.214.198])
+  by mx07.futurequest.net ([10.2.1.178])
+  with ESMTP via TCP; 03 Jan 2014 04:20:16 -0000
+Received: by mail-ob0-f198.google.com with SMTP id wo20so71852568obc.9
+        for <bruce@untroubled.org>; Thu, 02 Jan 2014 20:20:16 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:message-id:date:subject:from:to:content-type;
+        bh=QAiQv8AgBIcDqKZeFiH2vXZFh1WRYs7DUchO2zuSFHE=;
+        b=hAuGXYpTnpYdGUq16NtObcE23Gx95vReT2HmzrOyGeiJdpQd4PopZDNAokYiYl7rUZ
+         yiwHonJdHrOjvqMY8JgSL1Lxm64m9FRmnkVFpsc1R7QLYhPozmysth8tACSAnC0mLnke
+         F6ygevLY9Bw0a0uvRQSfAOvBtYDfhEHtY5M1y9h3YSg7DTUfStgoIlUu41b29CDVOJb+
+         L7IikZ3DzNbDyEk4A6xzZHYYZoNfDT3ZjyiHgDBll95zWqDpQssX9aMkaZTw53wOsRXE
+         ohQ1lHrIOUe01eGDBDP0zc1H2HM6fSWYgOFQ7C53aHM280mm23O/FB/GTo3w1gawQ6bs
+         6d4Q==
+MIME-Version: 1.0
+X-Received: by 10.50.6.13 with SMTP id w13mr212181igw.6.1388722816085; Thu, 02
+ Jan 2014 20:20:16 -0800 (PST)
+Message-ID: <047d7b8746d824f3bb04ef093afd@google.com>
+Date: Fri, 03 Jan 2014 04:20:16 +0000
+Subject: Untroubled.org - Integrated marketing help
+From: PS Paul <webranker.sales@gmail.com>
+To: bruce@untroubled.org
+Content-Type: multipart/alternative; boundary=047d7b8746d824f3b504ef093afa
+Content-Length: 7809
+
+--047d7b8746d824f3b504ef093afa
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9Imx0ciI+PHAgc3R5bGU9Im1hcmdpbi1ib3R0b206MGNtIj48Zm9udCBjb2xvcj0i
+IzAwMDBmZiIgIA0KZmFjZT0iVmVyZGFuYSwgc2Fucy1zZXJpZiI+PGI+VW50cm91YmxlZC5vcmc8
+L2I+PC9mb250PjxzcGFuICANCnN0eWxlPSJmb250LWZhbWlseTpWZXJkYW5hLHNhbnMtc2VyaWY7
+Y29sb3I6cmdiKDAsMCwyNTUpIj6gPC9zcGFuPjxzcGFuICANCnN0eWxlPSJmb250LWZhbWlseTpW
+ZXJkYW5hLHNhbnMtc2VyaWY7Y29sb3I6cmdiKDAsMCwyNTUpIj5UZWFtLDwvc3Bhbj48YnI+DQoN
+Cg0KDQoNCg0KPC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1ib3R0b206MGNtIj48Zm9udCBjb2xvcj0i
+IzAwMDBmZiI+PGZvbnQgZmFjZT0iVmVyZGFuYSwgIA0Kc2Fucy1zZXJpZiI+PGZvbnQ+SQ0KdGhv
+dWdodCB5b3UgbWlnaHQgbGlrZSB0byBrbm93IHNvbWUgcmVhc29ucyB3aHkgeW91IGFyZSBub3Qg
+Z2V0dGluZw0KZW5vdWdoIFNvY2lhbCBNZWRpYSBhbmQgT3JnYW5pYyBzZWFyY2ggZW5naW5lIHRy
+YWZmaWMgIA0KZm9yoDxiPlVudHJvdWJsZWQub3JnLjwvYj48L2ZvbnQ+PC9mb250PjwvZm9udD48
+L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWJvdHRvbTowY20iPjxmb250IGNvbG9yPSIjMDAwMGZmIj48
+Zm9udCBmYWNlPSJWZXJkYW5hLCAgDQpzYW5zLXNlcmlmIj4xLg0KWW91ciB3ZWJzaXRloDxiPlVu
+dHJvdWJsZWQub3JnoDwvYj5pcw0Kbm90IHJhbmtpbmcgdG9wIGluIEdvb2dsZSBvcmdhbmljIHNl
+YXJjaGVzIGZvciBtYW55IGNvbXBldGl0aXZlDQprZXl3b3JkIHBocmFzZXMuPC9mb250PjwvZm9u
+dD48L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWJvdHRvbTowY20iPg0KPGZvbnQgY29sb3I9IiMwMDAw
+ZmYiPjxmb250IGZhY2U9IlZlcmRhbmEsIHNhbnMtc2VyaWYiPjIuDQpZb3VyIGNvbXBhbnkgaXMg
+bm90IGRvaW5nIHdlbGwgaW4gbW9zdCBvZiB0aGUgU29jaWFsIE1lZGlhICANCldlYnNpdGVzLjwv
+Zm9udD48L2ZvbnQ+PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1ib3R0b206MGNtIj4NCjxmb250IGNv
+bG9yPSIjMDAwMGZmIj48Zm9udCBmYWNlPSJWZXJkYW5hLCBzYW5zLXNlcmlmIj4zLg0KWW91ciBz
+aXRlIGlzIG5vdCB1c2VyIGZyaWVuZGx5IG9uIG1vYmlsZSBkZXZpY2VzLjwvZm9udD48L2ZvbnQ+
+PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1ib3R0b206MGNtIj48Zm9udCBjb2xvcj0iIzAwMDBmZiI+
+PGZvbnQgZmFjZT0iVmVyZGFuYSwgIA0Kc2Fucy1zZXJpZiI+VGhlcmUNCmFyZSBtYW55IGFkZGl0
+aW9uYWwgaW1wcm92ZW1lbnRzIHRoYXQgY291bGQgYmUgbWFkZSB0byB5b3VyIHdlYnNpdGUsDQph
+bmQgaWYgeW91IHdvdWxkIGxpa2UgdG8gbGVhcm4gYWJvdXQgdGhlbSwgYW5kIGFyZSBjdXJpb3Vz
+IHRvIGtub3cNCndoYXQgb3VyIHdvcmtpbmcgdG9nZXRoZXIgd291bGQgaW52b2x2ZSwgdGhlbiBJ
+IHdvdWxkIGJlIGdsYWQgdG8NCnByb3ZpZGUgeW91IHdpdGggYSBkZXRhaWxlZCBhbmFseXNpcyBp
+biB0aGUgZm9ybSBvZiBhIDxiPldFQlNJVEUNCkFVRElUIFJFUE9SVCBmb3IgRlJFRTwvYj4uPC9m
+b250PjwvZm9udD48L3A+DQo8cCBzdHlsZT0ibWFyZ2luLWJvdHRvbTowY20iPg0KPGZvbnQgY29s
+b3I9IiMwMDAwZmYiPjxmb250IGZhY2U9IlZlcmRhbmEsIHNhbnMtc2VyaWYiPk91cg0KY2xpZW50
+cyBjb25zaXN0ZW50bHkgdGVsbCB1cyB0aGF0IHRoZWlyIGN1c3RvbWVycyBmaW5kIHRoZW0gYmVj
+YXVzZQ0KdGhleSBhcmUgYXQgdGhlIHRvcCBvZiB0aGUgR29vZ2xlIHNlYXJjaCByYW5raW5ncy4g
+QmVpbmcgYXQgdGhlIHRvcA0KbGVmdCBvZiBHb29nbGUgKCMxLSAjMyBvcmdhbmljIHBvc2l0aW9u
+cykgaXMgdGhlIGJlc3QgdGhpbmcgeW91IGNhbg0KZG8gZm9yIHlvdXIgY29tcGFueSYjMzk7cyB3
+ZWJzaXRlIHRyYWZmaWMgYW5kIG9ubGluZSByZXB1dGF0aW9uLiBZb3Ugd2lsbA0KYmUgaGFwcHkg
+dG8ga25vdyB0aGF0LCBteSB0ZWFtIGlzIHdpbGxpbmcgdG8gZ3VhcmFudGVlIHlvdSAxPHN1cD5z
+dDwvc3VwPg0KcGFnZSBHb29nbGUgcmFua2luZyBmb3IgbW9zdCBvZiB5b3VyIHRhcmdldGVkIGtl
+eXdvcmQgcGhyYXNlcyBpbiBvdXINCnNpeCBtb250aCBvbmdvaW5nIGNhbXBhaWduLjwvZm9udD48
+L2ZvbnQ+PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1ib3R0b206MGNtIj48Zm9udCBjb2xvcj0iIzAw
+MDBmZiI+PGZvbnQgZmFjZT0iVmVyZGFuYSwgIA0Kc2Fucy1zZXJpZiI+U291bmQNCmludGVyZXN0
+aW5nPyBGZWVsIGZyZWUgdG8gZW1haWwgdXMgb3IgYWx0ZXJuYXRpdmVseSB5b3UgY2FuIHByb3Zp
+ZGUNCm1lIHdpdGggeW91ciBwaG9uZSBudW1iZXIgYW5kIHRoZSBiZXN0IHRpbWUgdG8gY2FsbCB5
+b3UuIEkgYW0gYWxzbw0KYXZhaWxhYmxlIHRvIG1lZXQgeW91IGluIHBlcnNvbiBhbmQgcHJlc2Vu
+dCB5b3UgdGhpcyB3ZWJzaXRlIGF1ZGl0DQpyZXBvcnQuPGJyPi0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLTxXQlI+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPFdCUj4tLS0tLTxi
+cj5CZXN0DQpSZWdhcmRzLDxicj48Yj5QUyBQYXVsPC9iPjxicj5NYXJrZXRpbmcNCkNvbnN1bHRh
+bnQ8YnI+PGJyPjxiPlBTDQpJOiA8L2I+SQ0KYW0gbm90IHNwYW1taW5nLiBJIGhhdmUgc3R1ZGll
+ZCB5b3VyIHdlYnNpdGUgYW5kIGJlbGlldmUgSSBjYW4gaGVscA0Kd2l0aCB5b3VyIGJ1c2luZXNz
+IHByb21vdGlvbi4gSWYgeW91IHN0aWxsIHdhbnQgdXMgdG8gbm90IGNvbnRhY3QNCnlvdSwgeW91
+IGNhbiBpZ25vcmUgdGhpcyBlbWFpbCBvciBhc2sgdG8gcmVtb3ZlIGFuZCBJIHdpbGwgbm90DQpj
+b250YWN0IGFnYWluLjwvZm9udD48L2ZvbnQ+PC9wPg0KPHAgc3R5bGU9Im1hcmdpbi1ib3R0b206
+MGNtIj4NCjxmb250IGNvbG9yPSIjMDAwMGZmIj48Zm9udCBmYWNlPSJWZXJkYW5hLCBzYW5zLXNl
+cmlmIj48Yj5QUw0KSUk8L2I+OiBJIGZvdW5kIHlvdXIgc2l0ZSB1c2luZyBHb29nbGUgc2VhcmNo
+IGFuZCBhZnRlciBoYXZpbmcgYSBsb29rDQpvdmVyIHlvdXIgd2Vic2l0ZSBJIHJlY29tbWVuZCB5
+b3UgdG8gaW1wbGVtZW50IGZ1dHVyZSB0ZWNobm9sb2dpZXMNCnN1Y2ggYXMgSFRNTDUgYW5kIFJl
+c3BvbnNpdmUgRGVzaWduIHRvIG1ha2UgeW91ciBzaXRlIG1vcmUgYWNjZXNzaWJsZQ0KaW4gbW9i
+aWxlIHBob25lLCB0YWJsZXRzLCBkZXNrdG9wIGV0Yy48L2ZvbnQ+PC9mb250PjwvcD48L2Rpdj4N
+Cg==
+--047d7b8746d824f3b504ef093afa
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p style=3D"margin-bottom:0cm"><font color=3D"#0000ff" fac=
+e=3D"Verdana, sans-serif"><b>Untroubled.org</b></font><span style=3D"font-f=
+amily:Verdana,sans-serif;color:rgb(0,0,255)">=A0</span><span style=3D"font-=
+family:Verdana,sans-serif;color:rgb(0,0,255)">Team,</span><br>
+
+
+
+
+
+</p>
+<p style=3D"margin-bottom:0cm"><font color=3D"#0000ff"><font face=3D"Verdan=
+a, sans-serif"><font>I
+thought you might like to know some reasons why you are not getting
+enough Social Media and Organic search engine traffic for=A0<b>Untroubled.o=
+rg.</b></font></font></font></p>
+<p style=3D"margin-bottom:0cm"><font color=3D"#0000ff"><font face=3D"Verdan=
+a, sans-serif">1.
+Your website=A0<b>Untroubled.org=A0</b>is
+not ranking top in Google organic searches for many competitive
+keyword phrases.</font></font></p>
+<p style=3D"margin-bottom:0cm">
+<font color=3D"#0000ff"><font face=3D"Verdana, sans-serif">2.
+Your company is not doing well in most of the Social Media Websites.</font>=
+</font></p>
+<p style=3D"margin-bottom:0cm">
+<font color=3D"#0000ff"><font face=3D"Verdana, sans-serif">3.
+Your site is not user friendly on mobile devices.</font></font></p>
+<p style=3D"margin-bottom:0cm"><font color=3D"#0000ff"><font face=3D"Verdan=
+a, sans-serif">There
+are many additional improvements that could be made to your website,
+and if you would like to learn about them, and are curious to know
+what our working together would involve, then I would be glad to
+provide you with a detailed analysis in the form of a <b>WEBSITE
+AUDIT REPORT for FREE</b>.</font></font></p>
+<p style=3D"margin-bottom:0cm">
+<font color=3D"#0000ff"><font face=3D"Verdana, sans-serif">Our
+clients consistently tell us that their customers find them because
+they are at the top of the Google search rankings. Being at the top
+left of Google (#1- #3 organic positions) is the best thing you can
+do for your company&#39;s website traffic and online reputation. You will
+be happy to know that, my team is willing to guarantee you 1<sup>st</sup>
+page Google ranking for most of your targeted keyword phrases in our
+six month ongoing campaign.</font></font></p>
+<p style=3D"margin-bottom:0cm"><font color=3D"#0000ff"><font face=3D"Verdan=
+a, sans-serif">Sound
+interesting? Feel free to email us or alternatively you can provide
+me with your phone number and the best time to call you. I am also
+available to meet you in person and present you this website audit
+report.<br>------------------------------<WBR>-----------------------------=
+-<WBR>-----<br>Best
+Regards,<br><b>PS Paul</b><br>Marketing
+Consultant<br><br><b>PS
+I: </b>I
+am not spamming. I have studied your website and believe I can help
+with your business promotion. If you still want us to not contact
+you, you can ignore this email or ask to remove and I will not
+contact again.</font></font></p>
+<p style=3D"margin-bottom:0cm">
+<font color=3D"#0000ff"><font face=3D"Verdana, sans-serif"><b>PS
+II</b>: I found your site using Google search and after having a look
+over your website I recommend you to implement future technologies
+such as HTML5 and Responsive Design to make your site more accessible
+in mobile phone, tablets, desktop etc.</font></font></p></div>
+
+--047d7b8746d824f3b504ef093afa--

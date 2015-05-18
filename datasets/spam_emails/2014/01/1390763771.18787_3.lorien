@@ -1,0 +1,49 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 531 invoked from network); 24 Jan 2014 15:13:46 -0000
+Received: (qmail 29665 invoked from network); 24 Jan 2014 15:13:46 -0000
+Received: from 95.108.238.33-red.dhcp.yndx.net (95.108.238.33-red.dhcp.yndx.net [95.108.238.33])
+  by mx02.futurequest.net ([10.2.1.172])
+  with ESMTP via TCP; 24 Jan 2014 15:13:45 -0000
+Received: from 95.108.238.33(helo=kdndpwhx.exjenacxjd.va)
+ by 95.108.238.33-red.dhcp.yndx.net with esmtpa (Exim 4.69)
+ (envelope-from )
+ id 1MMUOX-9460bc-N6
+ for bruce@untroubled.org; Fri, 24 Jan 2014 19:13:44 +0400 Received: from 95.108.238.33 (account fraud@aexp.com HELO nkctu.mlywpfx.net)
+ by 95.108.238.33-red.dhcp.yndx.net (CommuniGate Pro SMTP 5.2.3)
+ with ESMTPA id 009994070 for bruce@untroubled.org; Fri, 24 Jan 2014 19:13:44 +0400
+Date: Fri, 24 Jan 2014 19:13:44 +0400
+From: "QuickBooks Invoice" <auto-invoice@quickbooks.com>
+X-Mailer: The Bat! (v2.00.3) Personal
+X-Priority: 3 (Normal)
+Message-ID: <3544140853.EA3OKBRR622817@lcsgbxdi.cllfvpymo.org>
+To: <bruce@untroubled.org>
+Subject: Important - Payment Overdue
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+  boundary="----------628B37FE688C159"
+
+------------628B37FE688C159
+Content-Type: text/plain; charset=iso-8859-2
+Content-Transfer-Encoding: 7bit
+
+Please find attached your invoices for the past months. Remit the payment by 24/01/2014 as outlines under our "Payment Terms" agreement.
+
+Thank you for your business,
+
+Sincerely,
+Lena Gaines
+
+This e-mail has been sent from an automated system.  PLEASE DO NOT REPLY.
+
+The information contained in this message may be privileged, confidential and protected from disclosure. If the reader of this message is not the intended recipient, or an employee or agent responsible for delivering this message to the intended recipient, you are hereby notified that any dissemination, distribution or copying of this communication is strictly prohibited. If you have received this communication in error, please notify your representative immediately and delete this message from your computer. Thank you.
+
+------------628B37FE688C159
+Content-Type: message/external-body; access-type=x-deleted; length=11604
+
+
+Content-Type: application/zip; name="Unpaid_Invoice.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Unpaid_Invoice.zip"
+
+------------628B37FE688C159--
+

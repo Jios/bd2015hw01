@@ -1,0 +1,121 @@
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 12392 invoked from network); 18 Jan 2014 07:24:15 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 18 Jan 2014 07:24:15 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 18 Jan 2014 07:24:15 -0000
+Received: (qmail 25838 invoked from network); 18 Jan 2014 07:24:15 -0000
+Received: from v22.smtp31.psmailer.com ([37.59.69.85])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 18 Jan 2014 07:24:15 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=email.il19.es;
+ i=@email.il19.es; q=dns/txt; s=key; t=1390030576; h=Date : Return-Path
+ : To : From : Reply-To : Subject : Message-ID : X-Priority : X-Mailer :
+ X-Complaints-To : X-Psm : X-Unsuscribe : X-Report-Abuse :
+ List-Unsubscribe : List-ID : MIME-Version : Content-Transfer-Encoding :
+ Content-Type; bh=f5wPNKrqV4QZKzlc+scITrw2qBltks/yDg5EDy8QFx4=; b=DJj3Ewys4H2Dx3+y6iKGPbWNI/d9mVBZ2CPCHNpN9XfggqlObPtKh0OntXMRsRaDcWkwJqFVK9hS2pNYreyO+j7zJUmj9deKEaFvC2TMG9LmB4HwEPK/h97hqob91zApgY+IpBklUhJquLWvw4bF8OjiKlHTbCqC6hZDFVq5jF4=
+Date: Sat, 18 Jan 2014 08:32:53 +0100
+Return-Path: bounces@email.il19.es
+To: cvs@bruce-guenter.dyndns.org
+From: PUBLIREGALO <boletin@email.il19.es>
+Reply-To: PUBLIREGALO <publiregalo@publiregalo.net>
+Subject: =?UTF-8?B?TWltYSBhIHR1cyBjbGllbnRlcw==?=
+Message-ID: <7d3daf584c434e2d01dd518873c593f9@smtp31.psmailer.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.2 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+X-Complaints-To: abuse@email.il19.es
+X-Psm: #*#id_user=1121#*#id_mail=146#*#id_list=15#*#id_customer=80017#*#email=cvs@bruce-guenter.dyndns.org#*#id_server=3#*#sender_type=3#*#customer_ip=37.59.69.85#*#
+X-Unsuscribe: unsubscribe_1121_cvs@bruce-guenter.dyndns.org_80017_146
+X-Report-Abuse: Please report abuse for this campaign here: http://email.il19.es/public/baja.php?id_user=1121&email=cvs@bruce-guenter.dyndns.org&id_mail=146
+List-Unsubscribe: <mailto:ago@proars.com?subject=unsubscribe_1121_cvs@bruce-guenter.dyndns.org_80017_146>, <http://email.il19.es/public/baja.php?id_user=1121&email=cvs@bruce-guenter.dyndns.org&id_mail=146>
+List-ID: psm_1121_15
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset=UTF-8
+
+
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+		<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+		<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+		</head>
+		
+		<body style="margin:0px">
+		
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
+
+
+
+<div id="ps_container" style="width: 100%; font-size:12px; color:#666; font-size:12px; font-family:Arial, Helvetica, sans-serif; background-color:#F8F8F8; padding-top:20px; padding-bottom:20px;">
+ 
+        <table class="sortable ui-sortable" style="width: 600px; background-color:#FFF;" align="center">
+        
+            <tbody><tr style="opacity: initial; border-color: initial; border-style: dotted; border-width: 1px;" class="sortable-tr">
+                <td class="content-objects" style="padding: 10px; opacity: initial;">
+                    
+                        <table style="width: 600px; opacity: initial;" cellpadding="0" cellspacing="0">
+                            <tbody style="opacity: initial;"><tr style="opacity: initial;">
+                                <td style="opacity: initial;" class="content-objects">
+                                    
+                                    <span style="float: right; font-size: 10px; opacity: initial;" class="text-object"><a target="_blank" href="http://email.il19.es/public/mail/index.php?id_user=1121&id_mail=146&email=cvs@bruce-guenter.dyndns.org" style="text-decoration: none; color: rgb(51, 153, 255); opacity: initial;">Ver este email en su navegador</a></span>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    
+                </td>
+            </tr>
+            
+            <tr style="border-style: dotted; border-width: 1px; opacity: initial; border-color: initial;" class="sortable-tr">
+                <td class="content-objects" colspan="2" style="padding: 10px; opacity: initial;">
+                        <table style="width: 600px; opacity: initial;" cellpadding="0" cellspacing="0">
+                            <tbody style="opacity: initial;"><tr style="opacity: initial;">
+                                <td style="opacity: initial;">
+                                   <a style="text-decoration: none; opacity: initial;" target="_blank" href="http://email.il19.es/public/link.php?aWRfbGluaz0zODAmaWRfbWFpbD0xNDYmaWRfdXNlcj0xMTIxJmlkX2N1c3RvbWVyPTgwMDE3JmVtYWlsPWN2c0BicnVjZS1ndWVudGVyLmR5bmRucy5vcmc="><img src="http://email.il19.es/psdata/user/1121/psmailer/mail/144/QUJDMzQ2MTA1LTIxNF8xNTY=.jpg" class="image-object" style="width: 600px; opacity: initial;" width="600"></a>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                </td>
+            </tr>
+            
+            
+        </tbody></table>
+        
+        <table style="width: 600px; background-color: rgb(255, 255, 255); margin-top: 10px; opacity: initial;" class="content-objects" align="center">
+        <tbody><tr>
+            <td style="padding:10px;">
+                    <table style="width: 600px;">
+                        <tbody><tr>
+                            <td style="opacity: initial;" class="text-object"><p style="font-size: 11px; text-align: justify;">
+	En cumplimiento de lo establecido en la "Ley Org&aacute;nica 15/1999, de 13 de diciembre" de Protecci&oacute;n de Datos de Car&aacute;cter Personal, le informamos de que cuantos datos personales nos facilite quedar&aacute;n incorporados y ser&aacute;n tratados en los ficheros titularidad de PUBLIREGALO, con el fin de gestionar, administrar y mantener los servicios prestados y/o contratados, as&iacute; como para mantenerle informado, incluso por medios electr&oacute;nicos, sobre cuestiones relativas a la actividad de la Compa&ntilde;aa y sus servicios. Este es un mensaje de PUBLIREGALO.</p>
+<p style="font-size: 11px; text-align: center;">
+	<a href="http://email.il19.es/public/baja.php?id_user=1121&id_mail=146&email=cvs@bruce-guenter.dyndns.org" style="font-size:13px; color:#39F; text-decoration:none" target="_blank">Darme de baja</a></p>
+</td>
+                        </tr>
+                    </tbody></table>  	
+            </td>
+        </tr>
+        </tbody></table>
+
+</div>
+
+
+
+                                        
+		<img src="http://email.il19.es/public/track.php?email=cvs@bruce-guenter.dyndns.org&id_customer=80017&id_mail=146&id_user=1121" width="1" height="1"></body>
+		
+		</html>
+		
+

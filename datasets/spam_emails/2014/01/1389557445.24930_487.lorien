@@ -1,0 +1,134 @@
+Delivered-To: lists-linux-kernel@bruce-guenter.dyndns.org
+Received: (qmail 13327 invoked from network); 11 Jan 2014 06:35:10 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 11 Jan 2014 06:35:10 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 11 Jan 2014 06:35:10 -0000
+Received: (qmail 31439 invoked from network); 11 Jan 2014 06:35:07 -0000
+Received: from 600t-pmi.localhost ([103.14.35.134])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 11 Jan 2014 06:35:07 -0000
+Received: by 600t-pmi.localhost (Postfix, from userid 1002)
+	id 27636BC9B7; Sat, 11 Jan 2014 15:34:48 +0900 (JST)
+Received: from localhost (unknown [10.243.221.80])
+	by localhost (Postfix) with ESMTP id 1455D1048C3E
+	for <lists-linux-kernel@bruce-guenter.dyndns.org>; Sat, 11 Jan 2014 15:12:56 +0900 (JST)
+MIME-Version: 1.0
+Content-Type: multipart/related;
+ boundary="=_8e092e834c4fe4c78df3ed199723a793"
+To: <lists-linux-kernel@bruce-guenter.dyndns.org>
+From: =?Shift_JIS?B?iJ+K84xi?=<akie-mano@fotono-34ko.com>
+Subject: =?Shift_JIS?B?g1qDdIOMklSCtYLJlOaC6oLEgqKC3IK5gvGCqYFI?=
+Message-Id: <20140111061256.1455D1048C3E@abqmmhrdwv.upmdofp>
+Date: Sat, 11 Jan 2014 15:12:56 +0900 (JST)
+
+--=_8e092e834c4fe4c78df3ed199723a793
+Content-Type: multipart/alternative;
+ boundary="=_46a48ae24af08b14ee580bf201330cd2"
+
+--=_46a48ae24af08b14ee580bf201330cd2
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=Shift_JIS
+
+
+--=_46a48ae24af08b14ee580bf201330cd2
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset=Shift_JIS
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Ly9FTiINCiJodHRwOi8vd3d3LnczLm9yZy9UUi9odG1sNC9sb29zZS5kdGQiPg0KPGh0bWw+DQo8
+aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1s
+OyBjaGFyc2V0PXNoaWZ0X2ppcyI+DQo8dGl0bGU+lrOR6INog0yDhYOBg5ODZzwvdGl0bGU+DQo8
+c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KPCEtLQ0KYm9keSx0ZCx0aCB7Zm9udC1zaXplOiAxNHB4
+Ow0KY29sb3I6ICMwMDAwRkY7DQpmb250LWZhbWlseTogSEeRbolwinDO36/M35HMO30NCi5zdHls
+ZTEge2NvbG9yOiAjRkYwMEZGfQ0KYSB7Zm9udC1mYW1pbHk6IIJsgnIggm+DU4NWg2KDTiwgT3Nh
+a2EsIINxg4mDTYNtinCDUyBQcm8gVzM7DQpmb250LXNpemU6IDE0cHg7DQpjb2xvcjogI0ZGMDAw
+MDsNCmZvbnQtd2VpZ2h0OiBib2xkO30NCmE6dmlzaXRlZCB7Y29sb3I6ICMwMDAwMDA7fQ0KLnN0
+eWxlMiB7Y29sb3I6ICMzMzk5MDB9DQouc3R5bGUzIHtjb2xvcjogI0ZGMDAwMH0NCi5zdHlsZTYg
+ew0KCWZvbnQtc2l6ZTogMTJweDsNCgljb2xvcjogIzAwMDAwMDsNCglmb250LWZhbWlseTogIoJs
+gnIggm+WvpKpIiwgIo3Xlr6SqZHMIiwgIoNxg4mDTYNtlr6SqSBQcm8gVzMiOw0KCWZvbnQtd2Vp
+Z2h0OiBib2xkOw0KfQ0KLS0+DQo8L3N0eWxlPjwvaGVhZD4NCg0KPGJvZHk+DQo8ZGl2IGFsaWdu
+PSJjZW50ZXIiPoNag3SDjJJUgrWCyZTmguqCxIKigtyCuYLxgqmBSDxicj4NCjxicj4NCo52gqSC
+5oKkgsmNc4KpgsiCooLGgqCCq4Lngt+CxIKigtyCuYLxgqmBSDxicj48YnI+DQo8c3BhbiBjbGFz
+cz0ic3R5bGUxIj6BeYNag3SDjIGag2eBW4NOgXo8L3NwYW4+gsWCzYK7gvGCyI1sgqaCqoLIgq2C
+yILpgtmCxzxicj4NCorIklCCyYNag3SDjIKqgt2CwoKpguiC3IK3gUI8YnI+PGJyPg0Kg1SDQ4Nn
+lryCzILGgqiC6INag3SDjJJUgrWCzILwj2STX4LJgqiCooK9g1SDQ4NngsWCt4FCPGJyPg0KgqiL
+4IKqgsiCrYLEguCOnorUgqqCyIKtgsSC4IptjsCCyYNag3SDjIKqgruCzJP6gsmMqYLCgqmC6ILc
+greBQjxicj4NCjxicj4NCjx0YWJsZSB3aWR0aD0iMTgzIiBib3JkZXI9IjAiPg0KICA8dHI+DQog
+ICAgPHRkIHdpZHRoPSI5MCIgY2xhc3M9InN0eWxlMSI+PGRpdiBhbGlnbj0iY2VudGVyIj6QbI3I
+PC9kaXY+PC90ZD4NCiAgICA8dGQgd2lkdGg9IjgzIj48ZGl2IGFsaWduPSJjZW50ZXIiPoKyi9+P
+ijwvZGl2PjwvdGQ+DQogIDwvdHI+DQogIDx0cj4NCiAgICA8dGQ+PGltZyBzcmM9ImNpZDoxQHdp
+bnMiIHdpZHRoPSI5MCIgaGVpZ2h0PSI5MCI+PC90ZD4NCiAgICA8dGQ+PGltZyBzcmM9ImNpZDoy
+QHdpbnMiIHdpZHRoPSI5MCIgaGVpZ2h0PSI5MCI+PC90ZD4NCiAgPC90cj4NCiAgPHRyPg0KICAg
+IDx0ZD48ZGl2IGFsaWduPSJjZW50ZXIiIGNsYXNzPSJzdHlsZTIiPk9MPC9kaXY+PC90ZD4NCiAg
+ICA8dGQ+PGRpdiBhbGlnbj0iY2VudGVyIiBjbGFzcz0ic3R5bGUzIj6DWoOMg3U8L2Rpdj48L3Rk
+Pg0KICA8L3RyPg0KICA8dHI+DQogICAgPHRkPjxpbWcgc3JjPSJjaWQ6M0B3aW5zIiB3aWR0aD0i
+OTAiIGhlaWdodD0iOTAiPjwvdGQ+DQogICAgPHRkPjxpbWcgc3JjPSJjaWQ6NEB3aW5zIiB3aWR0
+aD0iOTAiIGhlaWdodD0iOTAiPjwvdGQ+DQogIDwvdHI+DQo8L3RhYmxlPg0KPHNwYW4gY2xhc3M9
+InN0eWxlMSI+PGJyPg0KPC9zcGFuPoLIgseCyILHgUWBRYFFPGJyPoNag3SDjIN0g0CDk4LFgruC
+zI6WjsCC8I7AirSCtYLEgq2CvoKzgqKBQjxicj4NCjxicj4NCjxhIGhyZWY9Imh0dHA6Ly9zb2w0
+cXctdms4ai5jb20vYzB4Lz9iNz1aUWtFOGF5YzhtRnVKMG9jN1FuTXpRcjF6MHl1ejBwZzhPUlJ6
+bUw1OHliYiIgdGFyZ2V0PSJfYmxhbmsiPmh0dHA6Ly9zZWZyZS10YWxrLmNvbTwvYT48YnI+DQo8
+YnI+DQo8dGFibGUgd2lkdGg9IjUwMSIgYm9yZGVyPSIwIiBiZ2NvbG9yPSIjRkZGRjY2Ij4NCiAg
+PHRyPg0KICAgIDx0ZCB3aWR0aD0iNDk1Ij48ZGl2IGFsaWduPSJjZW50ZXIiIGNsYXNzPSJzdHls
+ZTYiPoNag3SDjINngVuDToLNkWaTR4LIg1qDYoNOg1iDcIFbg2eDaYFbklSCtYLwjuiPlYKvgreC
+6YNUg0ODZ4LFgreBQjxicj4NCpFTgsSCzIOGgVuDVYFbl2yTr45tgqqDcIFbg2eDaYFbgsaCyILB
+gsSCooK9gr6CrYjXPGJyPg0KkM+LyZNJgsmNTI2QkOmTYIK1gsSSao+XgsyU5JemgvCI246dgrWC
+xIKoguiC3IK3gUI8L2Rpdj48L3RkPg0KICA8L3RyPg0KICA8dHI+DQogICAgPHRkPjxkaXYgYWxp
+Z249ImNlbnRlciI+PGltZyBzcmM9ImNpZDo1QHdpbnMiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTI5
+Ij48L2Rpdj48L3RkPg0KICA8L3RyPg0KPC90YWJsZT4NCjxicj48YnI+DQo8YSBocmVmPSJodHRw
+Oi8vc29sNHF3LXZrOGouY29tL2MweC8/Yjc9WlFrRThheWM4bUZ1SjBvYzdRbk16UXIxejB5dXow
+cGc4T1JSem1MNTh5YmIiIHRhcmdldD0iX2JsYW5rIj5odHRwOi8vc2VmcmUtdGFsay5jb208L2E+
+PGJyPg0KPGJyPg0KPGJyPpR6kE2LkZTbgs08YnI+DQo8YSBocmVmPSJodHRwOi8vc29sNHF3LXZr
+OGouY29tL2MweC9yengucGhwP2I3PUxtOGM4bW9tODByUjhNek56UW9FejBucDdROHU4aWJiIj6C
+sYK/gueC8INOg4qDYoNOgZo8L2E+PC9kaXY+DQo8L2JvZHk+DQo8L2h0bWw+
+--=_46a48ae24af08b14ee580bf201330cd2--
+
+--=_8e092e834c4fe4c78df3ed199723a793
+Content-Type: message/external-body; access-type=x-deleted; length=4449
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <1@wins>
+Content-Type: image/jpeg;
+ name="img1.jpg"
+
+--=_8e092e834c4fe4c78df3ed199723a793
+Content-Type: message/external-body; access-type=x-deleted; length=3914
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <2@wins>
+Content-Type: image/jpeg;
+ name="img2.jpg"
+
+--=_8e092e834c4fe4c78df3ed199723a793
+Content-Type: message/external-body; access-type=x-deleted; length=4506
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <3@wins>
+Content-Type: image/jpeg;
+ name="img3.jpg"
+
+--=_8e092e834c4fe4c78df3ed199723a793
+Content-Type: message/external-body; access-type=x-deleted; length=4380
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <4@wins>
+Content-Type: image/jpeg;
+ name="img4.jpg"
+
+--=_8e092e834c4fe4c78df3ed199723a793
+Content-Type: message/external-body; access-type=x-deleted; length=4044
+
+
+Content-Transfer-Encoding: base64
+Content-ID: <5@wins>
+Content-Type: image/jpeg;
+ name="img5.jpg"
+
+--=_8e092e834c4fe4c78df3ed199723a793--
+

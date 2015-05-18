@@ -1,0 +1,32 @@
+Delivered-To: em-ca-bait@em.ca
+Received: (qmail 22449 invoked from network); 21 Jan 2014 06:01:34 -0000
+Received: from dyndns.org (host60-156-static.48-79-b.business.telecomitalia.it [79.48.156.60])
+  by churchill.factcomp.com ([24.89.90.248])
+  with SMTP via TCP; 21 Jan 2014 06:01:34 -0000
+Received: (qmail 21661 invoked by uid 453); 21 Jan 2014 00:17:11 -0000
+Received: from localhost (HELO User) (127.0.0.1)
+    by dyndns.org (qpsmtpd/0.84) with SMTP; Tue, 21 Jan 2014 01:17:11 +0100
+Reply-To: <me@localhost.com>
+From: "RBC Online"<me@localhost.com>
+Subject: RBC Bank Alert: Security Update
+Date: Tue, 21 Jan 2014 02:17:07 +0200
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Virus-Checked: Checked by ClamAV on dyndns.org
+
+Dear Royal Bank Customer,
+
+We recently have determined that different computers have logged in your Royal Bank account,
+and multiple password failures were present before the logons.
+We now need you to re-confirm your account information to us.
+
+To restore your account, please click the secure link below :
+http://host45-94-static.48-79-b.business.telecomitalia.it/allegati/rbc/
+
+Royal Bank RBC ®2014

@@ -1,0 +1,743 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 3852 invoked from network); 28 Jan 2014 14:22:34 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Jan 2014 14:22:34 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Jan 2014 14:22:34 -0000
+Received: (qmail 31733 invoked from network); 28 Jan 2014 14:22:33 -0000
+Received: from mta136.topregionfr.com ([77.89.255.136])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 28 Jan 2014 14:22:33 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=DKIM1; d=topregionfr.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=postmaster@topregionfr.com;
+ bh=qwq8FIe+l2tdFWMo2zEhjuFsYoY=;
+ b=nzyArOp5uHJZ3ebhzDnSctUvZNSQ5Xuy4fO7M1t0I814GZlcJDispCWhSQ6lsMygoiccvua6LW+a
+   I0FtmdnkEt+VRVXkHDO16m4G1ucmC7KCCYul/COUoDCcayWrRCJCwB0bJ/ywaH0izevRt6aLVubg
+   kj9EL4W5bMLQJCVwP00=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=DKIM1; d=topregionfr.com;
+ b=cJn+7NFbq9X7dBDV7/V3b04F9oDaGKgtk/kpuzTWhxiqXLyTQg5ndEUNbRxjctu3fHeWIJkU8rT1
+   +gvbH1kcn3TaNgQoOJMvkCUGV1fafGRYND8ivoUlEASDngs0qCrv3FTf1wn7g+WgQhvwkDUg2ncn
+   FDVBwEQ3W+0TUhZzBWk=;
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?RMOpY291dnJleiBsYSBzb2x1dGlvbiBkZSBnZXN0aW9uIGRlIGZsb3R0ZSBhdXRvbW9iaWxl?=
+Message-ID: <5cc955ad91e4527eabfb8e70039cb914@topregionfr.com>
+Return-Path: bounce@topregionfr.com
+Date: Tue, 28 Jan 2014 16:22:31 +0200
+From: "Tom Tom Business Solutions" <info@topregionfr.com>
+Reply-To: info@topregionfr.com
+MIME-Version: 1.0
+X-Mailer-LID: 57
+List-Unsubscribe: <http://topregionfr.com/unsubscribe.php?M=5434897&C=dea167766003c8b940e0377afc6c2d87&L=57&N=294>
+X-Mailer-RecptId: 5434897
+X-Mailer-SID: 294
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_fd14a538cac1c74eccabdfc0d87df8a3"
+Content-Transfer-Encoding: 8bit
+Content-Length: 20351
+
+--b1_fd14a538cac1c74eccabdfc0d87df8a3
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Tom Tom
+
+Profitez gratuitement de notre solution de gestion de flotte TomTom
+Devenez client TomTom Business Solutions et profitez de notre plate-forme
+en ligne de gestion de flotte gratuitement jusqu'à la fin de l'année !
+
+
+En devenant client TomTom, vous pourrez :
+
+1. Suivre vos véhicules sur la route
+
+2. Optimiser l'affectation des missions d'intervention entre vos
+conducteurs
+
+3. Agir sur les comportements de conduite et la consommation de carburant
+
+En savoir plus: http://topregionfr.com/link.php?M=5434897&N=294&L=86&F=T
+
+_________________________________________________________________________________________________________________________________________
+Ce message vous est envoyé par LeadsLeader. D é s a b o n n e m e n t de
+la liste: http://topregionfr.com/link.php?M=5434897&N=294&L=2&F=T
+_________________________________________________________________________________________________________________________________________
+
+
+--b1_fd14a538cac1c74eccabdfc0d87df8a3
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css"><!--
+div, p, a, li, td  -webkit-text-size-adjust: none;
+ .ReadMsgBody  width: 100%; background-color: #cccccc;
+ .ExternalClass  width: 100%; background-color: #cccccc;
+body  width: 100%; background-color: #cccccc; margin: 0; padding: 0;
+-webkit-font-smoothing: antialiased;
+html  width: 100%;
+ @media only screen and (max-width: 640px)
+body { width: auto!important;
+table[class=scaleForMobile]  width: 100%!important; padding-left:
+30px!important; padding-right: 30px!important; clear: both;
+table[class=mobileCenter]  width: 100%!important; text-align:
+center!important; clear: both;
+td[class=mobileCenter]  width: 440px !important; text-align:
+center!important;
+span[class=eraseForMobile]  width: 0; display: none !important;
+td[class=eraseForMobile]  width: 0; display: none !important;
+table[class=eraseForMobile]  width: 0; display: none !important;
+td[class=pad2]  height: 15px!important;
+table[class=footerScale1]  width: 50%!important; text-align:
+center!important; clear: both;
+td[class=pad3]  width: 100%!important; padding-top: 4px; text-align:
+center!important;
+img[class=image]  width: 100%!important; border-radius: 3px!important;
+height: auto!important;
+td[class=pad4]  height: 40px!important;
+table[class=tableScale]  width: 100%!important; clear: both;
+ .tableScale img  width: 100%!important; height: auto!important;
+border-radius: 3px!important;
+table[class=tableSmallBig]  width: 100%!important; clear: both;
+a[class=navPadLeft]  margin-right: 40px!important; margin-left: 0px;
+a[class=navPadMiddle]  margin-right: 40px!important; margin-left: 40px;
+a[class=navPadRight]  margin-right: 0px!important; margin-left: 40px;
+}
+ @media only screen and (max-width: 479px)
+body { width: auto!important;
+table[class=scaleForMobile]  width: 100%!important; padding-left:
+30px!important; padding-right: 30px!important; clear: both;
+table[class=mobileCenter]  width: 100%!important; text-align:
+center!important; clear: both;
+td[class=mobileCenter]  width: 100%!important; text-align:
+center!important; clear: both;
+span[class=eraseForMobile]  width: 0; display: none !important;
+td[class=eraseForMobile]  width: 0; display: none !important;
+table[class=eraseForMobile]  width: 0; display: none !important;
+td[class=pad1]  height: 40px!important;
+img[class=smallImage]  width: 100%!important;
+table[class=tableScale]  width: 100%!important; clear: both;
+ .tableScale img  width: 100%!important; height: auto!important;
+border-radius: 3px!important;
+table[class=tableSmallBig]  width: 100%!important; clear: both;
+ .tableSmallBig img  width: 100%!important; height: auto!important;
+border-radius: 3px!important;
+a[class=navPadLeft]  margin-right: 25px!important; margin-left: 0px;
+font-size: 12px!important;
+a[class=navPadMiddle]  margin-right: 25px!important; margin-left: 25px;
+font-size: 12px!important;
+a[class=navPadRight]  margin-right: 0px!important; margin-left: 25px;
+font-size: 12px!important;
+}
+--></style>
+<table style="background-color: #cccccc; width: 100%;" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="background-color: #cccccc;" valign="top" width="100%">
+<table style="width: 100%;" class="mobileCenter" name="0" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#cccccc" valign="top" width="100%">
+<table style="width: 600px;" align="center" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td>
+<div align="center">Si vous ne visualisez pas correctement ce message, <a
+href="http://topregionfr.com/link.php?M=5434897&N=294&L=87&F=H">consultez-le
+en ligne.</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 640px;" class="scaleForMobile" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="100%">
+<table style="width: 100%;" class="mobileCenter" align="center" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<table class="mobileCenter" align="center" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td class="eraseForMobile" height="10"></td>
+</tr>
+<tr>
+<td class="mobileCenter" style="font-size: 13px; color: #000000;
+font-weight: normal; text-align: center; font-family: Helvetica, Arial,
+sans-serif; line-height: 14px; vertical-align: middle;" height="15"
+width="640">Profitez gratuitement de notre solution de gestion de flotte
+TomTom</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;" class="mobileCenter" align="center" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="5" width="100%"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="background-color: #cccccc; width: 100%;" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="background-color: #cccccc;" valign="top" width="100%">
+<table style="width: 100%;" class="mobileCenter" name="1" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#cccccc" valign="top" width="100%">
+<table style="width: 640px;" class="scaleForMobile" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="100%">
+<table style="border-top-left-radius: 6px; border-top-right-radius: 6px;
+width: 640px;" class="mobileCenter" align="center" bgcolor="#ffffff"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="9" width="100%"><img
+src="http://www.effiliation-hebergement.com/tomtom/images/top.jpg"
+alt="Image" style="display: block; width: 100%;" border="0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="background-color: #cccccc; width: 100%;" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="background-color: #cccccc;" valign="top" width="100%">
+<table style="width: 100%;" class="mobileCenter" name="6" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#cccccc" valign="top" width="100%">
+<table style="width: 640px;" class="scaleForMobile" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" width="100%">
+<table style="width: 640px;" class="mobileCenter" align="center"
+bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="100%">
+<table style="width: 640px;" class="scaleForMobile" align="left" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="eraseForMobile"></td>
+<td>
+<table style="width: 100%;" class="mobileCenter" align="center" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<table class="mobileCenter" align="left" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td height="40"><a
+href="http://topregionfr.com/link.php?M=5434897&N=294&L=86&F=H"> <img
+src="http://www.effiliation-hebergement.com/tomtom/images/business-solution.jpg"
+alt="Business Solutions" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+<table class="mobileCenter" align="right" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td height="40"><a
+href="http://topregionfr.com/link.php?M=5434897&N=294&L=86&F=H"> <img
+src="http://www.effiliation-hebergement.com/tomtom/images/logo-tomtom.jpg"
+alt="TomTom" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="eraseForMobile"></td>
+</tr>
+<tr>
+<td class="eraseForMobile" width="20"></td>
+<td width="600">
+<table style="width: 600px;" class="tableScale" align="center" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="20" width="100%"><a
+href="http://topregionfr.com/link.php?M=5434897&N=294&L=86&F=H"> <img
+src="http://www.effiliation-hebergement.com/tomtom/images/bandeau2.jpg"
+alt="Image" style="display: block; width: 100%;" border="0" /> </a></td>
+</tr>
+<tr>
+<td height="15" width="100%"></td>
+</tr>
+<tr>
+<td style="font-size: 18px; color: #9ea09e; text-align: center;
+font-weight: bold; font-family: Helvetica, Arial, sans-serif; line-height:
+24px; letter-spacing: -1px;" class="mobileCenter" width="100%">Profitez
+gratuitement de notre solution de gestion de flotte TomTom</td>
+</tr>
+<tr>
+<td height="12" width="100%"></td>
+</tr>
+<tr>
+<td style="font-size: 13px; color: #424542; text-align: center;
+font-weight: normal; font-family: Helvetica, Arial, sans-serif;
+line-height: 14px;" class="mobileCenter" width="100%">Devenez client TomTom
+Business Solutions et profitez de notre plate-forme <br /> en ligne de
+gestion de flotte gratuitement jusqu'&agrave; la fin de l'ann&eacute;e
+!</td>
+</tr>
+<tr>
+<td height="12" width="100%"></td>
+</tr>
+<tr>
+<td style="font-size: 14px; color: #424542; text-align: center;
+font-weight: normal; font-family: Helvetica, Arial, sans-serif;
+line-height: 16px;" class="mobileCenter" width="100%"><strong>En devenant
+client TomTom, vous pourrez :</strong></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="eraseForMobile" width="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="background-color: #cccccc; width: 100%;" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="background-color: #cccccc;" valign="top" width="100%">
+<table style="background-repeat: repeat; width: 100%;" name="9"
+align="center"
+background="http://willb.fr/extranet/effiliation/tomtom/email/media/bg.jpg"
+bgcolor="#cccccc" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td valign="top" width="100%">
+<table style="width: 640px;" class="scaleForMobile" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF" width="100%">
+<table style="width: 640px;" class="mobileCenter" align="center"
+bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="30" width="100%"></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 640px;" class="mobileCenter" align="center"
+bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="100%">
+<table style="width: 640px;" class="scaleForMobile" align="left" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="eraseForMobile" width="60"></td>
+<td width="520">
+<table style="border-collapse: collapse; width: 150px;"
+class="tableSmallBig" align="left" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td width="100%"><center><img
+src="http://www.effiliation-hebergement.com/tomtom/images/n1.gif" alt="1"
+style="display: block;" class="smallImage" border="0" /></center></td>
+</tr>
+<tr>
+<td height="15" width="100%"></td>
+</tr>
+<tr>
+<td style="font-size: 12px; color: #424542; text-align: left; font-weight:
+normal; font-family: Helvetica, Arial, sans-serif; line-height: 13px;"
+class="mobileCenter" width="100%"><strong>Suivre</strong> vos
+v&eacute;hicules sur la route</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 35px;" align="left"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="30" width="100%"></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 150px;"
+class="tableSmallBig" align="left" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td width="100%"><center><img
+src="http://www.effiliation-hebergement.com/tomtom/images/n2.gif" alt="2"
+class="smallImage" style="display: block;" border="0" height="27"
+width="150" /></center></td>
+</tr>
+<tr>
+<td height="15" width="100%"></td>
+</tr>
+<tr>
+<td style="font-size: 12px; color: #424542; text-align: left; font-weight:
+normal; font-family: Helvetica, Arial, sans-serif; line-height: 13px;"
+class="mobileCenter" width="100%">
+<p><strong>Optimiser</strong> l'affectation des missions d'intervention
+entre vos conducteurs</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 20px;" align="left"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="30" width="100%"></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 150px;"
+class="tableSmallBig" align="right" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td width="100%"><center><img
+src="http://www.effiliation-hebergement.com/tomtom/images/n3.gif" alt="3"
+style="display: block;" class="smallImage" border="0" /></center></td>
+</tr>
+<tr>
+<td height="15" width="100%"></td>
+</tr>
+<tr>
+<td style="font-size: 12px; color: #424542; text-align: left; font-weight:
+normal; font-family: Helvetica, Arial, sans-serif; line-height: 13px;"
+class="mobileCenter" width="100%"><strong>Agir</strong> sur les
+comportements de conduite et la consommation de carburant</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="eraseForMobile" width="60"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="background-color: #cccccc; width: 100%;" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="background-color: #cccccc;" valign="top" width="100%">
+<table style="background-repeat: repeat; width: 100%;" name="8"
+align="center"
+background="http://willb.fr/extranet/effiliation/tomtom/email/media/bg.jpg"
+bgcolor="#cccccc" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td valign="top" width="100%">
+<table style="width: 640px;" class="scaleForMobile" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" width="100%">
+<table style="width: 640px;" class="mobileCenter" align="center"
+bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="30" width="100%"></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 640px;" class="scaleForMobile" align="center"
+bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="100%">
+<table style="border-collapse: collapse; width: 640px;"
+class="scaleForMobile" align="left" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td class="eraseForMobile" width="60"></td>
+<td valign="top" width="520">
+<table style="border-collapse: collapse; width: 240px;"
+class="tableSmallBig" align="left" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td class="mobileCenter" width="100%"><center><a
+href="http://topregionfr.com/link.php?M=5434897&N=294&L=86&F=H"> <img
+src="http://www.effiliation-hebergement.com/tomtom/images/e1-livreblanc.jpg"
+alt="Livre blanc" style="display: block;" class="smallImage" border="0"
+/></a></center></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 30px;" align="left"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="30" width="100%"></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 240px;"
+class="tableSmallBig" align="right" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td width="100%"><center><a
+href="http://topregionfr.com/link.php?M=5434897&N=294&L=86&F=H"> <img
+src="http://www.effiliation-hebergement.com/tomtom/images/e2-video.jpg"
+alt="Vid&eacute;o" style="display: block;" class="smallImage" border="0"
+/></a></center></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="eraseForMobile" width="60"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 640px;" class="scaleForMobile" align="center"
+bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="100%">
+<table style="width: 520px;" class="mobileCenter" align="center" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="30" width="100%"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="background-color: #cccccc; width: 100%;" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="background-color: #cccccc;" valign="top" width="100%">
+<table style="width: 100%;" class="mobileCenter" name="6" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#cccccc" valign="top" width="100%">
+<table style="width: 640px;" class="scaleForMobile" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" width="100%">
+<table style="width: 640px;" class="mobileCenter" align="center"
+bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="100%">
+<table style="width: 640px;" class="scaleForMobile" align="left" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="eraseForMobile" width="20"></td>
+<td width="600">
+<table style="width: 600px;" class="tableScale" align="center" border="0"
+cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="20" width="100%"><a
+href="http://topregionfr.com/link.php?M=5434897&N=294&L=86&F=H"> <img
+src="http://www.effiliation-hebergement.com/tomtom/images/logo-baseline.jpg"
+alt="TomTom, Let's drive business" style="display: block; width: 100%;
+border-radius: 3px;" border="0" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="eraseForMobile" width="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="background-color: #cccccc; width: 100%;" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="background-color: #cccccc;" valign="top" width="100%">
+<table style="width: 100%;" class="mobileCenter" name="g" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#cccccc" valign="top" width="100%">
+<table style="width: 640px;" class="scaleForMobile" align="center"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="100%">
+<table style="border-bottom-left-radius: 6px; border-bottom-right-radius:
+6px; width: 640px;" class="scaleForMobile" align="center" bgcolor="#ffffff"
+border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td height="9" width="100%"><img
+src="http://www.effiliation-hebergement.com/tomtom/images/bottom.jpg"
+alt="Image" style="display: block; width: 100%;" border="0" /></td>
+</tr>
+</tbody>
+</table>
+<table class="mobileCenter" align="center" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td class="eraseForMobile" height="10"></td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 600px;" align="center" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td>
+<div align="center">Ce message vous est envoy&eacute; par LeadsLeader. <a
+href="http://topregionfr.com/link.php?M=5434897&N=294&L=2&F=H">D &eacute; s
+a b o n n e m e n t</a> de la liste</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://track12991947.effimails15.com/servlet/effi.pixel?id_compteur=12991947"
+/>
+<img
+src="http://topregionfr.com/open.php?M=5434897&L=57&N=294&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_fd14a538cac1c74eccabdfc0d87df8a3--

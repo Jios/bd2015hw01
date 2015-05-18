@@ -1,0 +1,397 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 7460 invoked from network); 28 Jan 2014 16:18:17 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 28 Jan 2014 16:18:17 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 28 Jan 2014 16:18:17 -0000
+Received: (qmail 1518 invoked from network); 28 Jan 2014 16:18:16 -0000
+Received: from o73.topregionfr.com ([77.89.253.73])
+  by zak.futurequest.net ([69.5.6.152])
+  with ESMTP via TCP; 28 Jan 2014 16:18:16 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=DKIM1; d=topregionfr.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=postmaster@topregionfr.com;
+ bh=OnlooO/EaWDsRIBgnLXBE3tNeOg=;
+ b=W3g8yQOO2Ac3B7W2GtLCAk5jZMg/HMpVT9PCndhyekXAojWIqxQXPkUhNWAqX+gGib1rWg5c445w
+   r58IUbNwSEszUo+Z3bKYu3XE018ApA69FlGSpYob8gJTVzoE6ZjLwggV3KHTzX0wZx1ZqAq2yIhV
+   CnftarwEreoCqSI9sls=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=DKIM1; d=topregionfr.com;
+ b=fA1No1I3Qp9lSgQvav2O1syNX+qEVR2iQlWp+lBKpMlkcBX922gwCTxztHT5U2tpF1HDxtEE6Muf
+   TOcztfVCoB4r/DwM0ZUWi4tXlrpB2M6WoSOMDX+jQ50lcOYgv0s0KToy8CBTcsEDldp6zsfGyBZE
+   ZWTRrhoaLSd+r9YPQVM=;
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?TGl2cmV1cnMsIGNvbW1lcmNpYXV4Li4uLiBMb2NhbGlzZXogdm9zIGNvbmR1Y3RldXJzIMOgIGRpc3RhbmNl?=
+Message-ID: <45b8b79adfd2c449db41a6790e9f50f4@topregionfr.com>
+Return-Path: bounce@topregionfr.com
+Date: Tue, 28 Jan 2014 18:18:13 +0200
+From: "Astuce PME" <info@topregionfr.com>
+Reply-To: info@topregionfr.com
+MIME-Version: 1.0
+X-Mailer-LID: 55
+List-Unsubscribe: <http://topregionfr.com/unsubscribe.php?M=5374556&C=42837b1bee3c07c2df530f2a7deff2a1&L=55&N=291>
+X-Mailer-RecptId: 5374556
+X-Mailer-SID: 291
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_5c70f3da4e2700149dc35e21ae6d3e00"
+Content-Transfer-Encoding: 8bit
+Content-Length: 14048
+
+--b1_5c70f3da4e2700149dc35e21ae6d3e00
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Devis Factory
+
+Service 100% gratuit
+Aucune obligation d'achat
+Meilleurs prestataires agréés
+
+Savez-vous où se trouve votre
+personnel itinérant ?
+Optimiser le rendement de vos équipes mobiles n'est pas une mince affaire
+si vous ne possédez pas d'informations exactes sur leurs déplacements.
+
+L’installation d’un système de géolocalisation de véhicules à usage
+professionnel devient de plus en plus indispensable pour gagner en
+efficacité. Depuis vos bureaux, vous suivez à distance la position de vos
+voitures ainsi que la vitesse et la distance parcourue. De cette manière,
+la geolocalisation vous permet aussi de réduire vos dépenses en
+carburants.
+
+Le coût de l'installation est alors vite rentabilisé par les économies
+réalisées.
+
+Déposez votre demande de devis et recevez gratuitement l'offre de
+fournisseurs spécialisés dans les systèmes de géolocalisation.
+
+Obtenez des devis en 48h
+
+http://topregionfr.com/link.php?M=5374556&N=291&L=62&F=T
+
+_________________________________________________________________________________________________________________________________________
+Ce message vous est envoyé par LeadsLeader. D é s a b o n n e m e n t de
+la liste: http://topregionfr.com/link.php?M=5374556&N=291&L=2&F=T
+_________________________________________________________________________________________________________________________________________
+
+
+--b1_5c70f3da4e2700149dc35e21ae6d3e00
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Geolocalisation vehicules</title>
+<style type="text/css">
+#outlook a
+	padding: 0;
+
+body
+	width: 100% !important;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	margin: 0;
+	padding: 0;
+
+ .ExternalClass
+	width: 100%;
+
+ .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass
+font, .ExternalClass td, .ExternalClass div
+	line-height: 100%;
+
+table
+	border-collapse: collapse;
+
+td
+	border-collapse: collapse;
+
+</style>
+</head>
+<body bgcolor="#ddd2be">
+<table style="width: 100%;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center" bgcolor="#ddd2be"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/tt/img/espace.gif"
+alt="" height="5" width="5" /></td>
+</tr>
+<tr>
+<td style="font-family: Arial, sans-serif; color: #0000ff; font-size:
+10px;" align="center" bgcolor="#ddd2be">&nbsp;</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ddd2be"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/tt/img/espace.gif"
+alt="" height="5" width="5" /></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ddd2be">
+<table style="width: 600px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<div align="center">Si vous ne visualisez pas correctement ce message, <a
+href="http://topregionfr.com/link.php?M=5374556&N=291&L=63&F=H"
+target="_blank">consultez-le en ligne.</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 502px;" align="center" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF"><a
+href="http://topregionfr.com/link.php?M=5374556&N=291&L=62&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/effi_tt2_r1_c1.jpg"
+alt="Localisez vos v&eacute;hicules en un clin d'oeil" height="200"
+width="251" /></a></td>
+<td bgcolor="#FFFFFF"><a
+href="http://topregionfr.com/link.php?M=5374556&N=291&L=62&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/effi_tt2_r1_c2.jpg" alt="Obtenez
+des devis" height="200" width="251" /></a></td>
+</tr>
+<tr>
+<td bgcolor="#211f5e"><a
+href="http://topregionfr.com/link.php?M=5374556&N=291&L=62&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/logo2.jpg" alt="Devis Factory"
+height="93" width="251" /></a></td>
+<td bgcolor="#211f5e">
+<table style="width: 251px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="30"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/point.jpg" alt="" height="22"
+width="30" /></td>
+<td style="font-family: Arial, sans-serif; color: #ffffff; font-size:
+13px;" align="left" width="221">Service <span style="color: #9999ff;"
+data-mce-mark="1"><strong>100% gratuit</strong></span></td>
+</tr>
+<tr>
+<td><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/point.jpg" alt="" height="22"
+width="30" /></td>
+<td style="font-family: Arial, sans-serif; color: #ffffff; font-size:
+13px;" align="left" width="221"><span style="color: #9999ff;"
+data-mce-mark="1"><strong>Aucune obligation</strong></span> d'achat</td>
+</tr>
+<tr>
+<td><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/point.jpg" alt="" height="22"
+width="30" /></td>
+<td style="font-family: Arial, sans-serif; color: #ffffff; font-size:
+13px;" align="left" width="221">Diff&eacute;rents <span style="color:
+#9999ff;" data-mce-mark="1"><strong>prestataires
+agr&eacute;&eacute;s</strong></span></td>
+</tr>
+<tr>
+<td style="font-size: 1px; line-height: 1px;"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/tt/img/espace.gif"
+alt="" height="10" width="5" /></td>
+<td style="font-size: 1px; line-height: 1px;"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/tt/img/espace.gif"
+alt="" height="10" width="5" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF"><a
+href="http://topregionfr.com/link.php?M=5374556&N=291&L=62&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/coin2.jpg" alt="" height="77"
+width="251" /></a></td>
+<td bgcolor="#FFFFFF"><a
+href="http://topregionfr.com/link.php?M=5374556&N=291&L=62&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/bouton.jpg" alt="Recevez des
+devis sans engagement" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ddd2be">
+<table style="width: 502px;" align="center" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td bgcolor="#211f5e" width="4"><img style="outline: none; text-decoration:
+none; -ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/espace.gif" alt="" height="4"
+width="4" /></td>
+<td bgcolor="#FFFFFF" width="35"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/tt/img/espace.gif"
+alt="" height="5" width="35" /></td>
+<td bgcolor="#FFFFFF" width="424">
+<table style="width: 424px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="font-family: Arial, sans-serif; color: #003399; font-size:
+20px;" align="left">Savez-vous o&ugrave; se trouve votre&nbsp;<span
+style="color: #cb0303;"><br />personnel itin&eacute;rant ?</span></td>
+</tr>
+<tr>
+<td style="font-size: 1px; line-height: 1px;"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/tt/img/espace.gif"
+alt="" height="15" width="5" /></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 424px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="font-family: Arial, sans-serif; color: #333333; font-size:
+13px;" align="left" valign="top" width="204">Optimiser le rendement de vos
+&eacute;quipes mobiles n'est pas une mince affaire si vous ne
+poss&eacute;dez pas d'informations exactes sur leurs d&eacute;placements.
+<br /><br />L&rsquo;installation d&rsquo;un <strong>syst&egrave;me de
+g&eacute;olocalisation de v&eacute;hicules</strong> &agrave; usage
+professionnel devient de plus en plus indispensable pour gagner en
+efficacit&eacute;. Depuis vos bureaux, vous suivez &agrave; distance la
+<strong>position de vos voitures&nbsp;</strong>ainsi que la <strong>vitesse
+</strong>et la<strong> distance parcourue</strong>. De cette
+mani&egrave;re, la geolocalisation vous permet aussi de r&eacute;duire vos
+d&eacute;penses en carburants.<br /><br />Le co&ucirc;t de l'installation
+est alors vite rentabilis&eacute; par les &eacute;conomies
+r&eacute;alis&eacute;es.</td>
+<td style="font-family: Arial, sans-serif; color: #333333; font-size:
+13px;" width="8"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/espace.gif" alt="" height="5"
+width="8" /></td>
+<td style="font-family: Arial, sans-serif; color: #0000ff; font-size:
+14px;" align="center" valign="top" width="212"><a
+href="http://topregionfr.com/link.php?M=5374556&N=291&L=62&F=H"
+target="_blank"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/retard.jpg" alt="Localisez
+chaque voiture de votre flotte" /></a><a
+href="http://topregionfr.com/link.php?M=5374556&N=291&L=62&F=H"
+style="color: #0000ff;" target="_blank"><br />&raquo; Obtenez 4 devis en
+48h</a></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 424px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="font-size: 1px; line-height: 1px;" align="left"><img
+style="outline: none; text-decoration: none; -ms-interpolation-mode:
+bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/espace.gif" alt="" height="20"
+width="5" /></td>
+</tr>
+<tr>
+<td style="font-family: Arial, sans-serif; color: #003399; font-size:
+13px;" align="left"><strong><a
+href="http://topregionfr.com/link.php?M=5374556&N=291&L=62&F=H"
+target="_blank">D&eacute;posez votre demande de devis et recevez
+gratuitement l'offre de fournisseurs sp&eacute;cialis&eacute;s dans les
+syst&egrave;mes de g&eacute;olocalisation &raquo;</a></strong></td>
+</tr>
+<tr>
+<td align="left"><span style="font-family: Arial, sans-serif; color:
+#333333; font-size: 13px;" data-mce-mark="1"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/tt/img/espace.gif"
+alt="" height="40" width="5" /></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td bgcolor="#FFFFFF" width="35"><img style="outline: none;
+text-decoration: none; -ms-interpolation-mode: bicubic; border: none;
+display: block;" src="http://www.devis-entreprise.eu/tt/img/espace.gif"
+alt="" height="5" width="35" /></td>
+<td bgcolor="#211f5e" width="4"><img style="outline: none; text-decoration:
+none; -ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/espace.gif" alt="" height="4"
+width="4" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 1px; line-height: 1px;" align="center"
+bgcolor="#ddd2be">
+<table style="width: 502px;" align="center" border="0" cellpadding="0"
+cellspacing="0">
+<tbody>
+<tr>
+<td style="font-size: 1px; line-height: 1px;" bgcolor="#FFFFFF"><img
+style="outline: none; text-decoration: none; -ms-interpolation-mode:
+bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/coingauche.jpg" alt="" /></td>
+<td style="font-size: 1px; line-height: 1px;" bgcolor="#FFFFFF"><img
+style="outline: none; text-decoration: none; -ms-interpolation-mode:
+bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/coindroite.jpg" alt="" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 1px; line-height: 1px;" align="center"
+bgcolor="#ddd2be"><img style="outline: none; text-decoration: none;
+-ms-interpolation-mode: bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/espace.gif" alt="" height="10"
+width="5" /></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ddd2be">
+<table style="width: 502px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="font-family: Arial, sans-serif; color: #333333; font-size:
+10px;" align="center">Ce message vous est envoy&eacute; par LeadsLeader. <a
+href="http://topregionfr.com/link.php?M=5374556&N=291&L=2&F=H">D &eacute; s
+a b o n n e m e n t</a> de la liste</td>
+</tr>
+<tr>
+<td style="font-size: 1px; line-height: 1px;" align="center"><img
+style="outline: none; text-decoration: none; -ms-interpolation-mode:
+bicubic; border: none; display: block;"
+src="http://www.devis-entreprise.eu/tt/img/espace.gif" alt="" height="5"
+width="5" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://track12990374.effimails13.com/servlet/effi.pixel?id_compteur=12990374"
+/>
+<img
+src="http://topregionfr.com/open.php?M=5374556&L=55&N=291&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_5c70f3da4e2700149dc35e21ae6d3e00--

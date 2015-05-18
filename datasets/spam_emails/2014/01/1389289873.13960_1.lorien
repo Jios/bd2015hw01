@@ -1,0 +1,80 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 397 invoked from network); 08 Jan 2014 21:11:56 -0000
+Received: (qmail 4895 invoked from network); 8 Jan 2014 21:11:56 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by mx10.futurequest.net ([10.2.1.182])
+  with ESMTP via TCP; 08 Jan 2014 21:11:55 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S1757236AbaAHVLv (ORCPT <rfc822;bruce@untroubled.org>);
+	Wed, 8 Jan 2014 16:11:51 -0500
+Received: from mail-wi0-f193.google.com ([209.85.212.193]:61184 "EHLO
+	mail-wi0-f193.google.com" rhost-flags-OK-OK-OK-OK) by vger.kernel.org
+	with ESMTP id S1753532AbaAHVLv (ORCPT
+	<rfc822;linux-btrfs@vger.kernel.org>); Wed, 8 Jan 2014 16:11:51 -0500
+Received: by mail-wi0-f193.google.com with SMTP id bz8so655988wib.4
+        for <linux-btrfs@vger.kernel.org>; Wed, 08 Jan 2014 13:11:50 -0800 (PST)
+DKIM-Signature:	v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=ukl9r1GoBNEth3rMqOAteJmY36+pbI5sfonO5r3VYPA=;
+        b=G/D18OO6sH6MXi8Q/mjJVLpnSIoLkZCJnKpjaicD1uS740nwRPW5uxxQ26EtS9J35n
+         GpC8Oe5lhlSPuY50vr8rNNCsw56Fhy5Bo3gXtny42YWfHL+htUHlna4LFW2Kscq/CG59
+         MY9hhKhcisJ1Xk77F/pyEJI/uI1VVmygi2J9F2w29bUHZJd3cP0UHe6SNBAo64KTa123
+         8yG6Ym5IQ/tt6GDpPMB+VyltcX/HwsBDo1qoUDG3bmvUXjrHi+VCi0j1CS+vD+Ak/I3G
+         0N+2vwq4ft7xudznAnIZl5BKKxMHMkmCTtK/XARTBoiL+mGDMhxf6aIiNqaDZF2y/Oc0
+         PgTg==
+MIME-Version: 1.0
+X-Received: by 10.180.12.70 with SMTP id w6mr55364wib.4.1389214052141; Wed, 08
+ Jan 2014 12:47:32 -0800 (PST)
+Received: by 10.194.59.3 with HTTP; Wed, 8 Jan 2014 12:47:31 -0800 (PST)
+Date:	Wed, 8 Jan 2014 21:47:31 +0100
+Message-ID: <CALS90i9nMs6jMoH2O5S68sPF=juYOV2sfMAwaBekL8ccz3eSOQ@mail.gmail.com>
+Subject: I have a very lucrative Business
+From:	"Dr. Musa Hamed" <drmusahamed01@gmail.com>
+To:	undisclosed-recipients:;
+Content-Type: text/plain; charset=ISO-8859-1
+Sender:	linux-btrfs-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-btrfs.vger.kernel.org>
+X-Mailing-List:	linux-btrfs@vger.kernel.org
+Content-Length: 1377
+
+ATTN: Dear,
+
+I am Dr. Musa Hamed Executive Director of the Bank of Africa
+Plc B.O.A,Cotonou Benin Rep. I have a very lucrative Business proposal
+worth of 21,500,000.00 USD.
+
+An Iraqi named Hamadi Hashem a business man made a fixed deposit of
+21,500,000.00 USD . Upon maturity several notices was sent to him,
+even during the war,eleven years ago (2003) up till this date. Again
+after the war another notification was sent and still no response came
+from him. it has been found out that Hamadi Hashem and his family had
+been killed during the war in bomb blast that hit their home at
+Mukaradeeb where his personal oil well was. I am prepared to split the
+funds with you 50%:50%.By placing you as the NEXT OF KIN to his
+deposit.
+
+Should you be interested in doing this deal with me, please send me
+the following information:
+
+(1) Your Name
+(2) Resident Address
+(3) Your Occupation
+(4) Your Phone Number
+(5) Date of Birth
+(6) Resident Country
+
+And I will prefer you to reach me privately and securely on my personal
+email address: dr.musahamed30@yahoo.fr
+Tel: +229-988-400-97
+
+I will provide you with further information as soon as I hear
+positively from you.
+
+Regards,
+Dr. Musa Hamed
+--
+To unsubscribe from this list: send the line "unsubscribe linux-btrfs" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html

@@ -1,0 +1,99 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 21629 invoked from network); 21 Jan 2014 12:42:40 -0000
+Received: (qmail 23985 invoked from network); 21 Jan 2014 12:42:39 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by mx03.futurequest.net ([10.2.1.174])
+  with ESMTP via TCP; 21 Jan 2014 12:42:39 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S1754606AbaAUMm2 (ORCPT <rfc822;bruce@untroubled.org>);
+	Tue, 21 Jan 2014 07:42:28 -0500
+Received: from 76-95-110-109.host.sevstar.net ([109.110.95.76]:1716 "EHLO
+	seaborn.com.ua" rhost-flags-OK-FAIL-OK-FAIL) by vger.kernel.org
+	with ESMTP id S1750842AbaAUMm0 (ORCPT
+	<rfc822;linux-kernel@vger.kernel.org>);
+	Tue, 21 Jan 2014 07:42:26 -0500
+Received: from localhost
+	by seaborn.com.ua; Tue, 21 Jan 2014 14:42:18 +0200
+Date:	Tue, 21 Jan 2014 14:42:18 +0200
+Message-ID: <1034605906-3628@seaborn.com.ua>
+MIME-Version: 1.0
+From:	Mail Delivery Subsystem <postmaster@seaborn.com.ua>
+To:	<linux-kernel@vger.kernel.org>
+Subject: =?utf-8?Q?=D0=92=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B5=D0=BD?=
+	=?utf-8?Q?=D0=BD=D0=BE=D0=B5_=D1=81=D0=BE=D0=BE=D0=B1=D1=89?=
+	=?utf-8?Q?=D0=B5=D0=BD=D0=B8=D0=B5_=D1=8D=D0=BB=D0=B5=D0=BA?=
+	=?utf-8?Q?=D1=82=D1=80=D0=BE=D0=BD=D0=BD=D0=BE=D0=B9_=D0=BF?=
+	=?utf-8?Q?=D0=BE=D1=87=D1=82=D1=8B=3A_=D0=9C=D0=BE=D0=B6=D0=B5?=
+	=?utf-8?Q?=D0=BC_=D1=81o=D0=B1=D1=80=D0=B0=D1=82=D1=8C_=D0=B4?=
+	=?utf-8?Q?=D0=BB=D1=8F_=D0=92ac_=D0=BAo=D0=BD=D1=82ak=D1=82?=
+	=?utf-8?Q?=D1=8B_=D1=82o=D0=BB=D1=8Cko_Ba=D1=88=D0=B8=D1=85=20?=
+	=?utf-8?Q?=D0=BF=D0=BE=D1=82e=D0=BD=D1=86=D0=B8a=D0=BB=D1=8C?=
+	=?utf-8?Q?=D0=BD=D1=8Bx_k=D0=BB=D0=B8e=D0=BD=D1=82o=D0=B2=20?=
+	=?utf-8?Q?=D0=BDeck=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE_=D0=B4ec=D1=8F?=
+	=?utf-8?Q?=D1=82k=D0=BE=D0=B2_=D1=82=D1=8Bc=D1=8F=D1=87_=D0=B2?=
+	=?utf-8?Q?_=D1=82=D0=B5=D1=87e=D0=BD=D0=B8=D0=B5_=D1=81=D1=83?=
+	=?utf-8?Q?=D1=82=D0=BE=D0=BA_=D0=A2=D0=B5=D0=BB=D0=B5=D1=84?=
+	=?utf-8?Q?=D0=BE=D0=BD=3A_+79831292529?=
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="MIME-1034605906-41-delim"
+Sender:	linux-kernel-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-kernel.vger.kernel.org>
+X-Mailing-List:	linux-kernel@vger.kernel.org
+Content-Length: 1951
+
+--MIME-1034605906-41-delim
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+Это информационное сообщение передано сервером seaborn.com.ua. 
+
+Сервер не смог доставить сообщение электронной почты 
+
+  Subject: Можем сoбрать для Вac кoнтakты тoльko Baш� ...
+  Date: Tue, 21 Jan 2014 12:04:24 +0200
+
+
+
+по следующим адресам:
+
+  <linux-kernel@vger.kernel.org> (seaborn.com.ua: Message was manually deleted from the queue)
+--MIME-1034605906-41-delim
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; seaborn.com.ua
+Arrival-Date: Tue, 21 Jan 2014 12:04:05 +0200
+
+Original-Recipient: linux-kernel@vger.kernel.org
+Final-Recipient: rfc822;linux-kernel@vger.kernel.org
+Action: failed
+Status: 5.3.0
+Diagnostic-Code: SMTP; Message was manually deleted from the queue
+
+--MIME-1034605906-41-delim
+Content-Type: text/rfc822-headers
+
+Date: Tue, 21 Jan 2014 12:04:24 +0200
+X-Spam-Status: No, hits=0.0 required=5.0
+	tests=TOTAL_SCORE: 0.000
+X-Spam-Level: 
+Received: from ngs.ru ([192.168.1.1])
+	by seaborn.com.ua
+	for linux-kernel@vger.kernel.org;
+	Tue, 21 Jan 2014 12:04:05 +0200
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain;
+	charset="windows-1251"
+From: <linux-kernel@vger.kernel.org>
+To: <linux-kernel@vger.kernel.org>
+Subject: =?utf-8?B?0JzQvtC20LXQvCDRgW/QsdGA0LDRgtGMINC00LvRjyDQkmFjINC6b9C90YJha9GC0Ysg0YJv0LvRjGtvIEJh0YjQuNGFINC/0L7RgmXQvdGG0Lhh0LvRjNC90Yt4IGvQu9C4ZdC90YJv0LIg0L1lY2vQvtC70YzQutC+INC0ZWPRj9GCa9C+0LIg0YLRi2PRj9GHINCyINGC0LXRh2XQvdC40LUg0YHRg9GC0L7QuiDQotC10LvQtdGE0L7QvTogKzc5ODMxMjkyNTI5?=
+
+--MIME-1034605906-41-delim--
+
+
+--
+To unsubscribe from this list: send the line "unsubscribe linux-kernel" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html
+Please read the FAQ at  http://www.tux.org/lkml/

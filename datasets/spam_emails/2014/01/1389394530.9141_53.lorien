@@ -1,0 +1,34 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 25776 invoked from network); 10 Jan 2014 07:46:38 -0000
+Received: from HW-sec-test.localdomain (c2-185-12-28-136.elastic.cloud.croc.ru [185.12.28.136])
+  by churchill.factcomp.com ([24.89.90.248])
+  with ESMTP via TCP; 10 Jan 2014 07:46:38 -0000
+Received: by HW-sec-test.localdomain (Postfix, from userid 0)
+	id B839E377AD; Fri, 10 Jan 2014 07:28:04 +0400 (MSK)
+To: bruceg@em.ca
+Subject: Your account has been compromised
+Message-ID: <1389324484.314168.qmailssl.admin.ca>
+From: "CIBC" <no-reply.net@HW-sec-test.localdomain>
+Content-Type: text/html
+Date: Fri, 10 Jan 2014 07:28:04 +0400 (MSK)
+
+<html>
+<body>
+<img src="https://grant.grantstream.ca/CIBC/images/logo_en.gif" alt="Smiley face" height="70" width="500">
+<br>
+<br>
+<font color="green">Dear CIBC Customer ,</font>
+<br>
+<br>
+You have 1 unread Security Message!
+<br>
+<a href="http://ciba.runi.ca/a.html">Click here to resolve the problem</a>
+<br>
+<br>
+Sincerely,
+<br>
+CIBC Online Banking Security Department Team.
+<br>
+CIBC Group Financial Services Site - Copyright &copy CIBC
+</body>
+</html>

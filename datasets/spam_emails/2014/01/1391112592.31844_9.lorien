@@ -1,0 +1,48 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 28409 invoked from network); 29 Jan 2014 09:55:50 -0000
+Received: (qmail 21049 invoked from network); 29 Jan 2014 09:55:50 -0000
+Received: from vger.kernel.org (vger.kernel.org [209.132.180.67])
+  by mx06.futurequest.net ([10.2.1.177])
+  with ESMTP via TCP; 29 Jan 2014 09:55:50 -0000
+Received: (majordomo@vger.kernel.org) by vger.kernel.org via listexpand
+	id S1750953AbaA2Jzp (ORCPT <rfc822;bruce@untroubled.org>);
+	Wed, 29 Jan 2014 04:55:45 -0500
+Received: from outbound004.roc2.bluetie.com ([208.89.132.144]:57267 "EHLO
+	outbound004.roc2.bluetie.com" rhost-flags-OK-OK-OK-OK)
+	by vger.kernel.org with ESMTP id S1750901AbaA2Jzo (ORCPT
+	<rfc822;linux-btrfs@vger.kernel.org>);
+	Wed, 29 Jan 2014 04:55:44 -0500
+Received: from web002.roc2.bluetie.com ([10.200.2.96])
+	by outbound004.roc2.bluetie.com with outbound004
+	id Klvj1n00324HP3e01lvjk6; Wed, 29 Jan 2014 04:55:43 -0500
+X-CMAE-OUT-Analysis: v=2.1 cv=HcstEE08 c=1 sm=1 tr=0
+ a=41l5LDBFByitqw60Fh41mg==:117 a=QoHJ8kPOAAAA:8 a=4VA_gLiXcpYA:10
+ a=IkcTkHD0fZMA:10 a=VwQbUJbxAAAA:8 a=8qFmQIM1JJcA:10 a=Khl0ogTNAAAA:8
+ a=qA82Jt91c85IuZWUvUcA:9 a=QEXdDO2ut3YA:10 a=TrnceWo5qVQA:10 a=OETLrAJ9m3IA:10
+X-CMAE-OUT-Score: 0.00
+Received: from web002.roc2.bluetie.com (localhost.localdomain [127.0.0.1])
+	by web002.roc2.bluetie.com (Postfix) with ESMTP id 11B943F0111
+	for <linux-btrfs@vger.kernel.org>; Wed, 29 Jan 2014 04:55:43 -0500 (EST)
+Message-ID: <20140129045458.25371@web002.roc2.bluetie.com>
+X-HTTP-Received: from mrc94q7hc1.myway [91.121.158.63] by web002.roc2.bluetie.com (BlueTie WebMail ); Wed, 29 Jan 2014 04:54:58 -0500
+X-Mailer: BlueTie MTA
+Date:	Wed, 29 Jan 2014 04:54:58 -0500
+To:	mrc94q7hc1@myway.com
+From:	"mrc94q7hc1" <mrc94q7hc1.myway@bluetie.com>
+Importance: normal
+Subject: Hi
+Content-transfer-encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Sender:	linux-btrfs-owner@vger.kernel.org
+Precedence: bulk
+List-ID: <linux-btrfs.vger.kernel.org>
+X-Mailing-List:	linux-btrfs@vger.kernel.org
+Content-Length: 230
+
+Diploma?
+
+http://crisfield.co/16ag
+--
+To unsubscribe from this list: send the line "unsubscribe linux-btrfs" in
+the body of a message to majordomo@vger.kernel.org
+More majordomo info at  http://vger.kernel.org/majordomo-info.html

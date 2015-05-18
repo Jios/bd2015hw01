@@ -1,0 +1,44 @@
+Delivered-To: em-ca-bruceg@em.ca
+Received: (qmail 5278 invoked from network); 31 Jan 2014 08:13:09 -0000
+Received: from srv024.sdis14.fr (smtp.sdis14.fr [84.55.170.108])
+  by churchill.factcomp.com ([24.89.90.248])
+  with ESMTP via TCP; 31 Jan 2014 08:13:09 -0000
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by srv024.sdis14.fr (Postfix) with ESMTP id C1CEB328A26;
+	Fri, 31 Jan 2014 09:27:45 +0100 (CET)
+X-Virus-Scanned: amavisd-new at sdis14.fr
+Received: from srv024.sdis14.fr ([127.0.0.1])
+	by localhost (srv024.sdis14.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id L4RAL6rjV-0X; Fri, 31 Jan 2014 09:27:39 +0100 (CET)
+Received: from zimbra2.sdis14.fr (unknown [10.114.6.89])
+	by srv024.sdis14.fr (Postfix) with ESMTP id 3937732898D;
+	Fri, 31 Jan 2014 09:27:35 +0100 (CET)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by zimbra2.sdis14.fr (Postfix) with ESMTP id 5DFA01536078;
+	Fri, 31 Jan 2014 09:17:42 +0100 (CET)
+X-Virus-Scanned: amavisd-new at sdis14.fr
+Received: from zimbra2.sdis14.fr ([127.0.0.1])
+	by localhost (zimbra2.sdis14.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id BAxCypMW1XCB; Fri, 31 Jan 2014 09:17:41 +0100 (CET)
+Received: from zimbra2.sdis14.fr (localhost.localdomain [127.0.0.1])
+	by zimbra2.sdis14.fr (Postfix) with ESMTP id 8152C1536045;
+	Fri, 31 Jan 2014 09:17:39 +0100 (CET)
+Date: Fri, 31 Jan 2014 09:17:39 +0100 (CET)
+From: Administrateur =?iso-8859-15?Q?syst=E8me?= Webmail <alongny@sdis14.fr>
+Message-ID: <873416604.709175.1391156259488.JavaMail.root@sdis14.fr>
+Subject: =?ISO-8859-15?Q?Revalider_votre_bo=EEte_mail?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-15
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [115.240.19.81]
+X-Mailer: Zimbra 7.2.0_GA_2669 (zclient/7.2.0_GA_2669)
+To: undisclosed-recipients:;
+Content-Length: 230
+
+Votre bo=EEte aux lettres a d=E9pass=E9 la limite de stockage. re-valider v=
+otre bo=EEte aux lettres =E0 l'aide du lien ci-dessous.
+
+https://manager.typeform.com/to/tD7uBx
+
+Merci,
+=A9 2014. Webmail Inc. Tous droits r=E9serv=E9s.

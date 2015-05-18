@@ -1,0 +1,128 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 19120 invoked from network); 05 Jan 2014 04:33:49 -0000
+Received: (qmail 19101 invoked from network); 5 Jan 2014 04:33:48 -0000
+Received: from mx.copou.ro (ptrmail.copou.ro [89.36.25.203])
+  by mx11.futurequest.net ([10.2.1.184])
+  with ESMTP via TCP; 05 Jan 2014 04:33:48 -0000
+Received: from s034.hostway.ro [89.36.25.233] by a.mx.mail.hostway.ro (Axigen)
+ with (AES256-SHA encrypted) ESMTPS id 01D8AE; Sun, 5 Jan 2014 06:33:46 +0200
+Received: from localhost ([127.0.0.1]:55474 helo=s034.hostway.ro)
+	by s034.hostway.ro with esmtp (Exim 4.80.1)
+	(envelope-from <sfinteleicoane@copou.ro>)	id 1VzfPG-003fcr-6R
+	for bruce@untroubled.org; Sun, 05 Jan 2014 06:33:46 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=copou.ro; h=date:to:from
+	:reply-to:subject:message-id:mime-version
+	:content-transfer-encoding:content-type; s=default; bh=gz1OdnGrW
+	/ww7Mg9OljmT6PaQYU=; b=TVmbJ60V7INeJ8RgA4RzVe23uNkymvGbSdLQYAWCO
+	oW0Ci4Y6kFbbD4V2BQgQG8ixaax+xPwrvDrpVTXIF+VHw==
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=copou.ro; h=date:to:from
+	:reply-to:subject:message-id:mime-version
+	:content-transfer-encoding:content-type; q=dns; s=default; b=lJz
+	ZxbYjJM/Jv7rAemnqrk1ggIS8ifJB8kGOCOOaijZI8WOVTSY8tGALs9JGkxEQ5Nw
+	b8XTOEoM3dxOGjNzLpg==
+Received: from [89.36.25.234] (port=51922 helo=copou.ro)
+	by s034.hostway.ro with esmtpa (Exim 4.80.1)
+	(envelope-from <sfinteleicoane@copou.ro>)	id 1VzfPG-003fck-1z
+	for bruce@untroubled.org; Sun, 05 Jan 2014 06:33:46 +0200
+Date: Sun, 5 Jan 2014 06:33:46 +0200
+To: bruce@untroubled.org
+From: Sfintele Icoane <sfinteleicoane@copou.ro>
+Reply-to: sfinteleicoane@copou.ro
+Subject: Sfintii Parinti si sarbatorile ortodoxe ale zilelor de 1-7 ian 2014
+Message-ID: <bcfc419c5310794b24088397a74e3bf1@copou.ro>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.codeworxtech.com) [version 2.3]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=UTF-8; charset="iso-8859-1"
+X-AxigenVirus-Level: 1
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Sfintele Icoane  - Copou.ro</title>
+
+<style type="text/css">
+<!--
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; }
+-->
+</style>
+
+
+</head>
+
+
+<body>
+
+
+<div align="center"> 
+  <p class="style2">Aveti probleme cu vizualizarea acestui email? Click "Show Images" sau click <a href="http://www.copou.ro/newsletter/sfinti/html/online-1-7ian.html">aici</a> pentru varianta online.<br />
+    <a href="http://www.copou.ro/newsletter/sfinti/html/online-1-7ian.html">http://www.copou.ro/newsletter/sfinti/html/online-1-7ian.html</a> </p>
+</div>
+
+
+
+
+<body style="background:#f7f5ef; margin:0px; padding:0">
+
+<div align="center">
+
+<div id="background" style="background-color:#fff; height:auto; width:601px; margin:0 auto;">
+
+
+
+<p>
+<img src="http://www.copou.ro/newsletter/sfinti/html/header.jpg" alt="Sfintele Icoane- click AICI pentru a vedea Sfintii Parinti ai saptamanii" width="600" height="400" border="0" usemap="#Map" /><br />
+<map name="Map" id="Map">
+  <area shape="rect" coords="13,7,591,392" href="http://www.copou.ro" />
+</map>
+
+<img src="http://www.copou.ro/newsletter/sfinti/html/zilnic/ianuarie/1-ianuarie-Sfantul-Vasile-cel-Mare.jpg" alt="1 ianuarie Sfantul Vasile cel Mare" width="600" height="300" border="0" usemap="#Map2" /><br />
+<map name="Map2" id="Map2"><area shape="rect" coords="8,6,592,296" href="http://copou.ro/home/2-sfantul-vasile.html" />
+</map>
+
+<img src="http://www.copou.ro/newsletter/sfinti/html/zilnic/ianuarie/2-ianuarie-Sfantul-Serafim-de-Sarov.jpg" alt="2 ianuarie Sfantul Serafim de Sarov" width="600" height="300" border="0" usemap="#Map3" /><br />
+<map name="Map3" id="Map3"><area shape="rect" coords="9,7,591,294" href="http://copou.ro/icoane-sfinti/14-sfantul-serafim-de-sarov.html" />
+</map>
+
+<img src="http://www.copou.ro/newsletter/sfinti/html/zilnic/ianuarie/6-ianuarie-Botezul-Domnului.jpg" alt="6 ianuarie Botezul Domnului" width="600" height="300" border="0" usemap="#Map4" /><br />
+<map name="Map4" id="Map4">
+  <area shape="rect" coords="9,9,591,298" href="http://copou.ro/home/15-botezul-domnului.html" />
+</map>
+
+<img src="http://www.copou.ro/newsletter/sfinti/html/zilnic/ianuarie/7-ianuarie-Sfantul-Ioan-Botezatorul.jpg" alt="7 ianuarie Sfantul Ioan Botezatorul" width="600" height="300" border="0" usemap="#Map5" /><br />
+<map name="Map5" id="Map5"><area shape="rect" coords="9,7,588,293" href="http://copou.ro/icoane-sfinti/16-sfantul-ioan-botezatorul.html" />
+</map>
+
+<img src="http://www.copou.ro/newsletter/sfinti/html/footer.jpg" alt="Sfintele Icoane www.Copou.ro" width="600" height="40" border="0" usemap="#Map7" /><br />
+<map name="Map7" id="Map7">
+  <area shape="rect" coords="342,1,343,4" href="#" /><area shape="rect" coords="341,-2,343,3" href="#" /><area shape="rect" coords="334,3,595,37" href="http://www.copou.ro" />
+</map>
+
+
+
+<img src="http://www.copou.ro/newsletter/track.php?MID=32799" border="0" width="1" height="1">
+
+</div> <!--  Se inchide div-ul backgorund -->
+   
+
+
+
+<div align="center">
+  <p align="center" class="style2">______________________________________________<br />
+  Dezabonare <a href="http://www.copou.ro/newsletter/dezabonare.html">aici</a>! </p>
+  <p class="style2"><br>
+  </p>
+</div>
+
+
+
+</div>	
+
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,64 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 17498 invoked from network); 31 Jan 2014 07:27:11 -0000
+Received: (qmail 27270 invoked from network); 31 Jan 2014 07:27:11 -0000
+Received: from mail.arenewer.com ([162.248.210.28])
+  by mx16.futurequest.net ([10.2.1.192])
+  with ESMTP via TCP; 31 Jan 2014 07:27:11 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=arenewer.com;
+ h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type; i=toussaint_violet@arenewer.com;
+ bh=Bvxy8NTxsd2/9YHx5G8sLN1ZHRw=;
+ b=Im8Q2jvPtQwWUqQw9zNBbXNaor/EcjH8dZp8DWxiz94B9hYK7akN+tjPSceudMIZv76MTRuN0G1Y
+   GXjZ2bi4c6eb+4mBs5xw56M9pUGBP5oHEq5dyZ9aGpnjWE4Gc88TTYOX2hebZptJG0I8cjLjdWx0
+   kyV8+ndUTONLhzLppYE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=arenewer.com;
+ b=HMqU5R1MEgwW6v8RS154Gmh37TYd/B9ZWDtnHAlN3GJ4zJCzMbr3sX/nnsUeOWzY1CgV/441pf+H
+   yfe1j1OrMeq4J6j5IY7nimeR6SCJT0PApBJbIgQa+RYnOLcXYA1UgkUiwoqYCvNZK/NSE+lr5QQb
+   kuoCI4ZAPbZp+ckgvCI=;
+Received: by mail.arenewer.com id htd84s0001g0 for <bruce@untroubled.org>; Fri, 31 Jan 2014 01:26:36 -0600 (envelope-from <toussaint_violet-bruce=untroubled.org@arenewer.com>)
+Date: Fri, 31 Jan 2014 01:06:33 -0600 (CST)
+From: Violet Toussaint <toussaint_violet@arenewer.com>
+To:  <bruce@untroubled.org>
+Message-ID: <394813039.1167.1391151993635.JavaMail.mailer@mail.arenewer.com>
+Subject: Refinance at 2.37%
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1166_544109249.1391151993634"
+
+------=_Part_1166_544109249.1391151993634
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+ <head> 
+ </head> 
+ <body> 
+  <span style="font-family: arial,helvetica,sans-serif; font-size: small;"><strong>Federal Government Announces HARP 2.0 Refinance Program...</strong></span>
+  <br />
+  <br />
+  <span style="font-family: arial,helvetica,sans-serif; font-size: small;"><strong>This program allows virtually anyone to Refinance their home as low as 2.375% -- <a href="http://www.arenewer.com/u/vG1G-4f_O./5205A978889166CC8FB630BDA8B2D6D58950A2157E90E166D41945657718531E">Click Here</a> for details</strong></span>
+  <br />
+  <br />
+  <span style="font-family: arial,helvetica,sans-serif; font-size: small;"><strong>HARP 2.0 Can...</strong></span>
+  <br />
+  <br />
+  <span style="font-family: arial,helvetica,sans-serif; font-size: small;"><strong>- Reduce Your Monthly Payments</strong></span>
+  <br />
+  <span style="font-family: arial,helvetica,sans-serif; font-size: small;"><strong>- Pay off your loan faster</strong></span>
+  <br />
+  <span style="font-family: arial,helvetica,sans-serif; font-size: small;"><strong>- Fast Approval -- Bad Credit OK !</strong></span>
+  <br />
+  <span style="font-family: arial,helvetica,sans-serif; font-size: small;"><strong>- Cure Your Defaults / Back Payments</strong></span>
+  <br />
+  <br />
+  <span style="font-family: arial,helvetica,sans-serif; font-size: small;"><strong><a href="http://www.arenewer.com/u/vG1G-4f_O./5205A978889166CC8FB630BDA8B2D6D58950A2157E90E166D41945657718531E">Click Here</a> To Determine your Eligibility within minutes before rates increase</strong></span>
+  <br />
+  <br />
+  <span style="font-family: arial,helvetica,sans-serif; font-size: small;"><strong>Regards,</strong></span>
+  <br />
+  <span style="font-family: arial,helvetica,sans-serif; font-size: small;"><strong>Managing Director</strong></span>
+  <br />
+  <span style="font-family: arial,helvetica,sans-serif; font-size: small;"><strong>Refinance Mart<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><a href="http://www.arenewer.com/unsubscribe/J1noL50QnH/5205A978889166CC8FB630BDA8B2D6D58950A2157E90E166D41945657718531E"><img src="http://www.arenewer.com/i/1YR5H1IIwQ/5205A978889166CC8FB630BDA8B2D6D58950A2157E90E166D41945657718531E" width="358" height="62" /></a><br /><br /><br /><br /></strong></span>  
+ <img src="http://www.arenewer.com/t/KpBQ152Pwz/5205A978889166CC8FB630BDA8B2D6D58950A2157E90E166D41945657718531E" /><span id="cmid" data-ckid="5205A978889166CC8FB630BDA8B2D6D58950A2157E90E166D41945657718531E"></span></body>
+</html>
+------=_Part_1166_544109249.1391151993634--
