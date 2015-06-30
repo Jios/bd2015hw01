@@ -8,6 +8,9 @@ import re, email, pycountry, io, base64
 from email.header import decode_header
 
 
+##############################################################
+
+
 """ 
 ######################
 #  global variables  #
@@ -16,7 +19,7 @@ from email.header import decode_header
 
 DEBUG 			= False #True
 
-es_index_name = "test" #"bigdata_hw1"
+es_index_name   = "test" #"bigdata_hw1"
 es_doc_type 	= "spam_email"
 
 if DEBUG:
@@ -37,6 +40,9 @@ reClen      = re.compile(r"^Content-Length: (?P<clen>.*)")
 
 # elasticsearch: by default we connect to localhost:9200
 es 			= Elasticsearch()
+
+
+##############################################################
 
 
 """ 
@@ -60,11 +66,15 @@ def es_search(docID):
 	result = es.get(index = es_index_name, doc_type = es_doc_type, id = docID)['_source']
 	return result
 
+##############################################################
+
 def unicodish(s):
 	return s.decode('latin-1', errors = 'replace')
 
 def base64Decode(text):
 	return base64.b64decode(text)
+
+##############################################################
 
 def parse_spam(filename, lines):
 	# parse spam email
@@ -116,27 +126,6 @@ def parse_spam(filename, lines):
 
 	return es_dict
 
-def getheader(header_text, default="ascii"):
-	print "====="
-	# print header_text
-	# header_text = re.match(r"=\?.*\?=", header_text).group()
-	print header_text
-	headers = decode_header(header_text)
-	print headers
-
-	try:
-		for text, charset in headers:
-			print unicode(text, charset or default)
-		header_sections = [unicode(text, charset or default) for text, charset in headers]
-	except:
-		print "LookupError"
-		return header_text
-	else:
-		return u"".join(header_sections)
-
-    # header_sections = [unicode(text, charset or default) for text, charset in headers]
-    # return u"".join(header_sections)
-
 def parse_metadata(message, es_dict):
 	# parase metadata of spam email file
 
@@ -185,6 +174,29 @@ def parse_content(message, es_dict):
 
 	es_dict["content"] = content.getvalue()
 
+##############################################################
+
+def getheader(header_text, default="ascii"):
+	print "====="
+	# print header_text
+	# header_text = re.match(r"=\?.*\?=", header_text).group()
+	print header_text
+	headers = decode_header(header_text)
+	print headers
+
+	try:
+		for text, charset in headers:
+			print unicode(text, charset or default)
+		header_sections = [unicode(text, charset or default) for text, charset in headers]
+	except:
+		print "LookupError"
+		return header_text
+	else:
+		return u"".join(header_sections)
+
+    # header_sections = [unicode(text, charset or default) for text, charset in headers]
+    # return u"".join(header_sections)
+
 def getGeoDict(sender_ip, es_dict):
     # get geolocation dictionary from IP
 
@@ -224,6 +236,8 @@ def getGeoDict(sender_ip, es_dict):
     			es_dict.update(geo_dict)
     return geo_dict
 
+##############################################################
+
 def main():
 	# main function
 	
@@ -254,6 +268,9 @@ def main():
 					es_dict["content"] = unicodish(base64Decode(es_dict["content"]))
 
 			es_index(docID, es_dict)
+
+
+##############################################################
 
 
 if __name__ == '__main__':
